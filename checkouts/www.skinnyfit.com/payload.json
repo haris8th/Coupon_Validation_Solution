@@ -1,0 +1,82 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBLflBdvc2EgLJY4Jhv5-lsy86z6Wz9gKwKnxoVliTlzOpsPGg6ziyHrsV7GIHPcPlu0jt5WRqa9UeW-qR8adCJCDn7rO9HQgmi-XR2PZ6wHNg0d-cl0TD55R76e2p0jThNHfnpONv7BXEDK-nsJU0bEj0ZOx2JySEbjdPzSuTTxYppKKAI5gsBPtt3FkgB00dhtYQAwjzgvS7xZpE3s3DiLS8qqtFuB8x8_PR"
+    },
+    "queueToken": "A2-Uqfg4_bQxk74JJA5iN8uD0RWKRDctqey8-nv1dL-pVoO3dtHlLV7AwbvIll5lP6r4uP1jWw5hDiVnL95BU3EKeKGuoVcIV4AJJKGqG3P4K8ItJj_CfmgMIG4gXLeu0w==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "b640182c-6c25-43ce-b691-a18faf5b2fbc",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/48393990177011",
+              "variantId": "gid://shopify/ProductVariant/48393990177011",
+              "properties": [
+                {
+                  "name": "_image",
+                  "value": {
+                    "string": "product-liquid-collagen-tropical-mango.png"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_title",
+                  "value": {
+                    "string": "Liquid Collagen Tropical Mango"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_msrp",
+                  "value": {
+                    "string": "99.95"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_savings",
+                  "value": {
+                    "string": "30"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_price",
+                  "value": {
+                    "string": "69.97"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_selling_plan_id",
+                  "value": {
+                    "int": "6116606195"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": "gid://shopify/SellingPlan/6116606195",
+              "sellingPlanDigest": "8320b8b4fdaa9297dd9fb8958a0a9690"
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "69.97",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

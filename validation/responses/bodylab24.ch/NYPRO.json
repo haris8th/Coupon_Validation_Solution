@@ -1,0 +1,105 @@
+{
+  "errors": [
+    {
+      "message": "Variable `$merchandise` of type `MerchandiseTermInput` was provided invalid value for `merchandiseLines.0.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.2.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`)",
+      "locations": [
+        {
+          "line": 1,
+          "column": 161
+        }
+      ],
+      "extensions": {
+        "code": "INVALID_VARIABLE",
+        "value": {
+          "merchandiseLines": [
+            {
+              "stableId": "44af9c34-e441-49ad-bbb9-58d698fb8eaf",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/50434069070090",
+                  "variantId": "gid://shopify/ProductVariant/50434069070090",
+                  "properties": [
+                    {
+                      "name": "_orderno2",
+                      "value": {
+                        "string": "595.03"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_productid-magento",
+                      "value": {
+                        "string": "33004"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_slpt",
+                      "value": {
+                        "string": ""
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "8.90",
+                  "currencyCode": "CHF"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            }
+          ]
+        },
+        "problems": [
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          }
+        ]
+      }
+    }
+  ]
+}

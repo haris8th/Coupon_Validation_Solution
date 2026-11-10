@@ -1,0 +1,86 @@
+{
+  "errors": [
+    {
+      "message": "Variable `$merchandise` of type `MerchandiseTermInput` was provided invalid value for `merchandiseLines.0.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`)",
+      "locations": [
+        {
+          "line": 1,
+          "column": 161
+        }
+      ],
+      "extensions": {
+        "code": "INVALID_VARIABLE",
+        "value": {
+          "merchandiseLines": [
+            {
+              "stableId": "94d4aceb-b09c-4485-879e-afb458690393",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/44768821543052",
+                  "variantId": "gid://shopify/ProductVariant/44768821543052",
+                  "properties": [
+                    {
+                      "name": "_globale.mididentifier",
+                      "value": {
+                        "string": "AF605"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_globale.standardcode",
+                      "value": {
+                        "string": "044409958388"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "117800.00",
+                  "currencyCode": "PKR"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            }
+          ]
+        },
+        "problems": [
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          }
+        ]
+      }
+    }
+  ]
+}

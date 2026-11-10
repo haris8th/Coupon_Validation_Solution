@@ -1,0 +1,622 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "checkpointData": null,
+          "configurationRecordId": "gid://shopify/CheckoutProfile/3233939621",
+          "renderContextToken": null,
+          "queueToken": "A-Z-PhKxaohZYEu9NGKn0Sss_PmrUBlkbFFzsZ7qxPaLGn1TBOGao3Uzweo3eBV7Kj3GODr6H98D7qzpv85HPtaLa7EczEB6CmxN_4K9oXOit_DiZiDhjOmSOW3SjOptumVv2qu5ImE8-ao=",
+          "buyerProposal": {
+            "merchandiseDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "deliveryDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "d0ad1b1e-2df6-4041-9c22-4dd54e08633e",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/58443455267197",
+                    "digest": "e5e6b42d4314c0a0752152d2841bbf81",
+                    "variantId": "gid://shopify/ProductVariant/58443455267197",
+                    "title": "Disney Winnie the Pooh 'Lazy Days' Perpetual Calendar",
+                    "untranslatedTitle": "Disney Winnie the Pooh 'Lazy Days' Perpetual Calendar",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "compareAtPrice": {
+                      "amount": "35.0",
+                      "currencyCode": "GBP",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/15974814646653",
+                      "vendor": "Hallmark",
+                      "productType": "Room Decoration",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/disney-winnie-the-pooh-lazy-days-perpetual-calendar",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0400/3112/5669/files/PV.101.DYG2138.jpg?v=1785153752",
+                      "one": "https://cdn.shopify.com/s/files/1/0400/3112/5669/files/PV.101.DYG2138_64x64.jpg?v=1785153752",
+                      "two": "https://cdn.shopify.com/s/files/1/0400/3112/5669/files/PV.101.DYG2138_128x128.jpg?v=1785153752",
+                      "four": "https://cdn.shopify.com/s/files/1/0400/3112/5669/files/PV.101.DYG2138_256x256.jpg?v=1785153752",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "21.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "8e659780853a22ab3abb9ded6f9d9ea3",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "21.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "21.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "21.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "21.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "21.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "__typename": "Proposal"
+          },
+          "sellerProposal": {
+            "merchandiseDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "cartMetafields": null,
+            "customFields": [],
+            "deliveryDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "fee": {
+              "__typename": "FilledFeeTerms",
+              "totalFeeAmount": {
+                "__typename": "MoneyValueConstraint",
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "GBP",
+                  "__typename": "Money"
+                }
+              },
+              "feeLines": []
+            },
+            "__typename": "Proposal",
+            "deliveryExpectations": {
+              "__typename": "UnavailableTerms"
+            },
+            "promiseProgram": {
+              "variantPromises": [],
+              "__typename": "PromiseProgram"
+            },
+            "memberships": {
+              "__typename": "FilledMembershipTerms",
+              "memberships": []
+            },
+            "availableRedeemables": {
+              "availableRedeemables": [],
+              "__typename": "AvailableRedeemables"
+            },
+            "shopCashBalance": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopPromotion": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopDiscountOffer": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "availableDeliveryAddresses": [],
+            "mustSelectProvidedAddress": false,
+            "mustSelectProvidedShippingRate": false,
+            "canUpdateDiscountCodes": true,
+            "canUpdateDeliveryAddress": true,
+            "canUpdateMerchandise": true,
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "deliveryMethods": {
+              "__typename": "UnavailableTerms"
+            },
+            "sellability": {
+              "shipping": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "d0ad1b1e-2df6-4041-9c22-4dd54e08633e",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "local": [],
+              "pickUp": [],
+              "pickupPoint": [],
+              "none": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "d0ad1b1e-2df6-4041-9c22-4dd54e08633e",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "__typename": "FilledSellability"
+            },
+            "payment": {
+              "__typename": "UnavailableTerms"
+            },
+            "poNumber": null,
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "d0ad1b1e-2df6-4041-9c22-4dd54e08633e",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/58443455267197",
+                    "digest": "e5e6b42d4314c0a0752152d2841bbf81",
+                    "variantId": "gid://shopify/ProductVariant/58443455267197",
+                    "title": "Disney Winnie the Pooh 'Lazy Days' Perpetual Calendar",
+                    "untranslatedTitle": "Disney Winnie the Pooh 'Lazy Days' Perpetual Calendar",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "sku": "25602036",
+                    "price": {
+                      "amount": "21.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": {
+                      "amount": "35.0",
+                      "currencyCode": "GBP",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/15974814646653",
+                      "vendor": "Hallmark",
+                      "productType": "Room Decoration",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/disney-winnie-the-pooh-lazy-days-perpetual-calendar",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0400/3112/5669/files/PV.101.DYG2138.jpg?v=1785153752",
+                      "one": "https://cdn.shopify.com/s/files/1/0400/3112/5669/files/PV.101.DYG2138_64x64.jpg?v=1785153752",
+                      "two": "https://cdn.shopify.com/s/files/1/0400/3112/5669/files/PV.101.DYG2138_128x128.jpg?v=1785153752",
+                      "four": "https://cdn.shopify.com/s/files/1/0400/3112/5669/files/PV.101.DYG2138_256x256.jpg?v=1785153752",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "21.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "8e659780853a22ab3abb9ded6f9d9ea3",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "21.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "21.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "21.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "21.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "21.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "note": {
+              "customAttributes": [],
+              "message": null,
+              "__typename": "Note"
+            },
+            "scriptFingerprint": null,
+            "transformerFingerprintV2": null,
+            "buyerIdentity": {
+              "shopUser": null,
+              "customer": {
+                "presentmentCurrency": null,
+                "countryCode": null,
+                "market": {
+                  "id": "gid://shopify/Market/1104117925",
+                  "handle": "gb",
+                  "__typename": "Market"
+                },
+                "shippingAddresses": [],
+                "__typename": "GuestProfile"
+              },
+              "purchasingCompany": null,
+              "phone": null,
+              "email": null,
+              "marketingConsent": [],
+              "shopPayOptInPhone": null,
+              "rememberMe": false,
+              "__typename": "FilledBuyerIdentityTerms"
+            },
+            "checkoutCompletionTarget": "ORDER",
+            "recurringTotals": [],
+            "subtotalBeforeTaxesAndShipping": {
+              "value": {
+                "amount": "21.0",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacySubtotalBeforeTaxesShippingAndFees": {
+              "value": {
+                "amount": "21.0",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacyAggregatedMerchandiseTermsAsFees": [],
+            "legacyRepresentProductsAsFees": false,
+            "totalSavings": {
+              "value": {
+                "amount": "0.0",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "runningTotal": {
+              "value": {
+                "amount": "21.0",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "total": {
+              "__typename": "AnyConstraint"
+            },
+            "checkoutTotalBeforeTaxesAndShipping": null,
+            "checkoutTotalTaxes": null,
+            "checkoutTotal": {
+              "__typename": "AnyConstraint"
+            },
+            "deferredTotal": null,
+            "hasOnlyDeferredShipping": false,
+            "subtotalBeforeReductions": {
+              "value": {
+                "amount": "21.0",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "subtotalAfterMerchandiseDiscounts": {
+              "value": {
+                "amount": "21.0",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "duty": {
+              "totalDutyAmount": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAdditionalFeesAmount": null,
+              "__typename": "FilledDutyTerms"
+            },
+            "tax": {
+              "liability": null,
+              "taxBreakdown": null,
+              "totalTaxAmount": null,
+              "totalTaxAmountRange": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAmountIncludedInTarget": {
+                "value": {
+                  "amount": "3.5",
+                  "currencyCode": "GBP",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "__typename": "FilledTaxTerms"
+            },
+            "taxExemptions": {
+              "available": [],
+              "__typename": "FilledTaxExemptionTerms"
+            },
+            "tip": {
+              "tipSuggestions": [
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.15,
+                  "amount": {
+                    "value": {
+                      "amount": "3.15",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.18,
+                  "amount": {
+                    "value": {
+                      "amount": "3.78",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.2,
+                  "amount": {
+                    "value": {
+                      "amount": "4.2",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.0,
+                  "amount": {
+                    "value": {
+                      "amount": "0.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                }
+              ],
+              "terms": {
+                "tipLines": [],
+                "__typename": "FilledTipTerms"
+              },
+              "__typename": "TipWrapper"
+            },
+            "localizationExtension": {
+              "fields": [],
+              "__typename": "LocalizationExtension"
+            },
+            "landedCostDetails": {
+              "incotermInformation": null,
+              "__typename": "LandedCostDetails"
+            },
+            "dutiesIncluded": false,
+            "nonNegotiableTerms": null,
+            "optionalDuties": {
+              "buyerRefusesDuties": false,
+              "refuseDutiesPermitted": false,
+              "__typename": "OptionalDuties"
+            },
+            "attribution": {
+              "attributions": [],
+              "__typename": "Attribution"
+            },
+            "saleAttributions": {
+              "attributions": [],
+              "__typename": "SaleAttributions"
+            },
+            "managedByMarketsPro": false,
+            "managedMarketsPaymentProcessor": null,
+            "captcha": null,
+            "cartCheckoutValidation": {
+              "__typename": "CartCheckoutValidationTerms"
+            },
+            "alternativePaymentCurrency": null,
+            "lpmDisclosure": null,
+            "isShippingRequired": true,
+            "shopPayEnabled": true,
+            "remote": null,
+            "ucp": {
+              "continueUrl": "https://www.hallmark.co.uk/cart/c/hWNIqkDFB6vGZHC2Suyv0ZIB?key=9e4c8a5fd1f3593595c17cde00a35e03",
+              "paymentHandlers": [
+                {
+                  "id": "shopify.card",
+                  "name": "dev.shopify.card",
+                  "version": "2026-01-15",
+                  "spec": "https://ucp.dev/specification/payment-handler-guide",
+                  "schema": "https://shopify.dev/ucp/card-payment-handler/2026-01-15/config.json",
+                  "config": {
+                    "payment_methods": [
+                      {
+                        "type": "card",
+                        "enabled_card_brands": [
+                          "visa",
+                          "maestro",
+                          "master",
+                          "american_express",
+                          "discover",
+                          "diners_club",
+                          "unionpay",
+                          "elo"
+                        ]
+                      }
+                    ]
+                  },
+                  "__typename": "UcpPaymentHandler"
+                },
+                {
+                  "id": "shop_pay",
+                  "name": "dev.shopify.shop_pay",
+                  "version": "2026-01-23",
+                  "spec": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/spec.md",
+                  "schema": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/schema.json",
+                  "config": {
+                    "shop_id": "40031125669"
+                  },
+                  "__typename": "UcpPaymentHandler"
+                }
+              ],
+              "__typename": "UcpProposal"
+            }
+          },
+          "__typename": "NegotiationResultAvailable"
+        },
+        "errors": [
+          {
+            "code": "REDUCTION_INVALID_CODE",
+            "localizedMessage": "Enter a valid discount code or gift card",
+            "nonLocalizedMessage": "Reduction code couldn't be mapped to neither a gift card or discount.",
+            "localizedMessageHtml": "Enter a valid discount code or gift card",
+            "__typename": "InputValidationError"
+          },
+          {
+            "code": "BUYER_IDENTITY_MISSING_CONTACT_METHOD",
+            "localizedMessage": "Missing a valid contact method.",
+            "nonLocalizedMessage": "Missing a valid contact method.",
+            "localizedMessageHtml": "Missing a valid contact method.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "TAX_NEW_TAX_MUST_BE_ACCEPTED",
+            "localizedMessage": "Taxes associated to your order have changed. Review and try again.",
+            "nonLocalizedMessage": "A new tax line in the seller proposal must be accepted in order to continue.",
+            "localizedMessageHtml": "Taxes associated to your order have changed. Review and try again.",
+            "target": "$",
+            "__typename": "AcceptNewTermViolation"
+          },
+          {
+            "code": "REQUIRED_ARTIFACTS_UNAVAILABLE",
+            "localizedMessage": "",
+            "nonLocalizedMessage": "Required artifacts are unavailable.",
+            "localizedMessageHtml": null,
+            "__typename": "RequiredArtifactsUnavailableViolation"
+          }
+        ]
+      },
+      "__typename": "Session"
+    }
+  }
+}

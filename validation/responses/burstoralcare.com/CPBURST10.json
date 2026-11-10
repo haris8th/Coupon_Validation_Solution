@@ -1,0 +1,283 @@
+{
+  "errors": [
+    {
+      "message": "Variable `$merchandise` of type `MerchandiseTermInput` was provided invalid value for `merchandiseLines.0.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.2.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.3.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.4.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.2.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.3.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.4.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.5.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`)",
+      "locations": [
+        {
+          "line": 1,
+          "column": 161
+        }
+      ],
+      "extensions": {
+        "code": "INVALID_VARIABLE",
+        "value": {
+          "merchandiseLines": [
+            {
+              "stableId": "0750489a-80ae-424a-b348-71945ebf0666",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/44470488498331",
+                  "variantId": "gid://shopify/ProductVariant/44470488498331",
+                  "properties": [
+                    {
+                      "name": "_bundle_item",
+                      "value": {
+                        "string": "individual"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_id",
+                      "value": {
+                        "string": "8729692930203"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_hero_variant_id",
+                      "value": {
+                        "string": "47397372199067"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "Subscription",
+                      "value": {
+                        "string": "One pack for $17.99 + tax & shipping."
+                      },
+                      "visible": true
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2258534555",
+                  "sellingPlanDigest": "d96ad1493667190673a1d52e7410ed29"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "0.00",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "49418618-bcb6-4f1b-be4d-a7b7575e3ec6",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/47397372199067",
+                  "variantId": "gid://shopify/ProductVariant/47397372199067",
+                  "properties": [
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_item",
+                      "value": {
+                        "string": "main"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_id",
+                      "value": {
+                        "string": "8729692930203"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_product_id",
+                      "value": {
+                        "string": "8729692930203"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "Includes",
+                      "value": {
+                        "string": ""
+                      },
+                      "visible": true
+                    },
+                    {
+                      "name": "Subscription",
+                      "value": {
+                        "string": "For each Burst Brush, you will receive 2 replacement heads for $14.00 + tax."
+                      },
+                      "visible": true
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2865234075",
+                  "sellingPlanDigest": "c777a7682888b7ddc42d1996b36a79b1"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "69.99",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            }
+          ]
+        },
+        "problems": [
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              3,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              4,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              3,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              4,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              5,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          }
+        ]
+      }
+    }
+  ]
+}

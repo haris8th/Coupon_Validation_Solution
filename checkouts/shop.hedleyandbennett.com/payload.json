@@ -1,0 +1,86 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBnMDAOnhc4V1-hyp_BUg1GTjfZjgVuKbKffRpbwNdglAcXEAUH6haL8xx_yCL66SKlYckMJAu4_nYpa_EaZ8peyVShQCkraGH7YoThozfKwKSeJG5AjmvmZX3V_qnfKX2Z9GmZ6HlJjEx-QEndsTq3iirBBSPUjhb5DyN52rNAIVfQEd4G9LsHUNW_r3FNxB6ks2QjzcLwPLW-qQC0lJPBqP9bBZbeRYmXlxCMC30Drout-M95XKK"
+    },
+    "queueToken": "A3kfG7wZc_UMgBVnpH9fqZ6ZsJkrM7_ugqj2f4OKB74IaALPCNpfwG-y5BRg6DeItIcHhuzESsNXX4Inu5qCGYoO_CC0esy3ZQPw8NKLdeRb7oFlcNkw3zx-0xpGppCe1ptOig==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "a9ce9147-eafd-4064-b637-710a34799be0",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/44912900964552",
+              "variantId": "gid://shopify/ProductVariant/44912900964552",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "2.73",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "98762a16-1162-4015-a599-7a838e975c61",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/32380682960983",
+              "variantId": "gid://shopify/ProductVariant/32380682960983",
+              "properties": [
+                {
+                  "name": "_cleanTitle",
+                  "value": {
+                    "string": "Essential Apron"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_handleType",
+                  "value": {
+                    "string": "product"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_color",
+                  "value": {
+                    "string": "Midnight Blue"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "86.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

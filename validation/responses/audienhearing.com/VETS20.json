@@ -1,0 +1,638 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "checkpointData": null,
+          "configurationRecordId": "gid://shopify/CheckoutProfile/4338909247",
+          "renderContextToken": null,
+          "queueToken": "A3Bm8NB-cev71JXkwy9FlC6UOCq2Sx2vGH1lU5DiooF3Wd6VjMopNSnHZhczFjSI45gTPf52nSV86hq6D-IJdls3e9vTJhJCBLMafCkBBTpH_cZkm0wGCZYHgEYw4gp6IA_zJSs0vIM5pH8=",
+          "buyerProposal": {
+            "merchandiseDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "deliveryDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "merchandise": {
+              "taxesIncluded": false,
+              "merchandiseLines": [
+                {
+                  "stableId": "7a9d8e3b-a7ad-47f4-9368-417973683f03",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/44097067024447",
+                    "digest": "ecbf1318cf015899f12b794801ad16ab",
+                    "variantId": "gid://shopify/ProductVariant/44097067024447",
+                    "title": "Audien Atom X OTC Hearing Aids",
+                    "untranslatedTitle": "Audien Atom X OTC Hearing Aids",
+                    "subtitle": "Atom X (2nd Gen)",
+                    "untranslatedSubtitle": "Atom X (2nd Gen)",
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/7804763013183",
+                      "vendor": "Audien Hearing",
+                      "productType": "Hearing Aids",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/the-audien-atom-x-otc-hearing-aid",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0243/6051/7695/files/Screenshot2026-09-24at11.32.09_4da79461-6a9c-4a5c-b78b-9c82a0bb4167.png?v=1791835292",
+                      "one": "https://cdn.shopify.com/s/files/1/0243/6051/7695/files/Screenshot2026-09-24at11.32.09_4da79461-6a9c-4a5c-b78b-9c82a0bb4167_64x64.png?v=1791835292",
+                      "two": "https://cdn.shopify.com/s/files/1/0243/6051/7695/files/Screenshot2026-09-24at11.32.09_4da79461-6a9c-4a5c-b78b-9c82a0bb4167_128x128.png?v=1791835292",
+                      "four": "https://cdn.shopify.com/s/files/1/0243/6051/7695/files/Screenshot2026-09-24at11.32.09_4da79461-6a9c-4a5c-b78b-9c82a0bb4167_256x256.png?v=1791835292",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Model",
+                        "value": "Atom X (2nd Gen)",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "389.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "665c2fc98aab42365a4e8aa7ad6ae124",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "389.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "389.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "389.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "389.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "389.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "__typename": "Proposal"
+          },
+          "sellerProposal": {
+            "merchandiseDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "cartMetafields": null,
+            "customFields": [],
+            "deliveryDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "fee": {
+              "__typename": "FilledFeeTerms",
+              "totalFeeAmount": {
+                "__typename": "MoneyValueConstraint",
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                }
+              },
+              "feeLines": []
+            },
+            "__typename": "Proposal",
+            "deliveryExpectations": {
+              "__typename": "UnavailableTerms"
+            },
+            "promiseProgram": {
+              "variantPromises": [],
+              "__typename": "PromiseProgram"
+            },
+            "memberships": {
+              "__typename": "FilledMembershipTerms",
+              "memberships": []
+            },
+            "availableRedeemables": {
+              "availableRedeemables": [],
+              "__typename": "AvailableRedeemables"
+            },
+            "shopCashBalance": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopPromotion": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopDiscountOffer": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "availableDeliveryAddresses": [],
+            "mustSelectProvidedAddress": false,
+            "mustSelectProvidedShippingRate": false,
+            "canUpdateDiscountCodes": true,
+            "canUpdateDeliveryAddress": true,
+            "canUpdateMerchandise": true,
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "deliveryMethods": {
+              "__typename": "UnavailableTerms"
+            },
+            "sellability": {
+              "shipping": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "7a9d8e3b-a7ad-47f4-9368-417973683f03",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "local": [],
+              "pickUp": [],
+              "pickupPoint": [],
+              "none": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "7a9d8e3b-a7ad-47f4-9368-417973683f03",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "__typename": "FilledSellability"
+            },
+            "payment": {
+              "__typename": "UnavailableTerms"
+            },
+            "poNumber": null,
+            "merchandise": {
+              "taxesIncluded": false,
+              "merchandiseLines": [
+                {
+                  "stableId": "7a9d8e3b-a7ad-47f4-9368-417973683f03",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/44097067024447",
+                    "digest": "ecbf1318cf015899f12b794801ad16ab",
+                    "variantId": "gid://shopify/ProductVariant/44097067024447",
+                    "title": "Audien Atom X OTC Hearing Aids",
+                    "untranslatedTitle": "Audien Atom X OTC Hearing Aids",
+                    "subtitle": "Atom X (2nd Gen)",
+                    "untranslatedSubtitle": "Atom X (2nd Gen)",
+                    "sku": "ATYDB001",
+                    "price": {
+                      "amount": "389.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/7804763013183",
+                      "vendor": "Audien Hearing",
+                      "productType": "Hearing Aids",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/the-audien-atom-x-otc-hearing-aid",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0243/6051/7695/files/Screenshot2026-09-24at11.32.09_4da79461-6a9c-4a5c-b78b-9c82a0bb4167.png?v=1791835292",
+                      "one": "https://cdn.shopify.com/s/files/1/0243/6051/7695/files/Screenshot2026-09-24at11.32.09_4da79461-6a9c-4a5c-b78b-9c82a0bb4167_64x64.png?v=1791835292",
+                      "two": "https://cdn.shopify.com/s/files/1/0243/6051/7695/files/Screenshot2026-09-24at11.32.09_4da79461-6a9c-4a5c-b78b-9c82a0bb4167_128x128.png?v=1791835292",
+                      "four": "https://cdn.shopify.com/s/files/1/0243/6051/7695/files/Screenshot2026-09-24at11.32.09_4da79461-6a9c-4a5c-b78b-9c82a0bb4167_256x256.png?v=1791835292",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Model",
+                        "value": "Atom X (2nd Gen)",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "389.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "665c2fc98aab42365a4e8aa7ad6ae124",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "389.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "389.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "389.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "389.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "389.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "note": {
+              "customAttributes": [],
+              "message": null,
+              "__typename": "Note"
+            },
+            "scriptFingerprint": null,
+            "transformerFingerprintV2": null,
+            "buyerIdentity": {
+              "shopUser": null,
+              "customer": {
+                "presentmentCurrency": null,
+                "countryCode": null,
+                "market": {
+                  "id": "gid://shopify/Market/1003094079",
+                  "handle": "us",
+                  "__typename": "Market"
+                },
+                "shippingAddresses": [],
+                "__typename": "GuestProfile"
+              },
+              "purchasingCompany": null,
+              "phone": null,
+              "email": null,
+              "marketingConsent": [],
+              "shopPayOptInPhone": null,
+              "rememberMe": false,
+              "__typename": "FilledBuyerIdentityTerms"
+            },
+            "checkoutCompletionTarget": "ORDER",
+            "recurringTotals": [],
+            "subtotalBeforeTaxesAndShipping": {
+              "value": {
+                "amount": "389.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacySubtotalBeforeTaxesShippingAndFees": {
+              "value": {
+                "amount": "389.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacyAggregatedMerchandiseTermsAsFees": [],
+            "legacyRepresentProductsAsFees": false,
+            "totalSavings": {
+              "value": {
+                "amount": "0.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "runningTotal": {
+              "value": {
+                "amount": "389.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "total": {
+              "__typename": "AnyConstraint"
+            },
+            "checkoutTotalBeforeTaxesAndShipping": null,
+            "checkoutTotalTaxes": null,
+            "checkoutTotal": {
+              "__typename": "AnyConstraint"
+            },
+            "deferredTotal": null,
+            "hasOnlyDeferredShipping": false,
+            "subtotalBeforeReductions": {
+              "value": {
+                "amount": "389.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "subtotalAfterMerchandiseDiscounts": {
+              "value": {
+                "amount": "389.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "duty": {
+              "totalDutyAmount": null,
+              "totalTaxAndDutyAmount": {
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "totalAdditionalFeesAmount": null,
+              "__typename": "FilledDutyTerms"
+            },
+            "tax": {
+              "liability": null,
+              "taxBreakdown": null,
+              "totalTaxAmount": {
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "totalTaxAmountRange": null,
+              "totalTaxAndDutyAmount": {
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "totalAmountIncludedInTarget": null,
+              "__typename": "FilledTaxTerms"
+            },
+            "taxExemptions": {
+              "available": [],
+              "__typename": "FilledTaxExemptionTerms"
+            },
+            "tip": {
+              "tipSuggestions": [
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.15,
+                  "amount": {
+                    "value": {
+                      "amount": "58.35",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.18,
+                  "amount": {
+                    "value": {
+                      "amount": "70.02",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.2,
+                  "amount": {
+                    "value": {
+                      "amount": "77.8",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.0,
+                  "amount": {
+                    "value": {
+                      "amount": "0.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                }
+              ],
+              "terms": {
+                "tipLines": [],
+                "__typename": "FilledTipTerms"
+              },
+              "__typename": "TipWrapper"
+            },
+            "localizationExtension": {
+              "fields": [],
+              "__typename": "LocalizationExtension"
+            },
+            "landedCostDetails": {
+              "incotermInformation": null,
+              "__typename": "LandedCostDetails"
+            },
+            "dutiesIncluded": false,
+            "nonNegotiableTerms": null,
+            "optionalDuties": {
+              "buyerRefusesDuties": false,
+              "refuseDutiesPermitted": false,
+              "__typename": "OptionalDuties"
+            },
+            "attribution": {
+              "attributions": [],
+              "__typename": "Attribution"
+            },
+            "saleAttributions": {
+              "attributions": [],
+              "__typename": "SaleAttributions"
+            },
+            "managedByMarketsPro": false,
+            "managedMarketsPaymentProcessor": null,
+            "captcha": null,
+            "cartCheckoutValidation": null,
+            "alternativePaymentCurrency": null,
+            "lpmDisclosure": null,
+            "isShippingRequired": true,
+            "shopPayEnabled": true,
+            "remote": null,
+            "ucp": {
+              "continueUrl": "https://audienhearing.com/cart/c/hWNIpjmkfgsI5QgkAi7l5kp9?key=3f7c32a2a90e096442e879044e25628f",
+              "paymentHandlers": [
+                {
+                  "id": "shopify.card",
+                  "name": "dev.shopify.card",
+                  "version": "2026-01-15",
+                  "spec": "https://ucp.dev/specification/payment-handler-guide",
+                  "schema": "https://shopify.dev/ucp/card-payment-handler/2026-01-15/config.json",
+                  "config": {
+                    "payment_methods": [
+                      {
+                        "type": "card",
+                        "enabled_card_brands": [
+                          "visa",
+                          "master",
+                          "american_express",
+                          "discover",
+                          "diners_club",
+                          "elo",
+                          "jcb",
+                          "unionpay"
+                        ]
+                      }
+                    ]
+                  },
+                  "__typename": "UcpPaymentHandler"
+                },
+                {
+                  "id": "shop_pay",
+                  "name": "dev.shopify.shop_pay",
+                  "version": "2026-01-23",
+                  "spec": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/spec.md",
+                  "schema": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/schema.json",
+                  "config": {
+                    "shop_id": "24360517695"
+                  },
+                  "__typename": "UcpPaymentHandler"
+                }
+              ],
+              "__typename": "UcpProposal"
+            }
+          },
+          "__typename": "NegotiationResultAvailable"
+        },
+        "errors": [
+          {
+            "code": "REDUCTION_INVALID_CODE",
+            "localizedMessage": "Enter a valid discount code or gift card",
+            "nonLocalizedMessage": "Reduction code couldn't be mapped to neither a gift card or discount.",
+            "localizedMessageHtml": "Enter a valid discount code or gift card",
+            "__typename": "InputValidationError"
+          },
+          {
+            "code": "BUYER_IDENTITY_MISSING_CONTACT_METHOD",
+            "localizedMessage": "Missing a valid contact method.",
+            "nonLocalizedMessage": "Missing a valid contact method.",
+            "localizedMessageHtml": "Missing a valid contact method.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "TAX_NEW_TAX_MUST_BE_ACCEPTED",
+            "localizedMessage": "Taxes associated to your order have changed. Review and try again.",
+            "nonLocalizedMessage": "A new tax line in the seller proposal must be accepted in order to continue.",
+            "localizedMessageHtml": "Taxes associated to your order have changed. Review and try again.",
+            "target": "$",
+            "__typename": "AcceptNewTermViolation"
+          },
+          {
+            "code": "REQUIRED_ARTIFACTS_UNAVAILABLE",
+            "localizedMessage": "",
+            "nonLocalizedMessage": "Required artifacts are unavailable.",
+            "localizedMessageHtml": null,
+            "__typename": "RequiredArtifactsUnavailableViolation"
+          }
+        ]
+      },
+      "__typename": "Session"
+    }
+  }
+}

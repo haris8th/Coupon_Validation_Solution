@@ -1,0 +1,638 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "checkpointData": null,
+          "configurationRecordId": "gid://shopify/CheckoutProfile/33816868",
+          "renderContextToken": null,
+          "queueToken": "A420XTbiMb8TW_6tbvDCAcHzCZeD45nz7pO6SU2jxr5NpximMEdXQP7WXNklUMgRTB0_uO1I_3VW2nIihfqfMY1b48t51igvk4R6sj8c3aEY3-SA6L7TPlsNnTLS8T_Y2gfA_bneIT95XJ8=",
+          "buyerProposal": {
+            "merchandiseDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "deliveryDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "12e27ee7-f51b-40d5-bc49-b8740d4cc1d5",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/47474564006180",
+                    "digest": "c9622cc4514d88cb1cffb44602e9a2ae",
+                    "variantId": "gid://shopify/ProductVariant/47474564006180",
+                    "title": "Bandits Low Waist Denim Shorts - Salty Dog Blue",
+                    "untranslatedTitle": "Bandits Low Waist Denim Shorts - Salty Dog Blue",
+                    "subtitle": "22",
+                    "untranslatedSubtitle": "22",
+                    "compareAtPrice": {
+                      "amount": "120.0",
+                      "currencyCode": "AUD",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/8890422264100",
+                      "vendor": "CREATIVE RESOURCES INTL LTD",
+                      "productType": "DS BANDIT",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/salty-dog-bandit-low-waist-denim-short-24934a-1",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0784/9597/3668/files/24934A-salty.png?v=1782966568",
+                      "one": "https://cdn.shopify.com/s/files/1/0784/9597/3668/files/24934A-salty_64x64.png?v=1782966568",
+                      "two": "https://cdn.shopify.com/s/files/1/0784/9597/3668/files/24934A-salty_128x128.png?v=1782966568",
+                      "four": "https://cdn.shopify.com/s/files/1/0784/9597/3668/files/24934A-salty_256x256.png?v=1782966568",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Size",
+                        "value": "22",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "118.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "b577edab8d1971cb0da72c8d12f8afd3",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "118.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "118.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "118.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "118.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "118.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "__typename": "Proposal"
+          },
+          "sellerProposal": {
+            "merchandiseDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "cartMetafields": null,
+            "customFields": [],
+            "deliveryDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "fee": {
+              "__typename": "FilledFeeTerms",
+              "totalFeeAmount": {
+                "__typename": "MoneyValueConstraint",
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "AUD",
+                  "__typename": "Money"
+                }
+              },
+              "feeLines": []
+            },
+            "__typename": "Proposal",
+            "deliveryExpectations": {
+              "__typename": "UnavailableTerms"
+            },
+            "promiseProgram": {
+              "variantPromises": [],
+              "__typename": "PromiseProgram"
+            },
+            "memberships": {
+              "__typename": "FilledMembershipTerms",
+              "memberships": []
+            },
+            "availableRedeemables": {
+              "availableRedeemables": [],
+              "__typename": "AvailableRedeemables"
+            },
+            "shopCashBalance": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopPromotion": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopDiscountOffer": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "availableDeliveryAddresses": [],
+            "mustSelectProvidedAddress": false,
+            "mustSelectProvidedShippingRate": false,
+            "canUpdateDiscountCodes": true,
+            "canUpdateDeliveryAddress": true,
+            "canUpdateMerchandise": true,
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "deliveryMethods": {
+              "__typename": "UnavailableTerms"
+            },
+            "sellability": {
+              "shipping": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "12e27ee7-f51b-40d5-bc49-b8740d4cc1d5",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "local": [],
+              "pickUp": [],
+              "pickupPoint": [],
+              "none": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "12e27ee7-f51b-40d5-bc49-b8740d4cc1d5",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "__typename": "FilledSellability"
+            },
+            "payment": {
+              "__typename": "UnavailableTerms"
+            },
+            "poNumber": null,
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "12e27ee7-f51b-40d5-bc49-b8740d4cc1d5",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/47474564006180",
+                    "digest": "c9622cc4514d88cb1cffb44602e9a2ae",
+                    "variantId": "gid://shopify/ProductVariant/47474564006180",
+                    "title": "Bandits Low Waist Denim Shorts - Salty Dog Blue",
+                    "untranslatedTitle": "Bandits Low Waist Denim Shorts - Salty Dog Blue",
+                    "subtitle": "22",
+                    "untranslatedSubtitle": "22",
+                    "sku": "24934A-1-1",
+                    "price": {
+                      "amount": "120.0",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": {
+                      "amount": "120.0",
+                      "currencyCode": "AUD",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/8890422264100",
+                      "vendor": "CREATIVE RESOURCES INTL LTD",
+                      "productType": "DS BANDIT",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/salty-dog-bandit-low-waist-denim-short-24934a-1",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0784/9597/3668/files/24934A-salty.png?v=1782966568",
+                      "one": "https://cdn.shopify.com/s/files/1/0784/9597/3668/files/24934A-salty_64x64.png?v=1782966568",
+                      "two": "https://cdn.shopify.com/s/files/1/0784/9597/3668/files/24934A-salty_128x128.png?v=1782966568",
+                      "four": "https://cdn.shopify.com/s/files/1/0784/9597/3668/files/24934A-salty_256x256.png?v=1782966568",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Size",
+                        "value": "22",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "120.0",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "b577edab8d1971cb0da72c8d12f8afd3",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "120.0",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "120.0",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "120.0",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "120.0",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "120.0",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "note": {
+              "customAttributes": [],
+              "message": null,
+              "__typename": "Note"
+            },
+            "scriptFingerprint": null,
+            "transformerFingerprintV2": null,
+            "buyerIdentity": {
+              "shopUser": null,
+              "customer": {
+                "presentmentCurrency": null,
+                "countryCode": null,
+                "market": {
+                  "id": "gid://shopify/Market/60858138916",
+                  "handle": "57103be8-01c5-4d53-9f39-e965a8453ecd",
+                  "__typename": "Market"
+                },
+                "shippingAddresses": [],
+                "__typename": "GuestProfile"
+              },
+              "purchasingCompany": null,
+              "phone": null,
+              "email": null,
+              "marketingConsent": [],
+              "shopPayOptInPhone": null,
+              "rememberMe": false,
+              "__typename": "FilledBuyerIdentityTerms"
+            },
+            "checkoutCompletionTarget": "ORDER",
+            "recurringTotals": [],
+            "subtotalBeforeTaxesAndShipping": {
+              "value": {
+                "amount": "120.0",
+                "currencyCode": "AUD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacySubtotalBeforeTaxesShippingAndFees": {
+              "value": {
+                "amount": "120.0",
+                "currencyCode": "AUD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacyAggregatedMerchandiseTermsAsFees": [],
+            "legacyRepresentProductsAsFees": false,
+            "totalSavings": {
+              "value": {
+                "amount": "0.0",
+                "currencyCode": "AUD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "runningTotal": {
+              "value": {
+                "amount": "120.0",
+                "currencyCode": "AUD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "total": {
+              "__typename": "AnyConstraint"
+            },
+            "checkoutTotalBeforeTaxesAndShipping": null,
+            "checkoutTotalTaxes": null,
+            "checkoutTotal": {
+              "__typename": "AnyConstraint"
+            },
+            "deferredTotal": null,
+            "hasOnlyDeferredShipping": false,
+            "subtotalBeforeReductions": {
+              "value": {
+                "amount": "120.0",
+                "currencyCode": "AUD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "subtotalAfterMerchandiseDiscounts": {
+              "value": {
+                "amount": "120.0",
+                "currencyCode": "AUD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "duty": {
+              "totalDutyAmount": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAdditionalFeesAmount": null,
+              "__typename": "FilledDutyTerms"
+            },
+            "tax": {
+              "liability": null,
+              "taxBreakdown": null,
+              "totalTaxAmount": null,
+              "totalTaxAmountRange": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAmountIncludedInTarget": {
+                "value": {
+                  "amount": "10.91",
+                  "currencyCode": "AUD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "__typename": "FilledTaxTerms"
+            },
+            "taxExemptions": {
+              "available": [],
+              "__typename": "FilledTaxExemptionTerms"
+            },
+            "tip": {
+              "tipSuggestions": [
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.15,
+                  "amount": {
+                    "value": {
+                      "amount": "18.0",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.18,
+                  "amount": {
+                    "value": {
+                      "amount": "21.6",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.2,
+                  "amount": {
+                    "value": {
+                      "amount": "24.0",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.0,
+                  "amount": {
+                    "value": {
+                      "amount": "0.0",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                }
+              ],
+              "terms": {
+                "tipLines": [],
+                "__typename": "FilledTipTerms"
+              },
+              "__typename": "TipWrapper"
+            },
+            "localizationExtension": {
+              "fields": [],
+              "__typename": "LocalizationExtension"
+            },
+            "landedCostDetails": {
+              "incotermInformation": null,
+              "__typename": "LandedCostDetails"
+            },
+            "dutiesIncluded": false,
+            "nonNegotiableTerms": null,
+            "optionalDuties": {
+              "buyerRefusesDuties": false,
+              "refuseDutiesPermitted": false,
+              "__typename": "OptionalDuties"
+            },
+            "attribution": {
+              "attributions": [],
+              "__typename": "Attribution"
+            },
+            "saleAttributions": {
+              "attributions": [],
+              "__typename": "SaleAttributions"
+            },
+            "managedByMarketsPro": false,
+            "managedMarketsPaymentProcessor": null,
+            "captcha": null,
+            "cartCheckoutValidation": null,
+            "alternativePaymentCurrency": null,
+            "lpmDisclosure": null,
+            "isShippingRequired": true,
+            "shopPayEnabled": true,
+            "remote": null,
+            "ucp": {
+              "continueUrl": "https://www.oneteaspoon.com/cart/c/hWNIr82Uy0JQbTjiixdhKwHD?key=d25442fd2d515a9ad790100ac4bb70eb",
+              "paymentHandlers": [
+                {
+                  "id": "shopify.card",
+                  "name": "dev.shopify.card",
+                  "version": "2026-01-15",
+                  "spec": "https://ucp.dev/specification/payment-handler-guide",
+                  "schema": "https://shopify.dev/ucp/card-payment-handler/2026-01-15/config.json",
+                  "config": {
+                    "payment_methods": [
+                      {
+                        "type": "card",
+                        "enabled_card_brands": [
+                          "visa",
+                          "master",
+                          "american_express",
+                          "unionpay",
+                          "jcb"
+                        ]
+                      }
+                    ]
+                  },
+                  "__typename": "UcpPaymentHandler"
+                },
+                {
+                  "id": "shop_pay",
+                  "name": "dev.shopify.shop_pay",
+                  "version": "2026-01-23",
+                  "spec": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/spec.md",
+                  "schema": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/schema.json",
+                  "config": {
+                    "shop_id": "78495973668"
+                  },
+                  "__typename": "UcpPaymentHandler"
+                }
+              ],
+              "__typename": "UcpProposal"
+            }
+          },
+          "__typename": "NegotiationResultAvailable"
+        },
+        "errors": [
+          {
+            "code": "REDUCTION_INVALID_CODE",
+            "localizedMessage": "Enter a valid discount code or gift card",
+            "nonLocalizedMessage": "Reduction code couldn't be mapped to neither a gift card or discount.",
+            "localizedMessageHtml": "Enter a valid discount code or gift card",
+            "__typename": "InputValidationError"
+          },
+          {
+            "code": "BUYER_IDENTITY_MISSING_CONTACT_METHOD",
+            "localizedMessage": "Missing a valid contact method.",
+            "nonLocalizedMessage": "Missing a valid contact method.",
+            "localizedMessageHtml": "Missing a valid contact method.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "MERCHANDISE_EXPECTED_PRICE_MISMATCH",
+            "localizedMessage": "The previously proposed price for this merchandise was invalid and has been updated.",
+            "nonLocalizedMessage": "The price of this line could not be honoured, new price reflected in counter proposal.",
+            "localizedMessageHtml": "The previously proposed price for this merchandise was invalid and has been updated.",
+            "from": "$.merchandise.merchandiseLines[0]",
+            "to": "$.merchandise.merchandiseLines[0]",
+            "__typename": "ConfirmChangeViolation"
+          },
+          {
+            "code": "TAX_NEW_TAX_MUST_BE_ACCEPTED",
+            "localizedMessage": "Taxes associated to your order have changed. Review and try again.",
+            "nonLocalizedMessage": "A new tax line in the seller proposal must be accepted in order to continue.",
+            "localizedMessageHtml": "Taxes associated to your order have changed. Review and try again.",
+            "target": "$",
+            "__typename": "AcceptNewTermViolation"
+          },
+          {
+            "code": "REQUIRED_ARTIFACTS_UNAVAILABLE",
+            "localizedMessage": "",
+            "nonLocalizedMessage": "Required artifacts are unavailable.",
+            "localizedMessageHtml": null,
+            "__typename": "RequiredArtifactsUnavailableViolation"
+          }
+        ]
+      },
+      "__typename": "Session"
+    }
+  }
+}

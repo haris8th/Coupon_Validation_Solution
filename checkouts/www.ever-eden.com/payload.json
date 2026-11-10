@@ -1,0 +1,80 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBVnIN86HlbpXPGXIks2s2FkdFFH1TYLm8_lvHc1hYJi_L3yBugtJXfME2q7icgL6hq0ZzkgeapgF9fhoMtSg8iTcBdw0IcR5EYpMDkQ25CLKhbTeKhLCzgSOmyT23OxnjVxF-1nOYF65ccoO366fucVHVQi2nySJCecc28tlcnV2gvlyTE9S_BesEDnAFOTHydAKYZ1jThnpzluUdR391-3Tz05L4Y3i3"
+    },
+    "queueToken": "Aw-u7qzYY9uZtkUzs8d64O3M8vGLoccCkhIeueFwSV6Iy6up9umQcHGn5nOH4_zaVLzpVjzIu6-Dn_LM7B6c6PbOwM5FUbqYH23UNIGQpbTr14uSCMBwlokcaWmKLv8fMgxSEND0",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "290e3c99-ca03-41e3-878a-7fa10a0ce86b",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/42313803825212",
+              "variantId": "gid://shopify/ProductVariant/42313803825212",
+              "properties": [
+                {
+                  "name": "_free_sample",
+                  "value": {
+                    "string": "true"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "0.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "ea0cdde5-5636-46e9-801f-2fdf1e9c802b",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/42480498409532",
+              "variantId": "gid://shopify/ProductVariant/42480498409532",
+              "properties": [
+                {
+                  "name": "_Gift With Purchase",
+                  "value": {
+                    "string": "True"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "30.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

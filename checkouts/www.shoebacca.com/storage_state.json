@@ -1,0 +1,679 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".shoebacca.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHCSHqkAAEAQQvBe7vugltcBl_lLDUB7XfvF258g2zfrtINtLYx0H4aF0m5LAKz4YluyxygoWe6m-GtgHvMZBJ2A3M:",
+      "domain": "shoebacca.com",
+      "path": "/",
+      "expires": 1825796892.333172,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": 1825796923.981909,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": 1795470523.982206,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHCSHz4AAEAhhMNu_WqUrWEFA_E-gLxyiKsmRZA-Dq7o8PIQEpYTWlhifRNvui7fZz82btIukns5mFPh4pg-9DMT1k:",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": 1825796892.958816,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHCSH07AAEA99Ma3owp0Cmv0w6y3THIh6drHB6WPzVeGSxc5GE2m-D-QzeQHih8uN6fEe-BKieugm_oShwxuyIQ0XM:",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": 1825796892.958871,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHCSH07AAEAsVMc7thuc8yE8exoLbtDTz6mufVmpYKu5-qoOhSS4CKJ2_3AlWxVxRQ957wD7nQYSQ5Sf9-P48wx2Ho:",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": 1825796892.958922,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://www.shoebacca.com",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": 1796852918,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1794260896304.bc16e901-11b8-42e6-b56a-425117cdbde4",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1802036919,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "9282c490-535c-48c6-a49a-a18ef73e255c",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": 1794292433,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.caff",
+      "value": "*",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1794262720,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cebs",
+      "value": "1",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_delivery_app__country_code",
+      "value": "pk",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": 1794261198,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_delivery_app__country_name",
+      "value": "Pakistan",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": 1794261198,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_delivery_app__region_name",
+      "value": "Sindh",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": 1794261198,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ce.clock_data",
+      "value": "-45%2C202.47.43.137%2C1%2Cf51bb482c660d0eeadd1f058058a2b35%2CChrome%2CPK%2CDirect%20Traffic%2C",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1794347298,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "test",
+      "value": "test",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "",
+      "value": "test",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "none",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": 1796852903,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tf-version",
+      "value": "v1",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1794865704.119191,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attn_eat_id",
+      "value": "ea3b9008663746158a7e05091db3f474",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1827956915.223393,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://shoebacca.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "_ce.s",
+      "value": "v~d1704b8d7f9408d2334a30416986b849f7b390dd~vir~new~lva~1794260898068~vpv~0~lcw~1794260918921",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1825796918,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_id",
+      "value": "251f8a63aa8740a685b8fc78917a2599",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1827956919,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_session_id",
+      "value": "68581884bcea4f50a2ecac4dbd2200d1",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1794262722,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzk0MjYwOTE5MzQ1LFwidW9cIjoxNzk0MjYwOTE5MzQ1LFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjI1MWY4YTYzYWE4NzQwYTY4NWI4ZmM3ODkxN2EyNTk5XCJ9IiwiZWF0Ijoie1wiY29cIjoxNzk0MjYwOTE5MzI3LFwidW9cIjoxNzk0MjYwOTE5MzI3LFwibWFcIjozNjUwLFwiaW5cIjp0cnVlLFwidmFsXCI6XCJodHRwczovL2NjdWViLnNob2ViYWNjYS5jb21cIn0ifQ==",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1827956919,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1794260919349",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1827956919,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "athosViewedProducts",
+      "value": "SB1158-KR2026_L_M",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1828820919.743772,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_bopd_",
+      "value": "browser",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1827956919,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1794268119,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "1",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1794262720,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "ORGANIC",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1794262720,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.caff",
+      "value": "281d470f1397cfc7.1794260897.1.1794260920.1794260897",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1828820920.449716,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tfc-l",
+      "value": "%7B%22k%22%3A%7B%22v%22%3A%22lqkhjo624god6428qhgdc1r14d%22%2C%22e%22%3A1857160120%7D%7D",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1828820920.470216,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_caid",
+      "value": "ed1d0de3-5b1e-47c8-82da-f47d6a7b7b68",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1796852921,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cavisit",
+      "value": "1a1c248ebed|",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1794264521,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxjGmclwoWVHnhS0SZFND%3Fkey%3D026147b278fe40ce48d758d087d5440d",
+      "domain": "www.shoebacca.com",
+      "path": "/",
+      "expires": 1802123322.835193,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.972889364.1794260922",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1828820921.742916,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.710736556.1794260900.1054933260.1794260922.1794260922.301901677.1794260922.1794260922",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1802036900,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "value": "FPID2.2.bM6Co27tq2hrgXatneSBCTLOX6JeVTMA58rkp%2BI%2FsV8%3D.1794260922",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1828820924.598022,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPAU",
+      "value": "1.1.710736556.1794260900",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1802036900.598286,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "value": "zG1ecIgdop%2FKAtaTga1US6bxFvTqXArODfYCQLm6lb%2BoTlr1aogGN3xi0xnNxzNmptZIh1enlZkI8nOUwIudIr9dksQOON3%2FdTfk5nDYWBJmxg94qpccSKr0bbNBIQ%3D%3D",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1794332922.323851,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPGSID",
+      "value": "1.1794260922.1794260922.G-BLJ9N9VYCJ.5Opwjcc73QdxfTh3vBcRLA",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1794262722.324307,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "athosCartProducts",
+      "value": "SB1158-KR2026_L_M",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cto_bundle",
+      "value": "zPCv0V9RQVJha1c2ajk0RXpHZGVJMWUwWThNTTEzJTJCcVVqM3ZEeEUlMkZKN1BlSnVWeDVpRWJYWXluWlBxcDlQUHNjeUFwSXR5OUE4RUcwRnUyVE5mek9VM1NHa3VGODhBbzZVTkdLRTZFTlo2VDZ6M0tNOUlXRkJEc3RtWnY0S1lrNzYlMkZjQzlxYzJURWRscFFQdFM3aG1qQ20xbVElM0QlM0Q",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1828424922,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "athosUserId",
+      "value": "f8e32c46-664d-4ba5-ade9-d7e8059abbf7",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1828820923.09842,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "athosSessionId",
+      "value": "22cb279b-71f6-44cc-b990-1c028315ed1e",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1794262723,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_BLJ9N9VYCJ",
+      "value": "GS2.1.s1794260921$o1$g1$t1794260924$j57$l0$h397061623",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1828820924.057485,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_*3GkGxb1RyOt1hc0k1ot-w%23e70579e3-4664-42b9-bb18-755db5325b76-1794260914",
+      "domain": ".shoebacca.com",
+      "path": "/",
+      "expires": 1825818531.370274,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "IYgg.HcNkxCvPDdYH5xoS8KmKHMxy9WzFI08p4lDvJc-1794260931.2205658-1.0.1.1-0Na8eOVbIxiR3KltBSMo5ZFwY6eel7An3Iq7RVOBJfT_IyaMfm2w3m6Zi8Fi6QXMT0mN1GpDXUFu0n8xqQ1CXWivhn8jHiTm5yhK8c4Al_npgLnHWhlw9jSS_3aB9JeL",
+      "domain": ".www.shoebacca.com",
+      "path": "/",
+      "expires": 1794262731.383861,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://shoebacca.com",
+      "_crHasCrossSiteAncestor": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.shoebacca.com",
+      "localStorage": [
+        {
+          "name": "recently-viewed",
+          "value": "[\"portland-city-graphic-hoodie-sb1158-kr2026\"]"
+        },
+        {
+          "name": "cto_bundle",
+          "value": "zPCv0V9RQVJha1c2ajk0RXpHZGVJMWUwWThNTTEzJTJCcVVqM3ZEeEUlMkZKN1BlSnVWeDVpRWJYWXluWlBxcDlQUHNjeUFwSXR5OUE4RUcwRnUyVE5mek9VM1NHa3VGODhBbzZVTkdLRTZFTlo2VDZ6M0tNOUlXRkJEc3RtWnY0S1lrNzYlMkZjQzlxYzJURWRscFFQdFM3aG1qQ20xbVElM0QlM0Q"
+        },
+        {
+          "name": "athos-history",
+          "value": "{}"
+        },
+        {
+          "name": "athos-history-atds4v",
+          "value": "{}"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":3,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1794260924068},\"expires\":1802036924068},\"gsid_dc\":{\"value\":{\"joinId\":\"5ujHj3KiZ-4bkv9TuvbFHrgWmPUeL1-xRQ\",\"lastJoinedTimeMs\":1794260899942},\"expires\":1794261199942}}"
+        },
+        {
+          "name": "addedProductStape",
+          "value": "[]"
+        },
+        {
+          "name": "redo_autocheck",
+          "value": "{\"expiry\":1794262718469,\"value\":{\"autocheck\":{\"teamId\":\"6978efa9223c5f6cf2d21fa7\",\"widgetSlug\":\"ah9sx5769xhshum\",\"exchangeBannerPositionBottom\":false,\"exchangeBannerInsertBeforeBody\":false,\"icon\":\"gift\",\"iconColor\":\"\",\"iconBackgroundColor\":\"\",\"displayIcon\":false,\"storefrontAccessToken\":\"f50d8dcd1b1c2672f683a6506c53bc88\",\"multistorefront\":[],\"toggleTextOptions\":{\"bothProductToggle\":{\"_id\":\"6a7e1b46a3616b8376cea28a\",\"negativeSubtext\":\"\",\"positiveSubtext\":\"\",\"titleText\":\"\"},\"packageProtectionToggle\":{\"_id\":\"6a7e1b46a3616b8376cea289\",\"negativeSubtext\":\"\",\"positiveSubtext\":\"\",\"titleText\":\"\"},\"returnToggle\":{\"_id\":\"6a7e1b46a3616b8376cea288\",\"negativeSubtext\":\"\",\"positiveSubtext\":\"\",\"titleText\":\"\"}},\"exchangeBannerColor\":\"\",\"exchangeBannerText\":\"\",\"exchangeBannerFont\":\"\",\"exchangeBannerFontColor\":\"\",\"exchangeBannerShowDoneButton\":true,\"exchangeBannerCustomCss\":\"\",\"disableRedoForCustomer\":false,\"respectForcedRemovalDuringEnsure\":false,\"redoAutoCheck\":true,\"selector\":\"\",\"paidModel\":\"customer_paid\",\"textColor\":\"#000000\",\"coverage\":{\"exchange\":false,\"refund\":false,\"storeCredit\":false},\"enabled\":true,\"logo\":\"\",\"coverageEnabled\":false,\"finalSaleTags\":[\"final-sale\"],\"protectionExcludeTags\":[],\"coverageExcludeCollections\":[],\"coverageExcludeDiscountCodes\":[],\"coverageExcludeProperties\":[],\"coverageExcludedVariantMetafields\":[],\"returnsCoverageExcludedSkus\":[],\"excludeCoverageIfAnyInvalidProduct\":false,\"discountCodePartialMatch\":false,\"hideCheckboxBranding\":false,\"hideCheckbox\":true,\"hideCheckboxPrice\":false,\"attachmentStrategy\":\"checkout-button-product\",\"toggleSubtextEnabled\":true,\"countries\":[\"US\"],\"countriesPackageProtection\":[\"US\"],\"countriesFinalSaleReturns\":[\"US\"],\"predictedCountry\":\"KR\",\"modalTextAdjustments\":{\"text1\":\"\",\"text2\":\"\",\"text3\":\"\",\"title1\":\"\",\"title2\":\"\",\"title3\":\"\"},\"infoModal\":{\"cartIconEnabled\":false,\"checkoutIconEnabled\":false,\"enableTopLayerModalApi\":true,\"logo\":\"\",\"sideImage\":\"\",\"version\":\"v2\"},\"modalLogo\":\"\",\"returnPolicyUrl\":\"https://www.shoebacca.com/pages/faq\",\"shopSiteUseCartDiscounts\":false,\"excludeProductTags\":[],\"excludeProductSkus\":[],\"cartValueCalculationMethod\":\"cart_value_post_discount\",\"excludedItemProperties\":[],\"cartToggle\":{\"enabled\":true,\"useShadowRootInCart\":false,\"cartShadowRootSelector\":\"\",\"toggleOnColor\":\"\",\"toggleOffColor\":\"\",\"toggleCircleColor\":\"\",\"cartTogglePlacement\":\"before\",\"cartReplaceItems\":false},\"widgetConfigs\":[],\"groupNearbyToggleElementsTogether\":true,\"hideRedoProduct\":{\"cartCountModifications\":[],\"cartDiscountModifications\":[],\"cartPriceModifications\":[],\"checkoutButtonSelector\":\"\",\"enabled\":false,\"productSelector\":\"\"},\"packageProtection\":{\"coverageEnabled\":false,\"packageProtectionPlusEnabled\":false,\"percentage\":0.02,\"splitProducts\":false,\"pricingRuleSets\":[{\"countries\":[\"US\"],\"priceBrackets\":[{\"pricePoint\":0,\"value\":0.02}],\"type\":\"percentage\"}],\"minPrice\":1,\"maxPrice\":15,\"packageProtectionPlusMerchantPaidPerOrderEnabled\":false,\"packageProtectionPlusMerchantPaidEnabledDates\":[],\"shouldRecordPackageProtectionExposure\":false,\"coverageExcludedCollections\":[],\"internationalInsurance\":{\"providerName\":\"UPSCIA\",\"termsUrl\":\"https://www.insureshield.com/content/terms-and-conditions/REDO_TermsandConditions.pdf\",\"ratePer100\":0.8,\"minimumPremium\":0},\"coverageExcludedVariantMetafields\":[]},\"packageProtectionAutoCheck\":true,\"usingCartAndCheckoutToggle\":false,\"setCheckoutToggleBasedOnOptInCartAttribute\":true,\"openShadowRoot\":false,\"checkoutExtensionEnabled\":false,\"fraudZipCoverageExclusionStrategy\":\"NO_OP\",\"customPdpCss\":\"\",\"customToggleCss\":\"\",\"forceIPAddressLocation\":false,\"excludePickup\":false,\"preProtectedOrdersEnabled\":false,\"internationalReturnsPricing\":[],\"currencyExchangeRate\":1,\"finalSaleReturns\":{\"coverageEnabled\":false,\"coverageValidTags\":[],\"coverageValidCollections\":[],\"coverageValidCollectionTitles\":[],\"percentage\":0.02,\"pricingRuleSets\":[{\"countries\":[\"US\"],\"priceBrackets\":[{\"pricePoint\":0,\"value\":0.02}],\"type\":\"percentage\"}],\"minPrice\":1,\"maxPrice\":15,\"allCovered\":false,\"allEligible\":false},\"customerAccounts\":{\"enabled\":false,\"saveForLaterPanel\":{\"enabled\":false}},\"customerWidgetEnabled\":false,\"chatWidgetScriptTagInstalled\":false,\"contextual\":{\"enabled\":false},\"reviews\":{\"enabled\":false},\"orderTrackingLogin\":{\"enabled\":true,\"settings\":{\"allowTrackingCodeOnlyAccess\":false,\"backgroundColor\":\"#FFFFFF\",\"backgroundImageUrl\":\"https://data.getredo.com/redo/hero_52941c290477.webp\",\"cardBackgroundColor\":\"#FFFFFF\",\"cardBorderRadius\":0,\"cardBorderWidth\":0,\"cardBorderColor\":\"#D6D6D6\",\"cardShadowEnabled\":true,\"titleText\":\"Track your order\",\"titleColor\":\"#0F172A\",\"buttonText\":\"Track order\",\"buttonOverride\":{\"backgroundColor\":\"#ee364c\",\"textColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":4,\"stroke\":{\"color\":\"#ee364c\",\"weightPx\":1}},\"paddingPx\":8,\"font\":{\"fontFamily\":\"Arial\",\"fontSizePx\":16,\"fontWeight\":\"regular\"},\"enabled\":true},\"inputOverride\":{\"backgroundColor\":\"#ffffff\",\"textColor\":\"#000000\",\"border\":{\"cornerRadiusPx\":4,\"stroke\":{\"color\":\"#dddddd\",\"weightPx\":1}},\"paddingPx\":8,\"font\":{\"fontFamily\":\"Arial\",\"fontSizePx\":16,\"fontWeight\":\"regular\"},\"errorColor\":\"#ff0000\",\"enabled\":true},\"emailLabel\":\"Email or zip code\",\"emailPlaceholder\":\"Enter email or zip...\",\"orderLabel\":\"Order # or tracking #\",\"orderPlaceholder\":\"Enter order or tracking #...\"},\"loadingBackgroundColor\":null},\"brandKit\":{\"font\":{\"bodyFontFamily\":\"Arial\",\"fontFamily\":\"Arial\",\"headerFontFamily\":\"Arial\",\"hierarchy\":{\"body\":{\"fontSizePx\":16,\"fontWeight\":\"regular\"},\"h1\":{\"fontSizePx\":48,\"fontWeight\":\"bold\"},\"h2\":{\"fontSizePx\":36,\"fontWeight\":\"semibold\"},\"h3\":{\"fontSizePx\":30,\"fontWeight\":\"regular\"},\"subtext\":{\"fontSizePx\":14,\"fontWeight\":\"regular\"}}},\"images\":{\"bannerUrl\":\"\",\"faviconUrl\":\"\",\"logoBannerUrl\":\"\",\"logoUrl\":\"\"},\"buttons\":{\"primary\":{\"backgroundColor\":\"#000000\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#ffffff\"},\"secondary\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"},\"tertiary\":{\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":0}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"}},\"colors\":{\"accent\":\"#000000\",\"background\":\"#ffffff\"},\"customFontFamilies\":[{\"_id\":\"efb02265-5caa-4e0c-86d3-cd58ef98bed2\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"Montserrat Medium\",\"styles\":[{\"_id\":\"13574525-d0a6-4411-8c43-8225de5d5e19\",\"fontFileUrl\":\"https://data.getredo.com/redo/Montserrat_Medium_204fb6f8dfc2.ttf\",\"fontName\":\"Montserrat Medium\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"500\"}]},{\"_id\":\"b6cbc001-f3bc-413c-b454-1c430d40cae0\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"Montserrat SemiBold\",\"styles\":[{\"_id\":\"bde50121-f15d-4421-b7b1-512de614b763\",\"fontFileUrl\":\"https://data.getredo.com/redo/Montserrat_SemiBold_ff1a87a72100.ttf\",\"fontName\":\"Montserrat SemiBold\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"600\"}]},{\"_id\":\"b5d6686b-3119-4b23-bf2e-0023f9c10e7a\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"Montserrat\",\"styles\":[{\"_id\":\"708526a6-aaef-41ce-9022-ce3ba5250b11\",\"fontFileUrl\":\"https://data.getredo.com/redo/Montserrat_Bold_cf79a6f406e1.ttf\",\"fontName\":\"Montserrat\",\"fontStyle\":\"Bold\",\"italic\":false,\"weight\":\"700\"}]},{\"_id\":\"e03b04cc-a5bd-4036-bdcd-944458d2bac0\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"Montserrat ExtraBold\",\"styles\":[{\"_id\":\"566de869-68c4-4712-9d5f-6b5296604ce8\",\"fontFileUrl\":\"https://data.getredo.com/redo/Montserrat_ExtraBold_8b5f5c524adc.ttf\",\"fontName\":\"Montserrat ExtraBold\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"800\"}]}],\"inputs\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"errorColor\":\"#ff0000\",\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"}},\"extendedWarranties\":{\"enabled\":false,\"cartToggleExperience\":\"toggle\",\"pdpRenderMethod\":\"app_block\",\"popupExperience\":\"disabled\"},\"concierge\":{\"enabled\":false,\"placeConciergeProductForm\":false},\"marketing\":{\"enabled\":false,\"subscribeFromSaveForLater\":false,\"numEmbeddedFormsConfigured\":0,\"hasPublishedSignupForms\":false,\"hasEnabledNonEmbeddedSpotlights\":false},\"recover\":{\"enabled\":false},\"checkoutDeliveryEstimates\":{\"enabled\":false},\"conversion\":{\"enabled\":false},\"hsa\":{\"enabled\":false},\"loyalty\":{\"enabled\":false},\"useBuyNowCoverage\":false,\"autoNavigateToCheckoutAfterTimeout\":true,\"checkoutMethod\":\"navigate_after_add\",\"rescueCheckoutButtonsEnabled\":false,\"shouldNotUseStorefrontApi\":false,\"disableBusinessAccountInStorefront\":false,\"preventPageRefreshAfterCartAdd\":false,\"dispatchResizeAfterItemsPlaced\":false,\"coverageCreditIncentive\":{\"percentageSettings\":{\"percentage\":5,\"storeCreditAmountCap\":0},\"creditExpirationDays\":null,\"enabled\":false,\"expirationReminderDaysBefore\":null,\"fixedAmount\":5,\"minimumQualifyingPurchaseAmount\":0,\"sendEmail\":true,\"sendExpirationReminderEmail\":false,\"type\":\"fixed\"},\"purpleDotEnabled\":false,\"dynamicCoverageTransformFunctionEnabled\":false,\"billing\":{\"status\":\"up_to_date\"},\"localizationTextOverrides\":[],\"localizationGroups\":[],\"storefrontLoggingAllowedPercentage\":4,\"visitorObservationEnabled\":true,\"storefrontConsentEnabled\":false,\"localizationObjectId\":\"autocheck-6978efa9223c5f6cf2d21fa7\",\"customerTagTextOverride\":{\"customerTags\":[],\"enabled\":false},\"cartResponseCaptureEnabled\":true,\"coverageProductIds\":[\"10323016614170\",\"10323016548634\",\"10323016515866\",\"10323016646938\",\"10323016483098\"]},\"currency\":\"USD\",\"customerId\":null,\"language\":\"en\",\"country\":\"US\"}}"
+        },
+        {
+          "name": "ce_bot_detector",
+          "value": "{\"visits\":0,\"clicks\":2,\"firstVisitTime\":1794260920689,\"detected\":false}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxjGmclwoWVHnhS0SZFND\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxjGmclwoWVHnhS0SZFND\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "athos-history-atwjkh",
+          "value": "{}"
+        },
+        {
+          "name": "kimonix_merch_last_viewed_product_ids",
+          "value": "[10511087272218,10511087206682]"
+        },
+        {
+          "name": "gm_menu_attribution_currency_rate",
+          "value": "{\"rate\":1,\"ts\":1794260919239}"
+        },
+        {
+          "name": "_sbp",
+          "value": "011805ea-f1be-4219-94f9-1696fa46fda2"
+        },
+        {
+          "name": "athosCartProducts",
+          "value": "{\"value\":[{\"parentId\":\"10511087206682\",\"uid\":\"53393480646938\",\"sku\":\"SB1158-KR2026_L_M\",\"qty\":1,\"price\":64.95}]}"
+        },
+        {
+          "name": "marketShopStape",
+          "value": "{\"id\":\"54724395290\",\"code\":\"US\"}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxjGmclwoWVHnhS0SZFND\""
+        },
+        {
+          "name": "_bcai_aid",
+          "value": "011805ea-f1be-4219-94f9-1696fa46fda2"
+        },
+        {
+          "name": "athosUserId",
+          "value": "{\"value\":{\"value\":\"f8e32c46-664d-4ba5-ade9-d7e8059abbf7\",\"timestamp\":\"2026-11-09T21:48:43.054Z\"}}"
+        },
+        {
+          "name": "kimonix_merch_uid",
+          "value": "744900617"
+        },
+        {
+          "name": "redo.rolling_session",
+          "value": "{\"id\":\"redo-be53b4e2-e82b-4348-9923-ff50c33a16a4\",\"lastActivityMs\":1794260917440}"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://www.shoebacca.com/\",\"exp\":1796852896021}"
+        },
+        {
+          "name": "kimonix_merch_last_viewed_product_handles",
+          "value": "[\"wales-bonner-knit-long-sleeve-shirt-sb1158-hy5014\",\"portland-city-graphic-hoodie-sb1158-kr2026\"]"
+        },
+        {
+          "name": "redo_fees",
+          "value": "{\"expiry\":1794262718638,\"value\":{\"error\":\"The shop disabled coverage\"}}"
+        },
+        {
+          "name": "athosSessionId",
+          "value": "{\"value\":{\"value\":\"22cb279b-71f6-44cc-b990-1c028315ed1e\",\"timestamp\":\"2026-11-09T21:48:43.106Z\"}}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "gtmBrowserId",
+          "value": "1794261703465"
+        },
+        {
+          "name": "athosPageLoadId",
+          "value": "{\"value\":{\"href\":\"https://www.shoebacca.com/products/portland-city-graphic-hoodie-sb1158-kr2026\",\"value\":\"6eb431e3-3b2d-43e1-b1b9-6cbb724505c2\",\"timestamp\":\"2026-11-09T21:48:37.693Z\"}}"
+        },
+        {
+          "name": "bogos_discounts_apply",
+          "value": "[]"
+        },
+        {
+          "name": "cff_cart_persistify_storage",
+          "value": "{\"areCookiesEnabled\":true,\"wasLoggedInLastPageLoadKey\":false,\"lastStoredCartToken\":\"068edf4a93cd52be6bb0de4a416bde60\"}"
+        },
+        {
+          "name": "fieldMappingProductStape",
+          "value": "{\"10511087206682\":{\"category\":\"Clothing\",\"collections\":[{\"id\":496649371930,\"title\":\"adidas\",\"handle\":\"adidas\"},{\"id\":523171561754,\"title\":\"adidas Apparel\",\"handle\":\"adidas-apparel\"},{\"id\":524869533978,\"title\":\"adidas limited stock\",\"handle\":\"adidas-limited-stock\"},{\"id\":524869992730,\"title\":\"adidas New Arrivals\",\"handle\":\"adidas-new-arrivals\"},{\"id\":522028941594,\"title\":\"adidas VSR\",\"handle\":\"adidas-vsr\"},{\"id\":501632663834,\"title\":\"All Products\",\"handle\":\"all-products\"},{\"id\":447865454874,\"title\":\"Best Selling Products\",\"handle\":\"best-selling-products\"},{\"id\":527456076058,\"title\":\"Cold Weather Essentials\",\"handle\":\"cold-weather-comfort\"},{\"id\":455361429786,\"title\":\"Hoodies & Sweatshirts\",\"handle\":\"hoodies-sweatshirts\"},{\"id\":509398515994,\"title\":\"Men\",\"handle\":\"men\"},{\"id\":483696476442,\"title\":\"Men's adidas\",\"handle\":\"mens-adidas\"},{\"id\":519278461210,\"title\":\"Men's adidas Clothing\",\"handle\":\"mens-adidas-collection\"},{\"id\":519570293018,\"title\":\"Men's Adidas Tops & T-Shirts\",\"handle\":\"mens-adidas-tops-t-shirts\"},{\"id\":452560650522,\"title\":\"Men's Clothes\",\"handle\":\"mens-clothes\"},{\"id\":452568187162,\"title\":\"Men's Hoodies & Sweatshirts\",\"handle\":\"mens-hoodies-sweatshirts\"},{\"id\":515591045402,\"title\":\"Men's New Arrivals\",\"handle\":\"mens-new-arrivals\"},{\"id\":490360013082,\"title\":\"New Arrivals\",\"handle\":\"new-arrivals\"},{\"id\":520814690586,\"title\":\"New Arrivals from adidas & PUMA\",\"handle\":\"new-arrivals-from-adidas-puma\"},{\"id\":447865487642,\"title\":\"Newest Products\",\"handle\":\"newest-products\"},{\"id\":498684002586,\"title\":\"Summer Apparel Sale\",\"handle\":\"summer-apparel-sale\"},{\"id\":469763162394,\"title\":\"Sweatshirts, Hoodies & Outerwear $9.95 & Up\",\"handle\":\"sweatshirts-hoodies-outerwear-9-95-up\"},{\"id\":490773741850,\"title\":\"Winter Clothing\",\"handle\":\"winter-clothing\"}],\"metafields\":{\"custom\":{\"mansync\":\"11/05/2026 12:42:41\",\"validation\":[\"HasImage:True\",\"PriceAboveZero:True\"]}},\"variants\":{\"53393480646938\":{\"barcode\":\"198334318967\"}}}}"
+        },
+        {
+          "name": "ce_segment_visit_history",
+          "value": "{\"version\":3,\"pages\":[]}"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794520097493"
+        },
+        {
+          "name": "_xsd",
+          "value": "0|2"
+        },
+        {
+          "name": "sca_products_info",
+          "value": "N4IgJghgLhIFwG0C6AaEUCWBbApvAjAOwCcALAEwBsADMedefsWgMYCuAThzgHYsCe8EAFUAygBEQaADYB7FhGl44IXiAC+QA==="
+        },
+        {
+          "name": "sca_offers_added",
+          "value": "NoXSA==="
+        },
+        {
+          "name": "stape_events",
+          "value": "{}"
+        },
+        {
+          "name": "ce_fvd",
+          "value": "{\"landingUrl\":\"https://www.shoebacca.com/\",\"referrer\":\"\",\"time\":1794260898074,\"utm\":[],\"dailyVisitTime\":1794260898075,\"userData\":[]}"
+        },
+        {
+          "name": "redo.anonymous_shopper_id",
+          "value": "2081dffd-8c5a-496a-b1c3-afa3742187f7"
+        },
+        {
+          "name": "redo.anonymous_shopify_session_id",
+          "value": "redo-be53b4e2-e82b-4348-9923-ff50c33a16a4"
+        },
+        {
+          "name": "athos-track",
+          "value": "{\"siteId\":\"atds4v\"}"
+        },
+        {
+          "name": "athosViewedProducts",
+          "value": "{\"value\":[{\"sku\":\"SB1158-KR2026_L_M\",\"parentId\":\"10511087206682\",\"uid\":\"53393480646938\"}]}"
+        }
+      ]
+    }
+  ]
+}

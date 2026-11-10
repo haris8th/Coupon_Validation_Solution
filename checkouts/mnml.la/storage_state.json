@@ -1,0 +1,623 @@
+{
+  "cookies": [
+    {
+      "name": "GlobalE_Analytics",
+      "value": "{\"merchantId\":\"1819\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://webservices.global-e.com/\",\"clientId\":\"f82b97c3-6b2a-4845-9021-7e4dfba50e65\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794015067066}",
+      "domain": "mnml.la",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "PK",
+      "domain": "mnml.la",
+      "path": "/pro",
+      "expires": 1825551075.851062,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "localization",
+      "value": "PK",
+      "domain": "mnml.la",
+      "path": "/",
+      "expires": 1825551075.945416,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cart_currency",
+      "value": "PKR",
+      "domain": "mnml.la",
+      "path": "/",
+      "expires": 1795224675.662022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGzoWMyAAEAMs23eeI1mNFhzlgys4x-JAZ00CArj3KkKIFdZZmjdIJ_K8vxh2MDtok6OuByHk5Eb0F1ep2aXVnM80o:",
+      "domain": "mnml.la",
+      "path": "/",
+      "expires": 1825551058.736581,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGzoWQrAAEAvzQ1X1wYMX_Dh5Yhr7l4irZ74lrPGjmMcy_wAMTUQGWXuOCP7kW238bOvzdgIpPxC34ZEzyNH3Sc0GM:",
+      "domain": "mnml.la",
+      "path": "/",
+      "expires": 1825551058.736698,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGzoWQrAAEACFtz7ET_n9bsw287RGnJOz5ceM1VV2crSQvB6UGGk50wkZ3yuYt94I7uMpwTGFuu-bND85g-sizD_Qw:",
+      "domain": "mnml.la",
+      "path": "/",
+      "expires": 1825551058.736789,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ugc_vid_5729d9ff-6e5e-4ee6-b32d-6ceea0577906",
+      "value": "350264d8-bd74-4588-b79a-6e4913ee2ce1",
+      "domain": "mnml.la",
+      "path": "/",
+      "expires": 1825547460,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIr23MiZUyKnUJZcVeSx1P%3Fkey%3Dbf8984c4e0fb74f70b6d7db403c27828",
+      "domain": "mnml.la",
+      "path": "/",
+      "expires": 1801877475.983983,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "optimizelyEndUserId",
+      "value": "oeu1794015061017r0.31653240288652174",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1828575066.777072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__obref",
+      "value": "b6ed922f-6c50-42e6-8f10-52b335fab077",
+      "domain": "mnml.la",
+      "path": "/",
+      "expires": 1825551061.622578,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "styliticsWidgetSession",
+      "value": "13599be2-abfb-46ef-8d14-5b09fdddba0e",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1828575066.821462,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "19644dc0-2410-4df5-b97f-ddc5be1a8f8b",
+      "domain": "mnml.la",
+      "path": "/",
+      "expires": 1825547461,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "swym-session-id",
+      "value": "\"rh527w43rj9l3klsvz7dp7l2fy7t8yl7rh03qidwurbk4w61ax2fc9tigrki8rlb\"",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1794016873,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-pid",
+      "value": "\"WyK3BhM4QCH//hMg/bQwV3SaCOhNAgGAT8nZrzOyxcc=\"",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1825551067,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "2c.cId",
+      "value": "6aee7f58b5b946ecc781b049",
+      "domain": "mnml.la",
+      "path": "/",
+      "expires": 1828575075.079661,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Analytics",
+      "value": "{\"merchantId\":\"1819\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://webservices.global-e.com/\",\"clientId\":\"f82b97c3-6b2a-4845-9021-7e4dfba50e65\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794015062755}",
+      "domain": "mnml.la",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "swym-v-ckd",
+      "value": "1",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1794016863,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-swymRegid",
+      "value": "\"BhWCWj9BMNfhqlGFhk6B3LHc-GED4-iJjN2hrdZzvIRX6R1727KZQHMWFO5HEEVXZFCKlay7SEw5b5v711b85qLxzXL4c5ayGnxz6dyj0DcMG_ZXIjWTS4Fj6J0RGrkd30Y2FJ-Cvj86rPrLaWkbWhufsCg5uTt69DXRZecIhjA\"",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1825551070,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-email",
+      "value": "null",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1825551068,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "Shoplift_Session",
+      "value": "{\"isMerchant\":false,\"timestamp\":\"2026-11-07T01:31:05.265Z\",\"entryPage\":\"https://mnml.la/\",\"lastSeen\":1794015065265}",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "Shoplift_Essential",
+      "value": "{\"timestamp\":\"2026-11-07T01:31:06.533Z\",\"consentApproved\":true,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-07T01:30:59.290Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1825551066,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "Shoplift_Analytics",
+      "value": "{\"timestamp\":\"2026-11-07T01:31:06.533Z\",\"visitor\":null,\"queue\":[]}",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1825551066,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU5tSTRNbUprWTJRdE56QmtNaTAwT0RGbUxUbGpOelF0TTJSaE5HRXpPRFkxT1RFMg",
+      "domain": "mnml.la",
+      "path": "/",
+      "expires": 1825547465,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shd_s",
+      "value": "2321119a-9094-44fb-a896-622f82cc32d4",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1794016873.211594,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shd_y",
+      "value": "19644dc0-2410-4df5-b97f-ddc5be1a8f8b",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1825119074.970296,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tolstoy-anonymousId",
+      "value": "467f18e9-12c9-4051-a2c9-4bb5940f389b",
+      "domain": "mnml.la",
+      "path": "/",
+      "expires": 1796607067,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "swym-o_s",
+      "value": "{\"mktenabled\":false}",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1794016868,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GlobalE_Consent",
+      "value": "%7B%22required%22%3Afalse%2C%22groups%22%3A%7B%221%22%3A1%2C%222%22%3A1%2C%223%22%3A1%7D%7D",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_zFPiedSjQE6mzOqNYmJVcA%239687d138-adcf-4938-af70-e9a07258dc60-1794015065",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1825572680.459188,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GLBE_SESS_ID",
+      "value": "%7B%22sid%22%3A%22499968190.410453268.1819%22%2C%22expiry%22%3A%222026-11-07T02%3A01%3A16.248Z%22%7D",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1828575076.248596,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "forterToken",
+      "value": "0d171f5b56744e82bd50eaec3e154d70_1794015073218__UDF43_32ck_",
+      "domain": ".mnml.la",
+      "path": "/",
+      "expires": 1828575076,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://mnml.la",
+      "localStorage": [
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "nosto:visit",
+          "value": "6aee7f58b5b946ecc781b04a"
+        },
+        {
+          "name": "5718FABB002E",
+          "value": "AAy4aUf2hrecAVC0hvDlsb_hI9G-XiOuQM8myJTyS6Y69uSmb6OmzZ1RJV6b7EKZbDLj95pYo4OuG7qe71mgxgc9LPPAoA"
+        },
+        {
+          "name": "__rmco",
+          "value": "{\"channelIds\":{\"attr_sid\":\"124639\",\"aff_mid\":\"48052\"},\"scope\":\"\",\"version\":\"2\",\"productConsents\":{\"ranTrkInt\":true,\"ranTrkExt\":true,\"ranAut\":true,\"ranCGE\":true,\"rtbRet\":true,\"rtbPro\":true,\"cadTrk\":true,\"dspTrk\":true},\"execStatus\":1,\"consentSought\":false,\"sourceDomain\":\"mnml.la\",\"rmPurposeConsents\":[],\"rmVendorConsents\":[],\"id\":\"b57ef614-842a-4f7e-8969-0ffa3f10f7fe\",\"scnt\":0,\"maxAge\":1794016871541}"
+        },
+        {
+          "name": "gorgias.conversation-starters-timeout-cohort",
+          "value": "5000"
+        },
+        {
+          "name": "optimizely_data$$oeu1794015061017r0.31653240288652174$$9017801404$$tracker_optimizely",
+          "value": "null"
+        },
+        {
+          "name": "redo.spotlight.rescue",
+          "value": "{}"
+        },
+        {
+          "name": "nvdCurrency",
+          "value": "{\"active\":\"PKR\",\"rate\":\"284.69308\"}"
+        },
+        {
+          "name": "optimizely_data$$oeu1794015061017r0.31653240288652174$$9017801404$$event_queue",
+          "value": "null"
+        },
+        {
+          "name": "forterToken",
+          "value": "0d171f5b56744e82bd50eaec3e154d70,1794015076897"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-07T01:31:10.704Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-b3a1a72a-0893-48E2-DA53-5AB0086B7B23\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"mnml-4.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-b3a1a72a-0893-48E2-DA53-5AB0086B7B23\",\"event_date_time\":\"2026-11-07T01:31:10.704Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"19644dc0-2410-4df5-b97f-ddc5be1a8f8b\",\"page_url\":\"https://mnml.la/products/mnml-denim-super-stacked-denim-m2025-d682-wxb\",\"currency\":\"PKR\",\"product\":{\"product_id\":\"7004751364168\",\"product_title\":\"Super Stacked Denim - Waxed Black\",\"variant_id\":\"40780494798920\",\"variant_title\":\"Waxed Black / 28\",\"quantity\":1,\"variant_price\":26000,\"product_vendor\":\"mnml\"}}}}}]"
+        },
+        {
+          "name": "_predict_s",
+          "value": "7fab0ae2-717d-447d-aee7-14e2908dc300-1794015061172"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIr23MiZUyKnUJZcVeSx1P\""
+        },
+        {
+          "name": "_predict_s_la",
+          "value": "1794015076311"
+        },
+        {
+          "name": "optimizely_data$$oeu1794015061017r0.31653240288652174$$9017801404$$visitor_profile",
+          "value": "{\"profile\":{\"visitorId\":\"oeu1794015061017r0.31653240288652174\"},\"metadata\":{\"visitorId\":{}}}"
+        },
+        {
+          "name": "_predict_brand",
+          "value": "mnml-4.myshopify.com"
+        },
+        {
+          "name": "swym-instrumentMap",
+          "value": "{\"BhWCWj9BMNfhqlGFhk6B3LHc-GED4-iJjN2hrdZzvIRX6R1727KZQHMWFO5HEEVXZFCKlay7SEw5b5v711b85qLxzXL4c5ayGnxz6dyj0DcMG_ZXIjWTS4Fj6J0RGrkd30Y2FJ-Cvj86rPrLaWkbWhufsCg5uTt69DXRZecIhjA\":{\"rh527w43rj9l3klsvz7dp7l2fy7t8yl7rh03qidwurbk4w61ax2fc9tigrki8rlb\":{\"https://mnml.la/products/mnml-denim-super-stacked-denim-m2025-d682-wxb\":{\"1175\":[{\"channel\":\"swym-web-ui\",\"ts\":1794015071107}]}}}}"
+        },
+        {
+          "name": "StyliticsSessionID",
+          "value": "13599be2-abfb-46ef-8d14-5b09fdddba0e"
+        },
+        {
+          "name": "swym-products_timestamp",
+          "value": "0"
+        },
+        {
+          "name": "redo_fees",
+          "value": "{\"expiry\":1794016868716,\"value\":{\"error\":\"The shop disabled coverage\"}}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "rrp_treatment_id",
+          "value": "{\"expiry\":1794018668705,\"value\":\"6a5eca7a6c5ffd7b31bb8cb2\"}"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794274262126"
+        },
+        {
+          "name": "redo-product-info-7004751364168",
+          "value": "{\"expiry\":1794018673142,\"value\":{\"tags\":[\"1/9/26 launch\",\"30-off-july26\",\"6/24/26-mnml-day\",\"b denim\",\"b-fit denim collection\",\"back in\",\"black streetwear\",\"bts25-2026\",\"category:bottoms:denim\",\"category:bottoms:denim:stacked-waxed\",\"category:denim\",\"coated jeans streetwear\",\"color_black\",\"concert outfit men\",\"denim\",\"denim features_non-stretch denim\",\"denim features_non-zipper denim\",\"denim fit_flare denim\",\"edgy black jeans\",\"festival outfit men\",\"going out jeans men\",\"grin-influencer-product\",\"group:super-stacked-denim-group\",\"hidden on site\",\"just restocked\",\"labor-day-2026\",\"low stock\",\"nordstrom\",\"nsfeb26\",\"numbersizing\",\"over150stock\",\"rave fit mens bottoms\",\"relaxed-denim\",\"size_28\",\"size_29\",\"size_30\",\"size_31\",\"size_32\",\"size_33\",\"size_34\",\"size_36\",\"size_38\",\"size_40\",\"size_42\",\"stacked jeans men\",\"streetwear aesthetic\",\"void collection\",\"waxed denim\"],\"collections\":[],\"product\":{\"id\":7004751364168,\"title\":\"Super Stacked Denim - Waxed Black\",\"body_html\":\"<p><span>Constructed from 68% cotton 20% Polyester 11% Viscose 1% Spandex, the Super Stacked Denim features a bootcut fit with a fitted thigh and long rise. Designed for maximum stacking and flare effect, it includes a wide leg opening and a splatter wax coating for a distinct look. This denim is equipped with a standard waistband, standard 5 pocket layout, and a zipper fly.</span></p>\\n<p><strong>details</strong></p>\\n<ul>\\n<li>Flare fit with fitted thigh</li>\\n<li>Long rise and super long inseam</li>\\n<li>Wide leg opening for maximum stacking</li>\\n<li>Black denim with splatter wax coating</li>\\n<li>Standard waistband and 5 pocket design</li>\\n<li>Zipper fly</li>\\n<li>Model is 5'11\\\" and wears size 30</li>\\n</ul>\",\"vendor\":\"mnml\",\"product_type\":\"Denim\",\"created_at\":\"2025-11-02T21:06:20-08:00\",\"handle\":\"mnml-denim-super-stacked-denim-m2025-d682-wxb\",\"updated_at\":\"2026-11-06T17:31:13-08:00\",\"published_at\":\"2026-01-07T09:55:21-08:00\",\"template_suffix\":null,\"published_scope\":\"global\",\"tags\":\"1/9/26 Launch, 30-OFF-JULY26, 6/24/26-mnml-day, B Denim, B-Fit Denim Collection, back in, black streetwear, BTS25-2026, category:bottoms:denim, category:bottoms:denim:stacked-waxed, category:denim, coated jeans streetwear, color_BLACK, concert outfit men, Denim, Denim Features_NON-STRETCH DENIM, Denim Features_NON-ZIPPER DENIM, Denim Fit_Flare Denim, edgy black jeans, festival outfit men, going out jeans men, grin-influencer-product, group:super-stacked-denim-group, Hidden On Site, Just Restocked, Labor-Day-2026, Low Stock, Nordstrom, NSFeb26, numbersizing, Over150Stock, rave fit mens bottoms, relaxed-denim, Size_28, Size_29, Size_30, Size_31, Size_32, Size_33, Size_34, Size_36, Size_38, Size_40, Size_42, stacked jeans men, streetwear aesthetic, VOID Collection, waxed denim\",\"variants\":[{\"id\":40780494798920,\"product_id\":7004751364168,\"title\":\"Waxed Black / Waxed Black / 28\",\"price\":\"26000.00\",\"sku\":\"M2025-D682-WXB-28\",\"position\":1,\"inventory_policy\":\"deny\",\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Waxed Black\",\"option2\":\"Waxed Black\",\"option3\":\"28\",\"created_at\":\"2025-11-02T21:06:20-08:00\",\"updated_at\":\"2026-11-06T17:31:13-08:00\",\"taxable\":true,\"barcode\":\"198416809864\",\"grams\":680,\"image_id\":null,\"weight\":1.4991,\"weight_unit\":\"lb\",\"inventory_quantity\":106,\"old_inventory_quantity\":106,\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"PKR\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40780494831688,\"product_id\":7004751364168,\"title\":\"Waxed Black / Waxed Black / 29\",\"price\":\"26000.00\",\"sku\":\"M2025-D682-WXB-29\",\"position\":2,\"inventory_policy\":\"deny\",\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Waxed Black\",\"option2\":\"Waxed Black\",\"option3\":\"29\",\"created_at\":\"2025-11-02T21:06:20-08:00\",\"updated_at\":\"2026-11-06T17:31:13-08:00\",\"taxable\":true,\"barcode\":\"198416809871\",\"grams\":680,\"image_id\":null,\"weight\":1.4991,\"weight_unit\":\"lb\",\"inventory_quantity\":87,\"old_inventory_quantity\":87,\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"PKR\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40780494864456,\"product_id\":7004751364168,\"title\":\"Waxed Black / Waxed Black / 30\",\"price\":\"26000.00\",\"sku\":\"M2025-D682-WXB-30\",\"position\":3,\"inventory_policy\":\"deny\",\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Waxed Black\",\"option2\":\"Waxed Black\",\"option3\":\"30\",\"created_at\":\"2025-11-02T21:06:20-08:00\",\"updated_at\":\"2026-11-06T17:31:13-08:00\",\"taxable\":true,\"barcode\":\"198416809888\",\"grams\":680,\"image_id\":null,\"weight\":1.4991,\"weight_unit\":\"lb\",\"inventory_quantity\":150,\"old_inventory_quantity\":150,\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"PKR\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40780494897224,\"product_id\":7004751364168,\"title\":\"Waxed Black / Waxed Black / 31\",\"price\":\"26000.00\",\"sku\":\"M2025-D682-WXB-31\",\"position\":4,\"inventory_policy\":\"deny\",\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Waxed Black\",\"option2\":\"Waxed Black\",\"option3\":\"31\",\"created_at\":\"2025-11-02T21:06:20-08:00\",\"updated_at\":\"2026-11-06T17:31:13-08:00\",\"taxable\":true,\"barcode\":\"198416809895\",\"grams\":680,\"image_id\":null,\"weight\":1.4991,\"weight_unit\":\"lb\",\"inventory_quantity\":105,\"old_inventory_quantity\":105,\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"PKR\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40780494929992,\"product_id\":7004751364168,\"title\":\"Waxed Black / Waxed Black / 32\",\"price\":\"26000.00\",\"sku\":\"M2025-D682-WXB-32\",\"position\":5,\"inventory_policy\":\"deny\",\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Waxed Black\",\"option2\":\"Waxed Black\",\"option3\":\"32\",\"created_at\":\"2025-11-02T21:06:20-08:00\",\"updated_at\":\"2026-11-06T17:31:13-08:00\",\"taxable\":true,\"barcode\":\"198416809901\",\"grams\":680,\"image_id\":null,\"weight\":1.4991,\"weight_unit\":\"lb\",\"inventory_quantity\":150,\"old_inventory_quantity\":150,\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"PKR\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40780494962760,\"product_id\":7004751364168,\"title\":\"Waxed Black / Waxed Black / 33\",\"price\":\"26000.00\",\"sku\":\"M2025-D682-WXB-33\",\"position\":6,\"inventory_policy\":\"deny\",\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Waxed Black\",\"option2\":\"Waxed Black\",\"option3\":\"33\",\"created_at\":\"2025-11-02T21:06:20-08:00\",\"updated_at\":\"2026-11-06T17:31:13-08:00\",\"taxable\":true,\"barcode\":\"198416809918\",\"grams\":680,\"image_id\":null,\"weight\":1.4991,\"weight_unit\":\"lb\",\"inventory_quantity\":134,\"old_inventory_quantity\":134,\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"PKR\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40780494995528,\"product_id\":7004751364168,\"title\":\"Waxed Black / Waxed Black / 34\",\"price\":\"26000.00\",\"sku\":\"M2025-D682-WXB-34\",\"position\":7,\"inventory_policy\":\"deny\",\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Waxed Black\",\"option2\":\"Waxed Black\",\"option3\":\"34\",\"created_at\":\"2025-11-02T21:06:20-08:00\",\"updated_at\":\"2026-11-06T17:31:13-08:00\",\"taxable\":true,\"barcode\":\"198416809925\",\"grams\":680,\"image_id\":null,\"weight\":1.4991,\"weight_unit\":\"lb\",\"inventory_quantity\":150,\"old_inventory_quantity\":150,\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"PKR\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40780495028296,\"product_id\":7004751364168,\"title\":\"Waxed Black / Waxed Black / 36\",\"price\":\"26000.00\",\"sku\":\"M2025-D682-WXB-36\",\"position\":8,\"inventory_policy\":\"deny\",\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Waxed Black\",\"option2\":\"Waxed Black\",\"option3\":\"36\",\"created_at\":\"2025-11-02T21:06:20-08:00\",\"updated_at\":\"2026-11-06T17:31:13-08:00\",\"taxable\":true,\"barcode\":\"198416809932\",\"grams\":680,\"image_id\":null,\"weight\":1.4991,\"weight_unit\":\"lb\",\"inventory_quantity\":147,\"old_inventory_quantity\":147,\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"PKR\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40780495061064,\"product_id\":7004751364168,\"title\":\"Waxed Black / Waxed Black / 38\",\"price\":\"26000.00\",\"sku\":\"M2025-D682-WXB-38\",\"position\":9,\"inventory_policy\":\"deny\",\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Waxed Black\",\"option2\":\"Waxed Black\",\"option3\":\"38\",\"created_at\":\"2025-11-02T21:06:20-08:00\",\"updated_at\":\"2026-11-06T17:31:13-08:00\",\"taxable\":true,\"barcode\":\"198416809949\",\"grams\":680,\"image_id\":null,\"weight\":1.4991,\"weight_unit\":\"lb\",\"inventory_quantity\":143,\"old_inventory_quantity\":143,\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"PKR\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40780495093832,\"product_id\":7004751364168,\"title\":\"Waxed Black / Waxed Black / 40\",\"price\":\"26000.00\",\"sku\":\"M2025-D682-WXB-40\",\"position\":10,\"inventory_policy\":\"deny\",\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Waxed Black\",\"option2\":\"Waxed Black\",\"option3\":\"40\",\"created_at\":\"2025-11-02T21:06:20-08:00\",\"updated_at\":\"2026-11-06T17:31:13-08:00\",\"taxable\":true,\"barcode\":\"198416809956\",\"grams\":680,\"image_id\":null,\"weight\":1.4991,\"weight_unit\":\"lb\",\"inventory_quantity\":103,\"old_inventory_quantity\":103,\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"PKR\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40780495126600,\"product_id\":7004751364168,\"title\":\"Waxed Black / Waxed Black / 42\",\"price\":\"26000.00\",\"sku\":\"M2025-D682-WXB-42\",\"position\":11,\"inventory_policy\":\"deny\",\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Waxed Black\",\"option2\":\"Waxed Black\",\"option3\":\"42\",\"created_at\":\"2025-11-02T21:06:20-08:00\",\"updated_at\":\"2026-11-06T17:31:13-08:00\",\"taxable\":true,\"barcode\":\"198416809963\",\"grams\":680,\"image_id\":null,\"weight\":1.4991,\"weight_unit\":\"lb\",\"inventory_quantity\":66,\"old_inventory_quantity\":66,\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"PKR\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]}],\"options\":[{\"id\":9118227365960,\"product_id\":7004751364168,\"name\":\"Parent Color\",\"position\":1,\"values\":[\"White\",\"Waxed Black\",\"Blue\",\"Vintage Blue\"]},{\"id\":8989538025544,\"product_id\":7004751364168,\"name\":\"Color\",\"position\":2,\"values\":[\"White\",\"Waxed Black\",\"Blue\",\"Vintage Blue\"]},{\"id\":8989538058312,\"product_id\":7004751364168,\"name\":\"Size\",\"position\":3,\"values\":[\"28\",\"29\",\"30\",\"31\",\"32\",\"33\",\"34\",\"36\",\"38\",\"40\",\"42\"]}],\"images\":[{\"id\":32331991679048,\"product_id\":7004751364168,\"position\":1,\"created_at\":\"2026-01-05T07:42:15-08:00\",\"updated_at\":\"2026-01-06T01:19:56-08:00\",\"alt\":null,\"width\":1200,\"height\":1800,\"src\":\"https://cdn.shopify.com/s/files/1/1300/6871/files/Super-Stacked-Denim-Waxed-Black.jpg?v=1767691196\",\"variant_ids\":[]},{\"id\":32331991711816,\"product_id\":7004751364168,\"position\":2,\"created_at\":\"2026-01-05T07:42:15-08:00\",\"updated_at\":\"2026-01-06T01:19:57-08:00\",\"alt\":null,\"width\":1200,\"height\":1800,\"src\":\"https://cdn.shopify.com/s/files/1/1300/6871/files/Super-Stacked-Denim-Waxed-Black-2.jpg?v=1767691197\",\"variant_ids\":[]},{\"id\":32331991744584,\"product_id\":7004751364168,\"position\":3,\"created_at\":\"2026-01-05T07:42:15-08:00\",\"updated_at\":\"2026-01-06T01:19:58-08:00\",\"alt\":null,\"width\":1200,\"height\":1800,\"src\":\"https://cdn.shopify.com/s/files/1/1300/6871/files/Super-Stacked-Denim-Waxed-Black-3.jpg?v=1767691198\",\"variant_ids\":[]},{\"id\":32331991777352,\"product_id\":7004751364168,\"position\":4,\"created_at\":\"2026-01-05T07:42:15-08:00\",\"updated_at\":\"2026-01-06T01:19:59-08:00\",\"alt\":null,\"width\":1200,\"height\":1800,\"src\":\"https://cdn.shopify.com/s/files/1/1300/6871/files/Super-Stacked-Denim-Waxed-Black-4.jpg?v=1767691199\",\"variant_ids\":[]},{\"id\":32331991810120,\"product_id\":7004751364168,\"position\":5,\"created_at\":\"2026-01-05T07:42:15-08:00\",\"updated_at\":\"2026-01-06T01:20:01-08:00\",\"alt\":null,\"width\":1200,\"height\":1800,\"src\":\"https://cdn.shopify.com/s/files/1/1300/6871/files/Super-Stacked-Denim-Waxed-Black-5.jpg?v=1767691201\",\"variant_ids\":[]},{\"id\":32331991842888,\"product_id\":7004751364168,\"position\":6,\"created_at\":\"2026-01-05T07:42:15-08:00\",\"updated_at\":\"2026-01-06T01:20:02-08:00\",\"alt\":null,\"width\":1200,\"height\":1800,\"src\":\"https://cdn.shopify.com/s/files/1/1300/6871/files/Super-Stacked-Denim-Waxed-Black-6.jpg?v=1767691202\",\"variant_ids\":[]},{\"id\":32331991875656,\"product_id\":7004751364168,\"position\":7,\"created_at\":\"2026-01-05T07:42:15-08:00\",\"updated_at\":\"2026-01-06T01:20:03-08:00\",\"alt\":null,\"width\":1200,\"height\":1800,\"src\":\"https://cdn.shopify.com/s/files/1/1300/6871/files/Super-Stacked-Denim-Waxed-Black-7.jpg?v=1767691203\",\"variant_ids\":[]},{\"id\":32331991908424,\"product_id\":7004751364168,\"position\":8,\"created_at\":\"2026-01-05T07:42:15-08:00\",\"updated_at\":\"2026-01-06T01:20:04-08:00\",\"alt\":null,\"width\":1200,\"height\":1800,\"src\":\"https://cdn.shopify.com/s/files/1/1300/6871/files/Super-Stacked-Denim-Waxed-Black-8.jpg?v=1767691204\",\"variant_ids\":[]}],\"image\":{\"id\":32331991679048,\"product_id\":7004751364168,\"position\":1,\"created_at\":\"2026-01-05T07:42:15-08:00\",\"updated_at\":\"2026-01-06T01:19:56-08:00\",\"alt\":null,\"width\":1200,\"height\":1800,\"src\":\"https://cdn.shopify.com/s/files/1/1300/6871/files/Super-Stacked-Denim-Waxed-Black.jpg?v=1767691196\",\"variant_ids\":[]}},\"variantMetafields\":[]}}"
+        },
+        {
+          "name": "tolstoyViewers",
+          "value": "{\"undefined\":{\"impressionCount\":3,\"playCount\":0}}"
+        },
+        {
+          "name": "swym-fb-pixel-state-cache",
+          "value": "{\"observedPixelIds\":[],\"observedPixelIdsHash\":\"\",\"lastCheckedAt\":1794015069703,\"detectionStatus\":\"unknown\",\"lastDetectedAt\":null,\"lastAddToWishlistAttemptAt\":null,\"lastAddToWishlistFiredAt\":null}"
+        },
+        {
+          "name": "redo.anonymous_shopper_id",
+          "value": "0da0b7a1-5310-40f9-8168-f457f2c6b08a"
+        },
+        {
+          "name": "swym-products",
+          "value": "{\"all\":[]}"
+        },
+        {
+          "name": "Shoplift_Essential",
+          "value": "{\"timestamp\":\"2026-11-07T01:31:06.533Z\",\"consentApproved\":true,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-07T01:30:59.290Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":\"deactivated\",\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":false,\"chatTitle\":\"mnml Customer Service\",\"isConnected\":false,\"isChatOnline\":true,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"optional\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":false,\"replyType\":\"reply-dynamic\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "swym-authn_timestamp",
+          "value": "1794015068.485"
+        },
+        {
+          "name": "predict_shopify_cart_session_pairs_v1",
+          "value": "[\"mnml-4.myshopify.com\\u0000hWNIr23MiZUyKnUJZcVeSx1P\\u00007fab0ae2-717d-447d-aee7-14e2908dc300-1794015061172\"]"
+        },
+        {
+          "name": "optimizely_data$$oeu1794015061017r0.31653240288652174$$9017801404$$events",
+          "value": "null"
+        },
+        {
+          "name": "TW_EXT_product^added^to^cart_1794015070999",
+          "value": "{\"i\":\"sh-b3a1a72a-0893-48E2-DA53-5AB0086B7B23\",\"t\":1794015070999}"
+        },
+        {
+          "name": "swym-devices",
+          "value": "{\"all\":{\"current-device-id\":\"953a1387-773b-49b1-956f-5c0da4f28bc2\",\"bkt\":\"A\"}}"
+        },
+        {
+          "name": "optimizely_data$$oeu1794015061017r0.31653240288652174$$9017801404$$layer_map",
+          "value": "{}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "19644dc0-2410-4df5-b97f-ddc5be1a8f8b"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,%S:MW.R:wK%b<|hU1h}+X\\j;{rk>FbLb-R#L~~X)cy|dCK+{%x8+m:>KSeZg~/}V%F=E3<V&bm4j`V4Te8L|P:PuoNyZ3m_"
+        },
+        {
+          "name": "swym-sms-config",
+          "value": "{\"default-country-code\":null,\"supported-countries\":null,\"provider-type\":\"KLAVIYO_platform\"}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cart",
+          "value": "[{\"id\":\"M2025-D682-WXB-28\",\"name\":\"Super Stacked Denim - Waxed Black\",\"brand\":\"mnml\",\"category\":\"Denim\",\"variant\":\"Waxed Black / Waxed Black / 28\",\"position\":0,\"price\":\"26000.00\",\"quantity\":\"1\",\"productId\":\"7004751364168\",\"variantId\":\"40780494798920\",\"image\":\"https://cdn.shopify.com/s/files/1/1300/6871/files/Super-Stacked-Denim-Waxed-Black.jpg?v=1767691196\",\"url\":\"/products/mnml-denim-super-stacked-denim-m2025-d682-wxb?variant=40780494798920\",\"list\":\"\"}]"
+        },
+        {
+          "name": "ed73f20edbf2b73",
+          "value": "bc31908cc2f84fd9845afbc9f5f7b056_1827711076184"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU5tSTRNbUprWTJRdE56QmtNaTAwT0RGbUxUbGpOelF0TTJSaE5HRXpPRFkxT1RFMg\",\"expires\":\"2027-11-07T00:31:05.888Z\"}"
+        },
+        {
+          "name": "_predict_b_fs",
+          "value": "1794015061177"
+        },
+        {
+          "name": "redo_autocheck",
+          "value": "{\"expiry\":1794016866607,\"value\":{\"autocheck\":{\"teamId\":\"69d958585da033576e8b5edc\",\"widgetSlug\":\"9zk238aebiqparo\",\"icon\":\"gift\",\"iconColor\":\"\",\"iconBackgroundColor\":\"\",\"displayIcon\":false,\"storefrontAccessToken\":\"7563964b812b11abf5af1bbb5b88e017\",\"multistorefront\":[],\"toggleTextOptions\":{},\"exchangeBannerShowDoneButton\":true,\"disableRedoForCustomer\":false,\"respectForcedRemovalDuringEnsure\":false,\"redoAutoCheck\":true,\"selector\":\"\",\"paidModel\":\"customer_paid\",\"textColor\":\"#000000\",\"coverage\":{\"exchange\":false,\"refund\":false,\"storeCredit\":false},\"enabled\":true,\"logo\":\"\",\"coverageEnabled\":false,\"finalSaleTags\":[\"final-sale\"],\"protectionExcludeTags\":[],\"coverageExcludeCollections\":[],\"coverageExcludeDiscountCodes\":[],\"coverageExcludeProperties\":[],\"coverageExcludedVariantMetafields\":[],\"returnsCoverageExcludedSkus\":[],\"discountCodePartialMatch\":false,\"hideCheckboxBranding\":false,\"hideCheckbox\":true,\"hideCheckboxPrice\":false,\"attachmentStrategy\":\"checkout-button-product\",\"toggleSubtextEnabled\":true,\"countries\":[\"US\"],\"countriesPackageProtection\":[\"US\"],\"countriesFinalSaleReturns\":[],\"predictedCountry\":\"PK\",\"modalTextAdjustments\":{},\"infoModal\":{\"enableTopLayerModalApi\":true,\"version\":\"v2\"},\"shopSiteUseCartDiscounts\":false,\"excludeProductTags\":[],\"excludeProductSkus\":[],\"cartValueCalculationMethod\":\"cart_value_post_discount\",\"excludedItemProperties\":[],\"cartToggle\":{\"enabled\":true,\"cartReplaceItems\":false},\"widgetConfigs\":[],\"groupNearbyToggleElementsTogether\":true,\"hideRedoProduct\":{\"cartCountModifications\":[],\"cartDiscountModifications\":[],\"cartPriceModifications\":[],\"enabled\":true},\"packageProtection\":{\"coverageEnabled\":false,\"packageProtectionPlusEnabled\":false,\"percentage\":0,\"splitProducts\":false,\"minPrice\":0,\"packageProtectionPlusMerchantPaidPerOrderEnabled\":false,\"shouldRecordPackageProtectionExposure\":false,\"coverageExcludedCollections\":[],\"internationalInsurance\":{\"providerName\":\"UPSCIA\",\"termsUrl\":\"https://www.insureshield.com/content/terms-and-conditions/REDO_TermsandConditions.pdf\",\"ratePer100\":0.8,\"minimumPremium\":0},\"coverageExcludedVariantMetafields\":[]},\"packageProtectionAutoCheck\":true,\"setCheckoutToggleBasedOnOptInCartAttribute\":true,\"openShadowRoot\":false,\"checkoutExtensionEnabled\":false,\"fraudZipCoverageExclusionStrategy\":\"NO_OP\",\"forceIPAddressLocation\":false,\"excludePickup\":false,\"preProtectedOrdersEnabled\":false,\"internationalReturnsPricing\":[],\"currencyExchangeRate\":284.69308,\"finalSaleReturns\":{\"coverageEnabled\":false,\"coverageValidTags\":[],\"coverageValidCollections\":[],\"coverageValidCollectionTitles\":[],\"percentage\":0,\"minPrice\":0,\"maxPrice\":0,\"allCovered\":false,\"allEligible\":false},\"customerAccounts\":{\"enabled\":false,\"saveForLaterPanel\":{\"enabled\":false}},\"customerWidgetEnabled\":false,\"chatWidgetScriptTagInstalled\":false,\"contextual\":{\"enabled\":false},\"reviews\":{\"enabled\":false},\"orderTrackingLogin\":{\"enabled\":false,\"settings\":null,\"loadingBackgroundColor\":null},\"brandKit\":{\"font\":{\"bodyFontFamily\":\"Arial\",\"fontFamily\":\"Arial\",\"headerFontFamily\":\"Arial\",\"hierarchy\":{\"body\":{\"fontSizePx\":16,\"fontWeight\":\"regular\"},\"h1\":{\"fontSizePx\":48,\"fontWeight\":\"bold\"},\"h2\":{\"fontSizePx\":36,\"fontWeight\":\"semibold\"},\"h3\":{\"fontSizePx\":30,\"fontWeight\":\"regular\"},\"subtext\":{\"fontSizePx\":14,\"fontWeight\":\"regular\"}}},\"images\":{\"bannerUrl\":\"\",\"faviconUrl\":\"\",\"logoBannerUrl\":\"\",\"logoUrl\":\"\"},\"buttons\":{\"primary\":{\"backgroundColor\":\"#000000\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#ffffff\"},\"secondary\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"},\"tertiary\":{\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":0}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"}},\"colors\":{\"accent\":\"#000000\",\"background\":\"#ffffff\"},\"customFontFamilies\":[],\"inputs\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"errorColor\":\"#ff0000\",\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"}},\"extendedWarranties\":{\"enabled\":false,\"cartToggleExperience\":\"toggle\",\"pdpRenderMethod\":\"app_block\",\"popupExperience\":\"disabled\"},\"concierge\":{\"enabled\":true,\"placeConciergeProductForm\":false},\"marketing\":{\"enabled\":true,\"subscribeFromSaveForLater\":false,\"numEmbeddedFormsConfigured\":0,\"hasPublishedSignupForms\":false,\"hasEnabledNonEmbeddedSpotlights\":false,\"backInStockInsertionMode\":\"APPEND_CHILD\"},\"recover\":{\"enabled\":false},\"checkoutDeliveryEstimates\":{\"enabled\":false},\"conversion\":{\"enabled\":true,\"deliveryEstimate\":{\"enabled\":false},\"predictiveConversion\":{\"enabled\":true,\"activeCheckoutHazardModel\":true,\"activeCheckoutTreeHasCheckoutProbabilitySegment\":false,\"rescueModal\":{\"configuration\":{\"enabled\":false,\"ui\":{\"button\":{\"text\":\"Apply discount\",\"subtext\":{\"shouldShow\":\"if_coverage_eligible\",\"value\":\"(Checkout+ included)\"}},\"title\":\"Your discount is waiting\",\"description\":\"Go to checkout with the button below to complete your purchase and save on this order.\",\"placement\":\"TOP_LEFT\"}},\"activeSplit\":{\"treatments\":[{\"_id\":\"6a5eca7a6c5ffd7b31bb8cb1\",\"rescuePanelConfig\":{\"enabled\":false}},{\"_id\":\"6a5eca7a6c5ffd7b31bb8cb2\",\"rescuePanelConfig\":{\"enabled\":true,\"spotlightId\":\"6a5eca4668ececf2fdfb4c3a\"}}],\"selectedTreatmentId\":\"6a5eca7a6c5ffd7b31bb8cb2\"}}},\"pricingTest\":null},\"hsa\":{\"enabled\":false},\"loyalty\":{\"enabled\":false},\"useBuyNowCoverage\":false,\"autoNavigateToCheckoutAfterTimeout\":true,\"checkoutMethod\":\"navigate_after_add\",\"rescueCheckoutButtonsEnabled\":false,\"shouldNotUseStorefrontApi\":false,\"disableBusinessAccountInStorefront\":false,\"preventPageRefreshAfterCartAdd\":false,\"dispatchResizeAfterItemsPlaced\":false,\"purpleDotEnabled\":false,\"dynamicCoverageTransformFunctionEnabled\":false,\"billing\":{\"status\":\"missing_billing_info\"},\"localizationTextOverrides\":[],\"localizationGroups\":[],\"storefrontLoggingAllowedPercentage\":4,\"visitorObservationEnabled\":true,\"storefrontConsentEnabled\":false,\"localizationObjectId\":\"autocheck-69d958585da033576e8b5edc\",\"customerTagTextOverride\":{\"customerTags\":[],\"enabled\":false},\"cartResponseCaptureEnabled\":true,\"coverageProductIds\":[]},\"currency\":\"PKR\",\"customerId\":null,\"language\":\"en\",\"country\":\"PK\"}}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIr23MiZUyKnUJZcVeSx1P\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIr23MiZUyKnUJZcVeSx1P\",\"customerProfileId\":null,\"countryCode\":\"PK\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "optimizely_data$$pending_events",
+          "value": "{}"
+        },
+        {
+          "name": "swym-rapps_cache",
+          "value": "[{\"app\":\"Wishlist\",\"is-paid\":true,\"enabled\":true,\"sfl-enabled\":true}]"
+        },
+        {
+          "name": "swym-authn",
+          "value": "{\"all\":{\"email\":null,\"regn\":{\"di\":\"953a1387-773b-49b1-956f-5c0da4f28bc2\",\"pid\":\"WyK3BhM4QCH//hMg/bQwV3SaCOhNAgGAT8nZrzOyxcc=\",\"email\":\"\",\"authn?\":false},\"regid\":null,\"authn\":false}}"
+        },
+        {
+          "name": "ed73f20edbf2b74",
+          "value": "0:1:1794015071559:1794015071559:c3566285a989a0e6c91e733da762bba1"
+        },
+        {
+          "name": "_predict_b",
+          "value": "b0efeadd-c592-4c87-bcd8-e4d72cf6690a-1794015061173"
+        },
+        {
+          "name": "optimizely_data$$oeu1794015061017r0.31653240288652174$$9017801404$$variation_map",
+          "value": "{}"
+        },
+        {
+          "name": "_gAttributionWindow",
+          "value": "30"
+        },
+        {
+          "name": "redo.rolling_session",
+          "value": "{\"id\":\"redo-60d224db-fb91-4905-a2f4-cc9763e5762d\",\"lastActivityMs\":1794015066448}"
+        },
+        {
+          "name": "GlobalE_Analytics",
+          "value": "{\"merchantId\":\"1819\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://webservices.global-e.com/\",\"clientId\":\"f82b97c3-6b2a-4845-9021-7e4dfba50e65\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794015067066}"
+        },
+        {
+          "name": "tolstoy-anonymousId",
+          "value": "467f18e9-12c9-4051-a2c9-4bb5940f389b"
+        },
+        {
+          "name": "__rmid",
+          "value": "e8f71e2c-90e4-4a52-8191-342af9a885f0:1801791071552"
+        },
+        {
+          "name": "optimizely_data$$oeu1794015061017r0.31653240288652174$$9017801404$$session_state",
+          "value": "{\"lastSessionTimestamp\":1794015066700,\"sessionId\":\"721bb545-dad0-4278-97bf-2ff1ca4ce057\"}"
+        },
+        {
+          "name": "optimizely_data$$oeu1794015061017r0.31653240288652174$$9017801404$$layer_states",
+          "value": "[]"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,|By%-Df=kkY&=:}D01bD~l*\u007fP{{5\u007f+rVy<vm&<YL`*#OcgNdm9Eq1F+I?dNGsMPF @t-Pj-I(Z1RU5q$-%"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,H'9F5|6o47C|H>u[r^?P'In`[!+jnQZPj7rOH7EB%!B?,`o0Z'H(W][V/Vj|_\\M:aztbu]Zm6!9*2nVpWy"
+        },
+        {
+          "name": "swym-wishlisthkey_timestamp",
+          "value": "0"
+        },
+        {
+          "name": "swym-rconfig_cache",
+          "value": "{\"v\":\"73-0\",\"settings\":{\"SA\":{\"Title\":\"Shopping Assistant\",\"Anchor\":{\"Placement\":\"bottom-right\"},\"Enabled\":false,\"Color\":\"#7E57C2\"},\"Integrations\":{\"Review\":\"none\"},\"General\":{\"EngageUI\":{\"Settings\":{\"IsPaid\":false,\"TrialExpiryDate\":\"2026-11-08\"},\"Enabled\":true},\"Currency\":\"$\",\"HostedPages\":{\"SharedWishlist\":\"/pages/swym-share-wishlist\"},\"IgnoreCacheTS\":1792016935348,\"UseMoneyFormat\":true,\"BaseURL\":\"\",\"Enabled\":true,\"LogoutClean\":true,\"RetailerID\":\"\",\"MarketsEnabled\":false},\"Wishlist\":{\"AddedButtonColor\":\"#d2b791\",\"AllowToggle\":false,\"FaveCountSelector\":\".swym-fave-count\",\"EnableCollections\":true,\"UseCustomButton\":false,\"ButtonColor\":\"#d3c1a1\",\"CustomIcon\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDcuMS1jMDAwIDc5LjljY2M0ZGU5MywgMjAyMi8wMy8xNC0xNDowNzoyMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QUUyNUM1QTkyMzJCMTFFRTg0QzBBNjlBNTY5NDE0QkMiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QUUyNUM1QTgyMzJCMTFFRTg0QzBBNjlBNTY5NDE0QkMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDIzLjMgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpBRTI1QzVBNDIzMkIxMUVFODRDMEE2OUE1Njk0MTRCQyIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpBRTI1QzVBNTIzMkIxMUVFODRDMEE2OUE1Njk0MTRCQyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pl1JmaMAAAQoSURBVHja3JnPS1tbEMcnNzGp0acmREhfwWYhaO17fVipChXRSpHUlQvtRqh15aaLUhfqRsU/QN1kUXFlF6IbjbQLyysIRVQ0YH9guyhW8NlAFX9EY02i580cJkGF3Js0tr124IPxes6d752ce87MaBBCQJL2B+JC/kZKkELkKuJEjDzmCPEjq8gHZBF5i3xGAsk4MyQh0IZcR+4hNcifLNaKpMWZE0aCLGod+Rd5gbxHts5LoJUj1YTcRS4jl+D77BvyBXmJPOPIBlVnkEAVbMhj5B0SEednEb7nY/YRV4OauALEg3wVP86+so+CZAXeQp4jIfHjLcS+biUq8BriFT/fvOz7lB7lzJJ0II8QN/x8c7Nvx8mLphOf05EHyP0z10/Z7u4u+Hw+WFtbk78bjUbNl/Do6AjsdjuUlpZCbm5uvKEm9v0J8SAHJwUakJvIQ8Qe7w7b29swPDwMo6OjEAqFwGKxgNY2pSgKHB4eSpF1dXXQ2toKTqcz3nA7a5hFZuj5ogKzOXqFas4ocmNjY2Cz2aCmpkYKJKFqlpaWJh9ifn4evF4v5OfnQ1NTk9qUQtZCm/l2VOBfvAmrfl8rKysQiUSgubkZ6uvrY1+h6klgMEjKysqgra0NlpeXZTRVloaRtZCm1yY+rur4hND8urKysiAnJ0c6jQpIxDIyMsDhcEhh4XBYa+1eZk1LCh/8dxCLlhO66fHxMQSDwaRf0b29PSnMbDbLB9UwC2ty0cgbyJVEHX1H9nMq0knMJ003FH57M0F/RppuksAC3gP1ZqSpQOFk06xDgaTpqsKZsF7Nqeg0erEoKqBzI4EhHesLKVx96dX8CpeGKUeRNuD19XVYXV2VJ8Z5RI+0kcCP0dwrFXGUqbS0tMhEYnBwEA4ODlIVSDf4SAJ9dFSmIm5iYgK6urpkpkOpWH9/PwwNDck8MAUjTT7KZt4g/yV6HtOZevI8nZ6ehu7ubpkpDwwMQHZ2NvT09EBfXx9kZmbK3M9kMsXmJJr9sKY3Jm5HvEL+0cpoKI8jBySCbHZ2Ftrb28FqtUJvby8UFRXJ652dnbCzsyOv0d8aGxtlyk/ZEEWVMiINO2RNnxVuSzznil8zelST+P1+WFhYgI6OjpiQ8vLy2DiXyyWjmpeXJ39OTU3BxsaGRO6+Zs2z4QtrCkTLuxzkqVb3YGZmRmBdIaqqqgQKEsXFxQJfjrjjFxcXRXV1tSgpKRFut1tUVlaK8fHxRLoOT1lTrC6mHs1tbkfEtf39fTEyMiJqa2ulw8nJSc1id25uTjQ0NIiKigrh8XjE1taW1pR3rMVwtnBPR54gm2qzcQ2JpaUlgbWFwLWUUEWOtYzAJSECgYDW0E3WkB6vs+DgXkn4F3QWwuzbcaFaHxeyeXQh2m+6aWDqvgX8WzTRf+m/If4XYADVmf6HSVmfVgAAAABJRU5ErkJggg==\",\"ButtonIcon\":\"custom\",\"CustomFavoriteButtonClass\":\"link-wishlist\",\"headerConfig\":{\"desktop\":{\"attachButtonSelector\":\"\",\"cloneAttachSelectorElement\":true,\"appendBefore\":true,\"iconConfig\":{\"iconText\":\"Wishlist\",\"headerCounter\":false,\"iconType\":\"icon\"},\"removeClasses\":[\"\"],\"Enabled\":false},\"mobile\":{\"attachButtonSelector\":\"\",\"cloneAttachSelectorElement\":true,\"appendBefore\":true,\"iconConfig\":{\"iconText\":\"Wishlist\",\"headerCounter\":false,\"iconType\":\"text\"},\"removeClasses\":[],\"Enabled\":false}},\"CreateCustomButton\":false,\"EnableFaveCount\":false,\"ButtonType\":\"icon\",\"AttachButtonSelector\":\"figure.product-selected-image\",\"MailingListCheckInPopup\":true,\"CustomFavoriteButtonSelector\":\"a.custom-wishlist\",\"ShowBadge\":true,\"Enabled\":true,\"ToggleSwitchState\":true,\"EnableVariantSelectionModal\":true,\"CreateCustomButtonBefore\":\"\",\"AllowSharing\":true,\"EnableSwymWishlist\":true,\"NoButtonInject\":false},\"Watchlist\":{\"Topics\":[\"backinstock\"],\"ISASubscriptionMessageColor\":\"#88877H\",\"ButtonType\":\"icontext\",\"ISASubscriptionMessageCTA\":\"Text me\",\"InlineForm\":true,\"ISAToggleMessageCTA\":\"SMS\",\"ISAToggleMessageColor\":\"#88877H\",\"NoButtonInject\":true,\"VariantSelectorInPopup\":false},\"Notification\":{\"EnableSanta\":false,\"Frequency\":300000,\"NTs\":{},\"MaxPerSession\":0,\"EnablePriceCheck\":false,\"EnableStockCheck\":false},\"Strings\":{\"AcceptMarketingPopUpPhonePlaceholder\":\"Enter your phone number\",\"fr\":{\"AutoWishlistTitle\":\"Celui-ci est un coup de c\u0153ur !\",\"SaveListPopupFormCTASave\":\"Sauvegarder la liste\",\"SFLMoveAllToCartCTA\":\"D\u00e9placez-vous dans le panier\",\"SharedWishlistOpenToEditCTA\":\"Cliquez ici pour modifier.\",\"SaveListPopupRequiredText\":\"Champs obligatoires\",\"AcceptMarketingPopUpSuccessMessage\":\"Veuillez confirmer le lien de v\u00e9rification envoy\u00e9 \u00e0 votre \u00e9-mail et r\u00e9pondre au message texte pour \u00eatre inform\u00e9 de vos articles en liste de souha[...]\",\"ShareWishlistLinkGenerationEmptyList\":\"Impossible de partager la liste vide. S'il vous pla\u00eet, ajoutez des produits \u00e0 cette liste avant le partage.\",\"ShareWishlistNamePlaceholder\":\"Votre nom complet (facultatif)\",\"RecentlyViewedEmptyMsg\":\"Trouvez vos articles r\u00e9cemment consult\u00e9s ici. Cette liste continuera \u00e0 mettre \u00e0 jour lorsque vous parcourez les produits. Vous pouvez trouver au maximum le plus[...]\",\"SFLPopupTitle\":\"Voulez-vous enregistrer ce produit pour plus tard?\",\"SaveListPopupFormLastNameLabel\":\"Nom\",\"AddWishlistPopupTitle\":\"Ajouter \u00e0 la liste\",\"AcceptMarketingPopUpMailingListCaption\":\"S'inscrire \u00e0 la Newsletter\",\"AddWishlistPopupCTASaveAdd\":\"Ajouter \u00e0 la liste\",\"ThemeAppStorefrontLayoutRemoveSFLItemCTA\":\"Retirer des Articles Sauvegard\u00e9s\",\"ThemeAppStorefrontLayoutSaveForLaterTitle\":\"Articles Sauvegard\u00e9s\",\"SharedWishlistRedirectListHeading\":\"Redirection vers votre liste ...\",\"DuplicateWishlistNotificationError\":\"Erreur lors de la duplication de la liste. Veuillez r\u00e9essayer.\",\"ThemeAppStorefrontLayoutAddToCollectionsTitle\":\"Ajoutez cet article \u00e0 une liste\",\"AddToCartCTAAdding\":\"Veuillez patienter...\",\"ViewListCTA\":\"Voir la liste\",\"ShareWishlistMessage\":\"Message\",\"SharedWishlistLoginText\":\"Vous devez vous connecter pour modifier et collaborer sur cette liste.\",\"ThemeAppStorefrontLayoutEmptyWishlistDescription\":\"Ajoutez plus d'articles \u00e0 cette liste et visualisez-les ici\",\"AutoWishlistRemovedMessage\":\"Article retir\u00e9 de votre liste de souhaits\",\"EmptyWishlistsHeading\":\"Vous aimez ce bijou ? Ajoutez le \u00e0 votre Wishlist\",\"ThemeAppStorefrontLayoutEmptySingleLoggedInTitle\":\"Ce que vous ne sauvegardez pas, vous l'oubliez\",\"ThemeAppStorefrontLayoutNotificationMessageMovedToCart\":\"D\u00e9plac\u00e9 vers le panier\",\"ThemeAppStorefrontLayoutEmptyCollectionsDescription\":\"Ajoutez plus d'articles \u00e0 cette liste et visualisez-les ici\",\"ThemeAppStorefrontLayoutEmptySflLoginCTA\":\"Se connecter pour enregistrer en permanence\",\"ShareWishlistEmailCTA\":\"Partager la liste\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInDescription\":\"Organisez par pi\u00e8ce, occasion ou destinataire du cadeau \u2014 nommez-la comme vous voulez.\",\"ThemeAppStorefrontLayoutAwNudgeLoginCTA\":\"Se connecter\",\"SaveListPopupSummaryCTALogin\":\"Connexion\",\"ThemeAppStorefrontLayoutTextItems\":\"articles\",\"RecentlyViewedNotificationCTA\":\"Voir\",\"AddWishlistPopupCTAAddNew\":\"Cr\u00e9er une nouvelle liste\",\"ThemeAppStorefrontLayoutEditCollectionCTA\":\"Modifier\",\"ShareWishlistRecipientsEmail\":\"Nom destinataire\",\"SFLRemoveCTA\":\"Retirer\",\"SharedWishlistListLabel\":\"Liste\",\"ThemeAppStorefrontLayoutLoginMessage\":\"Connectez-vous pour sauvegarder vos affaires d\u00e9finitivement et y acc\u00e9der partout et \u00e0 tout moment !\",\"ThemeAppStorefrontLayoutTitle\":\"Ma Liste de Souhaits\",\"CollectionsRemoveItemCTA\":\"Supprimer de la liste\",\"SaveListPopupOnLogoutSuccess\":\"D\u00e9connexion r\u00e9ussie\",\"SFLListTitle\":\"Enregistr\u00e9 pour plus tard \",\"AcceptMarketingPopUpHeading\":\"Vous aimez?\\nInscrivez-vous pour des mises \u00e0 jour sur vos produits pr\u00e9f\u00e9r\u00e9s\",\"BackToListofListsCTA\":\"Retour\",\"AddToCartCTAUnavailable\":\"Non disponible\",\"AcceptMarketingPopUpEmailPrivacy\":\"En vous inscrivant, vous acceptez notre \",\"ShareWishlistLoginPopupMessage\":\"Veuillez vous connecter pour partager votre liste de souhaits.\",\"ShareWishlistLoginPopupHeading\":\"Veuillez vous connecter pour partager votre liste de souhaits.\",\"SaveListPopupSummaryText\":\"Vous \u00eates connect\u00e9 entant qu' invit\u00e9... Vous pouvez cr\u00e9er un compte, ou bien enregistrer vos produit en entrant votre adresse mail.\",\"AddToCartSuccessText\":\"<span class='swym-emphasis'>{{variantName}}</span> a bien \u00e9t\u00e9 ajout\u00e9 au panier.\",\"SaveListPopupFormHeading\":\"Enregistrer Votre liste\",\"AddWishlistAddSuccess\":\"<span class='swym-emphasis'>{{variantName}}</span> a \u00e9t\u00e9 ajout\u00e9 \u00e0 <span class='swym-emphasis'>{{#multipleLists}}{{noLists}} listes{{/multipleLists}}{{^multipleList[...]\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInTag3\":\"Nouvel appartement\",\"ShareWishlistShareViaLabel\":\"Partager via\",\"DeleteWishlistPopupCTAClear\":\"Supprimer la liste\",\"ThemeAppStorefrontLayoutEmptySflSignupCTA\":\"S'inscrire \u2014 cela prend une minute\",\"ThemeAppStorefrontLayoutMoveingToCartCTA\":\"D\u00e9placement...\",\"ThemeAppStorefrontLayoutAddToCollectionCTA\":\"Ajouter \u00e0 la liste\",\"DuplicateWishlistNotificationStart\":\"Nous dupliquons <span class='swym-emphasis'>{{wishlistName}}</span>...\",\"ThemeAppStorefrontLayoutNotificationActionView\":\"Voir\",\"CreateUserError\":\"Echec de l'inscription. Merci de r\u00e9-essayer.\",\"CollectionsVariantSelectorChooseActionText\":\"Choisissez ou cr\u00e9ez une nouvelle Wishlist\",\"ThemeAppStorefrontLayoutAddingToCartCTA\":\"Ajout en cours\",\"SharedWishlistProductsHeading\":\"Des produits\",\"ThemeAppStorefrontLayoutUpdateCollectionTitle\":\"Mettre \u00e0 Jour la liste\",\"EmptyWishlistsText\":\"Votre Wishlist vous permet de retrouver tous les produit que vous avez rep\u00e9r\u00e9s, que vous soyez sur votre t\u00e9l\u00e9phone, ordinateur ou tablette. Vous n'aurez pas \u00e0 les chercher une nouvelle fois : tout est stock\u00e9 ici, \u00e0 un seul endroit !\",\"AddWishlistDefaultNewTitle\":\"Ma Wishlist\",\"ShareWishlistTwitter\":\"Twitter\",\"AddAllToCartErrorText\":\"Impossible d'ajouter tous les produit au panier\",\"ThemeAppStorefrontLayoutEmptyGuestBrowseCTA\":\"Continuer \u00e0 parcourir d'abord\",\"ClearWishlistPopupHeading\":\"\u00cates-vous s\u00fbr(e) ?\",\"DuplicateWishlistPopupHeading\":\"Dupliquer la liste\",\"ShareWishlistLoginPopupCTALogin\":\"Se connecter\",\"AddToWishlistNudgeMsg\":\"Vous n'\u00eates pas s\u00fbr d'acheter? Ajoutez ce produit \u00e0 la liste de souhaits et achetez plus tard.\",\"ThemeAppStorefrontLayoutEmptyGuestDescription\":\"Appuyez sur \u2661 sur n'importe quel produit. Il atterrit ici pour que vous ne le perdiez pas.\",\"ShareWishlistPopupNoteDefault\":\"Bonjour ! J'ai cr\u00e9\u00e9 cette liste : {{wishlistName}}\",\"SaveListPopupFormFirstNameLabel\":\"Pr\u00e9nom\",\"ThemeAppStorefrontLayoutNotificationMessageCollectionDeleted\":\"Liste Supprim\u00e9e\",\"ThemeAppStorefrontLayoutEmptySflStep1Title\":\"Depuis votre panier\",\"ThemeAppStorefrontLayoutEmptySflStep2Title\":\"Lors de la suppression du panier\",\"AddToCartCTAAlreadyAdded\":\"Ajout\u00e9 au panier\",\"ThemeAppStorefrontLayoutEmptyGuestTitle\":\"Sauvegardez pendant que vous parcourez\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInCreateDescription\":\"Donnez-lui un nom et commencez \u00e0 ajouter\",\"DuplicateWishlistPopupCTACancel\":\"Annuler\",\"ClearWishlistPopupCTACancel\":\"Non, j'ai chang\u00e9 d'avis\",\"ThemeAppStorefrontLayoutAddToCartCTA\":\"Ajouter au Panier\",\"ShareWishlistAlternateShareLabel\":\"ou partager via\",\"BackToListCTA\":\"Retour aux produit\",\"SaveListPopupSummaryCTASave\":\"Enregistrer la liste\",\"AddAllToCartSuccessText\":\"Nous avons ajout\u00e9 <span class='swym-emphasis'>{{addCount}} produit </span> au panier\",\"VariantSelectorSavingText\":\"Enregistrement..\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInTitle\":\"Cr\u00e9ez votre premi\u00e8re liste pour commencer\",\"AcceptMarketingPopUpSubscribeCTA\":\"Sauvegarder\",\"ShareWishlistPopupHeading\":\"Partager votre liste par email\",\"ThemeAppStorefrontLayoutAwNudgeMessageSub\":\"Pour y acc\u00e9der depuis n'importe quel appareil.\",\"GuestShopperTitle\":\"Invit\u00e9\",\"ThemeAppStorefrontLayoutEmptySingleLoggedInDescription\":\"Ce produit auquel vous comptiez revenir ? D\u00e9j\u00e0 sorti de votre m\u00e9moire.\",\"ShareWishlistEmailPlaceholder\":\"shopper@example.com\",\"SFLOpenCartCTA\":\"Page ouverte du panier\",\"ThemeAppStorefrontLayoutLoggedUserWelcomeMessage\":\"Bienvenue !\",\"SaveListPopupSummaryHeading\":\"Enregistrer votre liste\",\"ThemeAppStorefrontLayoutNotificationActionGoToCart\":\"Aller au Panier\",\"ShareWishlistRequiredText\":\"Champs obligatoires\",\"SFLPopupSecondaryButtonText\":\"Non, merci!\",\"SaveListPopupFormText\":\"Merci de saisir votre adresse  email. Vous recevrez un lien de validation.\",\"SFLListPriceText\":\"Total\",\"SharedWishlistLoginCTA\":\"Se connecter\",\"ThemeAppStorefrontLayoutErrorMessageListNameRequired\":\"Nom requis\",\"SaveListPopupLoggedInCTASave\":\"D\u00e9connexion\",\"SaveListPopupLoggedInHeading\":\"Sauvegarder votre liste\",\"ThemeAppStorefrontLayoutAwNudgeTitle\":\"Vos articles sauvegard\u00e9s vous attendent\",\"SFLListProductText\":\"Produit\",\"SFLPopupQtyText\":\"Quantit\u00e9\",\"ThemeAppStorefrontLayoutSoldoutCTA\":\"\u00c9puis\u00e9\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInTag5\":\"Configuration bureau\",\"ShareWishlistCopyLinkText\":\"Copier le lien\",\"RecentlyViewedEmptyHeading\":\"Continuez \u00e0 naviguer\",\"ThemeAppStorefrontLayoutEmptyGuestSignupCTA\":\"S'inscrire \u2014 \u00e7a prend une minute\",\"ThemeAppStorefrontLayoutShareCollectionCTA\":\"Partager la liste de souhaits\",\"SharedWishlistEmptyText\":\"La liste que vous essayez de partager est vide. Une liste vide ne peut pas \u00eatre partag\u00e9e.\",\"ThemeAppStorefrontLayoutEmptyGuestMultiNotice\":\"Les sauvegardes restent pendant cette session. <strong>Connectez-vous pour les conserver et les organiser en listes.</strong>\",\"AddedToWishlistNudgeCTA\":\"Ajout\u00e9 \u00e0 la liste de souhaits\",\"AddToSFLCTA\":\"Garder pour plus tard\",\"ClearWishlistPopupConfirmMessage\":\"Voulez-vous retirer <span class='swym-emphasis'>all</span> produit de <span class='swym-emphasis'>{{listName}}</span>?\",\"ThemeAppStorefrontLayoutEmptySavedForLaterDescription\":\"Sauvegardez les articles de votre panier ici jusqu'\u00e0 ce que vous soyez pr\u00eat\",\"ThemeAppStorefrontLayoutRemoveItemCTA\":\"Retirer de la liste\",\"ThemeAppStorefrontLayoutLoginHeading\":\"Vos collections sont ici pour toujours !\",\"SFLAddToCartCTA\":\"Ajouter au panier\",\"ThemeAppStorefrontLayoutRenameCollectionCTA\":\"Renommer\",\"RecentlyViewedNotificationSubHeader\":\"Trouvez ceci dans votre liste de souhaits\",\"ThemeAppStorefrontLayoutEmptySflDescription\":\"D\u00e9placez des articles de votre panier sans les perdre. Revenez quand vous \u00eates pr\u00eat.\",\"CollectionsCreateListPlaceholder\":\"Entrez le nom de la Wishlist\",\"DeleteWishlistPopupHeading\":\"\u00cates-vous s\u00fbr(e) ?\",\"AutoWishlistUndoText\":\"Annuler\",\"ThemeAppStorefrontLayoutShareCollectionTitle\":\"Regarde \u00c7a !\",\"ThemeAppStorefrontLayoutTabWishlist\":\"Liste de Souhaits\",\"ThemeAppStorefrontLayoutAwNudgeDismiss\":\"Fermer\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInCreateTitle\":\"+ Cr\u00e9er une nouvelle liste\",\"DeleteWishlistPopupCTACancel\":\"Non merci\",\"ThemeAppStorefrontLayoutNotificationMessageCollectionUpdated\":\"Vos listes ont \u00e9t\u00e9 mises \u00e0 jour\",\"ThemeAppStorefrontLayoutCollectionsTitle\":\"Mes listes\",\"ThemeAppStorefrontLayoutEmptySflStep1Description\":\"Appuyez sur \\\"Enregistrer pour plus tard\\\" \u00e0 c\u00f4t\u00e9 de n'importe quel article du panier pour le d\u00e9placer ici\",\"ThemeAppStorefrontLayoutEmptySingleLoggedInBullet3\":\"Les onglets se ferment. Les paniers se r\u00e9initialisent. Votre liste de souhaits non.\",\"ThemeAppStorefrontLayoutNotificationActionAddToCollection\":\"Ajouter \u00e0 la Liste +\",\"RecentlyViewedEmptyCTA\":\"Continuer vos achats\",\"ThemeAppStorefrontLayoutNotificationMessageAddedToCollection\":\"Article ajout\u00e9 \u00e0 votre liste\",\"SaveListPopupFormCTACancel\":\"Retour\",\"EmptyWishlistsCTA\":\"Revenir au site\",\"ThemeAppStorefrontLayoutEmptyCarouselCollectionsDescription\":\"Vos listes sont vides !\",\"ThemeAppStorefrontLayoutNotificationActionViewCollection\":\"Voir la liste\",\"ThemeAppStorefrontLayoutAddedToCartCTA\":\"Ajout\u00e9 au Panier\",\"AddToCartCTACannotAdd\":\"Epuis\u00e9\",\"SFLShareCTA\":\"Partager\",\"RecentlyViewedCTA\":\"Articles consult\u00e9s r\u00e9cemment\",\"AcceptMarketingPopUpCancelCTA\":\"Annuler\",\"ThemeAppStorefrontLayoutTabSavedForLater\":\"Articles Sauvegard\u00e9s\",\"RecentlyViewedHeaderBackText\":\"Dos\",\"AutoWishlistFeedbackTitle\":\"Smart Save : Vous aimez ?\",\"DeleteWishlistPopupConfirmMessage\":\"Etes-vous certain(e) de vouloir supprimer <span class='swym-color-2'>{{listName}}?</span>\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInTag2\":\"Cadeau pour maman\",\"ThemeAppStorefrontLayoutMoveToCartCTA\":\"D\u00e9placer vers le Panier\",\"ClearWishlistPopupCTAClear\":\"Oui, retirez les produit de ma liste\",\"ThemeAppStorefrontLayoutErrorMessageListNameRequired3Char\":\"Le nom doit contenir au moins 3 caract\u00e8res\",\"WishlistMainTitle\":\"Ma Wishlist\",\"ThemeAppStorefrontLayoutSaveCollectionCTA\":\"Enregistrer la liste\",\"ShareWishlistSenderName\":\"Nom exp\u00e9diteur\",\"ThemeAppStorefrontLayoutEmptyGuestLoginCTA\":\"Se connecter pour sauvegarder en permanence\",\"ThemeAppStorefrontLayoutShareCollectionMessage\":\"Voir ma liste\",\"SharedSflLoginText\":\"Vous devez vous connecter pour modifier cette liste\",\"ThemeAppStorefrontLayoutTextItem\":\"article\",\"ThemeAppStorefrontLayoutLoginButtonCTA\":\"Se Connecter pour Sauvegarder\",\"ThemeAppStorefrontLayoutNotificationMessageItemRemoved\":\"Article Supprim\u00e9\",\"ThemeAppStorefrontLayoutAwNudgeMessage\":\"{count} articles enregistr\u00e9s pour vous pendant votre navigation !\",\"AutoWishlistMessage\":\"Nous l'avons ajout\u00e9 \u00e0 votre liste de souhaits pour ne pas le perdre.\",\"ThemeAppStorefrontLayoutWishlistInfo\":\"Ajoutez aux listes et organisez\",\"DuplicateWishlistPopupCTADuplicate\":\"Sauvegarder une copie\",\"ThemeAppStorefrontLayoutSfyLoginBarCTA\":\"Se connecter pour sauvegarder\",\"SFLListEmptyText\":\"Aucun produit n'est actuellement sauv\u00e9\",\"SharedWishlistReadOnlyCTA\":\"Pour modifier la liste, connectez-vous avec l'e-mail avec lequel il a \u00e9t\u00e9 partag\u00e9.\",\"ThemeAppStorefrontLayoutEmptyCollectionsTitle\":\"Cette listes est vide\",\"ViewWishlistNudgeCTA\":\"Voir votre liste de souhaits\",\"ThemeAppStorefrontLayoutEmptyGuestSignupText\":\"Pas de compte ?\",\"ShareWishlistFacebook\":\"Facebook\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInCTA\":\"Parcourir et sauvegarder d'abord\",\"AcceptMarketingPopUpSubHeading\":\"Acc\u00e9dez \u00e0 votre liste de souhaits \u00e0 partir de n'importe quel appareil et obtenez des mises \u00e0 jour de produit\",\"AddWishlistUpdateSuccess\":\"<span class='swym-emphasis'>{{variantName}}</span> a \u00e9t\u00e9 mis \u00e0 jour dans <span class='swym-emphasis'>{{#multipleLists}}{{noLists}} listes{{/multipleLists}}{{^multipleLists}}1 liste{{/multip[...]\",\"ShareWishlistLoginPopupText\":\"Vous magasinez actuellement de mani\u00e8re anonyme.\",\"AcceptMarketingPopUpEmailPlaceholder\":\"Entrez votre adresse email\",\"AddAllToSFLCTA\":\"Enregistrer tout pour plus tard\",\"SharedWishlistGoToListCTA\":\"Liste de GOTO\",\"ShareWishlistGooglePlus\":\"Google Plus\",\"ThemeAppStorefrontLayoutEmptySflLoggedInNotice\":\"Les articles enregistr\u00e9s ici <strong>restent en permanence</strong> jusqu'\u00e0 ce que vous les remettiez dans le panier ou que vous les suppr[...]\",\"ThemeAppStorefrontLayoutEmptySflTitle\":\"Pas pr\u00eat \u00e0 acheter quelque chose? Garez-le ici\",\"ThemeAppStorefrontLayoutEmptySingleLoggedInBullet1\":\"Les prix changent. Sauvegarder vous permet de profiter d'une baisse avant qu'il ne soit trop tard.\",\"ThemeAppStorefrontLayoutNotificationMessageSFLItemRemoved\":\"Retir\u00e9 des Articles Sauvegard\u00e9s\",\"ThemeAppStorefrontLayoutExplicitNudgeMessage\":\"{count} articles dans votre liste de souhaits !\",\"ThemeAppStorefrontLayoutWishlistTitle\":\"Autres articles dans ma Liste de Souhaits\",\"ThemeAppStorefrontLayoutNotificationMessageSFLItemSaved\":\"Sauvegard\u00e9 pour Plus Tard\",\"SFLSaveItemsText\":\"Enregistrer certains produits pour plus tard dans la page du panier\",\"AddToCartCTACanAdd\":\"Ajouter au anier\",\"ThemeAppStorefrontLayoutEmptySingleLoggedInBullet2\":\"Le stock s'\u00e9puise. Une liste de souhaits r\u00e9serve votre place sans engager votre portefeuille.\",\"ThemeAppStorefrontLayoutEmptySavedForLaterTitle\":\"Aucun article sauvegard\u00e9 pour plus tard\",\"SFLPopupButtonText\":\"Garner pour plus tard\",\"RecentlyViewedHeader\":\"Articles consult\u00e9s r\u00e9cemment\",\"DuplicateWishlistCopyingPlaceholder\":\"Nous copions la liste... Merci de patienter\",\"SharedWishlistRestrictedHeading\":\"Vous n'\u00eates pas autoris\u00e9(e) \u00e0 partager cette liste.\",\"WishlistAddedCTA\":\"Ajout\u00e9 \u00e0 Wishlist\",\"AcceptMarketingPopUpFailMessage\":\"Oups, quelque chose s'est mal pass\u00e9! Pourriez-vous s'il vous pla\u00eet r\u00e9essayer?\",\"ThemeAppStorefrontLayoutEmptySingleLoggedInCTA\":\"Commencer \u00e0 parcourir\",\"ThemeAppStorefrontLayoutSfyLoginBarMessage\":\"Connectez-vous pour conserver vos articles sauvegard\u00e9s entre les sessions.\",\"SaveListPopupFormEmailLabel\":\"Votre adresse email\",\"AddWishlistPopupCTASaveUpdate\":\"Mettre \u00e0 jour les listes\",\"ThemeAppStorefrontLayoutEmptySflGoToCartCTA\":\"Aller au panier\",\"ThemeAppStorefrontLayoutEmptyWishlistTitle\":\"Votre liste de souhaits est vide\",\"AutoWishlistFeedbackMessage\":\"Nous nous souviendrons de votre pr\u00e9f\u00e9rence.\",\"VariantSelectDoneCTA\":\"Termin\u00e9\",\"ThemeAppStorefrontLayoutNotificationMessageAddedToCart\":\"Ajout\u00e9 au Panier\",\"AddToWishlistNudgeCTA\":\"Ajouter \u00e0 la liste de souhaits\",\"WishlistAddCTA\":\"Ajouter \u00e0 Wishlist\",\"ThemeAppStorefrontLayoutErrorMessageListNameAlreadyExist\":\"Le nom existe d\u00e9j\u00e0\",\"ThemeAppStorefrontLayoutDeleteCollectionCTA\":\"Supprimer la liste\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInBrowseLabel\":\"OU PARCOUREZ D'ABORD, ORGANISEZ PLUS TARD\",\"CollectionsCreateListTitle\":\"Nommez votre Wishlist\",\"ThemeAppStorefrontLayoutNotificationMessageCollectionSaved\":\"Liste Enregistr\u00e9e\",\"ThemeAppStorefrontLayoutEmptySflSignupText\":\"Pas de compte?\",\"SFLTabCTA\":\"Enregistr\u00e9 pour plus tard\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInTag4\":\"Liste d'anniversaire\",\"SFLSavedListTitle\":\"Enregistr\u00e9 pour plus tard\",\"SharedWishlistRestrictedText\":\"Merci de vous connecter avec un compte diff\u00e9rent ou de v\u00e9rifier avec le propri\u00e9taire de la liste que vous avez la permission de la partager.\",\"VariantSelectorBtnText\":\"S\u00e9lectionner la variante\",\"SharedWishlistLoginAnotherAccountCTA\":\"Connectez-vous \u00e0 un autre compte\",\"ThemeAppStorefrontLayoutSharedCollectionMessage\":\"Cette liste a \u00e9t\u00e9 partag\u00e9e par {{email}}. Vous pouvez l'enregistrer pour la modifier\",\"ThemeAppStorefrontLayoutCreateCollectionCTA\":\"Cr\u00e9er une Nouvelle liste\",\"ThemeAppStorefrontLayoutEmptySflGuestNotice\":\"Les articles enregistr\u00e9s lors de cette session disparaissent lorsque vous partez. <strong>Connectez-vous pour les conserver lors de vos visite[...]\",\"ThemeAppStorefrontLayoutEmptyGuestSingleNotice\":\"Les sauvegardes restent pendant cette session. <strong>Connectez-vous pour les conserver en permanence.</strong>\",\"ThemeAppStorefrontLayoutSfyLoginBarTitle\":\"Sauvegardez vos articles pour toujours\",\"SaveListPopupLoggedInCTACancel\":\"Annuler\",\"ThemeAppStorefrontLayoutNotificationMessageItemSaved\":\"Article Sauvegard\u00e9\",\"ThemeAppStorefrontLayoutNotificationMessageCollectionUnavailable\":\"Liste indisponible ou supprim\u00e9e\",\"ThemeAppStorefrontLayoutViewCartCTA\":\"Voir le Panier\",\"SaveListPopupFormPlaceholder\":\"Entrez votre adresse email\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInTag1\":\"R\u00e9novation du salon\",\"ThemeAppStorefrontLayoutEmptySflStep2Description\":\"Choisissez \\\"Enregistrer pour plus tard\\\" sur l'invite au lieu de supprimer d\u00e9finitivement\",\"ThemeAppStorefrontLayoutSaveNewCollectionCTA\":\"Enregistrer\"},\"AcceptMarketingPopUpPhoneSuccessMessage\":\"Please respond to the message we sent to confirm your number\",\"AcceptMarketingPopUpSuccessMessage\":\"Check your inbox to complete saving your Wishlist\",\"ja\":{\"AutoWishlistTitle\":\"\u3053\ufffd\ufffd\u306f\u304a\u6c17\u306b\u5165\u308a\u30ea\u30b9\u30c8\u5165\u308a\uff01\",\"SaveListPopupFormCTASave\":\"\u30ea\u30b9\u30c8\u3092\u4fdd\u5b58\u3059\u308b\",\"SFLMoveAllToCartCTA\":\"\u3059\u3079\u3066\u3092\u30ab\u30fc\u30c8\u306b\u79fb\u52d5\u3059\u308b\",\"SharedWishlistOpenToEditCTA\":\"\u7de8\u96c6\u3059\u308b\u306b\u306f\u3053\u3053\u3092\u30af\u30ea\u30c3\u30af\u3057\u3066\u304f\u3060\u3055\u3044\u3002\",\"SaveListPopupRequiredText\":\"\u5fc5\u8981\u306a\u30d5\u30a3\u30fc\u30eb\u30c9\",\"AcceptMarketingPopUpSuccessMessage\":\"\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\u306b\u767b\u9332\u3057\u305f\u5546\u54c1\u306b\u95a2\u3059\u308b\u901a\u77e5\u3092\u53d7\u3051\u53d6\u308b\u306b\u306f\u3001\u96fb\u5b50\u30e1\u30fc\u30eb\u306b\u9001\u4fe1\u3055\u308c\u305f\u78ba\u8a8d\u30ea\u30f3\u30af\u3092\u78ba\u8a8d\u3057\u3001\u30c6\u30ad[...]\",\"ShareWishlistLinkGenerationEmptyList\":\"\u7a7a\u306e\u30ea\u30b9\u30c8\u306f\u5171\u6709\u3067\u304d\u307e\u305b\u3093\u3002\u5171\u6709\u3059\u308b\u524d\u306b\u3001\u3053\u306e\u30ea\u30b9\u30c8\u306b\u3044\u304f\u3064\u304b\u306e\u88fd\u54c1\u3092\u8ffd\u52a0\u3057\u3066\u304f\u3060\u3055\u3044\u3002\",\"ShareWishlistNamePlaceholder\":\"\u6c0f\u540d (\u4efb\u610f\uff09\",\"RecentlyViewedEmptyMsg\":\"\u6700\u8fd1\u95b2\u89a7\u3057\u305f\u30a2\u30a4\u30c6\u30e0\u306f\u3053\u3053\u304b\u3089\u898b\u3064\u3051\u3066\u304f\u3060\u3055\u3044\u3002\u3053\u306e\u30ea\u30b9\u30c8\u306f\u3001\u88fd\u54c1\u3092\u95b2\u89a7\u3059\u308b\u305f\u3073\u306b\u66f4\u65b0\u3055\u308c\u7d9a\u3051\u307e\u3059\u3002\u3053\u3053\u3067\u306f\u3001\u6700[...]\",\"SFLPopupTitle\":\"\u3053\u306e\u5546\u54c1\u3092\u5f8c\u3067\u898b\u308b\u305f\u3081\u306b\u4fdd\u5b58\u3057\u307e\u3059\u304b\uff1f\",\"SaveListPopupFormLastNameLabel\":\"\u82d7\u5b57\",\"AddWishlistPopupTitle\":\"\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0\",\"AcceptMarketingPopUpMailingListCaption\":\"\u30cb\u30e5\u30fc\u30b9\u30ec\u30bf\u30fc\u3092\u8cfc\u8aad\u3059\u308b\",\"AddWishlistPopupCTASaveAdd\":\"\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0\",\"ThemeAppStorefrontLayoutRemoveSFLItemCTA\":\"\u3042\u3068\u3067\u8cfc\u5165\u304b\u3089\u524a\u9664\",\"ThemeAppStorefrontLayoutSaveForLaterTitle\":\"\u3042\u3068\u3067\u8cfc\u5165\",\"SharedWishlistRedirectListHeading\":\"\u30ea\u30b9\u30c8\u306b\u30ea\u30c0\u30a4\u30ec\u30af\u30c8\u3057\u3066\u3044\u307e\u3059\",\"DuplicateWishlistNotificationError\":\"\u30ea\u30b9\u30c8\u306e\u8907\u88fd\u4e2d\u306b\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3057\u307e\u3057\u305f\u3002\u3082\u3046\u4e00\u5ea6\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002\",\"ThemeAppStorefrontLayoutAddToCollectionsTitle\":\"\u3053\u306e\u5546\u54c1\u3092\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0\",\"AddToCartCTAAdding\":\"\u8ffd\u52a0\u4e2d\",\"ViewListCTA\":\"\u30ea\u30b9\u30c8\u3092\u898b\u308b\",\"ShareWishlistMessage\":\"\u30e1\u30c3\u30bb\u30fc\u30b8\",\"SharedWishlistLoginText\":\"\u3053\u306e\u30ea\u30b9\u30c8\u3092\u7de8\u96c6\u3057\u3066\u5171\u540c\u4f5c\u696d\u3059\u308b\u306b\u306f\u3001\u30ed\u30b0\u30a4\u30f3\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\",\"ThemeAppStorefrontLayoutEmptyWishlistDescription\":\"\u3053\u306e\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\u306b\u30a2\u30a4\u30c6\u30e0\u3092\u8ffd\u52a0\u3059\u308b\u3068\u3001\u3053\u3053\u306b\u8868\u793a\u3055\u308c\u307e\u3059\",\"AutoWishlistRemovedMessage\":\"\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\u304b\u3089\u5546\u54c1\u3092\u524a\u9664\u3057\u307e\u3057\u305f\",\"EmptyWishlistsHeading\":\"\u5927\u597d\u304d\u3067\u3059\uff1f\u307b\u3057\u3044\u7269\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0\u3057\u3066\u304f\u3060\u3055\u3044\",\"ThemeAppStorefrontLayoutEmptySingleLoggedInTitle\":\"\u4fdd\u5b58\u3057\u306a\u3044\u3082\u306e\u306f\u5fd8\u308c\u3066\u3057\u307e\u3044\u307e\u3059\",\"ThemeAppStorefrontLayoutNotificationMessageMovedToCart\":\"\u30ab\u30fc\u30c8\u306b\u79fb\u52d5\u3057\u307e\u3057\u305f\",\"ThemeAppStorefrontLayoutEmptyCollectionsDescription\":\"\u3053\u306e\u30ea\u30b9\u30c8\u306b\u5546\u54c1\u3092\u8ffd\u52a0\u3059\u308b\u3068\u3001\u3053\u3053\u306b\u8868\u793a\u3055\u308c\u307e\u3059\",\"ThemeAppStorefrontLayoutEmptySflLoginCTA\":\"\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u6c38\u4e45\u306b\u4fdd\u5b58\",\"ShareWishlistEmailCTA\":\"\u30ea\u30b9\u30c8\u3092\u30b7\u30a7\u30a2\u3059\u308b\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInDescription\":\"\u90e8\u5c4b\u3001\u6a5f\u4f1a\u3001\u8d08\u308b\u76f8\u624b\u5225\u306b\u6574\u7406 \u2014 \u597d\u304d\u306a\u540d\u524d\u3092\u4ed8\u3051\u3089\u308c\u307e\u3059\u3002\",\"ThemeAppStorefrontLayoutAwNudgeLoginCTA\":\"\u30ed\u30b0\u30a4\u30f3\",\"SaveListPopupSummaryCTALogin\":\"\u30ed\u30b0\u30a4\u30f3\",\"ThemeAppStorefrontLayoutTextItems\":\"\u30a2\u30a4\u30c6\u30e0\",\"RecentlyViewedNotificationCTA\":\"\u30d3\u30e5\u30fc\",\"AddWishlistPopupCTAAddNew\":\"\u65b0\u3057\u3044\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3059\u308b\",\"ThemeAppStorefrontLayoutEditCollectionCTA\":\"\u7de8\u96c6\",\"ShareWishlistRecipientsEmail\":\"\u53d7\u4fe1\u8005\u306e\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\",\"SFLRemoveCTA\":\"\u53d6\u308a\u9664\u304f\",\"SharedWishlistListLabel\":\"\u30ea\u30b9\u30c8\",\"ThemeAppStorefrontLayoutLoginMessage\":\"\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u3001\u3042\u306a\u305f\u306e\u3082\u306e\u3092\u6c38\u4e45\u306b\u4fdd\u5b58\u3057\u3001\u3044\u3064\u3067\u3082\u3069\u3053\u3067\u3082\u30a2\u30af\u30bb\u30b9\u3057\u307e\u3057\u3087\u3046\uff01\",\"ThemeAppStorefrontLayoutTitle\":\"\u30de\u30a4\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\",\"CollectionsRemoveItemCTA\":\"\u30ea\u30b9\u30c8\u304b\u3089\u524a\u9664\",\"SaveListPopupOnLogoutSuccess\":\"\u30ea\u30b9\u30c8\u306e\u63a5\u7d9a\u304c\u6b63\u5e38\u306b\u89e3\u9664\u3055\u308c\u307e\u3057\u305f\",\"SFLListTitle\":\"\u305d\u306e\u5f8c\u306e\u305f\u3081\u306b\u4fdd\u5b58\",\"AcceptMarketingPopUpHeading\":\"\u6c17\u306b\u5165\u308a\u307e\u3057\u305f\u304b?\\n\u304a\u6c17\u306b\u5165\u308a\u306e\u88fd\u54c1\u306b\u95a2\u3059\u308b\u66f4\u65b0\u60c5\u5831\u3092\u767b\u9332\u3057\u3066\u304f\u3060\u3055\u3044\",\"BackToListofListsCTA\":\"\u623b\u308b\",\"AddToCartCTAUnavailable\":\"\u5229\u7528\u3067\u304d\u307e\u305b\u3093\",\"AcceptMarketingPopUpEmailPrivacy\":\"\u8cfc\u8aad\u3059\u308b\u3053\u3068\u3067\u3001\u3042\u306a\u305f\u306f\u79c1\u305f\u3061\u306e \",\"ShareWishlistLoginPopupMessage\":\"\u307b\u3057\u3044\u7269\u30ea\u30b9\u30c8\u3092\u5171\u6709\u3059\u308b\u306b\u306f\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u304f\u3060\u3055\u3044\u3002\",\"ShareWishlistLoginPopupHeading\":\"\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u307b\u3057\u3044\u7269\u3092\u5171\u6709\u3059\u308b\",\"SaveListPopupSummaryText\":\"\u73fe\u5728\u533f\u540d\u3067\u8cb7\u3044\u7269\u3092\u3057\u3066\u3044\u307e\u3059\u3002\u30ed\u30b0\u30a4\u30f3\u3059\u308b\u304b\u3001E\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b\u3057\u3066\u304a\u6c17\u306b\u5165\u308a\u306e\u30a2\u30a4\u30c6\u30e0\u3092\u4fdd\u5b58\u3057\u3066\u304f\u3060\u3055\u3044\u3002\\\"[...]\",\"AddToCartSuccessText\":\"<span class='swym-emphasis'>{{variantName}}</span> \u304c\u30ab\u30fc\u30c8\u306b\u6b63\u5e38\u306b\u8ffd\u52a0\u3055\u308c\u307e\u3057\u305f\u3002\",\"SaveListPopupFormHeading\":\"\u30ea\u30b9\u30c8\u3092\u4fdd\u5b58\u3059\u308b\",\"AddWishlistAddSuccess\":\"<span class='swym-emphasis'>{{variantName}}</span> \u304c <span class='swym-emphasis'>{{#multipleLists}}{{noLists}} \u30ea\u30b9\u30c8\u306b{{/multipleLists}}{{^multipleLists}}1\u30ea...\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInTag3\":\"\u65b0\u3057\u3044\u30a2\u30d1\u30fc\u30c8\",\"ShareWishlistShareViaLabel\":\"\u5171\u6709 \u7d4c\u7531\",\"DeleteWishlistPopupCTAClear\":\"\u30ea\u30b9\u30c8\u3092\u524a\u9664\u3059\u308b\",\"ThemeAppStorefrontLayoutEmptySflSignupCTA\":\"\u30b5\u30a4\u30f3\u30a2\u30c3\u30d7 \u2014 1\u5206\u3067\u5b8c\u4e86\",\"ThemeAppStorefrontLayoutMoveingToCartCTA\":\"\u79fb\u52d5\u4e2d\u2026\",\"ThemeAppStorefrontLayoutAddToCollectionCTA\":\"\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0\",\"DuplicateWishlistNotificationStart\":\"<span class='swym-emphasis'>{{wishlistName}}</span>\u3092\u8907\u88fd\u4e2d\",\"ThemeAppStorefrontLayoutNotificationActionView\":\"\u8868\u793a\",\"CreateUserError\":\"\u30e1\u30fc\u30eb\u767b\u9332\u306b\u5931\u6557\u3057\u307e\u3057\u305f\u3002\u3082\u3046\u4e00\u5ea6\u8a66\u3057\u3066\u304f\u3060\u3055\u3044\u3002\",\"CollectionsVariantSelectorChooseActionText\":\"\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\u3092\u9078\u629e\u307e\u305f\u306f\u4f5c\u6210\",\"ThemeAppStorefrontLayoutAddingToCartCTA\":\"\u30ab\u30fc\u30c8\u306b\u8ffd\u52a0\u4e2d\",\"SharedWishlistProductsHeading\":\"\u88fd\u54c1\",\"ThemeAppStorefrontLayoutUpdateCollectionTitle\":\"\u30ea\u30b9\u30c8\u3092\u66f4\u65b0\",\"EmptyWishlistsText\":\"\u307b\u3057\u3044\u7269\u30ea\u30b9\u30c8 \u3092\u4f7f\u7528\u3059\u308b\u3068\u3001\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u3001\u643a\u5e2f\u96fb\u8a71\u3001\u30bf\u30d6\u30ec\u30c3\u30c8\u306e\u3044\u305a\u308c\u3092\u4f7f\u7528\u3057\u3066\u3044\u3066\u3082\u3001\u304a\u6c17\u306b\u5165\u308a\u3084\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0 [...]\",\"AddWishlistDefaultNewTitle\":\"\u307b\u3057\u3044\u7269\u30ea\u30b9\u30c8\",\"ShareWishlistTwitter\":\"\u30c4\u30a4\u30c3\u30bf\u30fc\",\"AddAllToCartErrorText\":\"\u3059\u3079\u3066\u306e\u5546\u54c1\u3092\u30ab\u30fc\u30c8\u306b\u8ffd\u52a0\u4e2d\u306b\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3055\u308c\u307e\u3057\u305f\u3002\",\"ThemeAppStorefrontLayoutEmptyGuestBrowseCTA\":\"\u6700\u521d\u306b\u95b2\u89a7\u3092\u7d9a\u3051\u308b\",\"ClearWishlistPopupHeading\":\"\u672c\u5f53\u306b\u3088\u308d\u3057\u3044\u3067\u3059\u304b\uff1f\",\"DuplicateWishlistPopupHeading\":\"\u91cd\u8907\u30ea\u30b9\u30c8\",\"ShareWishlistLoginPopupCTALogin\":\"\u30ed\u30b0\u30a4\u30f3\",\"AddToWishlistNudgeMsg\":\"\u8cfc\u5165\u3059\u308b\u304b\u3069\u3046\u304b\u8ff7\u3063\u3066\u3044\u307e\u3059\u304b?\u3053\u306e\u5546\u54c1\u3092\u307b\u3057\u3044\u7269\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0\u3057\u3001\u5f8c\u3067\u8cfc\u5165\u3057\u3066\u304f\u3060\u3055\u3044\u3002\",\"ThemeAppStorefrontLayoutEmptyGuestDescription\":\"\u4efb\u610f\u306e\u5546\u54c1\u3067\u2661\u3092\u30bf\u30c3\u30d7\u3002\u3053\u3053\u306b\u4fdd\u5b58\u3055\u308c\u308b\u306e\u3067\u5931\u3044\u307e\u305b\u3093\u3002\",\"ShareWishlistPopupNoteDefault\":\"\u304a\u5f85\u305f\u305b\u3057\u307e\u3057\u305f\u3002 {{wishlistName}} \u3092\u30ec\u30b8\u306b\u9032\u3080\",\"SaveListPopupFormFirstNameLabel\":\"\u540d\",\"ThemeAppStorefrontLayoutNotificationMessageCollectionDeleted\":\"\u30ea\u30b9\u30c8\u304c\u524a\u9664\u3055\u308c\u307e\u3057\u305f\",\"ThemeAppStorefrontLayoutEmptySflStep1Title\":\"\u30ab\u30fc\u30c8\u304b\u3089\",\"ThemeAppStorefrontLayoutEmptySflStep2Title\":\"\u30ab\u30fc\u30c8\u304b\u3089\u524a\u9664\u3059\u308b\u3068\u304d\",\"AddToCartCTAAlreadyAdded\":\"\u30ab\u30fc\u30c8\u306b\u8ffd\u52a0\u3055\u308c\u307e\u3057\u305f\",\"ThemeAppStorefrontLayoutEmptyGuestTitle\":\"\u95b2\u89a7\u3057\u306a\u304c\u3089\u4fdd\u5b58\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInCreateDescription\":\"\u540d\u524d\u3092\u4ed8\u3051\u3066\u8ffd\u52a0\u3092\u59cb\u3081\u308b\",\"DuplicateWishlistPopupCTACancel\":\"\u30ad\u30e3\u30f3\u30bb\u30eb\",\"ClearWishlistPopupCTACancel\":\"\u3044\u3044\u3048\uff0e\u6c17\u304c\u5909\u308f\u3063\u305f\",\"ThemeAppStorefrontLayoutAddToCartCTA\":\"\u30ab\u30fc\u30c8\u306b\u8ffd\u52a0\",\"ShareWishlistAlternateShareLabel\":\"\u7d4c\u7531\u3067\u5171\u6709\",\"BackToListCTA\":\"\u30ea\u30b9\u30c8\u306b\u623b\u308b\",\"SaveListPopupSummaryCTASave\":\"\u30ea\u30b9\u30c8\u3092\u4fdd\u5b58\u3059\u308b\",\"AddAllToCartSuccessText\":\"\u30ab\u30fc\u30c8\u306b <span class='swym-emphasis'>{{addCount}} \u5546\u54c1</span>\u304c\u6b63\u5e38\u306b\u8ffd\u52a0\u3055\u308c\u307e\u3057\u305f\u3002\",\"VariantSelectorSavingText\":\"\u4fdd\u5b58\u4e2d...\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInTitle\":\"\u6700\u521d\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u3066\u59cb\u3081\u307e\u3057\u3087\u3046\",\"AcceptMarketingPopUpSubscribeCTA\":\"\u4fdd\u5b58\",\"ShareWishlistPopupHeading\":\"\u30e1\u30fc\u30eb\u3067\u30ea\u30b9\u30c8\u3092\u5171\u6709\u3059\u308b\",\"ThemeAppStorefrontLayoutAwNudgeMessageSub\":\"\u3069\u306e\u30c7\u30d0\u30a4\u30b9\u304b\u3089\u3067\u3082\u30a2\u30af\u30bb\u30b9\u3067\u304d\u307e\u3059\u3002\",\"GuestShopperTitle\":\"\u30b2\u30b9\u30c8\u30b7\u30e7\u30c3\u30d1\u30fc\",\"ThemeAppStorefrontLayoutEmptySingleLoggedInDescription\":\"\u623b\u308b\u3064\u3082\u308a\u3060\u3063\u305f\u5546\u54c1\u306f\uff1f\u3059\u3067\u306b\u8a18\u61b6\u304b\u3089\u6d88\u3048\u3066\u3044\u307e\u3059\u3002\",\"ShareWishlistEmailPlaceholder\":\"shopper@example.com\",\"SFLOpenCartCTA\":\"\u30ab\u30fc\u30c8\u30da\u30fc\u30b8\u3092\u958b\u304f\",\"ThemeAppStorefrontLayoutLoggedUserWelcomeMessage\":\"\u3088\u3046\u3053\u305d\uff01\",\"SaveListPopupSummaryHeading\":\"\u30ea\u30b9\u30c8\u3092\u4fdd\u5b58\u3059\u308b\",\"ThemeAppStorefrontLayoutNotificationActionGoToCart\":\"\u30ab\u30fc\u30c8\u3078\u884c\u304f\",\"ShareWishlistRequiredText\":\"\u5fc5\u8981\u306a\u30d5\u30a3\u30fc\u30eb\u30c9\",\"SFLPopupSecondaryButtonText\":\"\u3044\u3044\u3048\u3001\u7d50\u69cb\u3067\u3059\uff01\",\"SaveListPopupFormText\":\"E\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u30af\u30ea\u30c3\u30af\u3059\u308b\u305f\u3081\u306e\u691c\u8a3c\u30ea\u30f3\u30af\u304c\u9001\u4fe1\u3055\u308c\u307e\u3059\u3002\",\"SFLListPriceText\":\"\u5408\u8a08\",\"SharedWishlistLoginCTA\":\"\u30ed\u30b0\u30a4\u30f3\",\"ThemeAppStorefrontLayoutErrorMessageListNameRequired\":\"\u540d\u524d\u304c\u5fc5\u8981\u3067\u3059\",\"SaveListPopupLoggedInCTASave\":\"\u30ed\u30b0\u30a2\u30a6\u30c8\",\"SaveListPopupLoggedInHeading\":\"\u30ea\u30b9\u30c8\u3092\u4fdd\u5b58\u3059\u308b\",\"ThemeAppStorefrontLayoutAwNudgeTitle\":\"\u4fdd\u5b58\u3057\u305f\u30a2\u30a4\u30c6\u30e0\u304c\u5f85\u3063\u3066\u3044\u307e\u3059\",\"SFLListProductText\":\"\u88fd\u54c1\",\"SFLPopupQtyText\":\"\u6570\u91cf\",\"ThemeAppStorefrontLayoutSoldoutCTA\":\"\u58f2\u308a\u5207\u308c\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInTag5\":\"\u30aa\u30d5\u30a3\u30b9\u30bb\u30c3\u30c8\u30a2\u30c3\u30d7\",\"ShareWishlistCopyLinkText\":\"\u30ea\u30f3\u30af\u3092\u30b3\u30d4\u30fc\u3059\u308b\",\"RecentlyViewedEmptyHeading\":\"\u30d6\u30e9\u30a6\u30b8\u30f3\u30b0\u30d6\u30e9\u30a6\u30b8\u30f3\u30b0\u7d9a\u3051\u307e\u3059\",\"ThemeAppStorefrontLayoutEmptyGuestSignupCTA\":\"\u30b5\u30a4\u30f3\u30a2\u30c3\u30d7 \u2014 1\u5206\u3067\u5b8c\u4e86\",\"ThemeAppStorefrontLayoutShareCollectionCTA\":\"\u300c\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\u3092\u5171\u6709\u300d\",\"SharedWishlistEmptyText\":\"\u5171\u6709\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u30ea\u30b9\u30c8\u304c\u7a7a\u3067\u3059\u3002\u7a7a\u306e\u30ea\u30b9\u30c8\u306f\u5171\u6709\u3067\u304d\u307e\u305b\u3093\u3002\",\"ThemeAppStorefrontLayoutEmptyGuestMultiNotice\":\"\u4fdd\u5b58\u3057\u305f\u5546\u54c1\u306f\u3053\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u4e2d\u4fdd\u6301\u3055\u308c\u307e\u3059\u3002<strong>\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u4fdd\u6301\u3057\u30ea\u30b9\u30c8\u306b\u6574\u7406\u3057\u307e\u3057\u3087\u3046\u3002</strong>[...]\",\"AddedToWishlistNudgeCTA\":\"\u307b\u3057\u3044\u7269\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0\u3055\u308c\u307e\u3057\u305f\",\"AddToSFLCTA\":\"\u5f8c\u3067\u898b\u308b\u3088\u3046\u306b\u4fdd\u5b58\",\"ClearWishlistPopupConfirmMessage\":\"<span class=\\\"swym-emphasis\\\">\u3059\u3079\u3066</span>\u306e\u88fd\u54c1\u3092<span class=\\\"swym-emphasis\\\">{{{listName}}}</span>\u304b\u3089\u524a\u9664\u3057\u307e\u3059\u304b?\",\"ThemeAppStorefrontLayoutEmptySavedForLaterDescription\":\"\u30ab\u30fc\u30c8\u304b\u3089\u30a2\u30a4\u30c6\u30e0\u3092\u4fdd\u5b58\u3057\u3066\u3001\u5f8c\u3067\u3053\u3053\u3067\u78ba\u8a8d\u3067\u304d\u307e\u3059\",\"ThemeAppStorefrontLayoutRemoveItemCTA\":\"\u30ea\u30b9\u30c8\u304b\u3089\u524a\u9664\",\"ThemeAppStorefrontLayoutLoginHeading\":\"\u3042\u306a\u305f\u306e\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u306f\u3053\u3053\u306b\u6c38\u9060\u306b\u6b8b\u308a\u307e\u3059\uff01\",\"SFLAddToCartCTA\":\"\u30ab\u30fc\u30c8\u306b\u5165\u308c\u308b\",\"ThemeAppStorefrontLayoutRenameCollectionCTA\":\"\u540d\u524d\u3092\u5909\u66f4\",\"RecentlyViewedNotificationSubHeader\":\"\u307b\u3057\u3044\u7269\u30ea\u30b9\u30c8\u3067\u3053\u308c\u3092\u898b\u3064\u3051\u3066\u304f\u3060\u3055\u3044\",\"ThemeAppStorefrontLayoutEmptySflDescription\":\"\u30ab\u30fc\u30c8\u304b\u3089\u30a2\u30a4\u30c6\u30e0\u3092\u5931\u3046\u3053\u3068\u306a\u304f\u79fb\u52d5\u3057\u307e\u3059\u3002\u6e96\u5099\u304c\u3067\u304d\u305f\u3089\u3044\u3064\u3067\u3082\u623b\u3063\u3066\u304d\u3066\u304f\u3060\u3055\u3044\u3002\",\"CollectionsCreateListPlaceholder\":\"\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\u306e\u540d\u524d\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\",\"DeleteWishlistPopupHeading\":\"\u672c\u5f53\u306b\u3088\u308d\u3057\u3044\u3067\u3059\u304b\uff1f\",\"AutoWishlistUndoText\":\"\u5143\u306b\u623b\u3059\",\"ThemeAppStorefrontLayoutShareCollectionTitle\":\"\u3053\u308c\u3092\u30c1\u30a7\u30c3\u30af\uff01\",\"ThemeAppStorefrontLayoutTabWishlist\":\"\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\",\"ThemeAppStorefrontLayoutAwNudgeDismiss\":\"\u9589\u3058\u308b\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInCreateTitle\":\"+ \u65b0\u3057\u3044\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\",\"DeleteWishlistPopupCTACancel\":\"\u7d50\u69cb\u3067\u3059\",\"ThemeAppStorefrontLayoutNotificationMessageCollectionUpdated\":\"\u30ea\u30b9\u30c8\u304c\u66f4\u65b0\u3055\u308c\u307e\u3057\u305f\",\"ThemeAppStorefrontLayoutCollectionsTitle\":\"\u30de\u30a4\u30ea\u30b9\u30c8\",\"ThemeAppStorefrontLayoutEmptySflStep1Description\":\"\u30ab\u30fc\u30c8\u30a2\u30a4\u30c6\u30e0\u306e\u6a2a\u306b\u3042\u308b\\\"\u5f8c\u3067\u4fdd\u5b58\\\"\u3092\u30bf\u30c3\u30d7\u3057\u3066\u3001\u3053\u3053\u306b\u79fb\u52d5\u3057\u307e\u3059\",\"ThemeAppStorefrontLayoutEmptySingleLoggedInBullet3\":\"\u30bf\u30d6\u306f\u9589\u3058\u307e\u3059\u3002\u30ab\u30fc\u30c8\u306f\u30ea\u30bb\u30c3\u30c8\u3055\u308c\u307e\u3059\u3002\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\u306f\u305d\u306e\u307e\u307e\u3002\",\"ThemeAppStorefrontLayoutNotificationActionAddToCollection\":\"\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0 +\",\"RecentlyViewedEmptyCTA\":\"\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b\",\"ThemeAppStorefrontLayoutNotificationMessageAddedToCollection\":\"\u5546\u54c1\u304c\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0\u3055\u308c\u307e\u3057\u305f\",\"SaveListPopupFormCTACancel\":\"\u623b\u308b\",\"EmptyWishlistsCTA\":\"\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b\",\"ThemeAppStorefrontLayoutEmptyCarouselCollectionsDescription\":\"\u30ea\u30b9\u30c8\u304c\u7a7a\u3067\u3059\uff01\",\"ThemeAppStorefrontLayoutNotificationActionViewCollection\":\"\u30ea\u30b9\u30c8\u3092\u898b\u308b\",\"ThemeAppStorefrontLayoutAddedToCartCTA\":\"\u30ab\u30fc\u30c8\u306b\u8ffd\u52a0\u6e08\u307f\",\"AddToCartCTACannotAdd\":\"\u58f2\u308a\u5207\u308c\",\"SFLShareCTA\":\"\u30b7\u30a7\u30a2\",\"RecentlyViewedCTA\":\"\u6700\u8fd1\u30c1\u30a7\u30c3\u30af\u3057\u305f\u5546\u54c1\",\"AcceptMarketingPopUpCancelCTA\":\"\u30ad\u30e3\u30f3\u30bb\u30eb\",\"ThemeAppStorefrontLayoutTabSavedForLater\":\"\u3042\u3068\u3067\u8cfc\u5165\",\"RecentlyViewedHeaderBackText\":\"\u623b\u308b\",\"AutoWishlistFeedbackTitle\":\"\u30b9\u30de\u30fc\u30c8\u30bb\u30fc\u30d6\uff1a\u6c17\u306b\u5165\u3063\u305f\uff1f\",\"DeleteWishlistPopupConfirmMessage\":\"<span class='swym-color-2'>{{listName}}</span>\u3092\u524a\u9664\u3057\u3066\u3082\u3088\u308d\u3057\u3044\u3067\u3059\u304b?\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInTag2\":\"\u6bcd\u3078\u306e\u30ae\u30d5\u30c8\",\"ThemeAppStorefrontLayoutMoveToCartCTA\":\"\u30ab\u30fc\u30c8\u3078\u79fb\u52d5\",\"ClearWishlistPopupCTAClear\":\"\u306f\u3044\u3001\u30ea\u30b9\u30c8\u306e\u5546\u54c1\u3092\u524a\u9664\u3057\u3066\u304f\u3060\u3055\u3044\",\"ThemeAppStorefrontLayoutErrorMessageListNameRequired3Char\":\"\u540d\u524d\u306f3\u6587\u5b57\u4ee5\u4e0a\u3067\u3042\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\",\"WishlistMainTitle\":\"\u307b\u3057\u3044\u7269\u30ea\u30b9\u30c8\",\"ThemeAppStorefrontLayoutSaveCollectionCTA\":\"\u30ea\u30b9\u30c8\u3092\u4fdd\u5b58\",\"ShareWishlistSenderName\":\"\u9001\u4fe1\u8005\",\"ThemeAppStorefrontLayoutEmptyGuestLoginCTA\":\"\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u6c38\u7d9a\u7684\u306b\u4fdd\u5b58\",\"ThemeAppStorefrontLayoutShareCollectionMessage\":\"\u30de\u30a4\u30ea\u30b9\u30c8\u3092\u898b\u308b\",\"SharedSflLoginText\":\"\u3053\u306e\u30ea\u30b9\u30c8\u3092\u7de8\u96c6\u3059\u308b\u305f\u3081\u306b\u30ed\u30b0\u30a4\u30f3\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\",\"ThemeAppStorefrontLayoutTextItem\":\"\u30a2\u30a4\u30c6\u30e0\",\"ThemeAppStorefrontLayoutLoginButtonCTA\":\"\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u4fdd\u5b58\",\"ThemeAppStorefrontLayoutNotificationMessageItemRemoved\":\"\u30a2\u30a4\u30c6\u30e0\u304c\u524a\u9664\u3055\u308c\u307e\u3057\u305f\",\"ThemeAppStorefrontLayoutAwNudgeMessage\":\"\u30d6\u30e9\u30a6\u30b8\u30f3\u30b0\u4e2d\u306b{count}\u4ef6\u306e\u30a2\u30a4\u30c6\u30e0\u304c\u3042\u306a\u305f\u306e\u305f\u3081\u306b\u4fdd\u5b58\u3055\u308c\u307e\u3057\u305f\uff01\",\"AutoWishlistMessage\":\"\u898b\u9003\u3055\u306a\u3044\u3088\u3046\u306b\u3001\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0\u3057\u307e\u3057\u305f\u3002\",\"ThemeAppStorefrontLayoutWishlistInfo\":\"\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0\u3057\u3066\u6574\u7406\u3059\u308b\",\"DuplicateWishlistPopupCTADuplicate\":\"\u30b3\u30d4\u30fc\u3092\u4fdd\u5b58\u3059\u308b\",\"ThemeAppStorefrontLayoutSfyLoginBarCTA\":\"\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u4fdd\u5b58\",\"SFLListEmptyText\":\"\u73fe\u5728\u4fdd\u5b58\u3055\u308c\u3066\u3044\u308b\u5546\u54c1\u306f\u3042\u308a\u307e\u305b\u3093\u3002\",\"SharedWishlistReadOnlyCTA\":\"\u30ea\u30b9\u30c8\u3092\u7de8\u96c6\u3059\u308b\u306b\u306f\u3001\u5171\u6709\u3055\u308c\u305f\u30e1\u30fc\u30eb\u3067\u30ed\u30b0\u30a4\u30f3\u3057\u307e\u3059\u3002\",\"ThemeAppStorefrontLayoutEmptyCollectionsTitle\":\"\u3053\u306e\u30ea\u30b9\u30c8\u306f\u7a7a\u3067\u3059\",\"ViewWishlistNudgeCTA\":\"\u307b\u3057\u3044\u7269\u30ea\u30b9\u30c8\u3092\u8868\u793a\u3059\u308b\",\"ThemeAppStorefrontLayoutEmptyGuestSignupText\":\"\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u304a\u6301\u3061\u3067\u306a\u3044\u3067\u3059\u304b\uff1f\",\"ShareWishlistFacebook\":\"\u30d5\u30a7\u30a4\u30b9\u30d6\u30c3\u30af\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInCTA\":\"\u5148\u306b\u95b2\u89a7\u3057\u3066\u4fdd\u5b58\",\"AcceptMarketingPopUpSubHeading\":\"\u4efb\u610f\u306e\u30c7\u30d0\u30a4\u30b9\u304b\u3089\u307b\u3057\u3044\u7269\u30ea\u30b9\u30c8\u306b\u30a2\u30af\u30bb\u30b9\u3057\u3001\u88fd\u54c1\u306e\u66f4\u65b0\u3092\u53d6\u5f97\u3057\u307e\u3059\",\"AddWishlistUpdateSuccess\":\"<span class='swym-emphasis'>{{variantName}}</span> \u304c <span class='swym-emphasis'>{{#multipleLists}}{{noLists}} \u30ea\u30b9\u30c8\u306b{{/multipleLists}}{{^multipleLists}}1\u30ea...\",\"ShareWishlistLoginPopupText\":\"\u3042\u306a\u305f\u306f\u73fe\u5728\u533f\u540d\u3067\u8cb7\u3044\u7269\u3092\u3057\u3066\u3044\u307e\u3059\u3002\",\"AcceptMarketingPopUpEmailPlaceholder\":\"E\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u306e\u5165\u529b\u3092\u3057\u3066\u304f\u3060\u3055\u3044\",\"AddAllToSFLCTA\":\"\u5f8c\u3067\u4f7f\u7528\u3059\u308b\u305f\u3081\u306b\u3059\u3079\u3066\u4fdd\u5b58\u3057\u307e\u3059\",\"SharedWishlistGoToListCTA\":\"\u30ea\u30b9\u30c8\u306b\u79fb\u52d5\",\"ShareWishlistGooglePlus\":\"\u30b0\u30fc\u30b0\u30eb\u30d7\u30e9\u30b9\",\"ThemeAppStorefrontLayoutEmptySflLoggedInNotice\":\"\u3053\u3053\u306b\u4fdd\u5b58\u3055\u308c\u305f\u30a2\u30a4\u30c6\u30e0\u306f\u3001\u30ab\u30fc\u30c8\u306b\u623b\u3059\u304b\u524a\u9664\u3059\u308b\u307e\u3067<strong>\u6c38\u4e45\u306b\u6b8b\u308a\u307e\u3059</strong>\u3002\",\"ThemeAppStorefrontLayoutEmptySflTitle\":\"\u307e\u3060\u8cfc\u5165\u3059\u308b\u6e96\u5099\u304c\u3067\u304d\u3066\u3044\u307e\u305b\u3093\u304b\uff1f\u3053\u3053\u306b\u4fdd\u7ba1\u3057\u3066\u304f\u3060\u3055\u3044\",\"ThemeAppStorefrontLayoutEmptySingleLoggedInBullet1\":\"\u4fa1\u683c\u306f\u5909\u52d5\u3057\u307e\u3059\u3002\u4fdd\u5b58\u3059\u308c\u3070\u3001\u5024\u4e0b\u3052\u3092\u9003\u3059\u524d\u306b\u30ad\u30e3\u30c3\u30c1\u3067\u304d\u307e\u3059\u3002\",\"ThemeAppStorefrontLayoutNotificationMessageSFLItemRemoved\":\"\u3042\u3068\u3067\u8cfc\u5165\u304b\u3089\u524a\u9664\",\"ThemeAppStorefrontLayoutExplicitNudgeMessage\":\"\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\u306b{count}\u4ef6\u306e\u30a2\u30a4\u30c6\u30e0\u304c\u3042\u308a\u307e\u3059\uff01\",\"ThemeAppStorefrontLayoutWishlistTitle\":\"\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\u306e\u4ed6\u306e\u30a2\u30a4\u30c6\u30e0\",\"ThemeAppStorefrontLayoutNotificationMessageSFLItemSaved\":\"\u3042\u3068\u3067\u8cfc\u5165\u306b\u4fdd\u5b58\",\"SFLSaveItemsText\":\"\u30ab\u30fc\u30c8 \u30da\u30fc\u30b8\u304b\u3089\u4e00\u90e8\u306e\u5546\u54c1\u3092\u5f8c\u3067\u4f7f\u7528\u3067\u304d\u308b\u3088\u3046\u306b\u4fdd\u5b58\u3059\u308b\",\"AddToCartCTACanAdd\":\"\u30ab\u30fc\u30c8\u306b\u5165\u308c\u308b\",\"ThemeAppStorefrontLayoutEmptySingleLoggedInBullet2\":\"\u5728\u5eab\u306f\u5207\u308c\u307e\u3059\u3002\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\u306f\u8ca1\u5e03\u3092\u6c17\u306b\u305b\u305a\u3042\u306a\u305f\u306e\u5834\u6240\u3092\u78ba\u4fdd\u3057\u307e\u3059\u3002\",\"ThemeAppStorefrontLayoutEmptySavedForLaterTitle\":\"\u3042\u3068\u3067\u8cfc\u5165\u306b\u4fdd\u5b58\u3055\u308c\u305f\u30a2\u30a4\u30c6\u30e0\u306f\u3042\u308a\u307e\u305b\u3093\",\"SFLPopupButtonText\":\"\u5f8c\u3067\u898b\u308b\u3088\u3046\u306b\u4fdd\u5b58\",\"RecentlyViewedHeader\":\"\u6700\u8fd1\u30c1\u30a7\u30c3\u30af\u3057\u305f\u5546\u54c1\",\"DuplicateWishlistCopyingPlaceholder\":\"\u30ea\u30b9\u30c8\u3092\u30b3\u30d4\u30fc\u3057\u3066\u3044\u307e\u3059\u3002\u3059\u3050\u30ea\u30d5\u30ec\u30c3\u30b7\u30e5\u3057\u3066\u304f\u3060\u3055\u3044\",\"SharedWishlistRestrictedHeading\":\"\u3053\u306e\u30ea\u30b9\u30c8\u3092\u5171\u6709\u3059\u308b\u6a29\u9650\u304c\u3042\u308a\u307e\u305b\u3093\",\"WishlistAddedCTA\":\"\u8ffd\u52a0\u3055\u308c\u307e\u3057\u305f\",\"AcceptMarketingPopUpFailMessage\":\"\u304a\u3063\u3068\uff01\u4f55\u304b\u304c\u9593\u9055\u3063\u3066\u3044\u305f\uff01\u3082\u3046\u4e00\u5ea6\u3084\u308a\u76f4\u3057\u3066\u3044\u305f\u3060\u3051\u307e\u305b\u3093\u304b\uff1f\",\"ThemeAppStorefrontLayoutEmptySingleLoggedInCTA\":\"\u95b2\u89a7\u3092\u958b\u59cb\",\"ThemeAppStorefrontLayoutSfyLoginBarMessage\":\"\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u3001\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u307e\u305f\u3044\u3067\u4fdd\u5b58\u3057\u305f\u30a2\u30a4\u30c6\u30e0\u3092\u7dad\u6301\u3057\u3066\u304f\u3060\u3055\u3044\u3002\",\"SaveListPopupFormEmailLabel\":\"\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\",\"AddWishlistPopupCTASaveUpdate\":\"\u66f4\u65b0\u30ea\u30b9\u30c8\",\"ThemeAppStorefrontLayoutEmptySflGoToCartCTA\":\"\u30ab\u30fc\u30c8\u306b\u79fb\u52d5\",\"ThemeAppStorefrontLayoutEmptyWishlistTitle\":\"\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\u304c\u7a7a\u3067\u3059\",\"AutoWishlistFeedbackMessage\":\"\u3042\u306a\u305f\u306e\u597d\u307f\u3092\u899a\u3048\u3066\u304a\u304d\u307e\u3059\",\"VariantSelectDoneCTA\":\"\u5b8c\u4e86 (Kanry\u014d)\",\"ThemeAppStorefrontLayoutNotificationMessageAddedToCart\":\"\u30ab\u30fc\u30c8\u306b\u8ffd\u52a0\u6e08\u307f\",\"AddToWishlistNudgeCTA\":\"\u307b\u3057\u3044\u7269\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0\u3059\u308b\",\"WishlistAddCTA\":\"\u307b\u3057\u3044\u7269\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0\u3059\u308b\",\"ThemeAppStorefrontLayoutErrorMessageListNameAlreadyExist\":\"\u305d\u306e\u540d\u524d\u306f\u3059\u3067\u306b\u5b58\u5728\u3057\u307e\u3059\",\"ThemeAppStorefrontLayoutDeleteCollectionCTA\":\"\u30ea\u30b9\u30c8\u3092\u524a\u9664\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInBrowseLabel\":\"\u307e\u305f\u306f\u5148\u306b\u95b2\u89a7\u3057\u3066\u5f8c\u3067\u6574\u7406\",\"CollectionsCreateListTitle\":\"\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\u306e\u540d\u524d\u3092\u5165\u529b\",\"ThemeAppStorefrontLayoutNotificationMessageCollectionSaved\":\"\u30ea\u30b9\u30c8\u304c\u4fdd\u5b58\u3055\u308c\u307e\u3057\u305f\",\"ThemeAppStorefrontLayoutEmptySflSignupText\":\"\u30a2\u30ab\u30a6\u30f3\u30c8\u304c\u3042\u308a\u307e\u305b\u3093\u304b\uff1f\",\"SFLTabCTA\":\"\u305d\u306e\u5f8c\u306e\u305f\u3081\u306b\u4fdd\u5b58\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInTag4\":\"\u8a95\u751f\u65e5\u30a6\u30a3\u30c3\u30b7\u30e5\u30ea\u30b9\u30c8\",\"SFLSavedListTitle\":\"\u305d\u306e\u5f8c\u306e\u305f\u3081\u306b\u4fdd\u5b58\",\"SharedWishlistRestrictedText\":\"\u5225\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u30b5\u30a4\u30f3\u30a4\u30f3\u3059\u308b\u304b\u3001\u30ea\u30b9\u30c8\u306e\u6240\u6709\u8005\u306b\u78ba\u8a8d\u3057\u3066\u3001\u5171\u6709\u306e\u8a31\u53ef\u3092\u5f97\u3066\u304f\u3060\u3055\u3044\u3002\",\"VariantSelectorBtnText\":\"\u30d0\u30ea\u30a8\u30fc\u30b7\u30e7\u30f3\u3092\u9078\u629e\",\"ThemeAppStorefrontLayoutSharedCollectionMessage\":\"\u3053\u306e\u30ea\u30b9\u30c8\u306f {{email}} \u306b\u3088\u3063\u3066\u5171\u6709\u3055\u308c\u307e\u3057\u305f\u3002\u4fdd\u5b58\u3057\u3066\u7de8\u96c6\u3067\u304d\u307e\u3059\",\"ThemeAppStorefrontLayoutCreateCollectionCTA\":\"\u65b0\u3057\u3044\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\",\"ThemeAppStorefrontLayoutEmptySflGuestNotice\":\"\u3053\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u3067\u4fdd\u5b58\u3055\u308c\u305f\u30a2\u30a4\u30c6\u30e0\u306f\u3001\u9000\u51fa\u3059\u308b\u3068\u6d88\u3048\u307e\u3059\u3002<strong>\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u8a2a\u554f\u9593\u3067\u4fdd\u6301\u3057\u307e\u3059\u3002</str[...]\",\"ThemeAppStorefrontLayoutEmptyGuestSingleNotice\":\"\u4fdd\u5b58\u3057\u305f\u5546\u54c1\u306f\u3053\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u4e2d\u4fdd\u6301\u3055\u308c\u307e\u3059\u3002<strong>\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u6c38\u7d9a\u7684\u306b\u4fdd\u6301\u3057\u307e\u3057\u3087\u3046\u3002</strong>\",\"ThemeAppStorefrontLayoutSfyLoginBarTitle\":\"\u30a2\u30a4\u30c6\u30e0\u3092\u305a\u3063\u3068\u4fdd\u5b58\u3059\u308b\",\"SaveListPopupLoggedInCTACancel\":\"\u30ad\u30e3\u30f3\u30bb\u30eb\",\"ThemeAppStorefrontLayoutNotificationMessageItemSaved\":\"\u30a2\u30a4\u30c6\u30e0\u304c\u4fdd\u5b58\u3055\u308c\u307e\u3057\u305f\",\"ThemeAppStorefrontLayoutNotificationMessageCollectionUnavailable\":\"\u30ea\u30b9\u30c8\u306f\u5229\u7528\u3067\u304d\u306a\u3044\u304b\u524a\u9664\u3055\u308c\u307e\u3057\u305f\",\"ThemeAppStorefrontLayoutViewCartCTA\":\"\u30ab\u30fc\u30c8\u3092\u898b\u308b\",\"SaveListPopupFormPlaceholder\":\"E\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u306e\u5165\u529b\u3092\u3057\u3066\u304f\u3060\u3055\u3044\",\"ThemeAppStorefrontLayoutEmptyMultiLoggedInTag1\":\"\u30ea\u30d3\u30f3\u30b0\u30eb\u30fc\u30e0\u6539\u88c5\",\"ThemeAppStorefrontLayoutEmptySflStep2Description\":\"\u6c38\u4e45\u306b\u524a\u9664\u3059\u308b\u4ee3\u308f\u308a\u306b\u3001\u30d7\u30ed\u30f3\u30d7\u30c8\u3067\\\"\u5f8c\u3067\u4fdd\u5b58\\\"\u3092\u9078\u629e\u3057\u307e\u3059\",\"ThemeAppStorefrontLayoutSaveNewCollectionCTA\":\"\u4fdd\u5b58\"},\"AcceptMarketingPopUpMailingListCaption\":\"Subscribe to Newsletter\",\"AcceptMarketingPopUpHeading\":\"Love it? Save your Wishlist\",\"AcceptMarketingPopUpEmailPrivacy\":\"By subscribing, you agree to receive promotional messages and can unsubscribe at any time.\",\"WishlistTooltipBefore\":\"Add to wishlist\",\"AcceptMarketingPopUpEmailSuccessMessage\":\"Please confirm the verification link sent to your email to get notified on your wishlist items\",\"AcceptMarketingPopUpPrivacyLink\":\"\",\"AcceptMarketingPopUpSubscribeCTA\":\"Subscribe\",\"AcceptMarketingPopUpPrivacyText\":\"privacy policy.\",\"AcceptMarketingPopUpCancelCTA\":\"Cancel\",\"AcceptMarketingPopUpSubHeading\":\"Access your Wishlist from any device and get product updates\",\"AcceptMarketingPopUpEmailPlaceholder\":\"Enter your email address\",\"WishlistTooltipAfter\":\"Added. <a class='swym-open-ui'>View Wishlist</a>\",\"AcceptMarketingPopUpEmailInvalidMsg\":\"Enter a valid email\",\"WishlistAddedCTA\":\"Added to Favorites\",\"AcceptMarketingPopUpFailMessage\":\"Oops, something went wrong! Could you please try again?\",\"WishlistAddCTA\":\"Add to Favorites\",\"AcceptMarketingPopUpPhoneInvalidMsg\":\"Enter a valid phone number\"},\"Email\":{\"EnableEmailFriend\":true},\"StoreLogo\":\"\",\"FeatureToggles\":{\"use_mongo_SwymEtCountStore\":true},\"SFL\":{\"AddToSFLButton\":false,\"CartProductTileSelector\":\".cart-item\",\"PreviewSettings\":{\"PopUpSettings\":{\"ButtonText\":\"SAVE FOR LATER\",\"ButtonColor\":\"#1F2021\",\"Title\":\"Do you want to save this product for later?\",\"ShowAskMeAgainAfterCount\":2,\"MultipleProductsTitle\":\"Save all products for later to your Wishlist?\",\"PreviewDuration\":300000,\"SecondaryButtonText\":\"No, thanks!\",\"PopUpEnabled\":false,\"ButtonTextColor\":\"#FFFFFF\",\"AskMeAgainOption\":false,\"AskMeAgainLabel\":\"Don't ask me again\"}},\"EnableSFLViewOnWishlistUI\":true,\"CartPageContainerSelector\":\"#MainContent\",\"PopUpSettings\":{\"ButtonText\":\"SAVE FOR LATER\",\"ButtonColor\":\"#1F2021\",\"Title\":\"Do you want to save this product for later?\",\"ShowAskMeAgainAfterCount\":2,\"MultipleProductsTitle\":\"Save all products for later to your Wishlist?\",\"PreviewDuration\":300000,\"SecondaryButtonText\":\"No, thanks!\",\"PopUpEnabled\":false,\"ButtonTextColor\":\"#FFFFFF\",\"AskMeAgainOption\":false,\"AskMeAgainLabel\":\"Don't ask me again\"},\"AddToSFLBtnSelector\":\"cart-remove-button\",\"CartPageURL\":\"/cart\",\"SFLFeatureEnabled\":true},\"UI\":{\"HTCAddListAssistantNote\":true,\"CustomCSS\":\"\",\"EnableProductView\":true,\"NotificationOnly\":false,\"HTCAddListShopperNote\":true,\"HTCAssistantFilterOptions\":[{\"key\":\"date-descending\",\"default\":true,\"displayText\":\"Date - Newest First\"},{\"key\":\"date-ascending\",\"displayText\":\"Date - Oldest First\"},{\"key\":\"price-descending\",\"displayText\":\"Price - High to Low\"},{\"key\":\"price-ascending\",\"displayText\":\"Price - Low to High\"},{\"key\":\"hide-out-of-stock\",\"displayText\":\"Hide Out of Stock\"}],\"HeaderLauncher\":{\"Enabled\":false},\"MailingListModalImage\":\"\",\"AcceptMarketingPopUpUI\":{\"AcceptMarketingPopUpButtonTextColour\":\"#FFF\",\"AcceptMarketingPopUpButtonCTAColour\":\"#000\",\"AcceptMarketingPhoneEnabled\":true,\"AcceptMarketingPhoneRequired\":false,\"AcceptMarketingEmailEnabled\":true,\"AcceptMarketingPopUpPhoneCountries\":[\"US\"],\"AcceptMarketingEmailRequired\":true},\"CustomIcon\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDcuMS1jMDAwIDc5LjljY2M0ZGU5MywgMjAyMi8wMy8xNC0xNDowNzoyMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QUUyNUM1QTkyMzJCMTFFRTg0QzBBNjlBNTY5NDE0QkMiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QUUyNUM1QTgyMzJCMTFFRTg0QzBBNjlBNTY5NDE0QkMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDIzLjMgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpBRTI1QzVBNDIzMkIxMUVFODRDMEE2OUE1Njk0MTRCQyIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpBRTI1QzVBNTIzMkIxMUVFODRDMEE2OUE1Njk0MTRCQyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pl1JmaMAAAQoSURBVHja3JnPS1tbEMcnNzGp0acmREhfwWYhaO17fVipChXRSpHUlQvtRqh15aaLUhfqRsU/QN1kUXFlF6IbjbQLyysIRVQ0YH9guyhW8NlAFX9EY02i580cJkGF3Js0tr124IPxes6d752ce87MaBBCQJL2B+JC/kZKkELkKuJEjDzmCPEjq8gHZBF5i3xGAsk4MyQh0IZcR+4hNcifLNaKpMWZE0aCLGod+Rd5gbxHts5LoJUj1YTcRS4jl+D77BvyBXmJPOPIBlVnkEAVbMhj5B0SEednEb7nY/YRV4OauALEg3wVP86+so+CZAXeQp4jIfHjLcS+biUq8BriFT/fvOz7lB7lzJJ0II8QN/x8c7Nvx8mLphOf05EHyP0z10/Z7u4u+Hw+WFtbk78bjUbNl/Do6AjsdjuUlpZCbm5uvKEm9v0J8SAHJwUakJvIQ8Qe7w7b29swPDwMo6OjEAqFwGKxgNY2pSgKHB4eSpF1dXXQ2toKTqcz3nA7a5hFZuj5ogKzOXqFas4ocmNjY2Cz2aCmpkYKJKFqlpaWJh9ifn4evF4v5OfnQ1NTk9qUQtZCm/l2VOBfvAmrfl8rKysQiUSgubkZ6uvrY1+h6klgMEjKysqgra0NlpeXZTRVloaRtZCm1yY+rur4hND8urKysiAnJ0c6jQpIxDIyMsDhcEhh4XBYa+1eZk1LCh/8dxCLlhO66fHxMQSDwaRf0b29PSnMbDbLB9UwC2ty0cgbyJVEHX1H9nMq0knMJ003FH57M0F/RppuksAC3gP1ZqSpQOFk06xDgaTpqsKZsF7Nqeg0erEoKqBzI4EhHesLKVx96dX8CpeGKUeRNuD19XVYXV2VJ8Z5RI+0kcCP0dwrFXGUqbS0tMhEYnBwEA4ODlIVSDf4SAJ9dFSmIm5iYgK6urpkpkOpWH9/PwwNDck8MAUjTT7KZt4g/yV6HtOZevI8nZ6ehu7ubpkpDwwMQHZ2NvT09EBfXx9kZmbK3M9kMsXmJJr9sKY3Jm5HvEL+0cpoKI8jBySCbHZ2Ftrb28FqtUJvby8UFRXJ652dnbCzsyOv0d8aGxtlyk/ZEEWVMiINO2RNnxVuSzznil8zelST+P1+WFhYgI6OjpiQ8vLy2DiXyyWjmpeXJ39OTU3BxsaGRO6+Zs2z4QtrCkTLuxzkqVb3YGZmRmBdIaqqqgQKEsXFxQJfjrjjFxcXRXV1tSgpKRFut1tUVlaK8fHxRLoOT1lTrC6mHs1tbkfEtf39fTEyMiJqa2ulw8nJSc1id25uTjQ0NIiKigrh8XjE1taW1pR3rMVwtnBPR54gm2qzcQ2JpaUlgbWFwLWUUEWOtYzAJSECgYDW0E3WkB6vs+DgXkn4F3QWwuzbcaFaHxeyeXQh2m+6aWDqvgX8WzTRf+m/If4XYADVmf6HSVmfVgAAAABJRU5ErkJggg==\",\"Title\":\"My Wishlist\",\"LauncherLocation\":\"bottom-right\",\"LauncherType\":\"menu\",\"SimpleWishlistOnly\":true,\"HTCAddToListNoteInput\":true,\"CustomAnchorSelector\":\"\",\"HTCUserFilterOptions\":[{\"key\":\"date-descending\",\"default\":true,\"displayText\":\"Date - Newest First\"},{\"key\":\"date-ascending\",\"displayText\":\"Date - Oldest First\"},{\"key\":\"price-descending\",\"displayText\":\"Price - High to Low\"},{\"key\":\"price-ascending\",\"displayText\":\"Price - Low to High\"},{\"key\":\"hide-out-of-stock\",\"displayText\":\"Hide Out of Stock\"}],\"UseCustomLauncher\":false,\"DisallowedURLPatterns\":[\"checkout\"],\"LauncherOpenHosted\":\"popup\",\"HTCCustomerDetailsCustomDetailsEnabled\":true,\"Enabled\":false,\"AcceptMarketingRevampUI\":true,\"HTCCustomerDashboardEnabled\":true,\"ShareOptionOnTop\":true,\"Icon\":\"\",\"Color\":\"#FF4500\",\"HTCAssistantWishlistDragEnable\":true}}}"
+        },
+        {
+          "name": "i18nextLng",
+          "value": "en"
+        },
+        {
+          "name": "swym-fb-pixel-retry-check",
+          "value": "1794015069704"
+        },
+        {
+          "name": "swym-ab-test-config",
+          "value": "{}"
+        },
+        {
+          "name": "Shoplift_Analytics",
+          "value": "{\"timestamp\":\"2026-11-07T01:31:06.533Z\",\"visitor\":null,\"queue\":[{\"timestamp\":\"2026-11-07T01:31:01.654Z\",\"type\":5,\"cart\":{\"token\":\"hWNIr23MiZUyKnUJZcVeSx1P?key=bf8984c4e0fb74f70b6d7db403c27828\",\"total_price\":0,\"total_discount\":0,\"currency\":\"PKR\",\"items_subtotal_price\":0,\"items\":[]}},{\"timestamp\":\"2026-11-07T01:31:06.532Z\",\"type\":5,\"cart\":{\"token\":\"hWNIr23MiZUyKnUJZcVeSx1P?key=bf8984c4e0fb74f70b6d7db403c27828\",\"total_price\":0,\"total_discount\":0,\"currency\":\"PKR\",\"items_subtotal_price\":0,\"items\":[]}}]}"
+        },
+        {
+          "name": "_predict_ctl",
+          "value": "false"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,7>:zouXb9M)Urd6Mo?IFw0 {G%~wu'TS_(GFv%|Y{f~N WW\\y 8\\azl'!,Z[\\!XRqtyu-DJ6qk6_:9eii'PvP\"csz+8Am1V VfPNLZO\\?dxy,$ER8&%YtDE)\"p0N]rCBBW|"
+        },
+        {
+          "name": "swym-devices_timestamp",
+          "value": "1794015068.483"
+        },
+        {
+          "name": "redo.anonymous_shopify_session_id",
+          "value": "redo-60d224db-fb91-4905-a2f4-cc9763e5762d"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1794015070335"
+        }
+      ]
+    }
+  ]
+}

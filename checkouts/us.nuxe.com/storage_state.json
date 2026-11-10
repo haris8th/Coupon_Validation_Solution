@@ -1,0 +1,323 @@
+{
+  "cookies": [
+    {
+      "name": "GlobalE_Analytics",
+      "value": "{\"merchantId\":\"2655\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://web.global-e.com/\",\"clientId\":\"7e846b8d-bb26-4108-82bc-e74962d02142\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794186200217}",
+      "domain": "us.nuxe.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "us.nuxe.com",
+      "path": "/",
+      "expires": 1825722199.615802,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "us.nuxe.com",
+      "path": "/",
+      "expires": 1795395802.739992,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG91LguAAEA_xA4Aokmdc606Bg2K9uwQBsTbtCBYDSVxE42wrgyvHNRxiG-FmnDZ9DmVZ10P1XpNDobEjgK6AmNP7M:",
+      "domain": "us.nuxe.com",
+      "path": "/",
+      "expires": 1825722195.337202,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaG91LhiAAEAkiIq8s6tRu982rLyZS-HREqauOEGPuxsDgxLw8QyHhacoBuCZQdWBtJWOdM8j2vUh69fysIhgkdWHWU:",
+      "domain": "us.nuxe.com",
+      "path": "/",
+      "expires": 1825722195.337312,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaG91LhiAAEAiD_UCuDFnElJ0Dt__YyP-3C6yL9cgifm7NFS4pQX5NumeZjrWt7qStvNyvYkXZvJw1Z6Sl0pWXbQZ5g:",
+      "domain": "us.nuxe.com",
+      "path": "/",
+      "expires": 1825722195.337397,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "aw_shopify_y",
+      "value": "369d8556-3c84-4f39-9d38-6c7bad994783",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1828314202,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "1SocErrjAH94NznSAz.B2wKK.dRYcr3YorYFL5IzgzU-1794186201.7758827-1.0.1.1-WlqjfJs0fOHEhMrOQulZD8rwbRKSpK8sg0hZ8x7SPUBrcld0BDSF_DU7lMQQD4km3GP8nIVN_QW.McRf1jHBaKPPaineAFFBnkW8RYhc9cekeIDSA3_QMcvO9Z8nr5mK",
+      "domain": ".us.nuxe.com",
+      "path": "/",
+      "expires": 1794188000.204478,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://nuxe.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "cjConsent",
+      "value": "MHxOfDB8Tnww",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1828314200,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cjUser",
+      "value": "42f14924-f96d-44d9-9e14-e2d2b98e13e4",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1828314200,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "didomi_token_cpra",
+      "value": "eyJ1c2VyX2lkIjoiMWExYmRkNGMtNDIzZS02MjRjLTg5NTgtMDg5Y2M4YjJiZGJlIiwiY3JlYXRlZCI6IjIwMjYtMTEtMDlUMDE6MDM6MjAuMDk5WiIsInVwZGF0ZWQiOiIyMDI2LTExLTA5VDAxOjAzOjIwLjQ2M1oiLCJ2ZW5kb3JzX2xpIjp7ImVuYWJsZWQiOlsiYzptaWNyb3NvZnQtdFpWRlVBMlkiLCJjOmdvb2dsZWFuYS1ZUmlrTFJhVCIsImM6Z29vZ2xlYWNjLUJrckpCcW02IiwiYzpmYWNlYm9va2MtS1RXZmF3V2MiLCJjOmdvb2dsZWFkcy1lVDNyWnhFWSIsImM6ZGF0YWlhZHMtSHdiYXJHVWoiLCJjOmpvaW4tMmlBYldaOU4iLCJjOndlYnluLTJFdFEzWHpLIiwiYzpzcGxpby1oTE1ZenRCQyJdfSwicHVycG9zZXNfbGkiOnsiZW5hYmxlZCI6WyJhbmFseXRpY3NfdHJhY2tpbmciLCJtYXJrZXRpbmciLCJhZHZlcnRpc2luZyIsImZ1bmN0aW9uYWwiXX0sInZlcnNpb24iOjJ9",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1809993800,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1482318228.1794186202",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1801962201,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "site_origin",
+      "value": "us",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIvh58Vq36IGLj75gi0TYJ%3Fkey%3D0d436dbc4cdded3fcfae6a4e1cf2ca66",
+      "domain": "us.nuxe.com",
+      "path": "/",
+      "expires": 1802048601.860906,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3PAM.S_PKSD_f_f_mf-xha3lSzyh9QuD2VVT0w_%7B%7D%23da035d62-dbd4-42aa-b7e8-a85d46a4536e-1794186199",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1825743802.133576,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "spses.1735",
+      "value": "*",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1794188002,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.268742271.1794186202",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1828746202.422604,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPAU",
+      "value": "1.1.1482318228.1794186202",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1801962199.884577,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "spid.1735",
+      "value": "972f5944-190e-42f0-b072-472ff1c1ae7e.1794186202.1.1794186203..1b0913e7-9235-4048-982a-1b42cf8753d8..bed0b609-373c-4c19-92d5-791595bb9f9f.1794186202180.2",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1828746202.743799,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_join_stories",
+      "value": "eyJ1aWQiOiJtdm5xLTE3OTQxODYxOTYzMjktbWpsOSIsInRpbWVzdGFtcCI6MTc5NDE4NjIwMzEzNiwiY29uc2VudCI6eyJhbmFseXRpY3MiOiJvcHRpbiJ9LCJjb25maWciOnsibWV0aG9kIjoiZGVmYXVsdCJ9fQ==",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1825722203,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dcid",
+      "value": "268742271.1794186202",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1828746203.328235,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPGSID",
+      "value": "1.1794186204.1794186204.G-W5J6TCM28K.fKoSoskqiVeuxrjp3KkMgw",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1794188003.327961,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_AWCONFIG",
+      "value": "GS2.1.s1794186202$o1$g0$t1794186203$j59$l0$h199888763",
+      "domain": ".nuxe.com",
+      "path": "/",
+      "expires": 1828746203.662963,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://us.nuxe.com",
+      "localStorage": [
+        {
+          "name": "snowplowOutQueue_snowplow_spTracker_post2.expires",
+          "value": "1857258202745"
+        },
+        {
+          "name": "ECOMSEND:ATC_POPUP_TRIGGER",
+          "value": "{\"version\":1,\"eventId\":\"web_pixel_product_added_to_cart:1794186201941:51719992902000:1\",\"timestamp\":1794186201941,\"source\":\"web_pixel_product_added_to_cart\",\"variantId\":\"51719992902000\",\"productId\":\"14646501278064\",\"quantity\":1}"
+        },
+        {
+          "name": "ecomsend_product_viewed",
+          "value": "{\"event_name\":\"product_viewed\",\"event_data\":{\"productPrice\":38,\"productTitle\":\"Default Title\",\"productId\":\"51719992902000\",\"productImage\":\"//us.nuxe.com/cdn/shop/files/BU00350UK_DUO_SOIN_LEVRES_GLOW_REVE_DE_MIEL.jpg?v=1777535901\",\"productPriceCurrencyCode\":\"USD\",\"currencyProductId\":\"14646501278064\",\"currencyProductTitle\":\"Glowy lips care duo, R\u00eave de Miel\",\"currencyProductType\":\"\",\"currencyProductUntranslatedTitle\":\"Glowy lips care duo, R\u00eave de Miel\",\"currencyProductUrl\":\"/products/glowy-lips-care-duo-reve-de-miel\",\"currencyProductVendor\":\"NUXE\",\"productSku\":\"BU00350US\",\"productVariantTitle\":\"Default Title\",\"productVariantUntranslatedTitle\":\"Default Title\"},\"timeStamp\":\"2026-11-09T01:03:18.913Z\"}"
+        },
+        {
+          "name": "GlobalE_Analytics",
+          "value": "{\"merchantId\":\"2655\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://web.global-e.com/\",\"clientId\":\"7e846b8d-bb26-4108-82bc-e74962d02142\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794186200217}"
+        },
+        {
+          "name": "forms_visit_count",
+          "value": "1"
+        },
+        {
+          "name": "theme:recently-viewed-products",
+          "value": "[14646501278064]"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1794186198184"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "forms_previous_session_id",
+          "value": "5a8dc3cc-eb73-4e24-8519-21b9300dabb9"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1794186201578},\"expires\":1801962201578},\"gsid_dc\":{\"value\":{\"joinId\":\"dfdwr0IemkRglt9f393UCt2-w0ckaET7Gw\",\"lastJoinedTimeMs\":1794186201594},\"expires\":1794186501594},\"gtg_load_status\":{\"status\":3,\"expires\":1794272601756}}"
+        },
+        {
+          "name": "ECOMSEND:ES_SHOP_ID",
+          "value": "65184497835"
+        },
+        {
+          "name": "ECOMSEND:CART_REPORT_STATE_V1",
+          "value": "{\"version\":1,\"updatedAt\":1794186201953,\"items\":[{\"stateKey\":\"14646501278064:BU00350US\",\"productId\":\"14646501278064\",\"variantId\":\"51719992902000\",\"quantity\":1,\"price\":38,\"currency\":\"USD\"}],\"processedEventIds\":[\"sh-bdd4da13-8376-4285-CC72-38228188876E\"]}"
+        },
+        {
+          "name": "__join_stories_tc_storage",
+          "value": "eyJhbmFseXRpY3NVcmxWMiI6Imh0dHBzOi8vbWVhcy5qb2luLXN0b3JpZXMuY29tL21lYXMvIiwiZGF0YSI6eyJldmVudF9vd25lciI6Im51eGUtdXMiLCJldmVudF9jYXRlZ29yeSI6ImV4dGVybmFsIiwiZXZlbnRfdmVyc2lvbiI6IjIiLCJldmVudF9pbnRlZ3JhdGlvbl9lbnZpcm9ubWVudCI6IndlYiIsImV2ZW50X2ludGVncmF0aW9uX2xvY2F0aW9uX25hbWUiOiJodHRwczovL3VzLm51eGUuY29tL3Byb2R1Y3RzL2dsb3d5LWxpcHMtY2FyZS1kdW8tcmV2ZS1kZS1taWVsIiwiZXZlbnRfaW50ZWdyYXRpb25fd2ViX2Jhc2VfdXJsIjoiaHR0cHM6Ly91cy5udXhlLmNvbS9wcm9kdWN0cy9nbG93eS1saXBzLWNhcmUtZHVvLXJldmUtZGUtbWllbCIsImV2ZW50X2ludGVncmF0aW9uX3dlYl91cmwiOiJodHRwczovL3VzLm51eGUuY29tL3Byb2R1Y3RzL2dsb3d5LWxpcHMtY2FyZS1kdW8tcmV2ZS1kZS1taWVsIiwiZXZlbnRfaW50ZWdyYXRpb25fd2ViX3Byb3RvY29sIjoiaHR0cHM6IiwiZXZlbnRfaW50ZWdyYXRpb25fd2ViX2RvbWFpbiI6InVzLm51eGUuY29tIiwiZXZlbnRfaW50ZWdyYXRpb25fd2ViX3BhdGgiOiIvcHJvZHVjdHMvZ2xvd3ktbGlwcy1jYXJlLWR1by1yZXZlLWRlLW1pZWwiLCJldmVudF9pbnRlZ3JhdGlvbl93ZWJfcGFyYW1ldGVycyI6IiIsImV2ZW50X2ludGVncmF0aW9uX3dlYl9hbmNob3IiOiIiLCJldmVudF9pbnRlZ3JhdGlvbl93ZWJfcmVmZXJyZXIiOiIiLCJldmVudF9pbnRlZ3JhdGlvbl93ZWJfYnJvd3Nlcl9sYW5ndWFnZSI6ImVuLVVTIiwiZXZlbnRfaW50ZWdyYXRpb25fd2ViX2Jyb3dzZXJfdmlld3BvcnRfd2lkdGgiOjEzNjYsImV2ZW50X2ludGVncmF0aW9uX3dlYl9icm93c2VyX3ZpZXdwb3J0X2hlaWdodCI6NzY4LCJldmVudF9pbnRlZ3JhdGlvbl9wYWdlX3R5cGUiOiJvdGhlciIsImV2ZW50X2RhdGVfdGltZXpvbmUiOjMwMCwiZXZlbnRfc2VnbWVudGF0aW9uX2tleSI6ImVuIiwiZXZlbnRfcGFnZV90YWciOiJmdTA1LTE3OTQxODYxOTg2ODctMWRkZCIsImV2ZW50X2RldmljZV91c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXZlbnRfZGV2aWNlX3NjcmVlbl93aWR0aCI6MTM2NiwiZXZlbnRfZGV2aWNlX3NjcmVlbl9oZWlnaHQiOjc2OCwiZXZlbnRfZGV2aWNlX3NjcmVlbl9jb2xvciI6MjQsImV2ZW50X2RldmljZV9zY3JlZW5fcmF0aW8iOjEuNzc4NjQ1ODMzMzMzMzMzMywiZXZlbnRfZGV2aWNlX3BpeGVsX3JhdGlvIjoxLCJldmVudF9kZXZpY2VfbmV0d29ya190eXBlIjoiNGciLCJldmVudF9kZXZpY2Vfb3JpZW50YXRpb24iOiJsYW5kc2NhcGUiLCJldmVudF9kZXZpY2VfYmF0dGVyeV9sZXZlbCI6MX0sImxhc3RDaGVjayI6MTc5NDE4NjE5OTQ1OX0="
+        },
+        {
+          "name": "snowplowOutQueue_snowplow_spTracker_post2",
+          "value": "[{\"evt\":{\"e\":\"pv\",\"url\":\"https://us.nuxe.com/products/glowy-lips-care-duo-reve-de-miel\",\"page\":\"Glowy lips care duo, R\u00eave de Miel | NUXE\",\"eid\":\"bed0b609-373c-4c19-92d5-791595bb9f9f\",\"tv\":\"js-3.24.6\",\"tna\":\"spTracker\",\"aid\":\"laboratoirenuxe\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1366x768\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1794186202180\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoianNvbnNjaGVtYTpjb20uc3BsaW8vcHJvZHVjdC8xLTAtMCIsImRhdGEiOnsicHJvZHVjdFNLVSI6IjE0NjQ2NTAxMjc4MDY0In19LHsic2NoZW1hIjoianNvbnNjaGVtYTpjb20uc3BsaW8vbG9nZ2VkX3VzZXIvMS0wLTAiLCJkYXRhIjp7InNvdXJjZUlkIjoic2hvcGlmeSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLnNub3dwbG93YW5hbHl0aWNzLnNub3dwbG93L3dlYl9wYWdlL2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7ImlkIjoiMjYzN2JlNDgtZDI3OS00YmE5LThjMzgtZGVkY2QyOGJkN2VlIn19XX0\",\"vp\":\"1366x768\",\"ds\":\"1351x3132\",\"vid\":\"1\",\"sid\":\"1b0913e7-9235-4048-982a-1b42cf8753d8\",\"duid\":\"972f5944-190e-42f0-b072-472ff1c1ae7e\",\"stm\":\"1794186202188\"},\"bytes\":1008},{\"evt\":{\"e\":\"ue\",\"eid\":\"4d01ecee-e967-40e5-afb7-16dd5e204242\",\"tv\":\"js-3.24.6\",\"tna\":\"spTracker\",\"aid\":\"laboratoirenuxe\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1366x768\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1794186202742\",\"vp\":\"1366x768\",\"ds\":\"1366x3132\",\"vid\":\"1\",\"sid\":\"1b0913e7-9235-4048-982a-1b42cf8753d8\",\"duid\":\"972f5944-190e-42f0-b072-472ff1c1ae7e\",\"url\":\"https://us.nuxe.com/products/glowy-lips-care-duo-reve-de-miel\",\"ue_px\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy91bnN0cnVjdF9ldmVudC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9hZGRfdG9fY2FydC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJza3UiOiIxNDY0NjUwMTI3ODA2NCIsInF1YW50aXR5IjoxLCJuYW1lIjoiR2xvd3kgbGlwcyBjYXJlIGR1bywgUsOqdmUgZGUgTWllbCIsImNhdGVnb3J5IjoiIiwidW5pdFByaWNlIjozOCwiY3VycmVuY3kiOiJVU0QifX19\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoianNvbnNjaGVtYTpjb20uc3BsaW8vcHJvZHVjdC8xLTAtMCIsImRhdGEiOnsicHJvZHVjdFNLVSI6IjE0NjQ2NTAxMjc4MDY0In19LHsic2NoZW1hIjoianNvbnNjaGVtYTpjb20uc3BsaW8vbG9nZ2VkX3VzZXIvMS0wLTAiLCJkYXRhIjp7InNvdXJjZUlkIjoic2hvcGlmeSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLnNub3dwbG93YW5hbHl0aWNzLnNub3dwbG93L3dlYl9wYWdlL2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7ImlkIjoiMjYzN2JlNDgtZDI3OS00YmE5LThjMzgtZGVkY2QyOGJkN2VlIn19XX0\"},\"bytes\":1368}]"
+        },
+        {
+          "name": "forms_session_id",
+          "value": "5a8dc3cc-eb73-4e24-8519-21b9300dabb9"
+        },
+        {
+          "name": "forms_session_expires_at",
+          "value": "1794188000184"
+        },
+        {
+          "name": "ECOMSEND:FLOW_CLIENT_CONFIG",
+          "value": "{\"version\":1,\"updatedAt\":1794186201758,\"shopId\":65184497835,\"byEventId\":{\"d9r6pc99nofpbrwser00\":{\"enabled\":false,\"eventId\":\"d9r6pc99nofpbrwser00\",\"defineType\":0,\"config\":{},\"configRaw\":\"{}\"}}}"
+        },
+        {
+          "name": "didomi_token_cpra",
+          "value": "eyJ1c2VyX2lkIjoiMWExYmRkNGMtNDIzZS02MjRjLTg5NTgtMDg5Y2M4YjJiZGJlIiwiY3JlYXRlZCI6IjIwMjYtMTEtMDlUMDE6MDM6MjAuMDk5WiIsInVwZGF0ZWQiOiIyMDI2LTExLTA5VDAxOjAzOjIwLjQ2M1oiLCJ2ZW5kb3JzX2xpIjp7ImVuYWJsZWQiOlsiYzptaWNyb3NvZnQtdFpWRlVBMlkiLCJjOmdvb2dsZWFuYS1ZUmlrTFJhVCIsImM6Z29vZ2xlYWNjLUJrckpCcW02IiwiYzpmYWNlYm9va2MtS1RXZmF3V2MiLCJjOmdvb2dsZWFkcy1lVDNyWnhFWSIsImM6ZGF0YWlhZHMtSHdiYXJHVWoiLCJjOmpvaW4tMmlBYldaOU4iLCJjOndlYnluLTJFdFEzWHpLIiwiYzpzcGxpby1oTE1ZenRCQyJdfSwicHVycG9zZXNfbGkiOnsiZW5hYmxlZCI6WyJhbmFseXRpY3NfdHJhY2tpbmciLCJtYXJrZXRpbmciLCJhZHZlcnRpc2luZyIsImZ1bmN0aW9uYWwiXX0sInZlcnNpb24iOjJ9"
+        },
+        {
+          "name": "aw_consent_state",
+          "value": "{\"marketing\":\"yes\",\"analytics\":\"yes\",\"preferences\":\"yes\",\"sale_of_data\":\"\"}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIvh58Vq36IGLj75gi0TYJ\""
+        }
+      ]
+    }
+  ]
+}

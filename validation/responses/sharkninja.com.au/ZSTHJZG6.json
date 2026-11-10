@@ -1,0 +1,611 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "checkpointData": null,
+          "configurationRecordId": "gid://shopify/CheckoutProfile/1785561123",
+          "renderContextToken": null,
+          "queueToken": "A9hsecva9fdO8CkYPxTCuUofLk43LpGCPdDPTUsshIgfyMfXsDXjcPjgS6HPJPRxJOdxVPe0FTj-_PTHmK5IvUY5Oe6C5zIg6bqKD0t82m1Zzl4sStMN3uXJgo62R3t25F6bl9VRY0rls_A=",
+          "buyerProposal": {
+            "merchandiseDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "deliveryDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "50203980-9189-4437-a4f5-7d1e0179ced8",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/43320663867427",
+                    "digest": "ddfbf67faee6b3614f12beb1b7c22092",
+                    "variantId": "gid://shopify/ProductVariant/43320663867427",
+                    "title": "Ninja Luxe Café Pro Limited Edition by David Beckham",
+                    "untranslatedTitle": "Ninja Luxe Café Pro Limited Edition by David Beckham",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/7249570955299",
+                      "vendor": "Ninja",
+                      "productType": "Coffee Machine",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/ninja-luxe-cafe-pro-limited-edition-by-david-beckham",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0723/4204/4707/files/preview_images/es771bk-1.webp?v=1784645747",
+                      "one": "https://cdn.shopify.com/s/files/1/0723/4204/4707/files/preview_images/es771bk-1_64x64.webp?v=1784645747",
+                      "two": "https://cdn.shopify.com/s/files/1/0723/4204/4707/files/preview_images/es771bk-1_128x128.webp?v=1784645747",
+                      "four": "https://cdn.shopify.com/s/files/1/0723/4204/4707/files/preview_images/es771bk-1_256x256.webp?v=1784645747",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "999.99",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "0a767e3cad327b1b5fc11d9e718dfeac",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "999.99",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "999.99",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "999.99",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "999.99",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "999.99",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "__typename": "Proposal"
+          },
+          "sellerProposal": {
+            "merchandiseDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "cartMetafields": null,
+            "customFields": [],
+            "deliveryDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "fee": {
+              "__typename": "FilledFeeTerms",
+              "totalFeeAmount": {
+                "__typename": "MoneyValueConstraint",
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "AUD",
+                  "__typename": "Money"
+                }
+              },
+              "feeLines": []
+            },
+            "__typename": "Proposal",
+            "deliveryExpectations": {
+              "__typename": "UnavailableTerms"
+            },
+            "promiseProgram": {
+              "variantPromises": [],
+              "__typename": "PromiseProgram"
+            },
+            "memberships": {
+              "__typename": "FilledMembershipTerms",
+              "memberships": []
+            },
+            "availableRedeemables": {
+              "availableRedeemables": [],
+              "__typename": "AvailableRedeemables"
+            },
+            "shopCashBalance": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopPromotion": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopDiscountOffer": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "availableDeliveryAddresses": [],
+            "mustSelectProvidedAddress": false,
+            "mustSelectProvidedShippingRate": false,
+            "canUpdateDiscountCodes": true,
+            "canUpdateDeliveryAddress": true,
+            "canUpdateMerchandise": true,
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "deliveryMethods": {
+              "__typename": "UnavailableTerms"
+            },
+            "sellability": {
+              "shipping": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "50203980-9189-4437-a4f5-7d1e0179ced8",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "local": [],
+              "pickUp": [],
+              "pickupPoint": [],
+              "none": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "50203980-9189-4437-a4f5-7d1e0179ced8",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "__typename": "FilledSellability"
+            },
+            "payment": {
+              "__typename": "UnavailableTerms"
+            },
+            "poNumber": null,
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "50203980-9189-4437-a4f5-7d1e0179ced8",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/43320663867427",
+                    "digest": "ddfbf67faee6b3614f12beb1b7c22092",
+                    "variantId": "gid://shopify/ProductVariant/43320663867427",
+                    "title": "Ninja Luxe Café Pro Limited Edition by David Beckham",
+                    "untranslatedTitle": "Ninja Luxe Café Pro Limited Edition by David Beckham",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "sku": "ES771BKANZ",
+                    "price": {
+                      "amount": "999.99",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/7249570955299",
+                      "vendor": "Ninja",
+                      "productType": "Coffee Machine",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/ninja-luxe-cafe-pro-limited-edition-by-david-beckham",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0723/4204/4707/files/preview_images/es771bk-1.webp?v=1784645747",
+                      "one": "https://cdn.shopify.com/s/files/1/0723/4204/4707/files/preview_images/es771bk-1_64x64.webp?v=1784645747",
+                      "two": "https://cdn.shopify.com/s/files/1/0723/4204/4707/files/preview_images/es771bk-1_128x128.webp?v=1784645747",
+                      "four": "https://cdn.shopify.com/s/files/1/0723/4204/4707/files/preview_images/es771bk-1_256x256.webp?v=1784645747",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "999.99",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "0a767e3cad327b1b5fc11d9e718dfeac",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "999.99",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "999.99",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "999.99",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "999.99",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "999.99",
+                        "currencyCode": "AUD",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "note": {
+              "customAttributes": [],
+              "message": null,
+              "__typename": "Note"
+            },
+            "scriptFingerprint": null,
+            "transformerFingerprintV2": null,
+            "buyerIdentity": {
+              "shopUser": null,
+              "customer": {
+                "presentmentCurrency": null,
+                "countryCode": null,
+                "market": {
+                  "id": "gid://shopify/Market/72221655075",
+                  "handle": "au",
+                  "__typename": "Market"
+                },
+                "shippingAddresses": [],
+                "__typename": "GuestProfile"
+              },
+              "purchasingCompany": null,
+              "phone": null,
+              "email": null,
+              "marketingConsent": [],
+              "shopPayOptInPhone": null,
+              "rememberMe": false,
+              "__typename": "FilledBuyerIdentityTerms"
+            },
+            "checkoutCompletionTarget": "ORDER",
+            "recurringTotals": [],
+            "subtotalBeforeTaxesAndShipping": {
+              "value": {
+                "amount": "999.99",
+                "currencyCode": "AUD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacySubtotalBeforeTaxesShippingAndFees": {
+              "value": {
+                "amount": "999.99",
+                "currencyCode": "AUD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacyAggregatedMerchandiseTermsAsFees": [],
+            "legacyRepresentProductsAsFees": false,
+            "totalSavings": {
+              "value": {
+                "amount": "0.0",
+                "currencyCode": "AUD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "runningTotal": {
+              "value": {
+                "amount": "999.99",
+                "currencyCode": "AUD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "total": {
+              "__typename": "AnyConstraint"
+            },
+            "checkoutTotalBeforeTaxesAndShipping": null,
+            "checkoutTotalTaxes": null,
+            "checkoutTotal": {
+              "__typename": "AnyConstraint"
+            },
+            "deferredTotal": null,
+            "hasOnlyDeferredShipping": false,
+            "subtotalBeforeReductions": {
+              "value": {
+                "amount": "999.99",
+                "currencyCode": "AUD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "subtotalAfterMerchandiseDiscounts": {
+              "value": {
+                "amount": "999.99",
+                "currencyCode": "AUD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "duty": {
+              "totalDutyAmount": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAdditionalFeesAmount": null,
+              "__typename": "FilledDutyTerms"
+            },
+            "tax": {
+              "liability": null,
+              "taxBreakdown": null,
+              "totalTaxAmount": null,
+              "totalTaxAmountRange": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAmountIncludedInTarget": {
+                "value": {
+                  "amount": "90.91",
+                  "currencyCode": "AUD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "__typename": "FilledTaxTerms"
+            },
+            "taxExemptions": {
+              "available": [],
+              "__typename": "FilledTaxExemptionTerms"
+            },
+            "tip": {
+              "tipSuggestions": [
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.15,
+                  "amount": {
+                    "value": {
+                      "amount": "150.0",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.18,
+                  "amount": {
+                    "value": {
+                      "amount": "180.0",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.2,
+                  "amount": {
+                    "value": {
+                      "amount": "200.0",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.0,
+                  "amount": {
+                    "value": {
+                      "amount": "0.0",
+                      "currencyCode": "AUD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                }
+              ],
+              "terms": {
+                "tipLines": [],
+                "__typename": "FilledTipTerms"
+              },
+              "__typename": "TipWrapper"
+            },
+            "localizationExtension": {
+              "fields": [],
+              "__typename": "LocalizationExtension"
+            },
+            "landedCostDetails": {
+              "incotermInformation": null,
+              "__typename": "LandedCostDetails"
+            },
+            "dutiesIncluded": false,
+            "nonNegotiableTerms": null,
+            "optionalDuties": {
+              "buyerRefusesDuties": false,
+              "refuseDutiesPermitted": false,
+              "__typename": "OptionalDuties"
+            },
+            "attribution": {
+              "attributions": [],
+              "__typename": "Attribution"
+            },
+            "saleAttributions": {
+              "attributions": [],
+              "__typename": "SaleAttributions"
+            },
+            "managedByMarketsPro": false,
+            "managedMarketsPaymentProcessor": null,
+            "captcha": null,
+            "cartCheckoutValidation": {
+              "__typename": "CartCheckoutValidationTerms"
+            },
+            "alternativePaymentCurrency": null,
+            "lpmDisclosure": null,
+            "isShippingRequired": true,
+            "shopPayEnabled": true,
+            "remote": null,
+            "ucp": {
+              "continueUrl": "https://sharkninja.com.au/cart/c/hWNIuinaMzpHfrHglMa9G8kl?key=ea8d5d47506826c9afca560161fb19eb",
+              "paymentHandlers": [
+                {
+                  "id": "shopify.card",
+                  "name": "dev.shopify.card",
+                  "version": "2026-01-15",
+                  "spec": "https://ucp.dev/specification/payment-handler-guide",
+                  "schema": "https://shopify.dev/ucp/card-payment-handler/2026-01-15/config.json",
+                  "config": {
+                    "payment_methods": [
+                      {
+                        "type": "card",
+                        "enabled_card_brands": [
+                          "visa",
+                          "master",
+                          "american_express",
+                          "unionpay",
+                          "jcb"
+                        ]
+                      }
+                    ]
+                  },
+                  "__typename": "UcpPaymentHandler"
+                },
+                {
+                  "id": "shop_pay",
+                  "name": "dev.shopify.shop_pay",
+                  "version": "2026-01-23",
+                  "spec": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/spec.md",
+                  "schema": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/schema.json",
+                  "config": {
+                    "shop_id": "72342044707"
+                  },
+                  "__typename": "UcpPaymentHandler"
+                }
+              ],
+              "__typename": "UcpProposal"
+            }
+          },
+          "__typename": "NegotiationResultAvailable"
+        },
+        "errors": [
+          {
+            "code": "REDUCTION_INVALID_CODE",
+            "localizedMessage": "Enter a valid discount code or gift card",
+            "nonLocalizedMessage": "Reduction code couldn't be mapped to neither a gift card or discount.",
+            "localizedMessageHtml": "Enter a valid discount code or gift card",
+            "__typename": "InputValidationError"
+          },
+          {
+            "code": "BUYER_IDENTITY_MISSING_CONTACT_METHOD",
+            "localizedMessage": "Missing a valid contact method.",
+            "nonLocalizedMessage": "Missing a valid contact method.",
+            "localizedMessageHtml": "Missing a valid contact method.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "TAX_NEW_TAX_MUST_BE_ACCEPTED",
+            "localizedMessage": "Taxes associated to your order have changed. Review and try again.",
+            "nonLocalizedMessage": "A new tax line in the seller proposal must be accepted in order to continue.",
+            "localizedMessageHtml": "Taxes associated to your order have changed. Review and try again.",
+            "target": "$",
+            "__typename": "AcceptNewTermViolation"
+          },
+          {
+            "code": "REQUIRED_ARTIFACTS_UNAVAILABLE",
+            "localizedMessage": "",
+            "nonLocalizedMessage": "Required artifacts are unavailable.",
+            "localizedMessageHtml": null,
+            "__typename": "RequiredArtifactsUnavailableViolation"
+          }
+        ]
+      },
+      "__typename": "Session"
+    }
+  }
+}

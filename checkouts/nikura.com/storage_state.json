@@ -1,0 +1,611 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "GB",
+      "domain": "nikura.com",
+      "path": "/",
+      "expires": 1825553512.333825,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "GBP",
+      "domain": "nikura.com",
+      "path": "/",
+      "expires": 1795227120.289148,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGzxsdSAAEAKTQwCBtidqCXTPnJoDr1-sqN3i2W7BYzPqFKp-bG5_D96LruWTXZNK3HeiOwVOGU9mKZBklCq4AZcrI:",
+      "domain": "nikura.com",
+      "path": "/",
+      "expires": 1825553509.246643,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGzxsedAAEAFfvo9A0jW7oJtQjaH39qJkOu08GB3Xkf6C1Q80gASCzmGJ6RUorLFb6PLlmh_Wap1_o9h70_CvMsooI:",
+      "domain": "nikura.com",
+      "path": "/",
+      "expires": 1825553509.246725,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGzxseeAAEAqqMFs2gYKUdvDWz89LeWRCcd5YM5qvIK-rfQfi_sEkcNTu-1GVqltuThTwVPnfkFRQVZVlf3-PkcPeI:",
+      "domain": "nikura.com",
+      "path": "/",
+      "expires": 1825553509.246821,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_conv_g",
+      "value": "%7B%22browser%22%3A%22CH%22%2C%22devices%22%3A%5B%22DESK%22%5D%2C%22source%22%3A%22direct%22%2C%22campaign%22%3A%22%22%2C%22content%22%3A%22%22%2C%22visitorType%22%3A%22new%22%2C%22country%22%3A%22PK%22%2C%22customSegments%22%3A%5B%5D%7D",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1828577512.846086,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_conv_d",
+      "value": "%7B%22experiences%22%3A%5B%5D%2C%22domain%22%3A%22.nikura.com%22%7D",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1828577512.847071,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIr6BvMUD3eq9ELh0R0ZhT%3Fkey%3D5d937e63b960b1a2766b1ef0fac973ef",
+      "domain": "nikura.com",
+      "path": "/",
+      "expires": 1801879919.414121,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_conv_v",
+      "value": "vi%3A1794017510263-0.5688411197783666*sc%3A1*cs%3A1794017510*fs%3A1794017510*pv%3A2*exp%3A%7B%7D*seg%3A%7B%7D",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1809785520,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_conv_s",
+      "value": "sh%3A1794017510261-0.5617889158804723*si%3A1*pv%3A2",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1794018720,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_heatVid_1781",
+      "value": "611062111561640096",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1794103916,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_heatIdvUpdated_1781",
+      "value": "1794017516164",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1794103916,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hm_source",
+      "value": "unknown",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1794103916,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vUUID_1781",
+      "value": "d7812e8b-dd91-44be-ab66-602dd27d3524",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1794103916,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.622448036.1794017517",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1828577516.696378,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1794017516754.399064276129903128.AQYCAQMA",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1801793520,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbi",
+      "value": "202.47.43.137.AQYCAQMA.AQYCAQMA",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1794103920,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "connect_cid",
+      "value": "eeac9644de884ddb93fd00e4518f509e",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1828577520.606297,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_id.1781.bmlrdXJh",
+      "value": "eieqmia62yqqiaa2.1794017517.",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1794147117,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_nb_sp_ses.8017",
+      "value": "*",
+      "domain": "nikura.com",
+      "path": "/",
+      "expires": 1794019317,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_nb_sp_id.8017",
+      "value": "be72edd3-0832-4ed6-9c20-209fb34dd4a5.1794017517.1.1794017517.1794017517.8d17be18-38da-4b94-9ac6-6ad77e152be4",
+      "domain": "nikura.com",
+      "path": "/",
+      "expires": 1828577517.497564,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "df325183-c384-419e-b6b8-625b44c6e2ed",
+      "domain": "nikura.com",
+      "path": "/",
+      "expires": 1825549917,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_lpv",
+      "value": "1",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1828577517.700717,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_spv",
+      "value": "1",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1794019317,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_i",
+      "value": "HJBv67yUFZCAUiUKdDm6w",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1828577517.721654,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_v",
+      "value": "HJBv67yUFZCAUiUKdDm6w",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1828577517.722043,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_vs",
+      "value": "BLACKCROW",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1828577517.722286,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_vn",
+      "value": "_bcai_v",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1828577517.722535,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_axwrt",
+      "value": "df325183-c384-419e-b6b8-625b44c6e2ed",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1825553518,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_h",
+      "value": "a9155766-20d2-4adc-96bc-9e34a61f0672_3c82eb0e-4440-4eec-889b-c2b026b5eefd_1794017520747",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1828577519.119072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ax_session_data",
+      "value": "eyJpbnZpc2libGVUaW1lIjowLCJ0b3RhbFRpbWUiOjAsImxhc3RVcGRhdGUiOjE3OTQwMTc1MTkzOTB9",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1825553520,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pandectes_gdpr",
+      "value": "eyJzdGF0dXMiOiJhbGxvdyIsInRpbWVzdGFtcCI6MTc5NDAxNzUxOCwicHJlZmVyZW5jZXMiOjAsIm1ldGhvZCI6ImltcGxpZWQiLCJpZCI6IjZhZWU4OGYxZGNmZWQwYjBiNzc5YzQ4MCIsImNvdW50cnkiOnsiY29kZSI6IlBLIiwic3RhdGUiOiJTRCJ9LCJ2ZXJzaW9uIjoiNSIsImNvb2tpZURvbWFpbiI6IiIsImxhc3RSZXNldCI6MTczNjc2OTE5MH0=",
+      "domain": "nikura.com",
+      "path": "/",
+      "expires": 1825553519.557493,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3AMP.S_PKSD_f_f_CG5Zdw2MSceMG*rKOPfS5Q_%7B%22pandectes_consent%22%3A%221%7C6aee88f1dcfed0b0b779c480%7C1794017518%7Ca%7Ci%7C0%7C%7CPK%7CSD%7C5%7C1736769190%22%7D%23e881bc8b-1eca-4367-ad99-883c2c3e4631-1794017514",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1825575123.672174,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "leaf_shop_cid",
+      "value": "df325183-c384-419e-b6b8-625b44c6e2ed",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1828577520.60663,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ax_visitor",
+      "value": "%7B%22firstVisitTs%22%3A1794017519193%2C%22lastVisitTs%22%3Anull%2C%22currentVisitStartTs%22%3A1794017519193%2C%22ts%22%3A1794017520049%2C%22visitCount%22%3A1%7D",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1825553520,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ax_last_event",
+      "value": "1794017519706",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1825553520,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "latestETMSec",
+      "value": "1794017520",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1825553520,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_T8WDCGD4VN",
+      "value": "GS2.1.s1794017516$o1$g0$t1794017520$j56$l0$h1658989270",
+      "domain": ".nikura.com",
+      "path": "/",
+      "expires": 1828577520.550047,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://nikura.com",
+      "localStorage": [
+        {
+          "name": "rbrCartItems",
+          "value": ""
+        },
+        {
+          "name": "snowplowOutQueue__nb_sp_nb_post2.expires",
+          "value": "1857089518950"
+        },
+        {
+          "name": "_heatCartSyncedVid",
+          "value": "611062111561640096"
+        },
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "hutk_data",
+          "value": "{}"
+        },
+        {
+          "name": "tabId",
+          "value": "4d9b7832-c5f6-454f-a3d2-51e76ab8fb40"
+        },
+        {
+          "name": "alia-jwt",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsYXN0VXNlcklEIjo5MjkyMTU3Mjk2LCJpYXQiOjE3OTQwMTc1MTl9.wI1cyMgFPWEDg8PAy8R7h03tWd4JJc4O65X3v_18yKQ"
+        },
+        {
+          "name": "_axwrt_backup",
+          "value": "{\"value\":\"df325183-c384-419e-b6b8-625b44c6e2ed\",\"setTs\":null,\"expiresAt\":1825553517983}"
+        },
+        {
+          "name": "_heatmapConfigs",
+          "value": "{\"_heatIdVisit\":{\"idVisit\":\"611062111561640096\",\"_heatIdvUpdated\":1794017516164},\"_userJourney\":null,\"leadConvCount\":0,\"_heatEventsCount\":1,\"window.isReturningUser\":0,\"heatmapTracking\":{\"elTagging\":false,\"singlePaged\":true,\"intervalTime\":3000,\"survey\":{},\"checkoutLinkRules\":[],\"events\":{\"track\":true,\"rate\":100},\"record\":{\"track\":true,\"rate\":100},\"trackvariant\":true,\"configuration\":{\"summary\":[],\"raw\":[]}},\"_heatMapEnvRecord\":{\"PROXYURL\":\"https://proxy.heatmap.com\",\"HEATMAPURL\":\"https://dashboard.heatmap.com\",\"S3URL\":\"https://heatmap-project-2022.s3.us-west-2.amazonaws.com/\",\"CONFIGURL\":\"https://cfg.heatmap.com/root/\",\"KINESISGATEWAY\":\"https://kinesis.heatmap.com/data\",\"RECORDINGGATEWAY\":\"https://8a33wzsc7i.execute-api.us-west-2.amazonaws.com/PutRecord/live\",\"KINESISSTREAM\":\"kinesisForProduction\",\"VISITGATEWAY\":\"https://zix4loorx2.execute-api.us-west-2.amazonaws.com/Prod/sttracker\",\"WEBSOCKET\":\"wss://vst.heatmap.com\",\"CIP\":\"\",\"HEATMAPS\":[],\"ISOLATEDSITES\":[],\"IDSITE\":1781,\"FRONTEND_DEBUG\":0},\"_heatmapConfigUrl\":\"https://cfg.heatmap.com/root/\"}"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,5d{`J@M\"='g6k7,V/1\\UPl-y-?8;+|Bg1M)$( 3$>4[>wmJTC3o/`nt^)'OY4>-T $1]4QlEAMgHKE]AtfHrpZ=gBu\u007fSf*J,YAoR>KG\"l_VSPGn)>I\"sgO%+}e*^qgj\"~Yyr3^[MTF9\\FgxQ+d=SM2u=);RW\u007f[!lL\\s_tcffS} FnfAgXVd[Pm[Q/&U\\NU&=&^->^p%u^U&N.)n,>u*ZCFsTm+BR"
+        },
+        {
+          "name": "TW_EXT_product^viewed_1794017517025",
+          "value": "{\"i\":\"sh-b3c6dd78-C4B9-4417-45CE-D08EB0DA297C\",\"t\":1794017517025}"
+        },
+        {
+          "name": "_heatHsr",
+          "value": "11333007"
+        },
+        {
+          "name": "alia-test",
+          "value": "test"
+        },
+        {
+          "name": "connect_cid",
+          "value": "eeac9644de884ddb93fd00e4518f509e"
+        },
+        {
+          "name": "vUUID",
+          "value": "d7812e8b-dd91-44be-ab66-602dd27d3524"
+        },
+        {
+          "name": "_heatidL",
+          "value": "611062111561530003"
+        },
+        {
+          "name": "heatmapDebugger",
+          "value": "{\"heatmapDCPageLoadTime\":0,\"heatmapDCVisit\":0,\"heatmapDCLogHSR\":0,\"preprocessorLT\":\"1131.2000000029802ms\"}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIr6BvMUD3eq9ELh0R0ZhT\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIr6BvMUD3eq9ELh0R0ZhT\",\"customerProfileId\":null,\"countryCode\":\"GB\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "_mr_vid",
+          "value": "eieqmia62yqqiaa2"
+        },
+        {
+          "name": "_user_agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "sid",
+          "value": "9c5522a0da5011f18b847b87d3a26355"
+        },
+        {
+          "name": "alia-consent-nikura.myshopify.com",
+          "value": "{\"required\":false,\"source\":\"shopify\",\"regions\":{\"mode\":\"shopify\",\"countries\":[]}}"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-07T02:11:59.596Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-b3c70612-3755-4646-AAF4-7C25609A35A5\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"nikura.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-b3c70612-3755-4646-AAF4-7C25609A35A5\",\"event_date_time\":\"2026-11-07T02:11:59.596Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"df325183-c384-419e-b6b8-625b44c6e2ed\",\"page_url\":\"https://nikura.com/products/airi-waterless-diffuser\",\"currency\":\"GBP\",\"product\":{\"product_id\":\"14959740289402\",\"product_title\":\"AIRI Waterless Diffuser\",\"variant_id\":\"55063890395514\",\"variant_title\":\"White / AIRI + 3 Essential Oils\",\"quantity\":1,\"variant_price\":60,\"product_vendor\":\"Nikura\"}}}}}]"
+        },
+        {
+          "name": "snowplowOutQueue__nb_sp_nb_post2",
+          "value": "[]"
+        },
+        {
+          "name": "sidExpiry",
+          "value": "2026-11-08T02:11:58.027Z"
+        },
+        {
+          "name": "heatmap_id_site",
+          "value": "1781"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIr6BvMUD3eq9ELh0R0ZhT\""
+        },
+        {
+          "name": "alia-storage-since",
+          "value": "1794017516986"
+        },
+        {
+          "name": "viewedProducts",
+          "value": "[\"14959740289402\"]"
+        },
+        {
+          "name": "alia-tracking-allowed-nikura.myshopify.com",
+          "value": "true"
+        },
+        {
+          "name": "pap_unique_user_id",
+          "value": "fb0310c0-70df-49e0-8f9a-fed2cf432178"
+        },
+        {
+          "name": "_entryExPage",
+          "value": "https://nikura.com/products/airi-waterless-diffuser"
+        },
+        {
+          "name": "_bcai_aid",
+          "value": "df325183-c384-419e-b6b8-625b44c6e2ed"
+        },
+        {
+          "name": "_heatDeviceType",
+          "value": "2"
+        },
+        {
+          "name": "hCart",
+          "value": "true"
+        },
+        {
+          "name": "_applovin_pixel_version",
+          "value": "s/a/3.6.68"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "vidExpiry",
+          "value": "2027-12-02T02:11:57.652Z"
+        },
+        {
+          "name": "_bcai_cs",
+          "value": "{\"token\":\"hWNIr6BvMUD3eq9ELh0R0ZhT?key=5d937e63b960b1a2766b1ef0fac973ef\",\"note\":\"\",\"attributes\":{\"_heatVid\":\"611062111561640096\",\"_heatIdSite\":1781,\"_heatDevice\":2,\"_heatUid\":\"eieqmia62yqqiaa2\"},\"original_total_price\":6000,\"total_price\":6000,\"total_discount\":0,\"total_weight\":364,\"item_count\":1,\"items\":[{\"id\":55063890395514,\"properties\":{},\"quantity\":1,\"variant_id\":55063890395514,\"key\":\"55063890395514:ac96debd9c53f9901f4d53ea81a58f1e\",\"title\":\"AIRI Waterless Diffuser - White / AIRI + 3 Essential Oils\",\"price\":6000,\"original_price\":6000,\"presentment_price\":60,\"discounted_price\":6000,\"line_price\":6000,\"original_line_price\":6000,\"total_discount\":0,\"discounts\":[],\"sku\":\"M-MP-ACL-XM080\",\"grams\":364,\"vendor\":\"Nikura\",\"taxable\":true,\"product_id\":14959740289402,\"product_has_only_default_variant\":false,\"gift_card\":false,\"final_price\":6000,\"final_line_price\":6000,\"url\":\"/products/airi-waterless-diffuser?variant=55063890395514\",\"featured_image\":{\"aspect_ratio\":1.134,\"alt\":\"AIRI Waterless Diffuser\",\"height\":1794,\"url\":\"https://cdn.shopify.com/s/files/1/0017/5839/6473/files/Copy_of_NEW_PDP_16.jpg?v=1787071021\",\"width\":2034},\"image\":\"https://cdn.shopify.com/s/files/1/0017/5839/6473/files/Copy_of_NEW_PDP_16.jpg?v=1787071021\",\"handle\":\"airi-waterless-diffuser\",\"requires_shipping\":true,\"product_type\":\"Diffusers\",\"product_title\":\"AIRI Waterless Diffuser\",\"product_description\":\"Description\\n\\nWaterless, Wireless, Portable, Silent.\u00a0\\nCreating a calming, stress-free atmosphere at home is easier than you think with our new AIRI waterless diffuser.\\nAIRI uses Ultra Nebulisation Technology to diffuse your oils directly into your home. No water, no dilution, just the full strength of your oils. With even, efficient coverage that fills the largest rooms effortlessly, you can use the power of scent to transform your space into your very own sanctuary.\\nSetting up AIRI takes seconds. Insert your oil directly and you're ready to go. Completely silent and fully portable, plus three mist settings to suit your mood.\\nWhats Inside\\nEach bundle comes with one AIRI diffuser, and a USB-C Charging Cable. Always use the USB-C cable supplied as other cables may not charge the unit correctly.\\nEssential Oil Classics Bundle (3 x 10ml)A timeless trio of Lavender, Lemon, and Peppermint, blending calming, uplifting, and invigorating aromas for everyday wellbeing.\\nSleep Blends Bundle (3 x 10ml)Our top three blends for a peaceful night\u2019s sleep: Calm, Cosy Night In, and Sweet Dreams. Crafted to relax the mind, comfort the senses, and promote restful sleep.\\nBest Sellers Bundle (5 x 10ml)A curated collection of our five most-loved scents: Lemon, Lavender, Peppermint, Fresh Linen, and Calm.\\nHow it works\u00a0\\nPress the on button to start or stop diffusion. Press it again to cycle through run times of\u00a01h \u2192 3h \u2192 6h.\\nA second button cycles through low, medium and high intensity, releasing a 1.2-second burst every 210, 150 or 90 seconds. To turn the light off, hold down the same button at any time.\u00a0\\nThe indicator light confirms your settings, and it shuts off automatically when the timer's done.\\nFor best results, place AIRI towards the edge of a surface so the mist can disperse freely into the room.\\nSpecifications\\n\\n\\nCharging Time:\u00a02-3 hours for a full charge\\n\\nPower: 5W with included USB/AC adapter\\n\\nCoverage Area: Up to 60m\u00b2\\n\\nBattery: 800mAh Lithium\\n\\nSafety: Auto shutoff when battery drops below 5%\\n\\n\\nAIRI User Manual PDF\\nCompatible with 10ml, 20ml, 30ml and 50ml bottles. Do not use with high viscosity oils.\",\"variant_title\":\"White / AIRI + 3 Essential Oils\",\"variant_options\":[\"White\",\"AIRI + 3 Essential Oils\"],\"options_with_values\":[{\"name\":\"Colour\",\"value\":\"White\"},{\"name\":\"Set\",\"value\":\"AIRI + 3 Essential Oils\"}],\"line_level_discount_allocations\":[],\"line_level_total_discount\":0,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"has_components\":false}],\"requires_shipping\":true,\"currency\":\"GBP\",\"items_subtotal_price\":6000,\"cart_level_discount_applications\":[],\"discount_codes\":[]}"
+        },
+        {
+          "name": "_heatVid",
+          "value": "611062111561640096"
+        },
+        {
+          "name": "vid",
+          "value": "9c1c1140da5011f18b847b87d3a26355"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,-`&<@.11KZ} /ym@)0{MLLb<g|3c94r,#!a`A9H\\O#9d8N01V#O=u6.}qNg]5X={wA*dQ Qv=1(5B+w_j]"
+        },
+        {
+          "name": "enHsr",
+          "value": "11333007"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,&sKl*\u007f#ybrz-^=Q~dGhvMEjT\\h$!*9di:_%9?L<hkVL^gsflf`t_J$e+uPtYT^%n%NG1jSV r3*@F:\\pT{"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794276717781"
+        },
+        {
+          "name": "product_viewed",
+          "value": "true"
+        },
+        {
+          "name": "shop_market_id",
+          "value": "1242202209"
+        },
+        {
+          "name": "TW_EXT_page^viewed_1794017517024",
+          "value": "{\"i\":\"sh-b3c6dd6a-0B21-4805-AB6D-0F36AAD9E950\",\"t\":1794017517024}"
+        },
+        {
+          "name": "alia-user-8629",
+          "value": "{\"user\":{\"id\":9292157296,\"profile\":{\"properties\":{},\"prismMap\":{},\"history\":[[\"https://nikura.com/products/airi-waterless-diffuser\"]]}}}"
+        },
+        {
+          "name": "_entryEnPage",
+          "value": "https://nikura.com/products/airi-waterless-diffuser"
+        },
+        {
+          "name": "TriplePixelU",
+          "value": "[{\"u\":\"https://nikura.com/\",\"r\":\"\",\"t\":1794017510330,\"id\":\"mw5rpebe_0.8ymyyco3rin\"},{\"u\":\"https://nikura.com/products/airi-waterless-diffuser\",\"r\":\"\",\"t\":1794017512857,\"id\":\"mw5rpg9l_0.xaqvs630ii\"}]"
+        },
+        {
+          "name": "rbrDiscountData",
+          "value": "{\"token\":\"hWNIr6BvMUD3eq9ELh0R0ZhT?key=5d937e63b960b1a2766b1ef0fac973ef\",\"discount_name\":\"\",\"code\":\"\",\"discount\":null,\"variant_ids\":{},\"target_variant_ids\":{},\"valid_cart_bundle_ids\":[],\"valid_ct_cart_bundle_ids\":[],\"encoded_data\":\"-\"}"
+        },
+        {
+          "name": "TW_EXT_product^added^to^cart_1794017519704",
+          "value": "{\"i\":\"sh-b3c70612-3755-4646-AAF4-7C25609A35A5\",\"t\":1794017519704}"
+        },
+        {
+          "name": "heatmapHsrVid",
+          "value": "611062111561640096"
+        },
+        {
+          "name": "__hmVisitHistory_1781",
+          "value": "{\"v\":1,\"first\":1794017516,\"seq\":1,\"prevIdv\":\"\",\"prevT\":0,\"lastCart\":0,\"lastCheckout\":0,\"lastPurchase\":0,\"purchases\":0,\"recent\":[],\"cur\":{\"idv\":\"611062111561640096\",\"t\":1794017516,\"te\":1794017520,\"pg\":{\"p611062111561530003\":{\"h\":11333007,\"c\":1,\"s\":95,\"d\":3887,\"p\":1}},\"hs\":[11333007],\"pp\":[11333007],\"ev\":1,\"rv\":0,\"orders\":[],\"cartAt\":1794017519,\"checkoutAt\":0,\"purchaseAt\":0},\"snap\":{\"idv\":\"611062111561640096\",\"tags\":{\"hmh_v\":\"1\",\"hmh_seq\":\"1\",\"hmh_t\":\"1794017516\",\"hmh_first\":\"1794017516\",\"hmh_lc\":\"0\",\"hmh_lk\":\"0\",\"hmh_lp\":\"0\",\"hmh_np\":\"0\"},\"delivered\":false}}"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "checkpointData": null,
+          "configurationRecordId": "gid://shopify/CheckoutProfile/9306340",
+          "renderContextToken": null,
+          "queueToken": "AxDcHo9fY32X0zfyHNlWjEwSYh7XlbrejnHAvXAir8oUScz0CBNcr4IFQhDqkNms2dT_7fAHyfv5jx_rJQmj3qjet1BiKIjzqDcqWU3JJb3ZCEWPjn6tKao-4AQ6qanK_D54aRGbkuv-me0=",
+          "buyerProposal": {
+            "merchandiseDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "deliveryDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "bba785eb-dda9-4f49-9398-7710b383f914",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/48807128989924",
+                    "digest": "09c146807e4584008bf1dae4aa1467ce",
+                    "variantId": "gid://shopify/ProductVariant/48807128989924",
+                    "title": "Maidesite T1 Pro – Hochwertiger Einstiegs-Höhenverstellbarer Schreibtisch",
+                    "untranslatedTitle": "Maidesite T1 Pro – Hochwertiger Einstiegs-Höhenverstellbarer Schreibtisch",
+                    "subtitle": "Schwarz / Nur Tischgestell / Nur Tischgestell",
+                    "untranslatedSubtitle": "Schwarz / Nur Tischgestell / Nur Tischgestell",
+                    "compareAtPrice": {
+                      "amount": "179.99",
+                      "currencyCode": "EUR",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/6772831092929",
+                      "vendor": "Maidesite",
+                      "productType": "Möbel > Büromöbel > Schreibtische",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/elektrisch-hohenverstellbarer-gestell-t1-pro",
+                    "image": {
+                      "altText": "Maidesite T1 Pro höhenverstellbarer Schreibtischrahmen schwarz",
+                      "url": "https://cdn.shopify.com/s/files/1/0574/9728/8897/files/Maidesite-T1-Pro-hohenverstellbares-Tischgestell-schwarz.jpg?v=1758545924",
+                      "one": "https://cdn.shopify.com/s/files/1/0574/9728/8897/files/Maidesite-T1-Pro-hohenverstellbares-Tischgestell-schwarz_64x64.jpg?v=1758545924",
+                      "two": "https://cdn.shopify.com/s/files/1/0574/9728/8897/files/Maidesite-T1-Pro-hohenverstellbares-Tischgestell-schwarz_128x128.jpg?v=1758545924",
+                      "four": "https://cdn.shopify.com/s/files/1/0574/9728/8897/files/Maidesite-T1-Pro-hohenverstellbares-Tischgestell-schwarz_256x256.jpg?v=1758545924",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Farbe Gestell",
+                        "value": "Schwarz",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Farbe Tischplatte",
+                        "value": "Nur Tischgestell",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Maße Tischplatte",
+                        "value": "Nur Tischgestell",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "139.99",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "3c5abaa02dbe6f64bd27b79af806b918",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "139.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "139.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "139.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "139.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "139.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "__typename": "Proposal"
+          },
+          "sellerProposal": {
+            "merchandiseDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "cartMetafields": null,
+            "customFields": [],
+            "deliveryDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "fee": {
+              "__typename": "FilledFeeTerms",
+              "totalFeeAmount": {
+                "__typename": "MoneyValueConstraint",
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "EUR",
+                  "__typename": "Money"
+                }
+              },
+              "feeLines": []
+            },
+            "__typename": "Proposal",
+            "deliveryExpectations": {
+              "__typename": "UnavailableTerms"
+            },
+            "promiseProgram": {
+              "variantPromises": [],
+              "__typename": "PromiseProgram"
+            },
+            "memberships": {
+              "__typename": "FilledMembershipTerms",
+              "memberships": []
+            },
+            "availableRedeemables": {
+              "availableRedeemables": [],
+              "__typename": "AvailableRedeemables"
+            },
+            "shopCashBalance": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopPromotion": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopDiscountOffer": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "availableDeliveryAddresses": [],
+            "mustSelectProvidedAddress": false,
+            "mustSelectProvidedShippingRate": false,
+            "canUpdateDiscountCodes": true,
+            "canUpdateDeliveryAddress": true,
+            "canUpdateMerchandise": true,
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "deliveryMethods": {
+              "__typename": "UnavailableTerms"
+            },
+            "sellability": {
+              "shipping": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "bba785eb-dda9-4f49-9398-7710b383f914",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "local": [],
+              "pickUp": [],
+              "pickupPoint": [],
+              "none": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "bba785eb-dda9-4f49-9398-7710b383f914",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "__typename": "FilledSellability"
+            },
+            "payment": {
+              "__typename": "UnavailableTerms"
+            },
+            "poNumber": null,
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "bba785eb-dda9-4f49-9398-7710b383f914",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/48807128989924",
+                    "digest": "09c146807e4584008bf1dae4aa1467ce",
+                    "variantId": "gid://shopify/ProductVariant/48807128989924",
+                    "title": "Maidesite T1 Pro – Hochwertiger Einstiegs-Höhenverstellbarer Schreibtisch",
+                    "untranslatedTitle": "Maidesite T1 Pro – Hochwertiger Einstiegs-Höhenverstellbarer Schreibtisch",
+                    "subtitle": "Schwarz / Nur Tischgestell / Nur Tischgestell",
+                    "untranslatedSubtitle": "Schwarz / Nur Tischgestell / Nur Tischgestell",
+                    "sku": "CJ01-WEU-H",
+                    "price": {
+                      "amount": "139.99",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": {
+                      "amount": "179.99",
+                      "currencyCode": "EUR",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/6772831092929",
+                      "vendor": "Maidesite",
+                      "productType": "Möbel > Büromöbel > Schreibtische",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/elektrisch-hohenverstellbarer-gestell-t1-pro",
+                    "image": {
+                      "altText": "Maidesite T1 Pro höhenverstellbarer Schreibtischrahmen schwarz",
+                      "url": "https://cdn.shopify.com/s/files/1/0574/9728/8897/files/Maidesite-T1-Pro-hohenverstellbares-Tischgestell-schwarz.jpg?v=1758545924",
+                      "one": "https://cdn.shopify.com/s/files/1/0574/9728/8897/files/Maidesite-T1-Pro-hohenverstellbares-Tischgestell-schwarz_64x64.jpg?v=1758545924",
+                      "two": "https://cdn.shopify.com/s/files/1/0574/9728/8897/files/Maidesite-T1-Pro-hohenverstellbares-Tischgestell-schwarz_128x128.jpg?v=1758545924",
+                      "four": "https://cdn.shopify.com/s/files/1/0574/9728/8897/files/Maidesite-T1-Pro-hohenverstellbares-Tischgestell-schwarz_256x256.jpg?v=1758545924",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Farbe Gestell",
+                        "value": "Schwarz",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Farbe Tischplatte",
+                        "value": "Nur Tischgestell",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Maße Tischplatte",
+                        "value": "Nur Tischgestell",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "139.99",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "3c5abaa02dbe6f64bd27b79af806b918",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "139.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "139.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "139.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "139.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "139.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "note": {
+              "customAttributes": [],
+              "message": null,
+              "__typename": "Note"
+            },
+            "scriptFingerprint": null,
+            "transformerFingerprintV2": null,
+            "buyerIdentity": {
+              "shopUser": null,
+              "customer": {
+                "presentmentCurrency": null,
+                "countryCode": null,
+                "market": {
+                  "id": "gid://shopify/Market/1998225636",
+                  "handle": "de",
+                  "__typename": "Market"
+                },
+                "shippingAddresses": [],
+                "__typename": "GuestProfile"
+              },
+              "purchasingCompany": null,
+              "phone": null,
+              "email": null,
+              "marketingConsent": [],
+              "shopPayOptInPhone": null,
+              "rememberMe": false,
+              "__typename": "FilledBuyerIdentityTerms"
+            },
+            "checkoutCompletionTarget": "ORDER",
+            "recurringTotals": [],
+            "subtotalBeforeTaxesAndShipping": {
+              "value": {
+                "amount": "139.99",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacySubtotalBeforeTaxesShippingAndFees": {
+              "value": {
+                "amount": "139.99",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacyAggregatedMerchandiseTermsAsFees": [],
+            "legacyRepresentProductsAsFees": false,
+            "totalSavings": {
+              "value": {
+                "amount": "0.0",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "runningTotal": {
+              "value": {
+                "amount": "139.99",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "total": {
+              "__typename": "AnyConstraint"
+            },
+            "checkoutTotalBeforeTaxesAndShipping": null,
+            "checkoutTotalTaxes": null,
+            "checkoutTotal": {
+              "__typename": "AnyConstraint"
+            },
+            "deferredTotal": null,
+            "hasOnlyDeferredShipping": false,
+            "subtotalBeforeReductions": {
+              "value": {
+                "amount": "139.99",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "subtotalAfterMerchandiseDiscounts": {
+              "value": {
+                "amount": "139.99",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "duty": {
+              "totalDutyAmount": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAdditionalFeesAmount": null,
+              "__typename": "FilledDutyTerms"
+            },
+            "tax": {
+              "liability": null,
+              "taxBreakdown": null,
+              "totalTaxAmount": null,
+              "totalTaxAmountRange": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAmountIncludedInTarget": {
+                "value": {
+                  "amount": "22.35",
+                  "currencyCode": "EUR",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "__typename": "FilledTaxTerms"
+            },
+            "taxExemptions": {
+              "available": [],
+              "__typename": "FilledTaxExemptionTerms"
+            },
+            "tip": {
+              "tipSuggestions": [
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.15,
+                  "amount": {
+                    "value": {
+                      "amount": "21.0",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.18,
+                  "amount": {
+                    "value": {
+                      "amount": "25.2",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.2,
+                  "amount": {
+                    "value": {
+                      "amount": "28.0",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.0,
+                  "amount": {
+                    "value": {
+                      "amount": "0.0",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                }
+              ],
+              "terms": {
+                "tipLines": [],
+                "__typename": "FilledTipTerms"
+              },
+              "__typename": "TipWrapper"
+            },
+            "localizationExtension": {
+              "fields": [],
+              "__typename": "LocalizationExtension"
+            },
+            "landedCostDetails": {
+              "incotermInformation": null,
+              "__typename": "LandedCostDetails"
+            },
+            "dutiesIncluded": false,
+            "nonNegotiableTerms": null,
+            "optionalDuties": {
+              "buyerRefusesDuties": false,
+              "refuseDutiesPermitted": false,
+              "__typename": "OptionalDuties"
+            },
+            "attribution": {
+              "attributions": [],
+              "__typename": "Attribution"
+            },
+            "saleAttributions": {
+              "attributions": [],
+              "__typename": "SaleAttributions"
+            },
+            "managedByMarketsPro": false,
+            "managedMarketsPaymentProcessor": null,
+            "captcha": null,
+            "cartCheckoutValidation": null,
+            "alternativePaymentCurrency": null,
+            "lpmDisclosure": null,
+            "isShippingRequired": true,
+            "shopPayEnabled": false,
+            "remote": null,
+            "ucp": {
+              "continueUrl": "https://www.maidesite.de/cart/c/hWNIqyD68JtUSbeKz4fy4tfv?key=f872e804e4fc0cb61f1f450fd0d10415",
+              "paymentHandlers": [
+                {
+                  "id": "shopify.card",
+                  "name": "dev.shopify.card",
+                  "version": "2026-01-15",
+                  "spec": "https://ucp.dev/specification/payment-handler-guide",
+                  "schema": "https://shopify.dev/ucp/card-payment-handler/2026-01-15/config.json",
+                  "config": {
+                    "payment_methods": [
+                      {
+                        "type": "card",
+                        "enabled_card_brands": [
+                          "visa",
+                          "master",
+                          "american_express",
+                          "discover",
+                          "jcb",
+                          "diners_club"
+                        ]
+                      }
+                    ]
+                  },
+                  "__typename": "UcpPaymentHandler"
+                }
+              ],
+              "__typename": "UcpProposal"
+            }
+          },
+          "__typename": "NegotiationResultAvailable"
+        },
+        "errors": [
+          {
+            "code": "REDUCTION_INVALID_CODE",
+            "localizedMessage": "Gib einen gültigen Rabattcode oder Gutschein ein",
+            "nonLocalizedMessage": "Reduction code couldn't be mapped to neither a gift card or discount.",
+            "localizedMessageHtml": "Gib einen gültigen Rabattcode oder Gutschein ein",
+            "__typename": "InputValidationError"
+          },
+          {
+            "code": "BUYER_IDENTITY_MISSING_CONTACT_METHOD",
+            "localizedMessage": "Es fehlt eine gültige Kontaktmethode.",
+            "nonLocalizedMessage": "Missing a valid contact method.",
+            "localizedMessageHtml": "Es fehlt eine gültige Kontaktmethode.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "TAX_NEW_TAX_MUST_BE_ACCEPTED",
+            "localizedMessage": "Die mit deiner Bestellung verbundenen Steuern haben sich geändert. Überprüfe sie und versuche es erneut.",
+            "nonLocalizedMessage": "A new tax line in the seller proposal must be accepted in order to continue.",
+            "localizedMessageHtml": "Die mit deiner Bestellung verbundenen Steuern haben sich geändert. Überprüfe sie und versuche es erneut.",
+            "target": "$",
+            "__typename": "AcceptNewTermViolation"
+          },
+          {
+            "code": "REQUIRED_ARTIFACTS_UNAVAILABLE",
+            "localizedMessage": "",
+            "nonLocalizedMessage": "Required artifacts are unavailable.",
+            "localizedMessageHtml": null,
+            "__typename": "RequiredArtifactsUnavailableViolation"
+          }
+        ]
+      },
+      "__typename": "Session"
+    }
+  }
+}

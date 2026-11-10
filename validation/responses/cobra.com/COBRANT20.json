@@ -1,0 +1,67 @@
+{
+  "errors": [
+    {
+      "message": "Variable `$merchandise` of type `MerchandiseTermInput` was provided invalid value for `merchandiseLines.0.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`)",
+      "locations": [
+        {
+          "line": 1,
+          "column": 161
+        }
+      ],
+      "extensions": {
+        "code": "INVALID_VARIABLE",
+        "value": {
+          "merchandiseLines": [
+            {
+              "stableId": "81c55998-7b0e-4361-9123-4fcd0b9e7c35",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41402261504062",
+                  "variantId": "gid://shopify/ProductVariant/41402261504062",
+                  "properties": [
+                    {
+                      "name": "_main",
+                      "value": {
+                        "string": "main-product"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "199.95",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            }
+          ]
+        },
+        "problems": [
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          }
+        ]
+      }
+    }
+  ]
+}

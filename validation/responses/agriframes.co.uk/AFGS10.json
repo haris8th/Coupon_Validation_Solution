@@ -1,0 +1,703 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "checkpointData": null,
+          "configurationRecordId": "gid://shopify/CheckoutProfile/322896118",
+          "renderContextToken": null,
+          "queueToken": "A7tf_sON2EdXXNwPs8Iz-6fwgR-C4e1qHrj5XXzj7Wsb4Yfce611EHEp4aKbw18NoP9fh9RwxuZ1u6jhjOgFWakWZDgJFvKw_aQDGGx1bi4LiW0imqbAwHgtSVHj6XPYl3N7uQ72790Oyo0=",
+          "buyerProposal": {
+            "merchandiseDiscount": {
+              "lines": [
+                {
+                  "discount": {
+                    "code": "AFGS10",
+                    "__typename": "DiscountCodeTrigger"
+                  },
+                  "__typename": "DiscountLine"
+                }
+              ],
+              "__typename": "FilledDiscountTerms"
+            },
+            "deliveryDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "42569db3-6cf7-4e5a-bfd2-1e5f55c8f5de",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/45414040010998",
+                    "digest": "62529ff3e36c5a2c695b937757c5ba9e",
+                    "variantId": "gid://shopify/ProductVariant/45414040010998",
+                    "title": "King Umbrella Stand",
+                    "untranslatedTitle": "King Umbrella Stand",
+                    "subtitle": "Matt Black",
+                    "untranslatedSubtitle": "Matt Black",
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/8008780316918",
+                      "vendor": "Agriframes",
+                      "productType": "Garden Accessories",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/king-umbrella-stand",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0517/8159/9410/files/NEW2024-_0000_Screenshot2023-09-07at17.15.28.jpg?v=1772477136",
+                      "one": "https://cdn.shopify.com/s/files/1/0517/8159/9410/files/NEW2024-_0000_Screenshot2023-09-07at17.15.28_64x64.jpg?v=1772477136",
+                      "two": "https://cdn.shopify.com/s/files/1/0517/8159/9410/files/NEW2024-_0000_Screenshot2023-09-07at17.15.28_128x128.jpg?v=1772477136",
+                      "four": "https://cdn.shopify.com/s/files/1/0517/8159/9410/files/NEW2024-_0000_Screenshot2023-09-07at17.15.28_256x256.jpg?v=1772477136",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Colour",
+                        "value": "Matt Black",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "60.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "963fe16710f9b4e06dae44d044aafbf3",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "60.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "60.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "60.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "60.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "60.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "__typename": "Proposal"
+          },
+          "sellerProposal": {
+            "merchandiseDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": [
+                {
+                  "allocations": {
+                    "__typename": "DiscountAllocatedAllocationSet",
+                    "allocations": [
+                      {
+                        "amount": {
+                          "value": {
+                            "amount": "6.0",
+                            "currencyCode": "GBP",
+                            "__typename": "Money"
+                          },
+                          "__typename": "MoneyValueConstraint"
+                        },
+                        "target": {
+                          "index": 0,
+                          "targetType": "MERCHANDISELINE",
+                          "stableId": "42569db3-6cf7-4e5a-bfd2-1e5f55c8f5de",
+                          "__typename": "DiscountTarget"
+                        },
+                        "__typename": "DiscountAllocation"
+                      }
+                    ]
+                  },
+                  "discount": {
+                    "title": "AFGS10",
+                    "code": "AFGS10",
+                    "codeHidden": false,
+                    "presentationLevel": "LINE",
+                    "allocationMethod": "EACH",
+                    "message": null,
+                    "targetSelection": "ENTITLED",
+                    "targetType": "MERCHANDISELINE",
+                    "value": {
+                      "percentage": 10.0,
+                      "__typename": "PercentageValue"
+                    },
+                    "__typename": "CodeDiscount"
+                  },
+                  "lineAmount": {
+                    "value": {
+                      "amount": "6.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "__typename": "DiscountLine"
+                }
+              ]
+            },
+            "cartMetafields": null,
+            "customFields": [],
+            "deliveryDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "fee": {
+              "__typename": "FilledFeeTerms",
+              "totalFeeAmount": {
+                "__typename": "MoneyValueConstraint",
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "GBP",
+                  "__typename": "Money"
+                }
+              },
+              "feeLines": []
+            },
+            "__typename": "Proposal",
+            "deliveryExpectations": {
+              "__typename": "UnavailableTerms"
+            },
+            "promiseProgram": {
+              "variantPromises": [],
+              "__typename": "PromiseProgram"
+            },
+            "memberships": {
+              "__typename": "FilledMembershipTerms",
+              "memberships": []
+            },
+            "availableRedeemables": {
+              "availableRedeemables": [],
+              "__typename": "AvailableRedeemables"
+            },
+            "shopCashBalance": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopPromotion": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopDiscountOffer": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "availableDeliveryAddresses": [],
+            "mustSelectProvidedAddress": false,
+            "mustSelectProvidedShippingRate": false,
+            "canUpdateDiscountCodes": true,
+            "canUpdateDeliveryAddress": true,
+            "canUpdateMerchandise": true,
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "deliveryMethods": {
+              "__typename": "UnavailableTerms"
+            },
+            "sellability": {
+              "shipping": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "42569db3-6cf7-4e5a-bfd2-1e5f55c8f5de",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "local": [],
+              "pickUp": [],
+              "pickupPoint": [],
+              "none": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "42569db3-6cf7-4e5a-bfd2-1e5f55c8f5de",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "__typename": "FilledSellability"
+            },
+            "payment": {
+              "__typename": "UnavailableTerms"
+            },
+            "poNumber": null,
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "42569db3-6cf7-4e5a-bfd2-1e5f55c8f5de",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/45414040010998",
+                    "digest": "62529ff3e36c5a2c695b937757c5ba9e",
+                    "variantId": "gid://shopify/ProductVariant/45414040010998",
+                    "title": "King Umbrella Stand",
+                    "untranslatedTitle": "King Umbrella Stand",
+                    "subtitle": "Matt Black",
+                    "untranslatedSubtitle": "Matt Black",
+                    "sku": "BR10001-TBK",
+                    "price": {
+                      "amount": "60.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/8008780316918",
+                      "vendor": "Agriframes",
+                      "productType": "Garden Accessories",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/king-umbrella-stand",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0517/8159/9410/files/NEW2024-_0000_Screenshot2023-09-07at17.15.28.jpg?v=1772477136",
+                      "one": "https://cdn.shopify.com/s/files/1/0517/8159/9410/files/NEW2024-_0000_Screenshot2023-09-07at17.15.28_64x64.jpg?v=1772477136",
+                      "two": "https://cdn.shopify.com/s/files/1/0517/8159/9410/files/NEW2024-_0000_Screenshot2023-09-07at17.15.28_128x128.jpg?v=1772477136",
+                      "four": "https://cdn.shopify.com/s/files/1/0517/8159/9410/files/NEW2024-_0000_Screenshot2023-09-07at17.15.28_256x256.jpg?v=1772477136",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Colour",
+                        "value": "Matt Black",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "60.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "963fe16710f9b4e06dae44d044aafbf3",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "60.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "54.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "54.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "54.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "60.0",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "allocation": {
+                            "amount": {
+                              "value": {
+                                "amount": "6.0",
+                                "currencyCode": "GBP",
+                                "__typename": "Money"
+                              },
+                              "__typename": "MoneyValueConstraint"
+                            },
+                            "__typename": "DiscountAllocation"
+                          },
+                          "discount": {
+                            "title": "AFGS10",
+                            "code": "AFGS10",
+                            "codeHidden": false,
+                            "presentationLevel": "LINE",
+                            "allocationMethod": "EACH",
+                            "message": null,
+                            "targetSelection": "ENTITLED",
+                            "targetType": "MERCHANDISELINE",
+                            "value": {
+                              "percentage": 10.0,
+                              "__typename": "PercentageValue"
+                            },
+                            "__typename": "CodeDiscount"
+                          },
+                          "__typename": "LineComponentDiscountAllocation"
+                        },
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "note": {
+              "customAttributes": [],
+              "message": null,
+              "__typename": "Note"
+            },
+            "scriptFingerprint": null,
+            "transformerFingerprintV2": null,
+            "buyerIdentity": {
+              "shopUser": null,
+              "customer": {
+                "presentmentCurrency": null,
+                "countryCode": null,
+                "market": {
+                  "id": "gid://shopify/Market/336330998",
+                  "handle": "gb",
+                  "__typename": "Market"
+                },
+                "shippingAddresses": [],
+                "__typename": "GuestProfile"
+              },
+              "purchasingCompany": null,
+              "phone": null,
+              "email": null,
+              "marketingConsent": [],
+              "shopPayOptInPhone": null,
+              "rememberMe": false,
+              "__typename": "FilledBuyerIdentityTerms"
+            },
+            "checkoutCompletionTarget": "ORDER",
+            "recurringTotals": [],
+            "subtotalBeforeTaxesAndShipping": {
+              "value": {
+                "amount": "54.0",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacySubtotalBeforeTaxesShippingAndFees": {
+              "value": {
+                "amount": "54.0",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacyAggregatedMerchandiseTermsAsFees": [],
+            "legacyRepresentProductsAsFees": false,
+            "totalSavings": {
+              "value": {
+                "amount": "6.0",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "runningTotal": {
+              "value": {
+                "amount": "54.0",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "total": {
+              "__typename": "AnyConstraint"
+            },
+            "checkoutTotalBeforeTaxesAndShipping": null,
+            "checkoutTotalTaxes": null,
+            "checkoutTotal": {
+              "__typename": "AnyConstraint"
+            },
+            "deferredTotal": null,
+            "hasOnlyDeferredShipping": false,
+            "subtotalBeforeReductions": {
+              "value": {
+                "amount": "60.0",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "subtotalAfterMerchandiseDiscounts": {
+              "value": {
+                "amount": "54.0",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "duty": {
+              "totalDutyAmount": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAdditionalFeesAmount": null,
+              "__typename": "FilledDutyTerms"
+            },
+            "tax": {
+              "liability": null,
+              "taxBreakdown": null,
+              "totalTaxAmount": null,
+              "totalTaxAmountRange": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAmountIncludedInTarget": {
+                "value": {
+                  "amount": "9.0",
+                  "currencyCode": "GBP",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "__typename": "FilledTaxTerms"
+            },
+            "taxExemptions": {
+              "available": [],
+              "__typename": "FilledTaxExemptionTerms"
+            },
+            "tip": {
+              "tipSuggestions": [
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.15,
+                  "amount": {
+                    "value": {
+                      "amount": "8.1",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.18,
+                  "amount": {
+                    "value": {
+                      "amount": "9.72",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.2,
+                  "amount": {
+                    "value": {
+                      "amount": "10.8",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.0,
+                  "amount": {
+                    "value": {
+                      "amount": "0.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                }
+              ],
+              "terms": {
+                "tipLines": [],
+                "__typename": "FilledTipTerms"
+              },
+              "__typename": "TipWrapper"
+            },
+            "localizationExtension": {
+              "fields": [],
+              "__typename": "LocalizationExtension"
+            },
+            "landedCostDetails": {
+              "incotermInformation": null,
+              "__typename": "LandedCostDetails"
+            },
+            "dutiesIncluded": false,
+            "nonNegotiableTerms": null,
+            "optionalDuties": {
+              "buyerRefusesDuties": false,
+              "refuseDutiesPermitted": false,
+              "__typename": "OptionalDuties"
+            },
+            "attribution": {
+              "attributions": [],
+              "__typename": "Attribution"
+            },
+            "saleAttributions": {
+              "attributions": [],
+              "__typename": "SaleAttributions"
+            },
+            "managedByMarketsPro": false,
+            "managedMarketsPaymentProcessor": null,
+            "captcha": null,
+            "cartCheckoutValidation": null,
+            "alternativePaymentCurrency": null,
+            "lpmDisclosure": null,
+            "isShippingRequired": true,
+            "shopPayEnabled": true,
+            "remote": null,
+            "ucp": {
+              "continueUrl": "https://www.agriframes.co.uk/cart/c/hWNIq4xCfKD8YWjgAep728vL?key=f13a925e76e3b51ae9289dce7defad75",
+              "paymentHandlers": [
+                {
+                  "id": "shopify.card",
+                  "name": "dev.shopify.card",
+                  "version": "2026-01-15",
+                  "spec": "https://ucp.dev/specification/payment-handler-guide",
+                  "schema": "https://shopify.dev/ucp/card-payment-handler/2026-01-15/config.json",
+                  "config": {
+                    "payment_methods": [
+                      {
+                        "type": "card",
+                        "enabled_card_brands": [
+                          "visa",
+                          "maestro",
+                          "master",
+                          "american_express",
+                          "discover",
+                          "diners_club",
+                          "unionpay",
+                          "elo"
+                        ]
+                      }
+                    ]
+                  },
+                  "__typename": "UcpPaymentHandler"
+                },
+                {
+                  "id": "shop_pay",
+                  "name": "dev.shopify.shop_pay",
+                  "version": "2026-01-23",
+                  "spec": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/spec.md",
+                  "schema": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/schema.json",
+                  "config": {
+                    "shop_id": "51781599410"
+                  },
+                  "__typename": "UcpPaymentHandler"
+                }
+              ],
+              "__typename": "UcpProposal"
+            }
+          },
+          "__typename": "NegotiationResultAvailable"
+        },
+        "errors": [
+          {
+            "code": "BUYER_IDENTITY_MISSING_CONTACT_METHOD",
+            "localizedMessage": "Missing a valid contact method.",
+            "nonLocalizedMessage": "Missing a valid contact method.",
+            "localizedMessageHtml": "Missing a valid contact method.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "TAX_NEW_TAX_MUST_BE_ACCEPTED",
+            "localizedMessage": "Taxes associated to your order have changed. Review and try again.",
+            "nonLocalizedMessage": "A new tax line in the seller proposal must be accepted in order to continue.",
+            "localizedMessageHtml": "Taxes associated to your order have changed. Review and try again.",
+            "target": "$",
+            "__typename": "AcceptNewTermViolation"
+          },
+          {
+            "code": "REQUIRED_ARTIFACTS_UNAVAILABLE",
+            "localizedMessage": "",
+            "nonLocalizedMessage": "Required artifacts are unavailable.",
+            "localizedMessageHtml": null,
+            "__typename": "RequiredArtifactsUnavailableViolation"
+          }
+        ]
+      },
+      "__typename": "Session"
+    }
+  }
+}

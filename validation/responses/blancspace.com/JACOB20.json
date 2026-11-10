@@ -1,0 +1,977 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "checkpointData": null,
+          "configurationRecordId": "gid://shopify/CheckoutProfile/107577397",
+          "renderContextToken": null,
+          "queueToken": "AzSP5YhCIfu_1_Yspg9B2L8RYgpZUm8rnIdMkrtkiPIVhM-eD2V3OOvNkHh1OLf2unWyQ1Pggx3jR-2swzC_1sLboPlxnzxvZ0PD2SbsmXsAUf2b2GpYVWKh2RRW1ki0AOYER6s5EfcmdP_pCJYC",
+          "buyerProposal": {
+            "merchandiseDiscount": {
+              "lines": [
+                {
+                  "discount": {
+                    "code": "JACOB20",
+                    "__typename": "DiscountCodeTrigger"
+                  },
+                  "__typename": "DiscountLine"
+                }
+              ],
+              "__typename": "FilledDiscountTerms"
+            },
+            "deliveryDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "99d542c5-926e-47ab-b9c6-a712c0bfc67a",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/55527658226037",
+                    "digest": "0876500b6cf426365a224d226d53f1ef",
+                    "variantId": "gid://shopify/ProductVariant/55527658226037",
+                    "title": "Shipping Protection",
+                    "untranslatedTitle": "Shipping Protection",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "compareAtPrice": {
+                      "amount": "3.95",
+                      "currencyCode": "GBP",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/14963366527349",
+                      "vendor": "Blanc Space",
+                      "productType": "Shipping Protection",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/shipping-protection-1",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/2485/7096/files/shipping-protection-image_19627364-7903-4e39-a4dd-3ab8c9cc908d.jpg?v=1750704329",
+                      "one": "https://cdn.shopify.com/s/files/1/2485/7096/files/shipping-protection-image_19627364-7903-4e39-a4dd-3ab8c9cc908d_64x64.jpg?v=1750704329",
+                      "two": "https://cdn.shopify.com/s/files/1/2485/7096/files/shipping-protection-image_19627364-7903-4e39-a4dd-3ab8c9cc908d_128x128.jpg?v=1750704329",
+                      "four": "https://cdn.shopify.com/s/files/1/2485/7096/files/shipping-protection-image_19627364-7903-4e39-a4dd-3ab8c9cc908d_256x256.jpg?v=1750704329",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": false,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "2.95",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "c2c52489d3c7ad67c03cfb5403daec75",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "2.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "2.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "2.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "2.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "2.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                },
+                {
+                  "stableId": "4f420127-402a-4841-af39-2c1e137a6add",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/42410907271221",
+                    "digest": "9756ff3cfb4fea9c48d9540abd498748",
+                    "variantId": "gid://shopify/ProductVariant/42410907271221",
+                    "title": "Rainbow Phone Charms",
+                    "untranslatedTitle": "Rainbow Phone Charms",
+                    "subtitle": "Rainbow",
+                    "untranslatedSubtitle": "Rainbow",
+                    "compareAtPrice": {
+                      "amount": "11.95",
+                      "currencyCode": "GBP",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/7211977998389",
+                      "vendor": "Blanc Space",
+                      "productType": "Phone Charm",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/rainbow-phone-charm",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/2485/7096/files/charm-rainbow-1.jpg?v=1727275912",
+                      "one": "https://cdn.shopify.com/s/files/1/2485/7096/files/charm-rainbow-1_64x64.jpg?v=1727275912",
+                      "two": "https://cdn.shopify.com/s/files/1/2485/7096/files/charm-rainbow-1_128x128.jpg?v=1727275912",
+                      "four": "https://cdn.shopify.com/s/files/1/2485/7096/files/charm-rainbow-1_256x256.jpg?v=1727275912",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Colour",
+                        "value": "Rainbow",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "8.95",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "e0d359175544777ba0509982dca2213f",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "8.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "8.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "8.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "8.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "8.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "__typename": "Proposal"
+          },
+          "sellerProposal": {
+            "merchandiseDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": [
+                {
+                  "allocations": {
+                    "__typename": "DiscountAllocatedAllocationSet",
+                    "allocations": [
+                      {
+                        "amount": {
+                          "value": {
+                            "amount": "0.03",
+                            "currencyCode": "GBP",
+                            "__typename": "Money"
+                          },
+                          "__typename": "MoneyValueConstraint"
+                        },
+                        "target": {
+                          "index": 0,
+                          "targetType": "MERCHANDISELINE",
+                          "stableId": "99d542c5-926e-47ab-b9c6-a712c0bfc67a",
+                          "__typename": "DiscountTarget"
+                        },
+                        "__typename": "DiscountAllocation"
+                      },
+                      {
+                        "amount": {
+                          "value": {
+                            "amount": "0.08",
+                            "currencyCode": "GBP",
+                            "__typename": "Money"
+                          },
+                          "__typename": "MoneyValueConstraint"
+                        },
+                        "target": {
+                          "index": 1,
+                          "targetType": "MERCHANDISELINE",
+                          "stableId": "4f420127-402a-4841-af39-2c1e137a6add",
+                          "__typename": "DiscountTarget"
+                        },
+                        "__typename": "DiscountAllocation"
+                      }
+                    ]
+                  },
+                  "discount": {
+                    "title": "jacob20",
+                    "code": "jacob20",
+                    "codeHidden": false,
+                    "presentationLevel": "CART",
+                    "allocationMethod": "ACROSS",
+                    "message": null,
+                    "targetSelection": "ALL",
+                    "targetType": "MERCHANDISELINE",
+                    "value": {
+                      "percentage": 1.0,
+                      "__typename": "PercentageValue"
+                    },
+                    "__typename": "CodeDiscount"
+                  },
+                  "lineAmount": {
+                    "value": {
+                      "amount": "0.11",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "__typename": "DiscountLine"
+                }
+              ]
+            },
+            "cartMetafields": null,
+            "customFields": [],
+            "deliveryDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "fee": {
+              "__typename": "FilledFeeTerms",
+              "totalFeeAmount": {
+                "__typename": "MoneyValueConstraint",
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "GBP",
+                  "__typename": "Money"
+                }
+              },
+              "feeLines": []
+            },
+            "__typename": "Proposal",
+            "deliveryExpectations": {
+              "__typename": "UnavailableTerms"
+            },
+            "promiseProgram": {
+              "variantPromises": [],
+              "__typename": "PromiseProgram"
+            },
+            "memberships": {
+              "__typename": "FilledMembershipTerms",
+              "memberships": []
+            },
+            "availableRedeemables": {
+              "availableRedeemables": [],
+              "__typename": "AvailableRedeemables"
+            },
+            "shopCashBalance": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopPromotion": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopDiscountOffer": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "availableDeliveryAddresses": [],
+            "mustSelectProvidedAddress": false,
+            "mustSelectProvidedShippingRate": false,
+            "canUpdateDiscountCodes": true,
+            "canUpdateDeliveryAddress": true,
+            "canUpdateMerchandise": true,
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "deliveryMethods": {
+              "__typename": "UnavailableTerms"
+            },
+            "sellability": {
+              "shipping": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "99d542c5-926e-47ab-b9c6-a712c0bfc67a",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                },
+                {
+                  "targetMerchandise": {
+                    "stableId": "4f420127-402a-4841-af39-2c1e137a6add",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "local": [],
+              "pickUp": [],
+              "pickupPoint": [],
+              "none": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "99d542c5-926e-47ab-b9c6-a712c0bfc67a",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                },
+                {
+                  "targetMerchandise": {
+                    "stableId": "4f420127-402a-4841-af39-2c1e137a6add",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "__typename": "FilledSellability"
+            },
+            "payment": {
+              "__typename": "UnavailableTerms"
+            },
+            "poNumber": null,
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "99d542c5-926e-47ab-b9c6-a712c0bfc67a",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/55527658226037",
+                    "digest": "0876500b6cf426365a224d226d53f1ef",
+                    "variantId": "gid://shopify/ProductVariant/55527658226037",
+                    "title": "Shipping Protection",
+                    "untranslatedTitle": "Shipping Protection",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "sku": null,
+                    "price": {
+                      "amount": "2.95",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": {
+                      "amount": "3.95",
+                      "currencyCode": "GBP",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/14963366527349",
+                      "vendor": "Blanc Space",
+                      "productType": "Shipping Protection",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/shipping-protection-1",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/2485/7096/files/shipping-protection-image_19627364-7903-4e39-a4dd-3ab8c9cc908d.jpg?v=1750704329",
+                      "one": "https://cdn.shopify.com/s/files/1/2485/7096/files/shipping-protection-image_19627364-7903-4e39-a4dd-3ab8c9cc908d_64x64.jpg?v=1750704329",
+                      "two": "https://cdn.shopify.com/s/files/1/2485/7096/files/shipping-protection-image_19627364-7903-4e39-a4dd-3ab8c9cc908d_128x128.jpg?v=1750704329",
+                      "four": "https://cdn.shopify.com/s/files/1/2485/7096/files/shipping-protection-image_19627364-7903-4e39-a4dd-3ab8c9cc908d_256x256.jpg?v=1750704329",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": false,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "2.95",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "c2c52489d3c7ad67c03cfb5403daec75",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "2.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "2.92",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "2.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "2.92",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "2.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "allocation": {
+                            "amount": {
+                              "value": {
+                                "amount": "0.03",
+                                "currencyCode": "GBP",
+                                "__typename": "Money"
+                              },
+                              "__typename": "MoneyValueConstraint"
+                            },
+                            "__typename": "DiscountAllocation"
+                          },
+                          "discount": {
+                            "title": "jacob20",
+                            "code": "jacob20",
+                            "codeHidden": false,
+                            "presentationLevel": "CART",
+                            "allocationMethod": "ACROSS",
+                            "message": null,
+                            "targetSelection": "ALL",
+                            "targetType": "MERCHANDISELINE",
+                            "value": {
+                              "percentage": 1.0,
+                              "__typename": "PercentageValue"
+                            },
+                            "__typename": "CodeDiscount"
+                          },
+                          "__typename": "LineComponentDiscountAllocation"
+                        },
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                },
+                {
+                  "stableId": "4f420127-402a-4841-af39-2c1e137a6add",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/42410907271221",
+                    "digest": "9756ff3cfb4fea9c48d9540abd498748",
+                    "variantId": "gid://shopify/ProductVariant/42410907271221",
+                    "title": "Rainbow Phone Charms",
+                    "untranslatedTitle": "Rainbow Phone Charms",
+                    "subtitle": "Rainbow",
+                    "untranslatedSubtitle": "Rainbow",
+                    "sku": "CHARM-RAINBOW",
+                    "price": {
+                      "amount": "8.95",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": {
+                      "amount": "11.95",
+                      "currencyCode": "GBP",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/7211977998389",
+                      "vendor": "Blanc Space",
+                      "productType": "Phone Charm",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/rainbow-phone-charm",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/2485/7096/files/charm-rainbow-1.jpg?v=1727275912",
+                      "one": "https://cdn.shopify.com/s/files/1/2485/7096/files/charm-rainbow-1_64x64.jpg?v=1727275912",
+                      "two": "https://cdn.shopify.com/s/files/1/2485/7096/files/charm-rainbow-1_128x128.jpg?v=1727275912",
+                      "four": "https://cdn.shopify.com/s/files/1/2485/7096/files/charm-rainbow-1_256x256.jpg?v=1727275912",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Colour",
+                        "value": "Rainbow",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "8.95",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "e0d359175544777ba0509982dca2213f",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "8.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "8.87",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "8.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "8.87",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "8.95",
+                        "currencyCode": "GBP",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "allocation": {
+                            "amount": {
+                              "value": {
+                                "amount": "0.08",
+                                "currencyCode": "GBP",
+                                "__typename": "Money"
+                              },
+                              "__typename": "MoneyValueConstraint"
+                            },
+                            "__typename": "DiscountAllocation"
+                          },
+                          "discount": {
+                            "title": "jacob20",
+                            "code": "jacob20",
+                            "codeHidden": false,
+                            "presentationLevel": "CART",
+                            "allocationMethod": "ACROSS",
+                            "message": null,
+                            "targetSelection": "ALL",
+                            "targetType": "MERCHANDISELINE",
+                            "value": {
+                              "percentage": 1.0,
+                              "__typename": "PercentageValue"
+                            },
+                            "__typename": "CodeDiscount"
+                          },
+                          "__typename": "LineComponentDiscountAllocation"
+                        },
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "note": {
+              "customAttributes": [],
+              "message": null,
+              "__typename": "Note"
+            },
+            "scriptFingerprint": null,
+            "transformerFingerprintV2": null,
+            "buyerIdentity": {
+              "shopUser": null,
+              "customer": {
+                "presentmentCurrency": null,
+                "countryCode": null,
+                "market": {
+                  "id": "gid://shopify/Market/42336309",
+                  "handle": "gb",
+                  "__typename": "Market"
+                },
+                "shippingAddresses": [],
+                "__typename": "GuestProfile"
+              },
+              "purchasingCompany": null,
+              "phone": null,
+              "email": null,
+              "marketingConsent": [],
+              "shopPayOptInPhone": null,
+              "rememberMe": false,
+              "__typename": "FilledBuyerIdentityTerms"
+            },
+            "checkoutCompletionTarget": "ORDER",
+            "recurringTotals": [],
+            "subtotalBeforeTaxesAndShipping": {
+              "value": {
+                "amount": "11.9",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacySubtotalBeforeTaxesShippingAndFees": {
+              "value": {
+                "amount": "11.9",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacyAggregatedMerchandiseTermsAsFees": [],
+            "legacyRepresentProductsAsFees": false,
+            "totalSavings": {
+              "value": {
+                "amount": "0.11",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "runningTotal": {
+              "value": {
+                "amount": "11.79",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "total": {
+              "__typename": "AnyConstraint"
+            },
+            "checkoutTotalBeforeTaxesAndShipping": null,
+            "checkoutTotalTaxes": null,
+            "checkoutTotal": {
+              "__typename": "AnyConstraint"
+            },
+            "deferredTotal": null,
+            "hasOnlyDeferredShipping": false,
+            "subtotalBeforeReductions": {
+              "value": {
+                "amount": "11.9",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "subtotalAfterMerchandiseDiscounts": {
+              "value": {
+                "amount": "11.79",
+                "currencyCode": "GBP",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "duty": {
+              "totalDutyAmount": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAdditionalFeesAmount": null,
+              "__typename": "FilledDutyTerms"
+            },
+            "tax": {
+              "liability": null,
+              "taxBreakdown": null,
+              "totalTaxAmount": null,
+              "totalTaxAmountRange": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAmountIncludedInTarget": {
+                "value": {
+                  "amount": "1.97",
+                  "currencyCode": "GBP",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "__typename": "FilledTaxTerms"
+            },
+            "taxExemptions": {
+              "available": [],
+              "__typename": "FilledTaxExemptionTerms"
+            },
+            "tip": {
+              "tipSuggestions": [
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.02,
+                  "amount": {
+                    "value": {
+                      "amount": "0.24",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.05,
+                  "amount": {
+                    "value": {
+                      "amount": "0.59",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.1,
+                  "amount": {
+                    "value": {
+                      "amount": "1.18",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.0,
+                  "amount": {
+                    "value": {
+                      "amount": "0.0",
+                      "currencyCode": "GBP",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                }
+              ],
+              "terms": {
+                "tipLines": [],
+                "__typename": "FilledTipTerms"
+              },
+              "__typename": "TipWrapper"
+            },
+            "localizationExtension": {
+              "fields": [],
+              "__typename": "LocalizationExtension"
+            },
+            "landedCostDetails": {
+              "incotermInformation": null,
+              "__typename": "LandedCostDetails"
+            },
+            "dutiesIncluded": false,
+            "nonNegotiableTerms": null,
+            "optionalDuties": {
+              "buyerRefusesDuties": false,
+              "refuseDutiesPermitted": false,
+              "__typename": "OptionalDuties"
+            },
+            "attribution": {
+              "attributions": [],
+              "__typename": "Attribution"
+            },
+            "saleAttributions": {
+              "attributions": [],
+              "__typename": "SaleAttributions"
+            },
+            "managedByMarketsPro": false,
+            "managedMarketsPaymentProcessor": null,
+            "captcha": null,
+            "cartCheckoutValidation": {
+              "__typename": "CartCheckoutValidationTerms"
+            },
+            "alternativePaymentCurrency": null,
+            "lpmDisclosure": null,
+            "isShippingRequired": true,
+            "shopPayEnabled": true,
+            "remote": null,
+            "ucp": {
+              "continueUrl": "https://www.blancspace.com/cart/c/hWNIxRHLE7BbHZEdI0ALofOF?key=e9bceb9d65ff730b998448c399a92666",
+              "paymentHandlers": [
+                {
+                  "id": "shopify.card",
+                  "name": "dev.shopify.card",
+                  "version": "2026-01-15",
+                  "spec": "https://ucp.dev/specification/payment-handler-guide",
+                  "schema": "https://shopify.dev/ucp/card-payment-handler/2026-01-15/config.json",
+                  "config": {
+                    "payment_methods": [
+                      {
+                        "type": "card",
+                        "enabled_card_brands": [
+                          "visa",
+                          "maestro",
+                          "master",
+                          "american_express",
+                          "discover",
+                          "diners_club",
+                          "unionpay",
+                          "elo"
+                        ]
+                      }
+                    ]
+                  },
+                  "__typename": "UcpPaymentHandler"
+                },
+                {
+                  "id": "shop_pay",
+                  "name": "dev.shopify.shop_pay",
+                  "version": "2026-01-23",
+                  "spec": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/spec.md",
+                  "schema": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/schema.json",
+                  "config": {
+                    "shop_id": "24857096"
+                  },
+                  "__typename": "UcpPaymentHandler"
+                }
+              ],
+              "__typename": "UcpProposal"
+            }
+          },
+          "__typename": "NegotiationResultAvailable"
+        },
+        "errors": [
+          {
+            "code": "BUYER_IDENTITY_MISSING_CONTACT_METHOD",
+            "localizedMessage": "Missing a valid contact method.",
+            "nonLocalizedMessage": "Missing a valid contact method.",
+            "localizedMessageHtml": "Missing a valid contact method.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "TAX_NEW_TAX_MUST_BE_ACCEPTED",
+            "localizedMessage": "Taxes associated to your order have changed. Review and try again.",
+            "nonLocalizedMessage": "A new tax line in the seller proposal must be accepted in order to continue.",
+            "localizedMessageHtml": "Taxes associated to your order have changed. Review and try again.",
+            "target": "$",
+            "__typename": "AcceptNewTermViolation"
+          },
+          {
+            "code": "REQUIRED_ARTIFACTS_UNAVAILABLE",
+            "localizedMessage": "",
+            "nonLocalizedMessage": "Required artifacts are unavailable.",
+            "localizedMessageHtml": null,
+            "__typename": "RequiredArtifactsUnavailableViolation"
+          }
+        ]
+      },
+      "__typename": "Session"
+    }
+  }
+}

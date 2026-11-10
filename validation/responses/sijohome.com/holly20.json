@@ -1,0 +1,753 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "checkpointData": null,
+          "configurationRecordId": "gid://shopify/CheckoutProfile/1683030098",
+          "renderContextToken": null,
+          "queueToken": "A9QMX4xnqVcJk682MPjGpa8y98gVMJOQ_3s3Kszd0ivlbxW9E56Tlsy3hDaCAo-i7rAurcQR7PhEo0G-uHqqIkhTuio1UAyHxTWCe90F47a632ywrA2xWED-AKPmqkxh68XobBn2Phs=",
+          "buyerProposal": {
+            "merchandiseDiscount": {
+              "lines": [
+                {
+                  "discount": {
+                    "code": "holly20",
+                    "__typename": "DiscountCodeTrigger"
+                  },
+                  "__typename": "DiscountLine"
+                }
+              ],
+              "__typename": "FilledDiscountTerms"
+            },
+            "deliveryDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "merchandise": {
+              "taxesIncluded": false,
+              "merchandiseLines": [
+                {
+                  "stableId": "554aa11c-4ce7-41b8-a44d-14a998882d7a",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/41212157722706",
+                    "digest": "3fe48cae1b7fcfbe38ef2b543a4538b0",
+                    "variantId": "gid://shopify/ProductVariant/41212157722706",
+                    "title": "AiryWeight Eucalyptus Sheet Set",
+                    "untranslatedTitle": "AiryWeight Eucalyptus Sheet Set",
+                    "subtitle": "Snow / Twin / No Flat Sheet",
+                    "untranslatedSubtitle": "Snow / Twin / No Flat Sheet",
+                    "compareAtPrice": {
+                      "amount": "95.0",
+                      "currencyCode": "USD",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/3986127159340",
+                      "vendor": "Sijo",
+                      "productType": "Sheets and Pillowcases",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/eucalyptus-sheets",
+                    "image": {
+                      "altText": "Snow",
+                      "url": "https://cdn.shopify.com/s/files/1/2994/3212/files/TENCELSHEETSETSNOW.jpg?v=1763514621",
+                      "one": "https://cdn.shopify.com/s/files/1/2994/3212/files/TENCELSHEETSETSNOW_64x64.jpg?v=1763514621",
+                      "two": "https://cdn.shopify.com/s/files/1/2994/3212/files/TENCELSHEETSETSNOW_128x128.jpg?v=1763514621",
+                      "four": "https://cdn.shopify.com/s/files/1/2994/3212/files/TENCELSHEETSETSNOW_256x256.jpg?v=1763514621",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Color",
+                        "value": "Snow",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Size",
+                        "value": "Twin",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Option",
+                        "value": "No Flat Sheet",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "95.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "4a5caf0f532c63db5ac4de868af91a35",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "95.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "95.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "95.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "95.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "95.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "__typename": "Proposal"
+          },
+          "sellerProposal": {
+            "merchandiseDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": [
+                {
+                  "allocations": {
+                    "__typename": "DiscountAllocatedAllocationSet",
+                    "allocations": [
+                      {
+                        "amount": {
+                          "value": {
+                            "amount": "19.0",
+                            "currencyCode": "USD",
+                            "__typename": "Money"
+                          },
+                          "__typename": "MoneyValueConstraint"
+                        },
+                        "target": {
+                          "index": 0,
+                          "targetType": "MERCHANDISELINE",
+                          "stableId": "554aa11c-4ce7-41b8-a44d-14a998882d7a",
+                          "__typename": "DiscountTarget"
+                        },
+                        "__typename": "DiscountAllocation"
+                      }
+                    ]
+                  },
+                  "discount": {
+                    "title": "HOLLY20",
+                    "code": "HOLLY20",
+                    "codeHidden": false,
+                    "presentationLevel": "CART",
+                    "allocationMethod": "ACROSS",
+                    "message": null,
+                    "targetSelection": "ALL",
+                    "targetType": "MERCHANDISELINE",
+                    "value": {
+                      "percentage": 20.0,
+                      "__typename": "PercentageValue"
+                    },
+                    "__typename": "CodeDiscount"
+                  },
+                  "lineAmount": {
+                    "value": {
+                      "amount": "19.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "__typename": "DiscountLine"
+                }
+              ]
+            },
+            "cartMetafields": null,
+            "customFields": [],
+            "deliveryDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "fee": {
+              "__typename": "FilledFeeTerms",
+              "totalFeeAmount": {
+                "__typename": "MoneyValueConstraint",
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                }
+              },
+              "feeLines": []
+            },
+            "__typename": "Proposal",
+            "deliveryExpectations": {
+              "__typename": "UnavailableTerms"
+            },
+            "promiseProgram": {
+              "variantPromises": [],
+              "__typename": "PromiseProgram"
+            },
+            "memberships": {
+              "__typename": "FilledMembershipTerms",
+              "memberships": []
+            },
+            "availableRedeemables": {
+              "availableRedeemables": [],
+              "__typename": "AvailableRedeemables"
+            },
+            "shopCashBalance": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopPromotion": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopDiscountOffer": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "availableDeliveryAddresses": [],
+            "mustSelectProvidedAddress": false,
+            "mustSelectProvidedShippingRate": false,
+            "canUpdateDiscountCodes": true,
+            "canUpdateDeliveryAddress": true,
+            "canUpdateMerchandise": true,
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "deliveryMethods": {
+              "__typename": "UnavailableTerms"
+            },
+            "sellability": {
+              "shipping": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "554aa11c-4ce7-41b8-a44d-14a998882d7a",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "local": [],
+              "pickUp": [],
+              "pickupPoint": [],
+              "none": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "554aa11c-4ce7-41b8-a44d-14a998882d7a",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "__typename": "FilledSellability"
+            },
+            "payment": {
+              "__typename": "UnavailableTerms"
+            },
+            "poNumber": null,
+            "merchandise": {
+              "taxesIncluded": false,
+              "merchandiseLines": [
+                {
+                  "stableId": "554aa11c-4ce7-41b8-a44d-14a998882d7a",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/41212157722706",
+                    "digest": "3fe48cae1b7fcfbe38ef2b543a4538b0",
+                    "variantId": "gid://shopify/ProductVariant/41212157722706",
+                    "title": "AiryWeight Eucalyptus Sheet Set",
+                    "untranslatedTitle": "AiryWeight Eucalyptus Sheet Set",
+                    "subtitle": "Snow / Twin / No Flat Sheet",
+                    "untranslatedSubtitle": "Snow / Twin / No Flat Sheet",
+                    "sku": "SJTBMINTWSNO",
+                    "price": {
+                      "amount": "95.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": {
+                      "amount": "95.0",
+                      "currencyCode": "USD",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/3986127159340",
+                      "vendor": "Sijo",
+                      "productType": "Sheets and Pillowcases",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/eucalyptus-sheets",
+                    "image": {
+                      "altText": "Snow",
+                      "url": "https://cdn.shopify.com/s/files/1/2994/3212/files/TENCELSHEETSETSNOW.jpg?v=1763514621",
+                      "one": "https://cdn.shopify.com/s/files/1/2994/3212/files/TENCELSHEETSETSNOW_64x64.jpg?v=1763514621",
+                      "two": "https://cdn.shopify.com/s/files/1/2994/3212/files/TENCELSHEETSETSNOW_128x128.jpg?v=1763514621",
+                      "four": "https://cdn.shopify.com/s/files/1/2994/3212/files/TENCELSHEETSETSNOW_256x256.jpg?v=1763514621",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Color",
+                        "value": "Snow",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Size",
+                        "value": "Twin",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Option",
+                        "value": "No Flat Sheet",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "95.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "4a5caf0f532c63db5ac4de868af91a35",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "95.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "76.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "95.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "76.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "95.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "allocation": {
+                            "amount": {
+                              "value": {
+                                "amount": "19.0",
+                                "currencyCode": "USD",
+                                "__typename": "Money"
+                              },
+                              "__typename": "MoneyValueConstraint"
+                            },
+                            "__typename": "DiscountAllocation"
+                          },
+                          "discount": {
+                            "title": "HOLLY20",
+                            "code": "HOLLY20",
+                            "codeHidden": false,
+                            "presentationLevel": "CART",
+                            "allocationMethod": "ACROSS",
+                            "message": null,
+                            "targetSelection": "ALL",
+                            "targetType": "MERCHANDISELINE",
+                            "value": {
+                              "percentage": 20.0,
+                              "__typename": "PercentageValue"
+                            },
+                            "__typename": "CodeDiscount"
+                          },
+                          "__typename": "LineComponentDiscountAllocation"
+                        },
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        },
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        },
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "note": {
+              "customAttributes": [],
+              "message": null,
+              "__typename": "Note"
+            },
+            "scriptFingerprint": null,
+            "transformerFingerprintV2": null,
+            "buyerIdentity": {
+              "shopUser": null,
+              "customer": {
+                "presentmentCurrency": null,
+                "countryCode": null,
+                "market": {
+                  "id": "gid://shopify/Market/1508081746",
+                  "handle": "us",
+                  "__typename": "Market"
+                },
+                "shippingAddresses": [],
+                "__typename": "GuestProfile"
+              },
+              "purchasingCompany": null,
+              "phone": null,
+              "email": null,
+              "marketingConsent": [],
+              "shopPayOptInPhone": null,
+              "rememberMe": false,
+              "__typename": "FilledBuyerIdentityTerms"
+            },
+            "checkoutCompletionTarget": "ORDER",
+            "recurringTotals": [],
+            "subtotalBeforeTaxesAndShipping": {
+              "value": {
+                "amount": "95.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacySubtotalBeforeTaxesShippingAndFees": {
+              "value": {
+                "amount": "95.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacyAggregatedMerchandiseTermsAsFees": [],
+            "legacyRepresentProductsAsFees": false,
+            "totalSavings": {
+              "value": {
+                "amount": "19.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "runningTotal": {
+              "value": {
+                "amount": "82.16",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "total": {
+              "__typename": "AnyConstraint"
+            },
+            "checkoutTotalBeforeTaxesAndShipping": null,
+            "checkoutTotalTaxes": null,
+            "checkoutTotal": {
+              "__typename": "AnyConstraint"
+            },
+            "deferredTotal": null,
+            "hasOnlyDeferredShipping": false,
+            "subtotalBeforeReductions": {
+              "value": {
+                "amount": "101.16",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "subtotalAfterMerchandiseDiscounts": {
+              "value": {
+                "amount": "76.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "duty": {
+              "totalDutyAmount": null,
+              "totalTaxAndDutyAmount": {
+                "value": {
+                  "amount": "6.16",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "totalAdditionalFeesAmount": null,
+              "__typename": "FilledDutyTerms"
+            },
+            "tax": {
+              "liability": null,
+              "taxBreakdown": null,
+              "totalTaxAmount": {
+                "value": {
+                  "amount": "6.16",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "totalTaxAmountRange": null,
+              "totalTaxAndDutyAmount": {
+                "value": {
+                  "amount": "6.16",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "totalAmountIncludedInTarget": null,
+              "__typename": "FilledTaxTerms"
+            },
+            "taxExemptions": {
+              "available": [],
+              "__typename": "FilledTaxExemptionTerms"
+            },
+            "tip": {
+              "tipSuggestions": [
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.15,
+                  "amount": {
+                    "value": {
+                      "amount": "11.4",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.18,
+                  "amount": {
+                    "value": {
+                      "amount": "13.68",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.2,
+                  "amount": {
+                    "value": {
+                      "amount": "15.2",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.0,
+                  "amount": {
+                    "value": {
+                      "amount": "0.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                }
+              ],
+              "terms": {
+                "tipLines": [],
+                "__typename": "FilledTipTerms"
+              },
+              "__typename": "TipWrapper"
+            },
+            "localizationExtension": {
+              "fields": [],
+              "__typename": "LocalizationExtension"
+            },
+            "landedCostDetails": {
+              "incotermInformation": null,
+              "__typename": "LandedCostDetails"
+            },
+            "dutiesIncluded": false,
+            "nonNegotiableTerms": null,
+            "optionalDuties": {
+              "buyerRefusesDuties": false,
+              "refuseDutiesPermitted": false,
+              "__typename": "OptionalDuties"
+            },
+            "attribution": {
+              "attributions": [],
+              "__typename": "Attribution"
+            },
+            "saleAttributions": {
+              "attributions": [],
+              "__typename": "SaleAttributions"
+            },
+            "managedByMarketsPro": false,
+            "managedMarketsPaymentProcessor": null,
+            "captcha": null,
+            "cartCheckoutValidation": {
+              "__typename": "CartCheckoutValidationTerms"
+            },
+            "alternativePaymentCurrency": null,
+            "lpmDisclosure": null,
+            "isShippingRequired": true,
+            "shopPayEnabled": true,
+            "remote": null,
+            "ucp": {
+              "continueUrl": "https://sijohome.com/cart/c/hWNIulvU0VAhskerdi8dPBNT?key=c8c3624925896dcc39046d033512ccc7",
+              "paymentHandlers": [
+                {
+                  "id": "shopify.card",
+                  "name": "dev.shopify.card",
+                  "version": "2026-01-15",
+                  "spec": "https://ucp.dev/specification/payment-handler-guide",
+                  "schema": "https://shopify.dev/ucp/card-payment-handler/2026-01-15/config.json",
+                  "config": {
+                    "payment_methods": [
+                      {
+                        "type": "card",
+                        "enabled_card_brands": [
+                          "visa",
+                          "master",
+                          "american_express",
+                          "discover",
+                          "diners_club",
+                          "elo",
+                          "jcb",
+                          "unionpay"
+                        ]
+                      }
+                    ]
+                  },
+                  "__typename": "UcpPaymentHandler"
+                },
+                {
+                  "id": "shop_pay",
+                  "name": "dev.shopify.shop_pay",
+                  "version": "2026-01-23",
+                  "spec": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/spec.md",
+                  "schema": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/schema.json",
+                  "config": {
+                    "shop_id": "29943212"
+                  },
+                  "__typename": "UcpPaymentHandler"
+                }
+              ],
+              "__typename": "UcpProposal"
+            }
+          },
+          "__typename": "NegotiationResultAvailable"
+        },
+        "errors": [
+          {
+            "code": "BUYER_IDENTITY_MISSING_CONTACT_METHOD",
+            "localizedMessage": "Missing a valid contact method.",
+            "nonLocalizedMessage": "Missing a valid contact method.",
+            "localizedMessageHtml": "Missing a valid contact method.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "TAX_NEW_TAX_MUST_BE_ACCEPTED",
+            "localizedMessage": "Taxes associated to your order have changed. Review and try again.",
+            "nonLocalizedMessage": "A new tax line in the seller proposal must be accepted in order to continue.",
+            "localizedMessageHtml": "Taxes associated to your order have changed. Review and try again.",
+            "target": "$",
+            "__typename": "AcceptNewTermViolation"
+          },
+          {
+            "code": "REQUIRED_ARTIFACTS_UNAVAILABLE",
+            "localizedMessage": "",
+            "nonLocalizedMessage": "Required artifacts are unavailable.",
+            "localizedMessageHtml": null,
+            "__typename": "RequiredArtifactsUnavailableViolation"
+          }
+        ]
+      },
+      "__typename": "Session"
+    }
+  }
+}

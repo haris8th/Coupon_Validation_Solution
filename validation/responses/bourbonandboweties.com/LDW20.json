@@ -1,0 +1,662 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "checkpointData": null,
+          "configurationRecordId": "gid://shopify/CheckoutProfile/622690366",
+          "renderContextToken": null,
+          "queueToken": "A6RPFukEkyl0qirOoabx61iQVHquZzkEnbp2-8waCF69ceaWHhllYGe1J5HFMdr9wCZgWq4oG0IuQy2LE5B1eVBLwxa9Vh1XJvru47rjNOIdzcoMibvFGPIbTuOLACqEamldmvpU8hc=",
+          "buyerProposal": {
+            "merchandiseDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "deliveryDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "merchandise": {
+              "taxesIncluded": false,
+              "merchandiseLines": [
+                {
+                  "stableId": "133f0666-1ae2-4b58-b21f-89e4d43c5e1d",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/12151976853566",
+                    "digest": "d5c32ebf671da8dda6cf10ff2f05fbe8",
+                    "variantId": "gid://shopify/ProductVariant/12151976853566",
+                    "title": "Bangle Customization",
+                    "untranslatedTitle": "Bangle Customization",
+                    "subtitle": "X-Small / Gold",
+                    "untranslatedSubtitle": "X-Small / Gold",
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/646329040958",
+                      "vendor": "Bourbon and Boweties",
+                      "productType": "Bangle",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/bangle-customization",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/1197/5608/files/Born_in_Tampa_Bay_Bourbon_Boweties_started_with_one_woman_making_jewelry_for_friends_and_quickly_grew_into_a_brand_loved_by_boutiques_across_the_country._Every_piece_is_still_handcraf_a8ea987a-3b88-4d02-8112-ddc9df2b97b8.png?v=1783450853",
+                      "one": "https://cdn.shopify.com/s/files/1/1197/5608/files/Born_in_Tampa_Bay_Bourbon_Boweties_started_with_one_woman_making_jewelry_for_friends_and_quickly_grew_into_a_brand_loved_by_boutiques_across_the_country._Every_piece_is_still_handcraf_a8ea987a-3b88-4d02-8112-ddc9df2b97b8_64x64.png?v=1783450853",
+                      "two": "https://cdn.shopify.com/s/files/1/1197/5608/files/Born_in_Tampa_Bay_Bourbon_Boweties_started_with_one_woman_making_jewelry_for_friends_and_quickly_grew_into_a_brand_loved_by_boutiques_across_the_country._Every_piece_is_still_handcraf_a8ea987a-3b88-4d02-8112-ddc9df2b97b8_128x128.png?v=1783450853",
+                      "four": "https://cdn.shopify.com/s/files/1/1197/5608/files/Born_in_Tampa_Bay_Bourbon_Boweties_started_with_one_woman_making_jewelry_for_friends_and_quickly_grew_into_a_brand_loved_by_boutiques_across_the_country._Every_piece_is_still_handcraf_a8ea987a-3b88-4d02-8112-ddc9df2b97b8_256x256.png?v=1783450853",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Size",
+                        "value": "X-Small",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Material",
+                        "value": "Gold",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "1500.0",
+                      "currencyCode": "PKR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "7ef15be330aa15278c738f5202216ab1",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "1500.0",
+                        "currencyCode": "PKR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "1500.0",
+                        "currencyCode": "PKR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "1500.0",
+                        "currencyCode": "PKR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "1500.0",
+                        "currencyCode": "PKR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "1500.0",
+                        "currencyCode": "PKR",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "__typename": "Proposal"
+          },
+          "sellerProposal": {
+            "merchandiseDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "cartMetafields": null,
+            "customFields": [],
+            "deliveryDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "fee": {
+              "__typename": "FilledFeeTerms",
+              "totalFeeAmount": {
+                "__typename": "MoneyValueConstraint",
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                }
+              },
+              "feeLines": []
+            },
+            "__typename": "Proposal",
+            "deliveryExpectations": {
+              "__typename": "UnavailableTerms"
+            },
+            "promiseProgram": {
+              "variantPromises": [],
+              "__typename": "PromiseProgram"
+            },
+            "memberships": {
+              "__typename": "FilledMembershipTerms",
+              "memberships": []
+            },
+            "availableRedeemables": {
+              "availableRedeemables": [],
+              "__typename": "AvailableRedeemables"
+            },
+            "shopCashBalance": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopPromotion": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopDiscountOffer": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "availableDeliveryAddresses": [],
+            "mustSelectProvidedAddress": false,
+            "mustSelectProvidedShippingRate": false,
+            "canUpdateDiscountCodes": true,
+            "canUpdateDeliveryAddress": true,
+            "canUpdateMerchandise": true,
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "deliveryMethods": {
+              "__typename": "UnavailableTerms"
+            },
+            "sellability": {
+              "shipping": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "133f0666-1ae2-4b58-b21f-89e4d43c5e1d",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "local": [],
+              "pickUp": [],
+              "pickupPoint": [],
+              "none": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "133f0666-1ae2-4b58-b21f-89e4d43c5e1d",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "__typename": "FilledSellability"
+            },
+            "payment": {
+              "__typename": "UnavailableTerms"
+            },
+            "poNumber": null,
+            "merchandise": {
+              "taxesIncluded": false,
+              "merchandiseLines": [
+                {
+                  "stableId": "133f0666-1ae2-4b58-b21f-89e4d43c5e1d",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/12151976853566",
+                    "digest": "d5c32ebf671da8dda6cf10ff2f05fbe8",
+                    "variantId": "gid://shopify/ProductVariant/12151976853566",
+                    "title": "Bangle Customization",
+                    "untranslatedTitle": "Bangle Customization",
+                    "subtitle": "X-Small / Gold",
+                    "untranslatedSubtitle": "X-Small / Gold",
+                    "sku": "",
+                    "price": {
+                      "amount": "5.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/646329040958",
+                      "vendor": "Bourbon and Boweties",
+                      "productType": "Bangle",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/bangle-customization",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/1197/5608/files/Born_in_Tampa_Bay_Bourbon_Boweties_started_with_one_woman_making_jewelry_for_friends_and_quickly_grew_into_a_brand_loved_by_boutiques_across_the_country._Every_piece_is_still_handcraf_a8ea987a-3b88-4d02-8112-ddc9df2b97b8.png?v=1783450853",
+                      "one": "https://cdn.shopify.com/s/files/1/1197/5608/files/Born_in_Tampa_Bay_Bourbon_Boweties_started_with_one_woman_making_jewelry_for_friends_and_quickly_grew_into_a_brand_loved_by_boutiques_across_the_country._Every_piece_is_still_handcraf_a8ea987a-3b88-4d02-8112-ddc9df2b97b8_64x64.png?v=1783450853",
+                      "two": "https://cdn.shopify.com/s/files/1/1197/5608/files/Born_in_Tampa_Bay_Bourbon_Boweties_started_with_one_woman_making_jewelry_for_friends_and_quickly_grew_into_a_brand_loved_by_boutiques_across_the_country._Every_piece_is_still_handcraf_a8ea987a-3b88-4d02-8112-ddc9df2b97b8_128x128.png?v=1783450853",
+                      "four": "https://cdn.shopify.com/s/files/1/1197/5608/files/Born_in_Tampa_Bay_Bourbon_Boweties_started_with_one_woman_making_jewelry_for_friends_and_quickly_grew_into_a_brand_loved_by_boutiques_across_the_country._Every_piece_is_still_handcraf_a8ea987a-3b88-4d02-8112-ddc9df2b97b8_256x256.png?v=1783450853",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Size",
+                        "value": "X-Small",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Material",
+                        "value": "Gold",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "5.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "7ef15be330aa15278c738f5202216ab1",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "5.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "5.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "5.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "5.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "5.0",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        },
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "note": {
+              "customAttributes": [],
+              "message": null,
+              "__typename": "Note"
+            },
+            "scriptFingerprint": null,
+            "transformerFingerprintV2": null,
+            "buyerIdentity": {
+              "shopUser": null,
+              "customer": {
+                "presentmentCurrency": null,
+                "countryCode": null,
+                "market": {
+                  "id": "gid://shopify/Market/1461551166",
+                  "handle": "us",
+                  "__typename": "Market"
+                },
+                "shippingAddresses": [],
+                "__typename": "GuestProfile"
+              },
+              "purchasingCompany": null,
+              "phone": null,
+              "email": null,
+              "marketingConsent": [],
+              "shopPayOptInPhone": null,
+              "rememberMe": false,
+              "__typename": "FilledBuyerIdentityTerms"
+            },
+            "checkoutCompletionTarget": "ORDER",
+            "recurringTotals": [],
+            "subtotalBeforeTaxesAndShipping": {
+              "value": {
+                "amount": "5.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacySubtotalBeforeTaxesShippingAndFees": {
+              "value": {
+                "amount": "5.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacyAggregatedMerchandiseTermsAsFees": [],
+            "legacyRepresentProductsAsFees": false,
+            "totalSavings": {
+              "value": {
+                "amount": "0.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "runningTotal": {
+              "value": {
+                "amount": "5.38",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "total": {
+              "__typename": "AnyConstraint"
+            },
+            "checkoutTotalBeforeTaxesAndShipping": null,
+            "checkoutTotalTaxes": null,
+            "checkoutTotal": {
+              "__typename": "AnyConstraint"
+            },
+            "deferredTotal": null,
+            "hasOnlyDeferredShipping": false,
+            "subtotalBeforeReductions": {
+              "value": {
+                "amount": "5.38",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "subtotalAfterMerchandiseDiscounts": {
+              "value": {
+                "amount": "5.0",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "duty": {
+              "totalDutyAmount": null,
+              "totalTaxAndDutyAmount": {
+                "value": {
+                  "amount": "0.38",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "totalAdditionalFeesAmount": null,
+              "__typename": "FilledDutyTerms"
+            },
+            "tax": {
+              "liability": null,
+              "taxBreakdown": null,
+              "totalTaxAmount": {
+                "value": {
+                  "amount": "0.38",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "totalTaxAmountRange": null,
+              "totalTaxAndDutyAmount": {
+                "value": {
+                  "amount": "0.38",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "totalAmountIncludedInTarget": null,
+              "__typename": "FilledTaxTerms"
+            },
+            "taxExemptions": {
+              "available": [],
+              "__typename": "FilledTaxExemptionTerms"
+            },
+            "tip": {
+              "tipSuggestions": [
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.15,
+                  "amount": {
+                    "value": {
+                      "amount": "0.75",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.18,
+                  "amount": {
+                    "value": {
+                      "amount": "0.9",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.2,
+                  "amount": {
+                    "value": {
+                      "amount": "1.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.0,
+                  "amount": {
+                    "value": {
+                      "amount": "0.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                }
+              ],
+              "terms": {
+                "tipLines": [],
+                "__typename": "FilledTipTerms"
+              },
+              "__typename": "TipWrapper"
+            },
+            "localizationExtension": {
+              "fields": [],
+              "__typename": "LocalizationExtension"
+            },
+            "landedCostDetails": {
+              "incotermInformation": null,
+              "__typename": "LandedCostDetails"
+            },
+            "dutiesIncluded": false,
+            "nonNegotiableTerms": null,
+            "optionalDuties": {
+              "buyerRefusesDuties": false,
+              "refuseDutiesPermitted": false,
+              "__typename": "OptionalDuties"
+            },
+            "attribution": {
+              "attributions": [],
+              "__typename": "Attribution"
+            },
+            "saleAttributions": {
+              "attributions": [],
+              "__typename": "SaleAttributions"
+            },
+            "managedByMarketsPro": false,
+            "managedMarketsPaymentProcessor": null,
+            "captcha": null,
+            "cartCheckoutValidation": {
+              "__typename": "CartCheckoutValidationTerms"
+            },
+            "alternativePaymentCurrency": null,
+            "lpmDisclosure": null,
+            "isShippingRequired": true,
+            "shopPayEnabled": true,
+            "remote": null,
+            "ucp": {
+              "continueUrl": "https://www.bourbonandboweties.com/cart/c/hWNIxRY4hOX9NvPJkS7QZjyV?key=2ea1e5befe6534e2bd2ce5098041ee99",
+              "paymentHandlers": [
+                {
+                  "id": "shopify.card",
+                  "name": "dev.shopify.card",
+                  "version": "2026-01-15",
+                  "spec": "https://ucp.dev/specification/payment-handler-guide",
+                  "schema": "https://shopify.dev/ucp/card-payment-handler/2026-01-15/config.json",
+                  "config": {
+                    "payment_methods": [
+                      {
+                        "type": "card",
+                        "enabled_card_brands": [
+                          "visa",
+                          "master",
+                          "american_express",
+                          "discover",
+                          "diners_club",
+                          "elo",
+                          "jcb",
+                          "unionpay"
+                        ]
+                      }
+                    ]
+                  },
+                  "__typename": "UcpPaymentHandler"
+                },
+                {
+                  "id": "shop_pay",
+                  "name": "dev.shopify.shop_pay",
+                  "version": "2026-01-23",
+                  "spec": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/spec.md",
+                  "schema": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/schema.json",
+                  "config": {
+                    "shop_id": "11975608"
+                  },
+                  "__typename": "UcpPaymentHandler"
+                }
+              ],
+              "__typename": "UcpProposal"
+            }
+          },
+          "__typename": "NegotiationResultAvailable"
+        },
+        "errors": [
+          {
+            "code": "REDUCTION_INVALID_CODE",
+            "localizedMessage": "Enter a valid discount code or gift card",
+            "nonLocalizedMessage": "Reduction code couldn't be mapped to neither a gift card or discount.",
+            "localizedMessageHtml": "Enter a valid discount code or gift card",
+            "__typename": "InputValidationError"
+          },
+          {
+            "code": "BUYER_IDENTITY_MISSING_CONTACT_METHOD",
+            "localizedMessage": "Missing a valid contact method.",
+            "nonLocalizedMessage": "Missing a valid contact method.",
+            "localizedMessageHtml": "Missing a valid contact method.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "MERCHANDISE_EXPECTED_PRICE_MISMATCH",
+            "localizedMessage": "The previously proposed price for this merchandise was invalid and has been updated.",
+            "nonLocalizedMessage": "The price of this line could not be honoured, new price reflected in counter proposal.",
+            "localizedMessageHtml": "The previously proposed price for this merchandise was invalid and has been updated.",
+            "from": "$.merchandise.merchandiseLines[0]",
+            "to": "$.merchandise.merchandiseLines[0]",
+            "__typename": "ConfirmChangeViolation"
+          },
+          {
+            "code": "TAX_NEW_TAX_MUST_BE_ACCEPTED",
+            "localizedMessage": "Taxes associated to your order have changed. Review and try again.",
+            "nonLocalizedMessage": "A new tax line in the seller proposal must be accepted in order to continue.",
+            "localizedMessageHtml": "Taxes associated to your order have changed. Review and try again.",
+            "target": "$",
+            "__typename": "AcceptNewTermViolation"
+          },
+          {
+            "code": "REQUIRED_ARTIFACTS_UNAVAILABLE",
+            "localizedMessage": "",
+            "nonLocalizedMessage": "Required artifacts are unavailable.",
+            "localizedMessageHtml": null,
+            "__typename": "RequiredArtifactsUnavailableViolation"
+          }
+        ]
+      },
+      "__typename": "Session"
+    }
+  }
+}

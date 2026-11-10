@@ -1,0 +1,723 @@
+{
+  "errors": [
+    {
+      "message": "Variable `$merchandise` of type `MerchandiseTermInput` was provided invalid value for `merchandiseLines.0.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.2.value.int` (Field `int` is not defined by type `MerchandisePropertyValueInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.2.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.lineComponents.0.merchandise.id` (Field `id` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.digest` (Field `digest` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.variantId` (Field `variantId` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.title` (Field `title` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.untranslatedTitle` (Field `untranslatedTitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.subtitle` (Field `subtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.untranslatedSubtitle` (Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.compareAtPrice` (Field `compareAtPrice` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.product` (Field `product` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.productUrl` (Field `productUrl` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.image` (Field `image` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.properties` (Field `properties` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.requiresShipping` (Field `requiresShipping` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.options` (Field `options` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.sellingPlan` (Field `sellingPlan` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.giftCard` (Field `giftCard` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.expectedTotalPrice` (Expected `MoneyConstraintInput!` value to not be `null`), `merchandiseLines.0.lineComponents.0.totalAmount` (Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.0.recurringTotal` (Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.0.lineAllocations` (Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.1.merchandise.id` (Field `id` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.digest` (Field `digest` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.variantId` (Field `variantId` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.title` (Field `title` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.untranslatedTitle` (Field `untranslatedTitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.subtitle` (Field `subtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.untranslatedSubtitle` (Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.compareAtPrice` (Field `compareAtPrice` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.product` (Field `product` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.productUrl` (Field `productUrl` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.image` (Field `image` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.properties` (Field `properties` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.requiresShipping` (Field `requiresShipping` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.options` (Field `options` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.sellingPlan` (Field `sellingPlan` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.giftCard` (Field `giftCard` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.expectedTotalPrice` (Expected `MoneyConstraintInput!` value to not be `null`), `merchandiseLines.0.lineComponents.1.totalAmount` (Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.1.recurringTotal` (Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.1.lineAllocations` (Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`)",
+      "locations": [
+        {
+          "line": 1,
+          "column": 161
+        }
+      ],
+      "extensions": {
+        "code": "INVALID_VARIABLE",
+        "value": {
+          "merchandiseLines": [
+            {
+              "stableId": "2b6c24ec-72b5-4014-ad5c-2e96ac0855f2",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/45896522563650",
+                  "variantId": "gid://shopify/ProductVariant/45896522563650",
+                  "properties": [
+                    {
+                      "name": "IN STOCK",
+                      "value": {
+                        "string": ""
+                      },
+                      "visible": true
+                    },
+                    {
+                      "name": "_cro_arms",
+                      "value": {
+                        "string": "{\"cro_test_pdp_wallet_buttons\":\"b\"}"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_comparePricePerUnit",
+                      "value": {
+                        "int": "272700"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "221400.00",
+                  "currencyCode": "PKR"
+                }
+              },
+              "lineComponentsSource": "BUNDLES_STATIC_EXPAND",
+              "lineComponents": [
+                {
+                  "stableId": "9619dfe9-3549-8ff1-4c7f-25f61d0dadac",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/42987227840578",
+                    "digest": "5504757aae5fdb302f3ce7181df454b1",
+                    "variantId": "gid://shopify/ProductVariant/42987227840578",
+                    "title": "P02 Perform Iron Set",
+                    "untranslatedTitle": "P02 Perform Iron Set",
+                    "subtitle": "Right / Stiff / Standard",
+                    "untranslatedSubtitle": "Right / Stiff / Standard",
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/7701473591362",
+                      "vendor": "Stix Golf Co.",
+                      "productType": "Clubs",
+                      "disclosures": []
+                    },
+                    "productUrl": "/en-pk/products/p02-perform-iron-set",
+                    "image": {
+                      "altText": "Stix Golf Co. Clubs P02 Perform Iron Set",
+                      "url": "https://cdn.shopify.com/s/files/1/0257/9729/6194/files/stix-golf-co-clubs-p02-perform-iron-set-1225724002.jpg?v=1772730369",
+                      "one": "https://cdn.shopify.com/s/files/1/0257/9729/6194/files/stix-golf-co-clubs-p02-perform-iron-set-1225724002_64x64.jpg?v=1772730369",
+                      "two": "https://cdn.shopify.com/s/files/1/0257/9729/6194/files/stix-golf-co-clubs-p02-perform-iron-set-1225724002_128x128.jpg?v=1772730369",
+                      "four": "https://cdn.shopify.com/s/files/1/0257/9729/6194/files/stix-golf-co-clubs-p02-perform-iron-set-1225724002_256x256.jpg?v=1772730369"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Hand",
+                        "value": "Right"
+                      },
+                      {
+                        "name": "Shaft Flex",
+                        "value": "Stiff"
+                      },
+                      {
+                        "name": "Shaft Length",
+                        "value": "Standard"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "138425.75",
+                      "currencyCode": "PKR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "3bddebea9b688f8394b8390e100d6b33",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "138425.75",
+                        "currencyCode": "PKR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "138425.75",
+                        "currencyCode": "PKR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "138425.75",
+                        "currencyCode": "PKR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "138425.75",
+                        "currencyCode": "PKR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "138425.75",
+                        "currencyCode": "PKR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "3f05aa19-2e3e-4f70-21c3-7144834b6c4a",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/42987230625858",
+                    "digest": "5f14cb4a339872fedf9e95d914947b92",
+                    "variantId": "gid://shopify/ProductVariant/42987230625858",
+                    "title": "Compete Wedge Set",
+                    "untranslatedTitle": "Compete Wedge Set",
+                    "subtitle": "Right / Stiff / Standard",
+                    "untranslatedSubtitle": "Right / Stiff / Standard",
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/7701475229762",
+                      "vendor": "Stix Golf Co.",
+                      "productType": "Clubs",
+                      "disclosures": []
+                    },
+                    "productUrl": "/en-pk/products/compete-wedge-set",
+                    "image": {
+                      "altText": "Stix Golf Co. Clubs Right / Stiff / Standard Compete Wedge Set",
+                      "url": "https://cdn.shopify.com/s/files/1/0257/9729/6194/files/stix-golf-co-clubs-right-stiff-standard-compete-wedge-set-1225724003.jpg?v=1772730310",
+                      "one": "https://cdn.shopify.com/s/files/1/0257/9729/6194/files/stix-golf-co-clubs-right-stiff-standard-compete-wedge-set-1225724003_64x64.jpg?v=1772730310",
+                      "two": "https://cdn.shopify.com/s/files/1/0257/9729/6194/files/stix-golf-co-clubs-right-stiff-standard-compete-wedge-set-1225724003_128x128.jpg?v=1772730310",
+                      "four": "https://cdn.shopify.com/s/files/1/0257/9729/6194/files/stix-golf-co-clubs-right-stiff-standard-compete-wedge-set-1225724003_256x256.jpg?v=1772730310"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Hand",
+                        "value": "Right"
+                      },
+                      {
+                        "name": "Shaft Flex",
+                        "value": "Stiff"
+                      },
+                      {
+                        "name": "Shaft Length",
+                        "value": "Standard"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "82974.25",
+                      "currencyCode": "PKR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "8c84bb949205bbecdfcd9bb232900c2d",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "82974.25",
+                        "currencyCode": "PKR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "82974.25",
+                        "currencyCode": "PKR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "82974.25",
+                        "currencyCode": "PKR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "82974.25",
+                        "currencyCode": "PKR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "82974.25",
+                        "currencyCode": "PKR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "problems": [
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "value",
+              "int"
+            ],
+            "explanation": "Field `int` is not defined by type `MerchandisePropertyValueInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "id"
+            ],
+            "explanation": "Field `id` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "digest"
+            ],
+            "explanation": "Field `digest` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "variantId"
+            ],
+            "explanation": "Field `variantId` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "title"
+            ],
+            "explanation": "Field `title` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "untranslatedTitle"
+            ],
+            "explanation": "Field `untranslatedTitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "subtitle"
+            ],
+            "explanation": "Field `subtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "untranslatedSubtitle"
+            ],
+            "explanation": "Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "compareAtPrice"
+            ],
+            "explanation": "Field `compareAtPrice` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "product"
+            ],
+            "explanation": "Field `product` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "productUrl"
+            ],
+            "explanation": "Field `productUrl` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "image"
+            ],
+            "explanation": "Field `image` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "properties"
+            ],
+            "explanation": "Field `properties` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "requiresShipping"
+            ],
+            "explanation": "Field `requiresShipping` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "options"
+            ],
+            "explanation": "Field `options` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "sellingPlan"
+            ],
+            "explanation": "Field `sellingPlan` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "giftCard"
+            ],
+            "explanation": "Field `giftCard` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "expectedTotalPrice"
+            ],
+            "explanation": "Expected `MoneyConstraintInput!` value to not be `null`"
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "totalAmount"
+            ],
+            "explanation": "Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "recurringTotal"
+            ],
+            "explanation": "Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "lineAllocations"
+            ],
+            "explanation": "Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "id"
+            ],
+            "explanation": "Field `id` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "digest"
+            ],
+            "explanation": "Field `digest` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "variantId"
+            ],
+            "explanation": "Field `variantId` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "title"
+            ],
+            "explanation": "Field `title` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "untranslatedTitle"
+            ],
+            "explanation": "Field `untranslatedTitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "subtitle"
+            ],
+            "explanation": "Field `subtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "untranslatedSubtitle"
+            ],
+            "explanation": "Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "compareAtPrice"
+            ],
+            "explanation": "Field `compareAtPrice` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "product"
+            ],
+            "explanation": "Field `product` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "productUrl"
+            ],
+            "explanation": "Field `productUrl` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "image"
+            ],
+            "explanation": "Field `image` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "properties"
+            ],
+            "explanation": "Field `properties` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "requiresShipping"
+            ],
+            "explanation": "Field `requiresShipping` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "options"
+            ],
+            "explanation": "Field `options` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "sellingPlan"
+            ],
+            "explanation": "Field `sellingPlan` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "giftCard"
+            ],
+            "explanation": "Field `giftCard` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "expectedTotalPrice"
+            ],
+            "explanation": "Expected `MoneyConstraintInput!` value to not be `null`"
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "totalAmount"
+            ],
+            "explanation": "Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "recurringTotal"
+            ],
+            "explanation": "Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "lineAllocations"
+            ],
+            "explanation": "Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`."
+          }
+        ]
+      }
+    }
+  ]
+}

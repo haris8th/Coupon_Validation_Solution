@@ -1,0 +1,655 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1825797015.969945,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1795470617.242847,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHCScX7AAEACBqAMtrCna_iIhz3Z_8gEXj8_YqM6HaeuD2MsJ1zVXlFwqMLXCjyoVgxxF6JeyTyfC0AZzijUSqUEBs:",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1825796977.433297,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHCSca-AAEAkpQlSka0KINDuH3tHW1QpGuMz6DvteqFFuf6gnNLs9X7JrKDf5NnRtBdaPs4rYPTdLkJf9RRkVh0caA:",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1825796977.433373,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHCSca_AAEA-MN2AaTPZJjqjNSf6j_jaZl4ZdghDEsx2iDKZwrlLCMY2yE-MWNrK5rwElSP5W0nltZfzzyGVMq1rF0:",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1825796977.433501,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ede-s",
+      "value": "7a932824-459e-404b-967f-b16f818c1a11",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1794262829.400292,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ede-i",
+      "value": "c46bf56c-4492-491b-9531-97a5b2f2a072",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1825797029.399976,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ede-p",
+      "value": "/",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1794261301.386515,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ede-expid",
+      "value": "31c4b97b-7fdb-4bae-a8af-ec0247c4703b",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1825797022.524328,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ede-expvar",
+      "value": "Edge Delivery Enabled",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1825797022.524507,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "SP10GrvTil6BCsb6cDg7NTeU0wlqz8_8aV6lHjuqr1w-1794260976.9190788-1.0.1.1-YhITXjatNimYJ_JT2QIpEHoY.2lGeip8nSfBkaL_D9KgoYcit.SxsOCQeedth4QVdBiusmozA_P8OEKTVcELxZMZ3BqDcDXcA4ib6YFV1q1PLHogbw2LyU_hFhxtffEU",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1794262777.434112,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://shopremi.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "eabIsFirstVisit",
+      "value": "true",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1794262777,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cvg_uid",
+      "value": "01M714KQN4NQSVJHQ2WMMAWRYM",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1828820990.436223,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cvg_sid",
+      "value": "01M714KQQ8GQKEBA0P3EXJSSFV",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1794264590,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cvg_session",
+      "value": "JTdCJTIybGFuZGluZ1VybCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGc2hvcHJlbWkuY29tJTJGcHJvZHVjdHMlMkZjdXN0b20tbmlnaHQtZ3VhcmQlMjIlMkMlMjJyZWZlcnJlciUyMiUzQSUyMiUyMiUyQyUyMnJlZmVycmVyUGF0aCUyMiUzQSUyMiUyMiUyQyUyMnRyaWdnZXIlMjIlM0ElMjJuby1wcmV2aW91cy1zZXNzaW9uJTIyJTJDJTIydXRtJTIyJTNBJTdCJTdEJTdE",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1794264590,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxjNWi5NxCLRWLOnkqu6F%3Fkey%3D52375924f2f1bcfcfda583f4daf4c4bf",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1802123415.970165,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1399109705.1794260987",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1828821029.399763,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "fbc16e9c-3768-49f7-bf58-e217f3dbc87d",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1825796986,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__obref",
+      "value": "08a3291c-6bb9-4fae-828f-1bd25b0d8657",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1825796986.921788,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://shopremi.com",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1796852997,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_twpid",
+      "value": "tw.1794260986927.17926639755922",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1827956986.992369,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ps_fva",
+      "value": "1794260986979",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_li_dcdm_c",
+      "value": ".shopremi.com",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi",
+      "value": "958e07f4b2f8--01m714m4an522g2kftngvn7tqd",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1828820996.439556,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi_js",
+      "value": "958e07f4b2f8--01m714m4an522g2kftngvn7tqd",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ps_slu",
+      "value": "https://shopremi.com/products/custom-night-guard",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1796060997.842628,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shd_s",
+      "value": "76490363-bf82-4377-bda5-0f94bccca4f3",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1794262797.186111,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ps_sr",
+      "value": "_",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1796060997.846319,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shd_y",
+      "value": "fbc16e9c-3768-49f7-bf58-e217f3dbc87d",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1825364997.188079,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vyg-session-id",
+      "value": "cd85e4de-2f00-cc3f-3151-8fd405564a81",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ps_lu_query",
+      "value": "{}",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1825796997.139979,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1796852997,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ps_lu",
+      "value": "https://shopremi.com/products/custom-night-guard",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1825796997.1442,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ps_did",
+      "value": "186f016f-3c9b-43d3-ec7f-45ed7a0e61c8",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1825796997.153918,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_twsid",
+      "value": "1794260997133-504047221.1.1794260997145",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1827956997.167115,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "eabUserId",
+      "value": "470ba3fd-1a4a-4871-b16f-fabacc1edc97",
+      "domain": "shopremi.com",
+      "path": "/",
+      "expires": 1825796997,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "eauid",
+      "value": "1b7bec3f-00ed-44fc-8d71-e1d3695511c6",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1828820997.384878,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "easid",
+      "value": "8db26c5c-708e-4547-b070-6fac3413907e",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_scsrid_r",
+      "value": "",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1828388998,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "FCRKH666akQgK239SYG2fCo5Bqh9MsQn",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1828388998,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "FCRKH666akQgK239SYG2fCo5Bqh9MsQn",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1828388998,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scida",
+      "value": "6Gf7wW6cN2j798JY4hfz28h9t1o9FJG7",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1828388998,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1794261000783.6296844651",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1802037029.399472,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ede-c",
+      "value": "stash-miss",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1794261301.386333,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ede-r",
+      "value": "https://shopremi.com/cart",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1794261301.386694,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_T4YNCFZNF4",
+      "value": "GS2.1.s1794260986$o1$g1$t1794261001$j45$l0$h2046427438",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1828821001.435941,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_I1My53M3Q46MCYqczRkPUg%231835b607-ec82-4b72-bc25-bcd8b54626fb-1794260986",
+      "domain": ".shopremi.com",
+      "path": "/",
+      "expires": 1825818615.969608,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://shopremi.com",
+      "localStorage": [
+        {
+          "name": "setItem",
+          "value": null
+        },
+        {
+          "name": "u_sclid",
+          "value": "oQccRUTTt2mTli_tJgkjodUb2N4TWxFMFCRKH666akQgK239SYG2fCo5Bqh9MsQn"
+        },
+        {
+          "name": "TriplePixel",
+          "value": "4"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,}5{245n[[0M]9KGo\"ow_~;R\u007f4glH(?%\u007f2$!?HU9l+?xehWN_Afk0m-JEQO20=?}tT1I p, ~O_e]l`f-Gai3>6lO-[61qlHt"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,@hUQ}}MKIW^S^4lts:svm!kkX8CqAHI>OK/ZT3^ew[v@:8'sbi8 [|kIt;k[Qu<\\QlJl} oefq@fN3B||(}].f}R8sq{rZ"
+        },
+        {
+          "name": "eabRegionCode",
+          "value": "PKSD"
+        },
+        {
+          "name": "redo_autocheck",
+          "value": "{\"expiry\":1794262792565,\"value\":{\"autocheck\":{\"teamId\":\"6a721fb0b09bbb9face682d4\",\"widgetSlug\":\"70v2306c8ff1tl7\",\"icon\":\"gift\",\"iconColor\":\"\",\"iconBackgroundColor\":\"\",\"displayIcon\":false,\"storefrontAccessToken\":\"fb3aecb2a2537b4bdae395d05ec92c63\",\"multistorefront\":[],\"toggleTextOptions\":{},\"exchangeBannerShowDoneButton\":true,\"disableRedoForCustomer\":false,\"respectForcedRemovalDuringEnsure\":false,\"redoAutoCheck\":true,\"selector\":\"\",\"paidModel\":\"customer_paid\",\"textColor\":\"#000000\",\"coverage\":{\"exchange\":false,\"refund\":false,\"storeCredit\":false},\"enabled\":true,\"logo\":\"\",\"coverageEnabled\":false,\"finalSaleTags\":[\"final-sale\"],\"protectionExcludeTags\":[],\"coverageExcludeCollections\":[],\"coverageExcludeDiscountCodes\":[],\"coverageExcludeProperties\":[],\"coverageExcludedVariantMetafields\":[],\"returnsCoverageExcludedSkus\":[],\"discountCodePartialMatch\":false,\"hideCheckboxBranding\":false,\"hideCheckbox\":true,\"hideCheckboxPrice\":false,\"attachmentStrategy\":\"checkout-button-product\",\"toggleSubtextEnabled\":true,\"countries\":[\"US\"],\"countriesPackageProtection\":[\"US\"],\"countriesFinalSaleReturns\":[],\"predictedCountry\":\"US\",\"modalTextAdjustments\":{},\"infoModal\":{\"enableTopLayerModalApi\":true,\"version\":\"v2\"},\"shopSiteUseCartDiscounts\":false,\"excludeProductTags\":[],\"excludeProductSkus\":[],\"cartValueCalculationMethod\":\"cart_value_post_discount\",\"excludedItemProperties\":[],\"cartToggle\":{\"enabled\":true,\"cartReplaceItems\":false},\"widgetConfigs\":[{\"_id\":\"6a721fb0b09bbb9face682d9\",\"elementType\":\"info-card\",\"placementSelector\":\"\",\"placementType\":\"Cart\",\"showBackground\":false,\"showInfoIcon\":true},{\"_id\":\"6a721fb0b09bbb9face682da\",\"elementType\":\"both-checkout-buttons\",\"placementSelector\":\"\",\"placementType\":\"Cart\"}],\"groupNearbyToggleElementsTogether\":true,\"hideRedoProduct\":{\"cartCountModifications\":[],\"cartDiscountModifications\":[],\"cartPriceModifications\":[],\"enabled\":true},\"packageProtection\":{\"coverageEnabled\":false,\"packageProtectionPlusEnabled\":false,\"percentage\":0,\"splitProducts\":false,\"minPrice\":0,\"packageProtectionPlusMerchantPaidPerOrderEnabled\":false,\"shouldRecordPackageProtectionExposure\":false,\"coverageExcludedCollections\":[],\"internationalInsurance\":{\"providerName\":\"UPSCIA\",\"termsUrl\":\"https://www.insureshield.com/content/terms-and-conditions/REDO_TermsandConditions.pdf\",\"ratePer100\":0.8,\"minimumPremium\":0},\"coverageExcludedVariantMetafields\":[]},\"packageProtectionAutoCheck\":true,\"setCheckoutToggleBasedOnOptInCartAttribute\":true,\"openShadowRoot\":false,\"checkoutExtensionEnabled\":false,\"fraudZipCoverageExclusionStrategy\":\"NO_OP\",\"forceIPAddressLocation\":false,\"excludePickup\":false,\"preProtectedOrdersEnabled\":false,\"internationalReturnsPricing\":[],\"currencyExchangeRate\":1,\"finalSaleReturns\":{\"coverageEnabled\":false,\"coverageValidTags\":[],\"coverageValidCollections\":[],\"coverageValidCollectionTitles\":[],\"percentage\":0,\"minPrice\":0,\"maxPrice\":0,\"allCovered\":false,\"allEligible\":false},\"customerAccounts\":{\"enabled\":false,\"saveForLaterPanel\":{\"enabled\":false}},\"customerWidgetEnabled\":false,\"chatWidgetScriptTagInstalled\":false,\"contextual\":{\"enabled\":true,\"scriptUrl\":\"https://ctx.shopremi.com/worker-sdk/theme-script\",\"fallbackScriptUrl\":\"https://merchants.getcontextual.io/worker-sdk/theme-script\"},\"reviews\":{\"enabled\":false},\"orderTrackingLogin\":{\"enabled\":false,\"settings\":null,\"loadingBackgroundColor\":null},\"brandKit\":{\"font\":{\"bodyFontFamily\":\"Arial\",\"fontFamily\":\"Arial\",\"headerFontFamily\":\"Arial\",\"hierarchy\":{\"body\":{\"fontSizePx\":16,\"fontWeight\":\"regular\"},\"h1\":{\"fontSizePx\":48,\"fontWeight\":\"bold\"},\"h2\":{\"fontSizePx\":36,\"fontWeight\":\"semibold\"},\"h3\":{\"fontSizePx\":30,\"fontWeight\":\"regular\"},\"subtext\":{\"fontSizePx\":14,\"fontWeight\":\"regular\"}}},\"images\":{\"bannerUrl\":\"\",\"faviconUrl\":\"\",\"logoBannerUrl\":\"\",\"logoUrl\":\"\"},\"buttons\":{\"primary\":{\"backgroundColor\":\"#000000\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#ffffff\"},\"secondary\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"},\"tertiary\":{\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":0}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"}},\"colors\":{\"accent\":\"#000000\",\"background\":\"#ffffff\"},\"customFontFamilies\":[],\"inputs\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"errorColor\":\"#ff0000\",\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"}},\"extendedWarranties\":{\"enabled\":false,\"cartToggleExperience\":\"toggle\",\"pdpRenderMethod\":\"app_block\",\"popupExperience\":\"disabled\"},\"concierge\":{\"enabled\":true,\"placeConciergeProductForm\":false},\"marketing\":{\"enabled\":true,\"subscribeFromSaveForLater\":false,\"numEmbeddedFormsConfigured\":0,\"hasPublishedSignupForms\":false,\"hasEnabledNonEmbeddedSpotlights\":false,\"backInStockInsertionMode\":\"APPEND_CHILD\"},\"recover\":{\"enabled\":true},\"checkoutDeliveryEstimates\":{\"enabled\":false},\"conversion\":{\"enabled\":false},\"hsa\":{\"enabled\":true,\"checkoutButtonsSkipShopPay\":true,\"buyButtons\":{\"showOnlyHsaPaymentMethod\":true},\"intentSignals\":{\"lmnStarted\":true,\"lmnCompleted\":true,\"pdpWidget\":true,\"cartWidget\":true}},\"loyalty\":{\"enabled\":false},\"useBuyNowCoverage\":false,\"autoNavigateToCheckoutAfterTimeout\":true,\"checkoutMethod\":\"navigate_after_add\",\"rescueCheckoutButtonsEnabled\":false,\"shouldNotUseStorefrontApi\":false,\"disableBusinessAccountInStorefront\":false,\"preventPageRefreshAfterCartAdd\":false,\"dispatchResizeAfterItemsPlaced\":false,\"purpleDotEnabled\":false,\"dynamicCoverageTransformFunctionEnabled\":false,\"billing\":{\"status\":\"missing_billing_info\"},\"localizationTextOverrides\":[],\"localizationGroups\":[],\"storefrontLoggingAllowedPercentage\":4,\"visitorObservationEnabled\":true,\"storefrontConsentEnabled\":false,\"localizationObjectId\":\"autocheck-6a721fb0b09bbb9face682d4\",\"customerTagTextOverride\":{\"customerTags\":[],\"enabled\":false},\"cartResponseCaptureEnabled\":true,\"coverageProductIds\":[]},\"currency\":\"USD\",\"customerId\":null,\"language\":\"en\",\"country\":\"US\"}}"
+        },
+        {
+          "name": "__ctx_id",
+          "value": "911822d3-1fb4-41c1-a081-3f4f29c3a022"
+        },
+        {
+          "name": "_li_duid",
+          "value": "958e07f4b2f8--01m714m4an522g2kftngvn7tqd"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxjNWi5NxCLRWLOnkqu6F\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxjNWi5NxCLRWLOnkqu6F\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxjNWi5NxCLRWLOnkqu6F\""
+        },
+        {
+          "name": "alia-storage-since",
+          "value": "1794260996258"
+        },
+        {
+          "name": "eauid",
+          "value": "1b7bec3f-00ed-44fc-8d71-e1d3695511c6"
+        },
+        {
+          "name": "eabRootRoute",
+          "value": ""
+        },
+        {
+          "name": "callone",
+          "value": "{\"dTags\":[{\"pixel_id\":\"1923019981958009\",\"type\":\"master\",\"collection\":null,\"product\":null}]}"
+        },
+        {
+          "name": "sale_countdown_deadline_sections--27362779037909__sale_countdown_imi646",
+          "value": "1794286118093"
+        },
+        {
+          "name": "eabFirstTimeVisit",
+          "value": "1794260977784"
+        },
+        {
+          "name": "__cvg-shopify-sandbox-google-consent__",
+          "value": "{\"$google_consent\":{\"current\":{\"ad_storage\":\"granted\",\"ad_user_data\":\"granted\",\"ad_personalization\":\"granted\",\"analytics_storage\":\"granted\"},\"default\":{\"ad_storage\":\"granted\",\"ad_user_data\":\"granted\",\"ad_personalization\":\"granted\",\"analytics_storage\":\"granted\"},\"updated\":{}}}"
+        },
+        {
+          "name": "__vyg",
+          "value": "eyJ0cyI6MTc5NDI2MDk4NjkxNywiaWRzIjp7InZ5Z19haWQiOiJmYmMxNmU5Yy0zNzY4LTQ5ZjctYmY1OC1lMjE3ZjNkYmM4N2QiLCJzaG9waWZ5X2NsaWVudF9pZCI6ImZiYzE2ZTljLTM3NjgtNDlmNy1iZjU4LWUyMTdmM2RiYzg3ZCJ9fQ=="
+        },
+        {
+          "name": "eabCountryCode",
+          "value": "US"
+        },
+        {
+          "name": "redo.rolling_session",
+          "value": "{\"id\":\"redo-29a65d65-6833-42cb-971c-8dfef9edd3d1\",\"lastActivityMs\":1794260992410}"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://shopremi.com/cart\",\"exp\":1796852997102}"
+        },
+        {
+          "name": "__ctx_session_id",
+          "value": "55a9c15dd4a703122cd7c56d022c99785c0b33acf005a17c45fd70d0fb0ca6bd"
+        },
+        {
+          "name": "redo_fees",
+          "value": "{\"expiry\":1794261353342,\"value\":{\"error\":\"The shop disabled coverage\"}}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "restockrocket_production_in_stock_variant_ids",
+          "value": "[54970377109717,54970377142485,54970377175253,54970377208021,68050748604629]"
+        },
+        {
+          "name": "_stoq_extension_details",
+          "value": "{\"app_rendered_at\":1794260986,\"app_version\":\"638\",\"liquid_cache_age\":3,\"market_id\":950927573,\"country_code\":\"US\",\"inventory_policy\":\"continue\",\"inventory_quantity\":262843,\"page_type\":\"cart\",\"shop_domain\":\"remi-club.myshopify.com\",\"selected_variant_id\":43690530406613,\"detected_variant_ids\":[],\"page_load_seq\":3,\"last_app_event\":\"sweep_ran\",\"updated_at\":\"2026-11-09T21:49:57.048Z\",\"inline_ran_at\":5275,\"bundle_loaded_at\":6981,\"bundle_ready_at\":6989,\"intercept_armed\":true,\"intercept_armed_at\":6987,\"express_checkout_held\":false,\"express_checkout_held_at\":5574,\"bundle_ready_seq\":3,\"sweep_ran_at\":9365,\"sweep_ran_seq\":3,\"cart_token\":\"hWNIxjNWi5NxCLRWLOnkqu6F\"}"
+        },
+        {
+          "name": "fbPixeluserIp",
+          "value": "202.47.43.137"
+        },
+        {
+          "name": "__ctx_fb_cookies",
+          "value": "{\"_fbc\":\"\",\"_fbp\":\"fb.1.1794261000783.6296844651\"}"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,JwIF#K}UIf{DkIHj5%nWUlSw,0\"2+Gt^``%C^W5G1^P9FNtwivsN89 1}T4wE7'#PZZlFRnUk9;$7B)kf#"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_",
+          "value": "data:application/zip;base92,x/G+/}DQ+:hy[>=)Cp:gPp}>xPcv,%)ArZiOKrfg2\\gT9/K_i>A+fMW8vV+qW+&CIz<i,<gWI[*#NteRM)"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,GmF\"f>Q1p,q{L==Nq$8b}=-B ,B)bkx7;2YP%UA4wvvchS-%x%VAX'pLEPll nY}YU])yi'@.(2.]aw]Tf"
+        },
+        {
+          "name": "accessibly_vid",
+          "value": "e150fc18-04d8-fa4e-71a3-34a000e800f5"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794520194179"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "oQccRUTTt2mTli_tJgkjodUb2N4TWxFMFCRKH666akQgK239SYG2fCo5Bqh9MsQn"
+        },
+        {
+          "name": "refId",
+          "value": "data:application/zip;base92,*K2(\"LZ_SFDj1\u007fo%Yc6PN'q&[#P<X=jchx\\hZ6Eszkwx\u007faNOH\u007fP(yat~'Vp<lPw?;knv18DpYKvsBwF91|FN&@*[z-F{/hwt9.jz|B)Lm19@9:4-dMm7)0i}@Y-+8"
+        },
+        {
+          "name": "mm.userDeviceID",
+          "value": "14394.100000023842thaif0rue"
+        },
+        {
+          "name": "_replo_sid",
+          "value": "{\"sessionId\":\"53b759e2-7510-4304-932e-6cb9b3bff652\",\"reploId\":\"a97704cf-8ce6-4d57-95ba-3cb6776504a1\",\"createdAt\":1794260986697,\"expiresAt\":1794262797833,\"conversionsCounter\":0,\"isEntryPage\":false}"
+        },
+        {
+          "name": "redo.anonymous_shopper_id",
+          "value": "40fcd1f2-59b7-4c09-8a41-a9ff1f81a7c5"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,apc)8'Ee{^uP`~(vOdW&\u007f-1a6'<t:u 2N%xW)#If)>-m}s{\"c}4err]e4Q~Z7d{)07280>dwEig,#8~)cywZPPG,d}]C77C[rv@0!5VXi-z"
+        },
+        {
+          "name": "basicEabUserId",
+          "value": "8cd3921b-1511-46d1-a26c-d16ea910b8e8"
+        },
+        {
+          "name": "redo.anonymous_shopify_session_id",
+          "value": "redo-29a65d65-6833-42cb-971c-8dfef9edd3d1"
+        },
+        {
+          "name": "true_rand_gen_sequence.math_",
+          "value": "data:application/zip;base92,}PF~8h9LsBfOCE]QMn=(*&ON-[}4n9vfFt?#|a7t)k_b- H)~8R;%E[|4|CK,/H4h4_ShGz).Y%f_Rzl{QZ"
+        }
+      ]
+    }
+  ]
+}

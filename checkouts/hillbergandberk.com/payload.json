@@ -1,0 +1,72 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBG_xumtA7FNvOSMzkcKNxF5l-BRt8hwSqjWTHa_YeKRrwAW6yPalnURq5CeXBm_BC1GstQa_mGbGDllzrlniptDwGC_oR5IvQz7lCORMgWxDw-qqa0i33ZTsxGumWiaQNxL77b-D6qAm3jz8gsFlwpgwnbY0lGeCABT7zkbXjao8JjpRCnOXRsm3ETeEa-1EOH6XpJlS3BHPIWW1MrZOWj7Sz3uHEQ68H"
+    },
+    "queueToken": "A4469PcLe_bxp4ZlxxR9rPLCV6sSy6gtagNYbZjGovnZMa3H9fOTVaT1Fv2FXKFIUhC7NXR08NBYccQ7ukJ-t_bAzufZZy-momp1NbpFgTuGkISTELMkENKNmrph-9XtmyReHw==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "af5b785e-abc0-4be1-adcb-6dd55a42f869",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/67834707279966",
+              "variantId": "gid://shopify/ProductVariant/67834707279966",
+              "properties": [
+                {
+                  "name": "Promo",
+                  "value": {
+                    "string": "Gift with Purchase"
+                  },
+                  "visible": true
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "13600.00",
+              "currencyCode": "PKR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "d638183c-ade2-4798-979e-7799de77e202",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/41389109411934",
+              "variantId": "gid://shopify/ProductVariant/41389109411934",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "39600.00",
+              "currencyCode": "PKR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

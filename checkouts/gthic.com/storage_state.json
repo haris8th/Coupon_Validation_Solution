@@ -1,0 +1,415 @@
+{
+  "cookies": [
+    {
+      "name": "test",
+      "value": "test",
+      "domain": "gthic.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "",
+      "value": "test",
+      "domain": "gthic.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1825540115.725298,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1795213716.953686,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGy-jpfAAEAP4jfWJSj9pURxc1DQhGnaaMmX-owXWAjObMj4KVdvzvdxFgR7IcBbbWnxb8In-U9Wo3tvVhBRjGTRB8:",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1825540104.385138,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGy-j1XAAEAuJkqUWgsyx5haWCYZR6SUGSUfSUxBSxjKjJul2Qc9AHZ416ZDJIlhtpyn3_O9Yoh-tdw5SxIhYZj6Og:",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1825540104.385213,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGy-j1XAAEAmKQQk5iLBgSijlBafdomaP5a-StZzwa12mlGqH4wWNBkjTOpE_paWszxdU2lhXeoiPRw8yFyIGVGeZI:",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1825540104.38528,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_idy_cid",
+      "value": "d9ca19e8-35c0-436f-9a86-6ac3c3347106",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1828564105.335315,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "0b91054f-f514-439b-88e1-ff18e6d81511",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1825536506,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pageviewCount",
+      "value": "2",
+      "domain": ".gthic.com",
+      "path": "/",
+      "expires": 1796596107,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "integration",
+      "value": "{\"shouldShowBanner\":false}",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1794090509,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "snpt_sess",
+      "value": "e099e511-bfdd-49d9-b503-73ddec83b698",
+      "domain": ".gthic.com",
+      "path": "/",
+      "expires": 1796682509,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cto_bundle",
+      "value": "xh0QH181RDdiRE5RUnFZZldQMGhrY0M4R0ZybDZJMjRIcEw4RHpNJTJCSWhmSGtraCUyQmhxdU5MeFNZRnJMbmR5Vm5telYlMkJSbmlvdGMlMkYxelM0aUtFV2hUM3RMalhBUDJ5b2F2azkwRjdEZklxOFRISnNLemtoWHNiQk5GTWF0UHhuJTJCVjlIJTJCQ2QxRnhBaFVsMDhPdGFFbFRVRk5UcmclM0QlM0Q",
+      "domain": ".gthic.com",
+      "path": "/",
+      "expires": 1828168109,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "snpt_visit",
+      "value": "fdb51b63-e4a3-4b1d-b4ac-b7eb8ab5b59b",
+      "domain": ".gthic.com",
+      "path": "/",
+      "expires": 1794018509,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__spdt",
+      "value": "c49aa35a6208480782d20db4f7f33e2b",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1825540110,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIqjYvDlb5DR32cII1ggUN%3Fkey%3Da73ccc71453b5fe95dafa8d37d616106",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1801866513.152898,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "transcy_cookie_locale",
+      "value": "{\"locale_detect\":\"en\",\"locale_redirect\":\"en\",\"locale_default\":\"en\",\"is_primary\":true,\"country_matching\":\"PK\"}",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1794608912,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_rdgfRCNYSfCuGg15K4IP8Q_%7B%7D%23d9430b6c-75ed-4c0e-b5d5-3ae52ea20c9c-1794004108",
+      "domain": ".gthic.com",
+      "path": "/",
+      "expires": 1825561715.725873,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "transcy_tracking_location",
+      "value": "pk",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "transcy_tracking_token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVkX2F0IjoxNzk0MDA0MTE2LCJleHBpcmVkX2F0IjoxNzk0MDA3NzE2LCJzaG9waWZ5X2RvbWFpbiI6InZpa2luZ3JpbmcubXlzaG9waWZ5LmNvbSIsImF1ZCI6IjczMTY2ODZmOTEyZTAzYmNjZWFjMDg1ZGRmZTZmOTIzIn0.M8yDkNb2sMxqDvRZIyrYHK9LDKSR6FBABMtSxf3OIAU",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "agentID",
+      "value": "4da3b2c6-4230-4158-9a27-6d0cdc7711cc",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1825540116,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "kiwi-sizing-token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWQiOiJhMDc4MDZiZi1mZTU2LTQ2ZmQtYTZjMi03OWZmMjYxNzBkZjIiLCJpYXQiOjE3OTQwMDQxMTgsImV4cCI6MTc5NDAwNzcxOH0.BDwKK61muDagaYXRKdVcUdltqknsPww7P0AfHhveXaE",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1794007716,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ks_scriptVersionChecked",
+      "value": "true",
+      "domain": "gthic.com",
+      "path": "/",
+      "expires": 1794090517,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lantern",
+      "value": "e8c9cc49-6665-4ea8-b5f4-60324120d36c",
+      "domain": ".gthic.com",
+      "path": "/",
+      "expires": 1796596117,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://gthic.com",
+      "localStorage": [
+        {
+          "name": "agentID",
+          "value": "{\"value\":\"4da3b2c6-4230-4158-9a27-6d0cdc7711cc\",\"expire\":\"2027-11-06T22:28:36.278Z\"}"
+        },
+        {
+          "name": "transcy_tracking_token",
+          "value": "{\"value\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVkX2F0IjoxNzk0MDA0MTE2LCJleHBpcmVkX2F0IjoxNzk0MDA3NzE2LCJzaG9waWZ5X2RvbWFpbiI6InZpa2luZ3JpbmcubXlzaG9waWZ5LmNvbSIsImF1ZCI6IjczMTY2ODZmOTEyZTAzYmNjZWFjMDg1ZGRmZTZmOTIzIn0.M8yDkNb2sMxqDvRZIyrYHK9LDKSR6FBABMtSxf3OIAU\",\"expire\":\"+029405-12-01T22:28:36.277Z\"}"
+        },
+        {
+          "name": "cto_bundle",
+          "value": "xh0QH181RDdiRE5RUnFZZldQMGhrY0M4R0ZybDZJMjRIcEw4RHpNJTJCSWhmSGtraCUyQmhxdU5MeFNZRnJMbmR5Vm5telYlMkJSbmlvdGMlMkYxelM0aUtFV2hUM3RMalhBUDJ5b2F2azkwRjdEZklxOFRISnNLemtoWHNiQk5GTWF0UHhuJTJCVjlIJTJCQ2QxRnhBaFVsMDhPdGFFbFRVRk5UcmclM0QlM0Q"
+        },
+        {
+          "name": "www.gthic.com/viewed_history",
+          "value": "[6872026906789]"
+        },
+        {
+          "name": "pf_client_id",
+          "value": "0b91054f-f514-439b-88e1-ff18e6d81511"
+        },
+        {
+          "name": "gthic/cly_id",
+          "value": "8c52a5fe-1668-41fd-8d4d-10a535ea1f2f"
+        },
+        {
+          "name": "gthic/cly_queue",
+          "value": "[{\"events\":\"[{\\\"key\\\":\\\"[CLY]_view\\\",\\\"count\\\":1,\\\"dur\\\":6,\\\"segmentation\\\":{\\\"name\\\":\\\"https://gthic.com/web-pixels@43600932w1bbca933p2f8a9c65m024fd2f2/custom/web-pixel-118423915@2/sandbox/modern/products/till-death\\\",\\\"referrer\\\":\\\"\\\",\\\"current\\\":\\\"https://gthic.com/web-pixels@43600932w1bbca933p2f8a9c65m024fd2f2/custom/web-pixel-118423915@2/sandbox/modern/products/till-death-do-us-part-stainless-steel-ring\\\"},\\\"timestamp\\\":1794004117259,\\\"hour\\\":17,\\\"dow\\\":5},{\\\"key\\\":\\\"shopify_other\\\",\\\"count\\\":1,\\\"segmentation\\\":{\\\"eventname\\\":\\\"clicked\\\",\\\"timestamp\\\":\\\"2026-11-06T22:28:37.256Z\\\",\\\"element\\\":{\\\"id\\\":\\\"\\\",\\\"href\\\":null,\\\"name\\\":\\\"checkout\\\",\\\"tagName\\\":\\\"BUTTON\\\",\\\"type\\\":\\\"submit\\\",\\\"value\\\":\\\"\\\"},\\\"url\\\":\\\"https://gthic.com/products/till-death-do-us-part-stainless-steel-ring?variant=40228549984421\\\",\\\"domain\\\":\\\"gthic.com\\\",\\\"client_id\\\":\\\"0b91054f-f514-439b-88e1-ff18e6d81511\\\",\\\"visitor_id\\\":\\\"be9ba21718a9752c086b3c0928b7949c\\\",\\\"pagename\\\":\\\"/products/till-death-do-us-part-stainless-steel-ring\\\",\\\"referrer\\\":\\\"\\\",\\\"current\\\":\\\"https://gthic.com/web-pixels@43600932w1bbca933p2f8a9c65m024fd2f2/custom/web-pixel-118423915@2/sandbox/modern/products/till-death-do-us-part-stainless-steel-ring\\\"},\\\"timestamp\\\":1794004117375,\\\"hour\\\":17,\\\"dow\\\":5},{\\\"key\\\":\\\"shopify_other\\\",\\\"count\\\":1,\\\"segmentation\\\":{\\\"eventname\\\":\\\"form_submitted\\\",\\\"timestamp\\\":\\\"2026-11-06T22:28:37.259Z\\\",\\\"element\\\":{\\\"action\\\":\\\"https://gthic.com/cart\\\",\\\"id\\\":\\\"\\\",\\\"elements\\\":[{\\\"id\\\":\\\"\\\",\\\"name\\\":\\\"attributes[collection_mobile_items_per_row]\\\",\\\"tagName\\\":\\\"INPUT\\\",\\\"type\\\":\\\"hidden\\\",\\\"value\\\":\\\"\\\"},{\\\"id\\\":\\\"\\\",\\\"name\\\":\\\"attributes[collection_desktop_items_per_row]\\\",\\\"tagName\\\":\\\"INPUT\\\",\\\"type\\\":\\\"hidden\\\",\\\"value\\\":\\\"\\\"},{\\\"id\\\":\\\"updates_39940274487461:f2ab8dc14f6f668f61936dc7785e8030\\\",\\\"name\\\":\\\"updates[]\\\",\\\"tagName\\\":\\\"INPUT\\\",\\\"type\\\":\\\"text\\\",\\\"value\\\":\\\"1\\\"},{\\\"id\\\":\\\"updates_40228549984421:0d34bf3eb123b97e9784bc86693bc961\\\",\\\"name\\\":\\\"updates[]\\\",\\\"tagName\\\":\\\"INPUT\\\",\\\"type\\\":\\\"text\\\",\\\"value\\\":\\\"1\\\"},{\\\"id\\\":\\\"\\\",\\\"name\\\":\\\"checkout\\\",\\\"tagName\\\":\\\"BUTTON\\\",\\\"type\\\":\\\"submit\\\",\\\"value\\\":\\\"\\\"}]},\\\"url\\\":\\\"https://gthic.com/products/till-death-do-us-part-stainless-steel-ring?variant=40228549984421\\\",\\\"domain\\\":\\\"gthic.com\\\",\\\"client_id\\\":\\\"0b91054f-f514-439b-88e1-ff18e6d81511\\\",\\\"visitor_id\\\":\\\"be9ba21718a9752c086b3c0928b7949c\\\",\\\"pagename\\\":\\\"/products/till-death-do-us-part-stainless-steel-ring\\\",\\\"referrer\\\":\\\"\\\",\\\"current\\\":\\\"https://gthic.com/web-pixels@43600932w1bbca933p2f8a9c65m024fd2f2/custom/web-pixel-118423915@2/sandbox/modern/products/till-death-do-us-part-stainless-steel-ring\\\"},\\\"timestamp\\\":1794004117376,\\\"hour\\\":17,\\\"dow\\\":5}]\",\"app_key\":\"gthic\",\"kid\":\"8c52a5fe-1668-41fd-8d4d-10a535ea1f2f\",\"device_id\":\"8c52a5fe-1668-41fd-8d4d-10a535ea1f2f\",\"sdk_name\":\"javascript_native_web\",\"sdk_version\":\"22.02.2\",\"t\":1,\"timestamp\":1794004117377,\"hour\":17,\"dow\":5}]"
+        },
+        {
+          "name": "gthic/cly_cookie",
+          "value": "8c52a5fe-1668-41fd-8d4d-10a535ea1f2f"
+        },
+        {
+          "name": "gthic/cly_event",
+          "value": "[]"
+        },
+        {
+          "name": "www.gthic.com/cly_queue",
+          "value": "[{\"events\":\"[{\\\"key\\\":\\\"[CLY]_view\\\",\\\"count\\\":1,\\\"dur\\\":6,\\\"segmentation\\\":{\\\"name\\\":\\\"https://gthic.com/products/till-death-do-us-part-stainless-steel-ring?variant=40228549984421\\\",\\\"referrer\\\":\\\"\\\",\\\"current\\\":\\\"https://gthic.com/products/till-death-do-us-part-stainless-steel-ring?variant=40228549984421\\\"},\\\"timestamp\\\":1794004117252,\\\"hour\\\":17,\\\"dow\\\":5},{\\\"key\\\":\\\"check_out_order\\\",\\\"count\\\":1,\\\"segmentation\\\":{\\\"gid\\\":[],\\\"skuid\\\":[\\\"39940274487461\\\",\\\"40228549984421\\\"],\\\"price\\\":[],\\\"quantity\\\":[\\\"1\\\",\\\"1\\\"],\\\"amount\\\":\\\"$46.99\\\",\\\"currency\\\":\\\"USD\\\",\\\"source\\\":\\\"Other Page\\\",\\\"position\\\":\\\"Cart Pop\\\",\\\"visitor_id\\\":\\\"c3989cb60d8b40975e1a0c7e0832d889\\\",\\\"referrer\\\":\\\"\\\",\\\"current\\\":\\\"https://gthic.com/products/till-death-do-us-part-stainless-steel-ring?variant=40228549984421\\\"},\\\"timestamp\\\":1794004117562,\\\"hour\\\":17,\\\"dow\\\":5}]\",\"app_key\":\"www.gthic.com\",\"kid\":\"01b30ddc-540a-4b65-a860-9026f05c10e0\",\"device_id\":\"01b30ddc-540a-4b65-a860-9026f05c10e0\",\"sdk_name\":\"javascript_native_web\",\"sdk_version\":\"22.02.2\",\"t\":1,\"timestamp\":1794004117563,\"hour\":17,\"dow\":5}]"
+        },
+        {
+          "name": "www.gthic.com/cly_id_type",
+          "value": "1"
+        },
+        {
+          "name": "PF_CUSTOMER_EVENTS_TRACKER",
+          "value": "[{\"eventType\":\"cta_click\",\"data\":{\"text\":\"checkout\",\"href\":null,\"section_content\":{\"text_content\":\"checkout\",\"headings\":[],\"prices\":[]}},\"createdAt\":\"2026-11-06T22:28:37.274Z\"},{\"eventType\":\"product_added_to_cart\",\"data\":{\"product_id\":6773404369061,\"variant_id\":39940274487461,\"quantity\":1,\"price\":14,\"product_title\":null,\"variant_title\":null},\"createdAt\":\"2026-11-06T22:28:35.387Z\"},{\"eventType\":\"product_added_to_cart\",\"data\":{\"product_id\":6872026906789,\"variant_id\":40228549984421,\"quantity\":1,\"price\":32.99,\"product_title\":\"Silver / 7\",\"variant_title\":\"Silver / 7\"},\"createdAt\":\"2026-11-06T22:28:35.112Z\"},{\"eventType\":\"product_viewed\",\"data\":{\"product_id\":6872026906789,\"variant_id\":40228549984421,\"product_title\":\"Silver / 7\",\"product_vendor\":\"GTHIC\",\"product_type\":\"Ring\",\"price\":32.99,\"collection_id\":null},\"createdAt\":\"2026-11-06T22:28:29.412Z\"},{\"eventType\":\"page_viewed\",\"data\":{\"url\":\"https://gthic.com/\",\"page_type\":\"home\",\"referrer\":\"\",\"utm_source\":null,\"utm_medium\":null,\"utm_campaign\":null,\"utm_term\":null,\"utm_content\":null},\"createdAt\":\"2026-11-06T22:28:26.912Z\"}]"
+        },
+        {
+          "name": "www.gthic.com/cly_cookie_type",
+          "value": "1"
+        },
+        {
+          "name": "id5id_v2_3856268834750531",
+          "value": "{\"data\":{\"response\":{\"signature\":\"ID5_AutUf4f8xYJFw3yUyvi9043GFp7jpPM2NgmghE7CBhmbYYe0C6QB7zznDp25H5uHyB7n_DMmX2BpR8ZvNonhC2DcBQC3AZXNsb00yRGS-Lmq44JBqmvo03N4KS8fmsua6eSBWcuEyK8gMjPvC9bVpV46LxI5TTKyX5VbNgEJgRIfuPOrZXA\",\"created_at\":\"2026-11-06T22:28:33.4Z\",\"id5_consent\":true,\"original_uid\":\"ID5*u-HX1o_o2z1Ll1YC3EaQuy3t9h1481pk2O5ZImt22Nv__2ruVJJaAAEBCmruVJEA90ywA86OIwLShk_MQk4W5w\",\"universal_uid\":\"ID5*28O7W46ElCIaZTlewDUtvdEYSVmhAL9CFpoQomMRYDv__2ruVJJaAAEBCmruVJEA90z0Z2Q_W3AbkUr4dracnA\",\"link_type\":2,\"cascade_needed\":false,\"privacy\":{\"jurisdiction\":\"other\",\"id5_consent\":true},\"ext\":{\"linkType\":2,\"pba\":\"U6+7HsuED/Rob4xDcva22eQPdGT9RVI413XIXlVM0rDrJ+ddZLF6rpZ0KipnpcHxGsLrieFafNdWbbvHA/fp+w==\"},\"cache_control\":{\"max_age_sec\":7200},\"ids\":{\"id5id\":{\"eid\":{\"source\":\"id5-sync.com\",\"uids\":[{\"id\":\"ID5*28O7W46ElCIaZTlewDUtvdEYSVmhAL9CFpoQomMRYDv__2ruVJJaAAEBCmruVJEA90z0Z2Q_W3AbkUr4dracnA\",\"atype\":1,\"ext\":{\"linkType\":2,\"pba\":\"U6+7HsuED/Rob4xDcva22eQPdGT9RVI413XIXlVM0rDrJ+ddZLF6rpZ0KipnpcHxGsLrieFafNdWbbvHA/fp+w==\"}}]}}},\"tags\":{\"id\":\"y\"}},\"responseTimestamp\":1794004114497,\"consents\":{\"gdpr\":false}},\"expireAt\":1795300114499}"
+        },
+        {
+          "name": "www.gthic.com/cly_event",
+          "value": "[]"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-06T22:28:34.486Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-b2fa7b11-4B0B-41FD-F4CA-581FA064F59C\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"vikingring.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-b2fa7b11-4B0B-41FD-F4CA-581FA064F59C\",\"event_date_time\":\"2026-11-06T22:28:34.486Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"0b91054f-f514-439b-88e1-ff18e6d81511\",\"page_url\":\"https://gthic.com/products/till-death-do-us-part-stainless-steel-ring\",\"currency\":\"USD\",\"product\":{\"product_id\":\"6872026906789\",\"product_title\":\"Till Death Do Us Part Stainless Steel Ring\",\"variant_id\":\"40228549984421\",\"variant_title\":\"Silver / 7\",\"quantity\":1,\"variant_price\":32.99,\"product_vendor\":\"GTHIC\"}}}}},{\"name\":\"Added to Cart\",\"time\":\"2026-11-06T22:28:35.247Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-b2fa8109-E698-4714-F215-B4A181FB4887\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"vikingring.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-b2fa8109-E698-4714-F215-B4A181FB4887\",\"event_date_time\":\"2026-11-06T22:28:35.247Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"0b91054f-f514-439b-88e1-ff18e6d81511\",\"page_url\":\"https://gthic.com/products/till-death-do-us-part-stainless-steel-ring\",\"currency\":\"USD\",\"product\":{\"product_id\":\"6773404369061\",\"product_title\":\"14.5 cm* 10.5 cm* 6 cm Gift Box\",\"variant_id\":\"39940274487461\",\"variant_title\":\"14.5 cm* 10.5 cm* 6 cm Gift Box\",\"quantity\":1,\"variant_price\":14,\"product_vendor\":\"GTHIC\"}}}}}]"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIqjYvDlb5DR32cII1ggUN\""
+        },
+        {
+          "name": "www.gthic.com/cly_cookie",
+          "value": "01b30ddc-540a-4b65-a860-9026f05c10e0"
+        },
+        {
+          "name": "avadaBlockerScope",
+          "value": "{\"value\":\"out\",\"expiry\":1794025710065}"
+        },
+        {
+          "name": "www.gthic.com/cly_session",
+          "value": "1794005917"
+        },
+        {
+          "name": "criteo-id5id-fast-track",
+          "value": "ID5*28O7W46ElCIaZTlewDUtvdEYSVmhAL9CFpoQomMRYDv__2ruVJJaAAEBCmruVJEA90z0Z2Q_W3AbkUr4dracnA"
+        },
+        {
+          "name": "PF_SHOP_DOMAIN",
+          "value": "undefined"
+        },
+        {
+          "name": "_ks_shopSettings:vikingring.myshopify.com",
+          "value": "{\"id\":10627,\"isEnabled\":true,\"displayMultipleUnitSystems\":true,\"defaultUnitSystem\":0,\"conversionSignificantDecimalPoints\":1,\"sizingDisplayMode\":1,\"showUnitInHeader\":false,\"buttonText\":\"Size Guide\",\"buttonIcon\":\"ruler1\",\"modalHeaderText\":\"{{product.title}}\",\"modalSubHeaderText\":\"Size Charts\",\"styles\":{\"floatButton\":{\"enable\":false,\"icon\":\"ruler1\",\"text\":\"Size Chart\",\"position\":\"bottom-right\",\"orientation\":\"horizontal\",\"mobile\":true,\"desktop\":true,\"desktopGap\":20,\"mobileGap\":20,\"background\":\"white\",\"borderColor\":\"black\",\"color\":\"black\",\"italic\":false,\"bold\":true,\"font\":null,\"underline\":false,\"size\":13,\"verticalPadding\":5,\"horizontalPadding\":15,\"iconColor\":\"black\"},\"modal\":{\"linkButton\":{\"background\":\"white\",\"borderColor\":\"black\",\"color\":\"rgba(187,18,18,1)\",\"italic\":false,\"bold\":false,\"underline\":true,\"size\":14,\"prefixText\":\"\",\"suffixText\":\"\",\"topMargin\":3,\"bottomMargin\":0,\"verticalPadding\":null,\"horizontalPadding\":null,\"alignment\":\"default\",\"iconColor\":\"rgba(187,18,18,1)\"},\"header\":{\"background\":\"rgba(242,242,242,1)\",\"closeIcon\":true,\"closeIconColor\":\"rgba(33, 43, 54,1)\",\"alignment\":\"center\",\"verticalPadding\":10},\"headerText\":{\"italic\":false,\"bold\":true,\"color\":\"rgba(51, 51, 51, 1)\",\"size\":17},\"subHeaderText\":{\"italic\":false,\"bold\":false,\"color\":\"rgba(51, 51, 51, 1)\",\"size\":12},\"modal\":{\"animationType\":0,\"enableImageCarousel\":true,\"style\":0},\"tabs\":{\"italic\":false,\"bold\":false,\"fontSize\":18,\"calculatorTabText\":\"Calculate My Size\",\"sizeChartTabText\":\"Size Chart\",\"highlightColor\":\"#06c\",\"color\":\"#999\",\"order\":0}},\"table\":{\"defaultEditorMode\":0,\"inchesWithFeet\":false,\"fixWidth\":true,\"headerText\":{\"alignment\":\"center\",\"italic\":false,\"bold\":true,\"underline\":false,\"color\":\"black\",\"size\":14,\"margin\":5},\"footerText\":{\"alignment\":\"center\",\"italic\":false,\"bold\":true,\"underline\":false,\"color\":\"black\",\"size\":14,\"margin\":5},\"header\":{\"bold\":true,\"boldRow\":true,\"boldCol\":true,\"italic\":false,\"capitalize\":true,\"color\":null,\"textWrap\":true,\"size\":null,\"sizeRow\":null,\"sizeCol\":null},\"cell\":{\"size\":null,\"color\":null,\"alignment\":\"center\",\"verticalPadding\":null,\"horizontalPadding\":null,\"textWrap\":false},\"maxWidth\":null,\"oddRowColor\":null,\"evenRowColor\":null,\"hoverColor\":\"rgba(245,245,245,1)\",\"useColHover\":true,\"borderColor\":\"#e8e9eb\",\"borderWidth\":1,\"toggle\":{\"color\":\"#24797b\",\"position\":\"t-center\",\"fontColor\":\"#999\",\"fontSize\":13,\"borderRadius\":0,\"verticalPadding\":2,\"horizontalPadding\":10,\"style\":1},\"mobile\":{\"size\":12,\"verticalPadding\":2,\"horizontalPadding\":6}},\"divider\":{\"color\":\"#818078\",\"verticalMargin\":10,\"lineStyle\":0,\"text\":{\"color\":\"#818078\",\"size\":14,\"italic\":false,\"underline\":false,\"bold\":false}},\"internationalChart\":{\"names\":{}},\"tab\":{\"verticalTabVerticalPadding\":10,\"verticalTabHorizontalPadding\":10,\"horizontalTabVerticalPadding\":10,\"horizontalTabHorizontalPadding\":10,\"italic\":false,\"underline\":false,\"bold\":false,\"selectedColor\":\"black\",\"unselectedColor\":\"#bbb\",\"hoverColor\":\"#888\",\"size\":14,\"showHighlightOnHover\":true,\"highlight\":{\"style\":1,\"color\":\"#06c\"},\"border\":{\"contentHasBorder\":true,\"color\":\"#ccc\",\"roundCorner\":0},\"content\":{\"verticalTabVerticalPadding\":10,\"verticalTabHorizontalPadding\":10,\"horizontalTabVerticalPadding\":15,\"horizontalTabHorizontalPadding\":15}},\"calculator\":{\"defaultName\":\"Calculate My Size\",\"advance\":{\"defaultLanguage\":\"en\",\"mainButtonColor\":\"#107be9\",\"secondaryButtonColor\":\"black\"},\"fitPreference\":{\"enable\":true,\"labelText\":\"Fit preference\",\"type\":\"dropdown\",\"default\":\"regular\",\"slimText\":\"Slim\",\"regularText\":\"Regular\",\"looseText\":\"Loose\"},\"helpText\":\"\",\"injectedLinkbutton\":{\"noInputText\":\"What's my size?\",\"hasResultText\":\"We recommend size: {result}\",\"noResultText\":\"We couldn't find a good size match\",\"background\":\"white\",\"borderColor\":\"black\",\"color\":\"black\",\"italic\":false,\"bold\":false,\"underline\":false,\"size\":null,\"prefixText\":\"\",\"suffixText\":\"\",\"topMargin\":8,\"bottomMargin\":8,\"verticalPadding\":null,\"horizontalPadding\":null,\"iconColor\":\"black\"},\"radio\":{\"buttonColor\":null},\"header\":{\"border\":\"#EBEBEB\",\"borderWidth\":2,\"background\":\"#EBEBEB\",\"verticalPadding\":10,\"horizontalPadding\":20,\"hideIfInModal\":false},\"headerText\":{\"color\":\"black\",\"size\":16,\"italic\":false,\"underline\":false,\"bold\":true,\"alignment\":\"left\"},\"unitToggle\":{\"color\":\"#24797b\",\"position\":\"t-center\",\"fontColor\":\"#999\",\"fontSize\":12,\"borderRadius\":0,\"verticalPadding\":2,\"horizontalPadding\":10,\"style\":1},\"resultPanel\":{\"background\":\"#EBEBEB\",\"verticalPadding\":8,\"horizontalPadding\":20},\"recommendLabelText\":{\"color\":\"000000\",\"size\":13,\"italic\":false,\"underline\":false,\"bold\":true,\"value\":\"We recommended the size:\"},\"recommendText\":{\"color\":\"#000000\",\"size\":36,\"italic\":false,\"underline\":false,\"bold\":true},\"noResultText\":{\"color\":\"#000000\",\"size\":20,\"italic\":false,\"underline\":false,\"bold\":true,\"value\":\"We couldn't find a good match\"},\"labelText\":{\"showColon\":false,\"color\":\"#666666\",\"size\":13,\"italic\":false,\"underline\":false,\"bold\":true},\"resultChart\":{\"fieldText\":{\"color\":\"black\",\"size\":13,\"italic\":false,\"underline\":false,\"bold\":false},\"lowHighText\":{\"color\":\"#959FAD\",\"size\":11,\"italic\":false,\"underline\":false,\"bold\":false},\"coverTypeHighText\":\"Tight\",\"coverTypeLowText\":\"Loose\",\"lengthTypeHighText\":\"Short\",\"lengthTypeLowText\":\"Long\",\"greenColor\":\"#92cc92\",\"redColor\":\"#ef7b7b\"},\"sizeCompare\":{\"text\":\"See other sizes:\",\"textStyle\":{\"color\":\"black\",\"size\":15,\"italic\":false,\"underline\":false,\"bold\":true},\"leftRightButtonColor\":\"black\",\"button\":{\"background\":\"#c3cbd0\",\"color\":\"white\",\"size\":12,\"italic\":false,\"underline\":false,\"bold\":true},\"selectedButton\":{\"background\":\"#9aa5af\",\"color\":\"white\",\"size\":12,\"italic\":false,\"underline\":false,\"bold\":true}},\"slider\":{\"fillColor\":\"rgb(16,123,233, 0.5)\"},\"general\":{\"alignment\":\"left\"}},\"quickView\":{\"enable\":false,\"mobile\":true,\"desktop\":true,\"injectionSelector\":\".\",\"injectionOrder\":1,\"convertToRowUnitDirection\":true,\"selectColor\":\"rgba(245,245,245,1)\"},\"accordion\":{\"container\":{\"borderColor\":null,\"borderRadius\":0,\"shadow\":false},\"header\":{\"italic\":false,\"underline\":false,\"bold\":true,\"size\":14,\"backgroundColor\":\"#2c3e50\",\"textColor\":\"white\",\"hoverBackgroundColor\":\"#1a252f\",\"hoverTextColor\":\"white\"},\"content\":{\"backgroundColor\":\"white\"}}},\"injectionSelector\":\"#AddToCart-product-template\",\"maxNumDecimals\":1,\"injectionOrder\":0,\"unitDisplayMode\":0,\"hideUnitIfPresent\":true,\"autoSelectUnitFromCountry\":true,\"calculatorInjectionSelector\":null,\"calculatorInjectionOrder\":0,\"calculatorDisplayMode\":2,\"showFraction\":false,\"analytics\":{},\"isReInjectEnabled\":false,\"reInjectionSelector\":\"main\",\"createdAt\":\"2019-09-09T12:09:14.000Z\",\"updatedAt\":\"2021-11-20T02:31:18.000Z\",\"shop\":\"vikingring.myshopify.com\",\"version\":\"19\"}"
+        },
+        {
+          "name": "_idy_cid",
+          "value": "d9ca19e8-35c0-436f-9a86-6ac3c3347106"
+        },
+        {
+          "name": "id5id_v2_signature",
+          "value": "{\"data\":{\"signature\":\"ID5_AutUf4f8xYJFw3yUyvi9043GFp7jpPM2NgmghE7CBhmbYYe0C6QB7zznDp25H5uHyB7n_DMmX2BpR8ZvNonhC2DcBQC3AZXNsb00yRGS-Lmq44JBqmvo03N4KS8fmsua6eSBWcuEyK8gMjPvC9bVpV46LxI5TTKyX5VbNgEJgRIfuPOrZXA\"},\"expireAt\":1795300114499}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "jdgm_thumb_votes",
+          "value": "{\"94d180b3-6936-4ec6-a40a-859741078b66\":{\"up\":0,\"down\":0},\"64b275fc-401e-40df-9a63-4e36c22ba6b6\":{\"up\":1,\"down\":0},\"74c996cb-38a2-47fc-a3c4-dfb96553c1c9\":{\"up\":1,\"down\":0},\"ce25f234-0c20-5400-af22-c3ef8086c975\":{\"up\":0,\"down\":0},\"1a125f5d-d215-5111-89a7-87c2c18a73d5\":{\"up\":0,\"down\":0},\"2a179e47-d6cd-4b64-a98d-d32fef126639\":{\"up\":0,\"down\":0},\"9c19934a-abee-52e1-ba9f-2c5a12d2b91a\":{\"up\":0,\"down\":0},\"710158dd-a383-5468-be57-e8284b3ab307\":{\"up\":1,\"down\":0},\"19e271c4-ee30-528d-bb25-c409ed1116ea\":{\"up\":0,\"down\":0},\"4a765fc9-7d83-548b-a0ee-6750a1edcf74\":{\"up\":0,\"down\":0}}"
+        },
+        {
+          "name": "id5id_privacy",
+          "value": "{\"jurisdiction\":\"other\",\"id5_consent\":true}"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794263306875"
+        },
+        {
+          "name": "gthic/cly_session",
+          "value": "1794005917"
+        },
+        {
+          "name": "cache-sprite-plyr",
+          "value": "{\"content\":\"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\"><symbol id=\\\"plyr-airplay\\\" viewBox=\\\"0 0 44 44\\\"><path fill=\\\"currentColor\\\" d=\\\"M22.71 24.22a1 1 0 00-1.42 0l-4.07 4.07a1 1 0 00.71 1.71h8.14a1 1 0 00.71-1.71l-4.07-4.07zM28 14H16a2 2 0 00-2 2v8.11a2 2 0 002 2h.7a1 1 0 000-2H16V16h12v8.11h-.73a1 1 0 000 2H28a2 2 0 002-2V16a2 2 0 00-2-2z\\\" stroke=\\\"inherit\\\" stroke-width=\\\"8\\\" stroke-opacity=\\\".25\\\"/></symbol><symbol id=\\\"plyr-captions-off\\\" viewBox=\\\"0 0 44 44\\\"><path opacity=\\\".5\\\" fill=\\\"currentColor\\\" d=\\\"M30 14H14a1 1 0 00-1 1v10.11a1 1 0 001 1h5.25l1.94 2.5a1 1 0 001.58 0l1.94-2.5H30a1 1 0 001-1V15a1 1 0 00-1-1zm-8.57 8.147a.71.71 0 01-.1.163 3.51 3.51 0 01-2.77 1.36 3.62 3.62 0 010-7.23 3.54 3.54 0 012.77 1.36.72.72 0 01-.26 1.11.77.77 0 01-.91-.25 2.05 2.05 0 00-1.6-.78 2.18 2.18 0 100 4.36 2.06 2.06 0 001.6-.79.76.76 0 01.91-.24.71.71 0 01.36.937zm7.51 0a.71.71 0 01-.1.163 3.51 3.51 0 01-2.77 1.36 3.62 3.62 0 010-7.23 3.54 3.54 0 012.77 1.36.72.72 0 01-.26 1.11.78.78 0 01-.92-.25 2 2 0 00-1.59-.78 2.18 2.18 0 100 4.36 2 2 0 001.59-.79.78.78 0 01.92-.24.71.71 0 01.36.937z\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"/></symbol><symbol id=\\\"plyr-download\\\" viewBox=\\\"0 0 44 44\\\"><path fill=\\\"currentColor\\\" d=\\\"M21.29 25.7c.095.093.207.168.33.22.245.093.515.093.76 0 .123-.052.235-.127.33-.22l5-5a1 1 0 00-1.41-1.41L23 22.58V15a1 1 0 10-2 0v7.58l-3.29-3.29a1 1 0 00-1.41 1.41l4.99 5zM29 28H15a1 1 0 100 2h14a1 1 0 100-2z\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"/></symbol><symbol id=\\\"plyr-captions-on\\\" viewBox=\\\"0 0 44 44\\\"><path d=\\\"M30 14H14a1 1 0 00-1 1v10.11a1 1 0 001 1h5.25l1.94 2.5a1 1 0 001.58 0l1.94-2.5H30a1 1 0 001-1V15a1 1 0 00-1-1zm-11.44 8.24a2.06 2.06 0 001.6-.79.76.76 0 01.91-.24.71.71 0 01.26 1.1 3.51 3.51 0 01-2.77 1.36 3.62 3.62 0 010-7.23 3.54 3.54 0 012.77 1.36.72.72 0 01-.26 1.11.77.77 0 01-.91-.25 2.05 2.05 0 00-1.6-.78 2.18 2.18 0 000 4.36zm10.28.07a3.51 3.51 0 01-2.77 1.36 3.62 3.62 0 010-7.23 3.54 3.54 0 012.77 1.36.72.72 0 01-.26 1.11.78.78 0 01-.92-.25 2 2 0 00-1.59-.78 2.18 2.18 0 000 4.36 2 2 0 001.59-.79.78.78 0 01.92-.24.71.71 0 01.26 1.1z\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"/></symbol><symbol id=\\\"plyr-enter-fullscreen\\\" viewBox=\\\"0 0 44 44\\\"><path fill=\\\"currentColor\\\" d=\\\"M19 14h-4a1 1 0 00-1 1v4a1 1 0 102 0v-3h3a1 1 0 100-2zm0 14h-3v-3a1 1 0 10-2 0v4a1 1 0 001 1h4a1 1 0 100-2zm10-4a1 1 0 00-1 1v3h-3a1 1 0 100 2h4a1 1 0 001-1v-4a1 1 0 00-1-1zm0-10h-4a1 1 0 100 2h3v3a1 1 0 102 0v-4a1 1 0 00-1-1z\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"/></symbol><symbol id=\\\"plyr-exit-fullscreen\\\" viewBox=\\\"0 0 44 44\\\"><g fill=\\\"currentColor\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"><path d=\\\"M25 20h4a1 1 0 100-2h-3v-3a1 1 0 10-2 0v4a1 1 0 001 1zM19 24h-4a1 1 0 100 2h3v3a1 1 0 102 0v-4a1 1 0 00-1-1zM29 24h-4a1 1 0 00-1 1v4a1 1 0 102 0v-3h3a1 1 0 100-2zM19 14a1 1 0 00-1 1v3h-3a1 1 0 100 2h4a1 1 0 001-1v-4a1 1 0 00-1-1z\\\"/></g></symbol><symbol id=\\\"plyr-fast-forward\\\" viewBox=\\\"0 0 44 44\\\"><path fill=\\\"currentColor\\\" d=\\\"M30.842 21.352a1.004 1.004 0 00-.132-.132l-8-6.69a1 1 0 00-1.59.77V20l-6.58-5.47a1 1 0 00-1.6.78V28.7a1 1 0 001.6.78L21.12 24v4.68a1 1 0 001.59.77l8-6.69a1 1 0 00.132-1.408z\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"/></symbol><symbol id=\\\"plyr-muted\\\" viewBox=\\\"0 0 44 44\\\"><path fill=\\\"currentColor\\\" d=\\\"M30.84 29.43l-2.15-2.15A8.78 8.78 0 0030.43 22a8.61 8.61 0 00-4.57-7.73.86.86 0 00-1.15.38.88.88 0 00.38 1.17A6.87 6.87 0 0128.73 22a7.06 7.06 0 01-1.27 4.06l-1.33-1.34a5.24 5.24 0 00-.94-6.58.83.83 0 00-1.2.07.88.88 0 00.07 1.22 3.49 3.49 0 01.81 4l-2.8-2.8v-4.71a.85.85 0 00-1.38-.68l-2.22 1.82-3.9-3.9a1 1 0 00-1.41 1.41l16.27 16.27a1 1 0 001.41-1.41zm-17.27-9.17v3.48a1.73 1.73 0 001.7 1.74h1.4l4 3.28a.85.85 0 001.38-.68v-1.79l-7.55-7.57c-.572.3-.93.894-.93 1.54z\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"/></symbol><symbol id=\\\"plyr-pause\\\" viewBox=\\\"0 0 44 44\\\"><path fill=\\\"currentColor\\\" d=\\\"M17.5 14a2 2 0 00-2 2v12a2 2 0 104 0V16a2 2 0 00-2-2zm9 0a2 2 0 00-2 2v12a2 2 0 104 0V16a2 2 0 00-2-2z\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"/></symbol><symbol id=\\\"plyr-pip\\\" viewBox=\\\"0 0 44 44\\\"><path fill=\\\"currentColor\\\" d=\\\"M27 23a1 1 0 00-1 1v4H16V18h4a1 1 0 100-2h-5a1 1 0 00-1 1v12a1 1 0 001 1h12a1 1 0 001-1v-5a1 1 0 00-1-1zm2.101-9a1.007 1.007 0 00-.211 0l-3.48.4a1 1 0 00-.59 1.7l.83.83-5.34 5.34a1 1 0 000 1.41 1 1 0 001.41 0l5.34-5.34.83.83a1 1 0 001.7-.59l.4-3.48a1 1 0 00-.889-1.1z\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"/></symbol><symbol id=\\\"plyr-play\\\" viewBox=\\\"0 0 43 44\\\"><path fill=\\\"currentColor\\\" d=\\\"M27.906 21.01a.998.998 0 00-.256-.24l-10.24-6.54a1 1 0 00-1.52.84v13.86a1 1 0 001.56.81l10.25-7.33a1 1 0 00.206-1.4z\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"/></symbol><symbol id=\\\"plyr-restart\\\" viewBox=\\\"0 0 44 44\\\"><path fill=\\\"currentColor\\\" d=\\\"M28.44 17.25l1-1a1 1 0 00-.6-1.7l-3.47-.4a1 1 0 00-1.11 1.11l.4 3.47a1 1 0 001.7.59l.68-.68A6 6 0 1121 16.05a1 1 0 00-.341-1.972l-.009.002A8 8 0 1030 22a7.87 7.87 0 00-1.56-4.75z\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"/></symbol><symbol id=\\\"plyr-rewind\\\" viewBox=\\\"0 0 44 44\\\"><path fill=\\\"currentColor\\\" d=\\\"M30.04 14.32a1 1 0 00-.58.2L22.88 20v-4.69a1 1 0 00-1.59-.77l-8 6.69a1 1 0 000 1.54l8 6.69a1 1 0 001.59-.77V24l6.58 5.47a1 1 0 001.6-.78V15.3a1 1 0 00-1.02-.98z\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"/></symbol><symbol id=\\\"plyr-settings\\\" viewBox=\\\"0 0 44 44\\\"><path fill=\\\"currentColor\\\" d=\\\"M29.14 20.78a2 2 0 01-1.24-3 1 1 0 00-.09-1.32l-.31-.31a1 1 0 00-1.31-.09 2 2 0 01-3-1.23 1 1 0 00-1-.87h-.44a1 1 0 00-1 .87 2 2 0 01-3 1.23 1 1 0 00-1.32.09l-.31.31a1 1 0 00-.09 1.32 2 2 0 01-1.23 3 1 1 0 00-.87 1v.44a1 1 0 00.87 1 2 2 0 011.23 3 1 1 0 00.09 1.31l.31.31a1 1 0 001.32.09 2 2 0 013 1.24 1 1 0 001 .86h.44a1 1 0 001-.86 2 2 0 013-1.24 1 1 0 001.31-.09l.31-.31a1 1 0 00.09-1.31 2 2 0 011.24-3 1 1 0 00.86-1v-.44a1 1 0 00-.86-1zM22 25a3 3 0 110-6 3 3 0 010 6z\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"/></symbol><symbol id=\\\"plyr-volume\\\" viewBox=\\\"0 0 44 44\\\"><path fill=\\\"currentColor\\\" d=\\\"M25.2 25.86A5.14 5.14 0 0026.89 22a5.14 5.14 0 00-1.7-3.86.83.83 0 00-1.2.07.88.88 0 00.07 1.22 3.49 3.49 0 010 5.14.88.88 0 00-.06 1.22.83.83 0 001.2.07zm-3.964-10.805a.85.85 0 00-.546.185l-4 3.28h-1.4a1.73 1.73 0 00-1.7 1.74v3.48a1.73 1.73 0 001.7 1.74h1.4l4 3.28a.85.85 0 001.38-.68V15.92a.85.85 0 00-.834-.865zm4.624-.785a.86.86 0 00-1.15.38.88.88 0 00.38 1.17A6.87 6.87 0 0128.73 22a6.87 6.87 0 01-3.64 6.18.88.88 0 00-.38 1.17.85.85 0 001.139.386l.011-.006A8.62 8.62 0 0030.43 22a8.61 8.61 0 00-4.57-7.73z\\\" stroke=\\\"inherit\\\" stroke-opacity=\\\".25\\\" stroke-width=\\\"8\\\"/></symbol></svg>\"}"
+        },
+        {
+          "name": "fp",
+          "value": "c3989cb60d8b40975e1a0c7e0832d889"
+        },
+        {
+          "name": "sytec_fp",
+          "value": "be9ba21718a9752c086b3c0928b7949c"
+        },
+        {
+          "name": "www.gthic.com/cly_id",
+          "value": "01b30ddc-540a-4b65-a860-9026f05c10e0"
+        },
+        {
+          "name": "root_domain[gthic.com]",
+          "value": "gthic.com"
+        },
+        {
+          "name": "id5id_privacy_exp",
+          "value": "Sun, 06 Dec 2026 22:28:34 GMT"
+        },
+        {
+          "name": "gthic/cly_id_type",
+          "value": "1"
+        },
+        {
+          "name": "gthic/cly_cookie_type",
+          "value": "1"
+        },
+        {
+          "name": "recentlyViewedProducts",
+          "value": "[6872026906789]"
+        },
+        {
+          "name": "transcy_tracking_location",
+          "value": "{\"value\":\"pk\",\"expire\":\"+029405-12-01T22:28:36.275Z\"}"
+        },
+        {
+          "name": "avadaGeoData",
+          "value": "{\"value\":{\"countryCode3\":\"PAK\",\"continentCode\":\"AS\",\"countryCode\":\"PK\",\"region\":\"\",\"ip\":\"202.47.43.137\"},\"expiry\":1794005909616}"
+        }
+      ]
+    }
+  ]
+}

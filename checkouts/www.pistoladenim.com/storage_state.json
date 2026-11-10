@@ -1,0 +1,85 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "www.pistoladenim.com",
+      "path": "/",
+      "expires": 1825795402.987491,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "www.pistoladenim.com",
+      "path": "/",
+      "expires": 1795469002.987713,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHCMT9TAAEAR5XaQQx4cQduICbFYj2Yk2P7tw0z31pMJm1qycqb5Hs3xupmkurovFKsH6DTal_jNd4BqZx01SX7dso:",
+      "domain": "www.pistoladenim.com",
+      "path": "/",
+      "expires": 1825795370.025835,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxggY0tFWAnujZDbnUyzD%3Fkey%3D95713b0c92395120b16fa0aa0a346ca3",
+      "domain": "www.pistoladenim.com",
+      "path": "/",
+      "expires": 1802121791.767686,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.ampS_PKSD_t_f_5A9D7Nm7TMWDOK76EzQPTA%23b2884391-40c6-434c-8734-ba1f3744fd55-1794259393",
+      "domain": ".pistoladenim.com",
+      "path": "/",
+      "expires": 1825817008.379854,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "7PCs.qKYZQkANYYfs.3x8wPBygQBDpHok9ljf8O3X7g-1794259408.2120566-1.0.1.1-g3fBg8Ss5.PvbM6alCND0CNLj3g1etkQTdezQ9C_w7pmFBQXgOv9ElydKckUdGsj7QaRDQPQH0danAIIce2gsNs2U634psTpdNR3yAE9LqsTmINL.sfsgTPHwjwoL8Ul",
+      "domain": ".www.pistoladenim.com",
+      "path": "/",
+      "expires": 1794261208.39419,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://pistoladenim.com",
+      "_crHasCrossSiteAncestor": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.pistoladenim.com",
+      "localStorage": [
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1794259402548"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxggY0tFWAnujZDbnUyzD\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxggY0tFWAnujZDbnUyzD\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxggY0tFWAnujZDbnUyzD\""
+        }
+      ]
+    }
+  ]
+}

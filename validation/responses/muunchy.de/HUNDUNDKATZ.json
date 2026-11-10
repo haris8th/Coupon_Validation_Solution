@@ -1,0 +1,1307 @@
+{
+  "errors": [
+    {
+      "message": "Variable `$merchandise` of type `MerchandiseTermInput` was provided invalid value for `merchandiseLines.0.lineComponents.0.merchandise.id` (Field `id` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.digest` (Field `digest` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.variantId` (Field `variantId` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.title` (Field `title` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.untranslatedTitle` (Field `untranslatedTitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.subtitle` (Field `subtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.untranslatedSubtitle` (Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.compareAtPrice` (Field `compareAtPrice` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.product` (Field `product` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.productUrl` (Field `productUrl` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.image` (Field `image` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.properties` (Field `properties` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.requiresShipping` (Field `requiresShipping` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.options` (Field `options` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.sellingPlan` (Field `sellingPlan` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.giftCard` (Field `giftCard` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.expectedTotalPrice` (Expected `MoneyConstraintInput!` value to not be `null`), `merchandiseLines.0.lineComponents.0.totalAmount` (Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.0.recurringTotal` (Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.0.lineAllocations` (Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.1.merchandise.id` (Field `id` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.digest` (Field `digest` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.variantId` (Field `variantId` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.title` (Field `title` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.untranslatedTitle` (Field `untranslatedTitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.subtitle` (Field `subtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.untranslatedSubtitle` (Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.compareAtPrice` (Field `compareAtPrice` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.product` (Field `product` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.productUrl` (Field `productUrl` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.image` (Field `image` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.properties` (Field `properties` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.requiresShipping` (Field `requiresShipping` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.options` (Field `options` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.sellingPlan` (Field `sellingPlan` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.giftCard` (Field `giftCard` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.expectedTotalPrice` (Expected `MoneyConstraintInput!` value to not be `null`), `merchandiseLines.0.lineComponents.1.totalAmount` (Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.1.recurringTotal` (Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.1.lineAllocations` (Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.2.merchandise.id` (Field `id` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.digest` (Field `digest` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.variantId` (Field `variantId` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.title` (Field `title` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.untranslatedTitle` (Field `untranslatedTitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.subtitle` (Field `subtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.untranslatedSubtitle` (Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.compareAtPrice` (Field `compareAtPrice` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.product` (Field `product` is not defined by type `MerchandiseInput`), Too many execution errors, max error limit reached. Results truncated",
+      "locations": [
+        {
+          "line": 1,
+          "column": 161
+        }
+      ],
+      "extensions": {
+        "code": "INVALID_VARIABLE",
+        "value": {
+          "merchandiseLines": [
+            {
+              "stableId": "18db04dd-487f-4129-a30f-3124d6c653e6",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/62009266864396",
+                  "variantId": "gid://shopify/ProductVariant/62009266864396",
+                  "properties": [],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "127.36",
+                  "currencyCode": "EUR"
+                }
+              },
+              "lineComponentsSource": "BUNDLES_STATIC_EXPAND",
+              "lineComponents": [
+                {
+                  "stableId": "be71440d-6d6a-5047-344f-e0c4ff0846ac",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/54507311268108",
+                    "digest": "7e2c0b92b8f54a013680f986143e380f",
+                    "variantId": "gid://shopify/ProductVariant/54507311268108",
+                    "title": "bosch Freshe Schnauze Nassfutter - Huhn mit Kürbis & Brokkoli",
+                    "untranslatedTitle": "bosch Freshe Schnauze Nassfutter - Huhn mit Kürbis & Brokkoli",
+                    "subtitle": "250g",
+                    "untranslatedSubtitle": "250g",
+                    "compareAtPrice": {
+                      "amount": "15.92",
+                      "currencyCode": "EUR"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/11688883093772",
+                      "vendor": "Bosch",
+                      "productType": "Nassfutter",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/bosch-freshe-schnauze-nassfutter-huhn-mit-kurbis-brokkoli-250g",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025225.jpg?v=1789396589",
+                      "one": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025225_64x64.jpg?v=1789396589",
+                      "two": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025225_128x128.jpg?v=1789396589",
+                      "four": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025225_256x256.jpg?v=1789396589"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Inhalt",
+                        "value": "250g"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "14.77",
+                      "currencyCode": "EUR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "a668af4295ab6475084134e6ef872861",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "3abcb224-5a00-26f1-2bb1-054e44ffeaf3",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/54507311300876",
+                    "digest": "a25bde67a66fc618bb33f56e68f78c74",
+                    "variantId": "gid://shopify/ProductVariant/54507311300876",
+                    "title": "bosch Freshe Schnauze Nassfutter - Huhn mit Reis & Karotten",
+                    "untranslatedTitle": "bosch Freshe Schnauze Nassfutter - Huhn mit Reis & Karotten",
+                    "subtitle": "250g",
+                    "untranslatedSubtitle": "250g",
+                    "compareAtPrice": {
+                      "amount": "15.92",
+                      "currencyCode": "EUR"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/11688883159308",
+                      "vendor": "Bosch",
+                      "productType": "Nassfutter",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/bosch-freshe-schnauze-nassfutter-huhn-mit-reis-karotten-250g",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025218.jpg?v=1789396598",
+                      "one": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025218_64x64.jpg?v=1789396598",
+                      "two": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025218_128x128.jpg?v=1789396598",
+                      "four": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025218_256x256.jpg?v=1789396598"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Inhalt",
+                        "value": "250g"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "14.77",
+                      "currencyCode": "EUR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "11cfc6fe342a2cfd26d596028390d2fc",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "896978a6-aa1e-b7e1-cf7c-619596385ea6",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/62009246613772",
+                    "digest": "f40fa0d733bde94cb9cd8b57ff3ff9f2",
+                    "variantId": "gid://shopify/ProductVariant/62009246613772",
+                    "title": "bosch Freshe Schnauze Nassfutter - Pute mit Quinoa & Spinat",
+                    "untranslatedTitle": "bosch Freshe Schnauze Nassfutter - Pute mit Quinoa & Spinat",
+                    "subtitle": "250g",
+                    "untranslatedSubtitle": "250g",
+                    "compareAtPrice": {
+                      "amount": "15.92",
+                      "currencyCode": "EUR"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/11688883192076",
+                      "vendor": "Bosch",
+                      "productType": "Nassfutter",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/bosch-freshe-schnauze-nassfutter-pute-mit-quinoa-spinat-250g",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025232.jpg?v=1789396607",
+                      "one": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025232_64x64.jpg?v=1789396607",
+                      "two": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025232_128x128.jpg?v=1789396607",
+                      "four": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025232_256x256.jpg?v=1789396607"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Inhalt",
+                        "value": "250g"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "14.76",
+                      "currencyCode": "EUR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "b407ee9666a5033a52b019473f771555",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "49302734-9401-e2b5-5936-702da868522f",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/62009246384396",
+                    "digest": "65b3a90eb8c86bc23b21fbb5ec2f0a2e",
+                    "variantId": "gid://shopify/ProductVariant/62009246384396",
+                    "title": "bosch Freshe Schnauze Nassfutter - Rind mit Hirse & Rote Bete",
+                    "untranslatedTitle": "bosch Freshe Schnauze Nassfutter - Rind mit Hirse & Rote Bete",
+                    "subtitle": "250g",
+                    "untranslatedSubtitle": "250g",
+                    "compareAtPrice": {
+                      "amount": "15.92",
+                      "currencyCode": "EUR"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/11688883257612",
+                      "vendor": "Bosch",
+                      "productType": "Nassfutter",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/bosch-freshe-schnauze-nassfutter-rind-mit-hirse-rote-bete-250g",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025201.jpg?v=1789396616",
+                      "one": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025201_64x64.jpg?v=1789396616",
+                      "two": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025201_128x128.jpg?v=1789396616",
+                      "four": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598025201_256x256.jpg?v=1789396616"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Inhalt",
+                        "value": "250g"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "14.77",
+                      "currencyCode": "EUR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "00c7b5677d2a8793e6d41ee791d34c6a",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "00a42bf4-222f-796b-e92b-c9567f0306a6",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/62009245663500",
+                    "digest": "757f88d52c82e2e30e454c305447e255",
+                    "variantId": "gid://shopify/ProductVariant/62009245663500",
+                    "title": "bosch Freshe Schnauze Topping - fruchtiger Obstgarten",
+                    "untranslatedTitle": "bosch Freshe Schnauze Topping - fruchtiger Obstgarten",
+                    "subtitle": "200g",
+                    "untranslatedSubtitle": "200g",
+                    "compareAtPrice": {
+                      "amount": "15.92",
+                      "currencyCode": "EUR"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/11688882897164",
+                      "vendor": "Bosch",
+                      "productType": "Nahrungsergänzung",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/bosch-freshe-schnauze-topping-fruchtiger-obstgarten-200g",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024662.jpg?v=1789396649",
+                      "one": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024662_64x64.jpg?v=1789396649",
+                      "two": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024662_128x128.jpg?v=1789396649",
+                      "four": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024662_256x256.jpg?v=1789396649"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Inhalt",
+                        "value": "200g"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "14.77",
+                      "currencyCode": "EUR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "bd1573f4429bec7160832a0ff2722074",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "a3b427a7-2d70-98b8-93a5-90721edb11d5",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/62009247301900",
+                    "digest": "51b8b698ca6cfbff2748802ed118ceff",
+                    "variantId": "gid://shopify/ProductVariant/62009247301900",
+                    "title": "bosch Freshe Schnauze Topping - knackig grünes Ackergemüse",
+                    "untranslatedTitle": "bosch Freshe Schnauze Topping - knackig grünes Ackergemüse",
+                    "subtitle": "200g",
+                    "untranslatedSubtitle": "200g",
+                    "compareAtPrice": {
+                      "amount": "15.92",
+                      "currencyCode": "EUR"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/11688883028236",
+                      "vendor": "Bosch",
+                      "productType": "Nahrungsergänzung",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/bosch-freshe-schnauze-topping-knackig-grunes-ackergemuse-200g",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024686.jpg?v=1789396658",
+                      "one": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024686_64x64.jpg?v=1789396658",
+                      "two": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024686_128x128.jpg?v=1789396658",
+                      "four": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024686_256x256.jpg?v=1789396658"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Inhalt",
+                        "value": "200g"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "14.76",
+                      "currencyCode": "EUR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "a1e3cc061028dae1940f2b6913170a07",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "867f9c27-bb43-3091-47ff-f53c00962791",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/62009248121100",
+                    "digest": "ed46d744865ceeefa00a32eb2b974d35",
+                    "variantId": "gid://shopify/ProductVariant/62009248121100",
+                    "title": "bosch Freshe Schnauze Topping - sonnig gelbes Ackergemüsechtiger Obstgarten",
+                    "untranslatedTitle": "bosch Freshe Schnauze Topping - sonnig gelbes Ackergemüsechtiger Obstgarten",
+                    "subtitle": "200g",
+                    "untranslatedSubtitle": "200g",
+                    "compareAtPrice": {
+                      "amount": "15.92",
+                      "currencyCode": "EUR"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/11688882995468",
+                      "vendor": "Bosch",
+                      "productType": "Nahrungsergänzung",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/bosch-freshe-schnauze-topping-sonnig-gelbes-ackergemusechtiger-obstgarten-200g",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024679.jpg?v=1789396667",
+                      "one": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024679_64x64.jpg?v=1789396667",
+                      "two": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024679_128x128.jpg?v=1789396667",
+                      "four": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024679_256x256.jpg?v=1789396667"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Inhalt",
+                        "value": "200g"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "14.76",
+                      "currencyCode": "EUR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "c5907c1d7c25642a9fef14d99d98a253",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "14.76",
+                        "currencyCode": "EUR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "550e8a5d-37c3-3dae-5014-654fdc5ab482",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/62009245958412",
+                    "digest": "a2ba0aa3468cc8129755eef4ce9fce54",
+                    "variantId": "gid://shopify/ProductVariant/62009245958412",
+                    "title": "bosch Freshe SchnauzeTopping - erdig rotes Ackergemüse",
+                    "untranslatedTitle": "bosch Freshe SchnauzeTopping - erdig rotes Ackergemüse",
+                    "subtitle": "200g",
+                    "untranslatedSubtitle": "200g",
+                    "compareAtPrice": {
+                      "amount": "15.92",
+                      "currencyCode": "EUR"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/11688883290380",
+                      "vendor": "Bosch",
+                      "productType": "Nahrungsergänzung",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/bosch-freshe-schnauzetopping-erdig-rotes-ackergemuse-200g",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024693.jpg?v=1789396676",
+                      "one": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024693_64x64.jpg?v=1789396676",
+                      "two": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024693_128x128.jpg?v=1789396676",
+                      "four": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/4015598024693_256x256.jpg?v=1789396676"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Inhalt",
+                        "value": "200g"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "14.77",
+                      "currencyCode": "EUR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "dfd25c7f00acdfa480dbf8ff7087962d",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "14.77",
+                        "currencyCode": "EUR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "1f8476a4-26b4-e515-02e4-2db888c873c5",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/54663244808460",
+                    "digest": "565cf3a4b9eb6bc9d00705ae89dccb0e",
+                    "variantId": "gid://shopify/ProductVariant/54663244808460",
+                    "title": "Bosch Schleckmatte",
+                    "untranslatedTitle": "Bosch Schleckmatte",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "compareAtPrice": {
+                      "amount": "9.95",
+                      "currencyCode": "EUR"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/11748133929228",
+                      "vendor": "Bosch",
+                      "productType": "",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/bosch-schleckmatte",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/bosch-schleckmatte-hunde.png?v=1770290736",
+                      "one": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/bosch-schleckmatte-hunde_64x64.png?v=1770290736",
+                      "two": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/bosch-schleckmatte-hunde_128x128.png?v=1770290736",
+                      "four": "https://cdn.shopify.com/s/files/1/0631/6113/9441/files/bosch-schleckmatte-hunde_256x256.png?v=1770290736"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "9.23",
+                      "currencyCode": "EUR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "4e6784f1de7a0badc65cb13671b99900",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "9.23",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "9.23",
+                        "currencyCode": "EUR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "9.23",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "9.23",
+                        "currencyCode": "EUR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "9.23",
+                        "currencyCode": "EUR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "problems": [
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "id"
+            ],
+            "explanation": "Field `id` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "digest"
+            ],
+            "explanation": "Field `digest` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "variantId"
+            ],
+            "explanation": "Field `variantId` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "title"
+            ],
+            "explanation": "Field `title` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "untranslatedTitle"
+            ],
+            "explanation": "Field `untranslatedTitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "subtitle"
+            ],
+            "explanation": "Field `subtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "untranslatedSubtitle"
+            ],
+            "explanation": "Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "compareAtPrice"
+            ],
+            "explanation": "Field `compareAtPrice` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "product"
+            ],
+            "explanation": "Field `product` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "productUrl"
+            ],
+            "explanation": "Field `productUrl` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "image"
+            ],
+            "explanation": "Field `image` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "properties"
+            ],
+            "explanation": "Field `properties` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "requiresShipping"
+            ],
+            "explanation": "Field `requiresShipping` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "options"
+            ],
+            "explanation": "Field `options` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "sellingPlan"
+            ],
+            "explanation": "Field `sellingPlan` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "giftCard"
+            ],
+            "explanation": "Field `giftCard` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "expectedTotalPrice"
+            ],
+            "explanation": "Expected `MoneyConstraintInput!` value to not be `null`"
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "totalAmount"
+            ],
+            "explanation": "Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "recurringTotal"
+            ],
+            "explanation": "Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "lineAllocations"
+            ],
+            "explanation": "Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "id"
+            ],
+            "explanation": "Field `id` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "digest"
+            ],
+            "explanation": "Field `digest` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "variantId"
+            ],
+            "explanation": "Field `variantId` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "title"
+            ],
+            "explanation": "Field `title` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "untranslatedTitle"
+            ],
+            "explanation": "Field `untranslatedTitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "subtitle"
+            ],
+            "explanation": "Field `subtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "untranslatedSubtitle"
+            ],
+            "explanation": "Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "compareAtPrice"
+            ],
+            "explanation": "Field `compareAtPrice` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "product"
+            ],
+            "explanation": "Field `product` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "productUrl"
+            ],
+            "explanation": "Field `productUrl` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "image"
+            ],
+            "explanation": "Field `image` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "properties"
+            ],
+            "explanation": "Field `properties` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "requiresShipping"
+            ],
+            "explanation": "Field `requiresShipping` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "options"
+            ],
+            "explanation": "Field `options` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "sellingPlan"
+            ],
+            "explanation": "Field `sellingPlan` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "giftCard"
+            ],
+            "explanation": "Field `giftCard` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "expectedTotalPrice"
+            ],
+            "explanation": "Expected `MoneyConstraintInput!` value to not be `null`"
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "totalAmount"
+            ],
+            "explanation": "Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "recurringTotal"
+            ],
+            "explanation": "Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "lineAllocations"
+            ],
+            "explanation": "Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "id"
+            ],
+            "explanation": "Field `id` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "digest"
+            ],
+            "explanation": "Field `digest` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "variantId"
+            ],
+            "explanation": "Field `variantId` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "title"
+            ],
+            "explanation": "Field `title` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "untranslatedTitle"
+            ],
+            "explanation": "Field `untranslatedTitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "subtitle"
+            ],
+            "explanation": "Field `subtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "untranslatedSubtitle"
+            ],
+            "explanation": "Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "compareAtPrice"
+            ],
+            "explanation": "Field `compareAtPrice` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "product"
+            ],
+            "explanation": "Field `product` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [],
+            "explanation": "Too many execution errors, max error limit reached. Results truncated"
+          }
+        ]
+      }
+    }
+  ]
+}

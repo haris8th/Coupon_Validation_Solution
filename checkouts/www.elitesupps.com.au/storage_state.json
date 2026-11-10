@@ -1,0 +1,557 @@
+{
+  "cookies": [
+    {
+      "name": "coveo_shopify_config",
+      "value": "{\"accessToken\":\"eyJhbGciOiJIUzI1NiJ9.eyJ2OCI6dHJ1ZSwidG9rZW5JZCI6InE0a2M0anJka242bnBnbmliZjZtNHBzbWttIiwib3JnYW5pemF0aW9uIjoiZWxpdGVzdXBwc3Byb2R1Y3Rpb24xNWZ5MTJ6ZW0iLCJ1c2VySWRzIjpbeyJ0eXBlIjoiVXNlciIsIm5hbWUiOiJhbm9ueW1vdXMiLCJwcm92aWRlciI6IkVtYWlsIFNlY3VyaXR5IFByb3ZpZGVyIn1dLCJyb2xlcyI6WyJxdWVyeUV4ZWN1dG9yIl0sImlzcyI6IlNlYXJjaEFwaSIsImV4cCI6MTc5NDA4NDM0NywiaWF0IjoxNzkzOTk3OTQ3fQ.W8HtAImp5LRydXet2oUAxPhD3dyScwxSkSPG4YP0pN8\",\"organizationId\":\"elitesuppsproduction15fy12zem\",\"trackingId\":\"market_124780678\",\"clientId\":\"65dfefa6-b410-41ec-abad-812e0bee9a5e\"}",
+      "domain": "www.elitesupps.com.au",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Protectionstatus",
+      "value": "true",
+      "domain": "www.elitesupps.com.au",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGynCX-AAEAXZd67GDzewTHbEgWgBtWhlgcHOkvXD-cm1yhN44mlzxtVRUlYBNKiZHTOMN0bp7Sez7i6tYuLlgYrHQ:",
+      "domain": "elitesupps.com.au",
+      "path": "/",
+      "expires": 1825533938.100207,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "localization",
+      "value": "PK",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1825533945.950399,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cart_currency",
+      "value": "AUD",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1801860352.785986,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGynCc2AAEAqOSEgmLFOSWDEwHVo9l5dvcW1KpV1MI_ahv6q69OQDlkfkL8qZBPDxnK3bAUqJgIece7sqrnh19ImYo:",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1825533938.607415,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGynCgNAAEAEaasteKHkDtjH6UIoIKVT30-aLmLb9hgCwl9aHtIHWg65tUDbRxI6Ea945CmZHWlJ42q-7WN6SMWaTo:",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1825533938.6075,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGynCgNAAEADtmis0v26sWGrVE-0WtjFGX3nddjPsLt8dBILts0v2ahp6rr06MSdYBmvzwqC2XB6jTrB1YrfkZgBbI:",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1825533938.607601,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ig-location",
+      "value": "{\"country\":\"PK\",\"city\":\"Karachi\",\"continent\":\"AS\",\"latitude\":\"24.86\",\"longitude\":\"67.01\",\"region\":\"Sindh\",\"regionCode\":\"SD\"}",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1794001540.174399,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ig-id",
+      "value": "ig_7c40b2f903671b401bedafc165b663a6ddcc",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1825533940,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-fv",
+      "value": "1793997940197",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1825533943,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-vars",
+      "value": "{%226f89f7537d1a%22:%22e9fe2628c11a%22%2C%2227d710395bd6%22:%229b4c27b893e7%22%2C%222e6f4334fea9%22:%221038e2df0049%22%2C%226e53863a1071%22:%229bf11a565f2f%22%2C%2240bb4c344add%22:%22102c9b03ca49%22%2C%221848176d387e%22:%22088562b464f2%22%2C%22ae2c07fe9f7f%22:%22342a218acc0a%22%2C%22d166cf83eba5%22:%22c67780f50f5f%22%2C%22f76a7586855f%22:%228c3152497d2f%22%2C%22305efe6361d4%22:%223616d1880f73%22%2C%228bc0d72b10a0%22:%22fe01b1195806%22%2C%223d7720cf9987%22:%2214cd00a1d3de%22%2C%223b384c07ff37%22:%22a71f1f711eae%22%2C%22504654fc6f73%22:%22eb017697b6b8%22%2C%22redirectedFrom%22:%22%22}",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1825533943,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "loop_cid_5d662eed-f980-4c90-ac53-7118eff057dd",
+      "value": "c0871feb-a4b9-4df0-8d9a-9ec3ae8d6dea",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1825533946,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "5d662eed-f980-4c90-ac53-7118eff057dd",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1825530341,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "loop_sid_c0871feb-a4b9-4df0-8d9a-9ec3ae8d6dea",
+      "value": "1",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1793999746,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "loop_pvhb_5d662eed-f980-4c90-ac53-7118eff057dd",
+      "value": "1",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1793999744,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://www.elitesupps.com.au",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1796589943,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-pv",
+      "value": "2",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1825533943,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1796589944,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IR_gbd",
+      "value": "elitesupps.com.au",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU0ySmxOakZqTVdZdE0yRTJPQzAwTWpsaExUZzFZbUl0WldKak5tWmhaakE1T0RVeQ",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1825530343,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1183560381.1793997945.-.-.1793997945.2061616050.1793997945.1793997945",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1801773945,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIqZ9Al9cxEFcvYlcrG2fz%3Fkey%3D94add5775d56b6fb0ceef860a31e4e21",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1801860352.785843,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IR_19362",
+      "value": "1793997945402%7C0%7C1793997945402%7C%7C",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IR_PI",
+      "value": "0b3d8e23-da23-11f1-b29e-3584fd3bcf06%7C1794084345452",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1825533945,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.857199135.1793997949",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1828557948.668681,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "value": "FPID2.3.hII22RGf8Da515gH4Zqktyv06VBzeqD2Ig7Wri9fKXM%3D.1793997949",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1828557971.034109,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPAU",
+      "value": "1.1.1183560381.1793997945",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1801773942.910737,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "value": "3mz71NnebKklwO%2FGkzk2kIjUjcQCIOYsjwykSFuJX1TZJjXxplcLkOoa12DqiqfdH%2B9tDHfpoe%2FP5KJZfAyIRfcn3Ho4oapbBF0HM184LuvVFiiZiAoZH5NpHEbTNg%3D%3D",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1794069950.053591,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPGSID",
+      "value": "1.1793997952.1793997952.G-JH566SH361.vRvAGbglVf0e5KkB0LJ0zw",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1793999750.053708,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "forterToken",
+      "value": "9c19b0a2b0514c71b8f847805e005100_1793997944698__UDF43-m4_30ck_",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1828557950,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_Nf9Pr-JnQH-3YBMx*pVDqQ%237a595c99-7f8e-4145-ab76-b78b298669fd-1793997943",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1825555573.745261,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rp_customer_id",
+      "value": "",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1793997985,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rp_email",
+      "value": "",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1793997985,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rp_firstName",
+      "value": "",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1793997985,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rp_lastName",
+      "value": "",
+      "domain": "www.elitesupps.com.au",
+      "path": "/",
+      "expires": 1793997985,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rp_fk",
+      "value": "",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rpdid",
+      "value": "7432e560-f7ff-46c6-95aa-bc77bd54a295",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1828557953.635531,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rpsid",
+      "value": "29f64899-58e9-44fd-beba-52ebad0b0fad",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1794019553,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rptkn",
+      "value": "elitesupps5665",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1828557953.638877,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_JH566SH361",
+      "value": "GS2.1.s1793997948$o1$g1$t1793997969$j39$l0$h1761873353",
+      "domain": ".elitesupps.com.au",
+      "path": "/",
+      "expires": 1828557969.788662,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.elitesupps.com.au",
+      "localStorage": [
+        {
+          "name": "protein-ice-cream-mix",
+          "value": "{\"id\":7551434129542,\"title\":\"Protein Ice Cream Mix\",\"handle\":\"protein-ice-cream-mix\",\"description\":\"GYM BOD\u2019s Protein Ice Cream Mix is the perfect alternative to your regular protein shakes, especially when you\u2019re craving something cold, creamy, and sweet. Packed with 51g protein per serve and only 363 calories, it\u2019s a macro-friendly ice cream that helps you hit your health and fitness goals. Simply scoop one cup of ice cream mix into your compatible ice cream machine, add one cup of water and enjoy a tasty, no-nonsense ice cream treat. You can even save one serve for another time by keeping it in your freezer, like regular ice cream.\",\"published_at\":\"2026-11-04T11:22:39+11:00\",\"created_at\":\"2026-03-02T16:17:16+11:00\",\"vendor\":\"GYM BOD\",\"type\":\"simple\",\"tags\":[\"exclude-from-cc\",\"feature:made in australia\",\"flavour:honeycomb\",\"flavour:Vanilla\",\"form:powder\",\"functional food\",\"functional foods\",\"gender:unisex\",\"new-product\",\"pos-bars-drinks\",\"protein\",\"protein ice cream mix\",\"protein sale\",\"protein snacks\",\"sale section\",\"serving size:7 serves\",\"shop by goal:muscle gain\"],\"price\":4090,\"price_min\":4090,\"price_max\":4090,\"available\":true,\"price_varies\":false,\"compare_at_price\":5090,\"compare_at_price_min\":5090,\"compare_at_price_max\":5090,\"compare_at_price_varies\":false,\"variants\":[{\"id\":43349631074438,\"title\":\"7 Serves / Honeycomb\",\"option1\":\"7 Serves\",\"option2\":\"Honeycomb\",\"option3\":null,\"sku\":\"GYM-BOD-PRO-ICE-CRM-770g-Hnycmb\",\"requires_shipping\":true,\"taxable\":true,\"featured_image\":{\"id\":37365169488006,\"product_id\":7551434129542,\"position\":1,\"created_at\":\"2026-03-02T16:18:55+11:00\",\"updated_at\":\"2026-11-04T11:44:45+11:00\",\"alt\":\"Protein Ice Cream Mix GYM BOD Protein snacks\",\"width\":1024,\"height\":1024,\"src\":\"//www.elitesupps.com.au/cdn/shop/files/GYM-BOD-Protein-Ice-Cream-Mix-7-Serves-Honeycomb-Elite-Supps.png?v=1793753085\",\"variant_ids\":[43349631074438]},\"available\":true,\"name\":\"Protein Ice Cream Mix - 7 Serves / Honeycomb\",\"public_title\":\"7 Serves / Honeycomb\",\"options\":[\"7 Serves\",\"Honeycomb\"],\"price\":4090,\"weight\":800,\"compare_at_price\":5090,\"inventory_quantity\":96,\"inventory_management\":\"shopify\",\"inventory_policy\":\"deny\",\"barcode\":\"9356421001227\",\"featured_media\":{\"alt\":\"Protein Ice Cream Mix GYM BOD Protein snacks\",\"id\":29174195847302,\"position\":1,\"preview_image\":{\"aspect_ratio\":1,\"height\":1024,\"width\":1024,\"src\":\"//www.elitesupps.com.au/cdn/shop/files/GYM-BOD-Protein-Ice-Cream-Mix-7-Serves-Honeycomb-Elite-Supps.png?v=1793753085\"}},\"requires_selling_plan\":false,\"selling_plan_allocations\":[],\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1}},{\"id\":43349631107206,\"title\":\"7 Serves / Vanilla\",\"option1\":\"7 Serves\",\"option2\":\"Vanilla\",\"option3\":null,\"sku\":\"GYM-BOD-PRO-ICE-CRM-770g-Van\",\"requires_shipping\":true,\"taxable\":true,\"featured_image\":{\"id\":37365169520774,\"product_id\":7551434129542,\"position\":2,\"created_at\":\"2026-03-02T16:18:55+11:00\",\"updated_at\":\"2026-11-04T11:44:45+11:00\",\"alt\":\"Protein Ice Cream Mix & Protein Ice Cream Mix GYM BOD Protein snacks 7 Serves Vanilla\",\"width\":1024,\"height\":1024,\"src\":\"//www.elitesupps.com.au/cdn/shop/files/GYM-BOD-Protein-Ice-Cream-Mix-7-Serves-Vanilla-Elite-Supps.png?v=1793753085\",\"variant_ids\":[43349631107206]},\"available\":true,\"name\":\"Protein Ice Cream Mix - 7 Serves / Vanilla\",\"public_title\":\"7 Serves / Vanilla\",\"options\":[\"7 Serves\",\"Vanilla\"],\"price\":4090,\"weight\":800,\"compare_at_price\":5090,\"inventory_quantity\":55,\"inventory_management\":\"shopify\",\"inventory_policy\":\"deny\",\"barcode\":\"9356421001203\",\"featured_media\":{\"alt\":\"Protein Ice Cream Mix & Protein Ice Cream Mix GYM BOD Protein snacks 7 Serves Vanilla\",\"id\":29174195880070,\"position\":2,\"preview_image\":{\"aspect_ratio\":1,\"height\":1024,\"width\":1024,\"src\":\"//www.elitesupps.com.au/cdn/shop/files/GYM-BOD-Protein-Ice-Cream-Mix-7-Serves-Vanilla-Elite-Supps.png?v=1793753085\"}},\"requires_selling_plan\":false,\"selling_plan_allocations\":[],\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1}}],\"images\":[\"//www.elitesupps.com.au/cdn/shop/files/GYM-BOD-Protein-Ice-Cream-Mix-7-Serves-Honeycomb-Elite-Supps.png?v=1793753085\",\"//www.elitesupps.com.au/cdn/shop/files/GYM-BOD-Protein-Ice-Cream-Mix-7-Serves-Vanilla-Elite-Supps.png?v=1793753085\"],\"featured_image\":\"//www.elitesupps.com.au/cdn/shop/files/GYM-BOD-Protein-Ice-Cream-Mix-7-Serves-Honeycomb-Elite-Supps.png?v=1793753085\",\"options\":[\"Size\",\"Flavor\"],\"media\":[{\"alt\":\"Protein Ice Cream Mix GYM BOD Protein snacks\",\"id\":29174195847302,\"position\":1,\"preview_image\":{\"aspect_ratio\":1,\"height\":1024,\"width\":1024,\"src\":\"//www.elitesupps.com.au/cdn/shop/files/GYM-BOD-Protein-Ice-Cream-Mix-7-Serves-Honeycomb-Elite-Supps.png?v=1793753085\"},\"aspect_ratio\":1,\"height\":1024,\"media_type\":\"image\",\"src\":\"//www.elitesupps.com.au/cdn/shop/files/GYM-BOD-Protein-Ice-Cream-Mix-7-Serves-Honeycomb-Elite-Supps.png?v=1793753085\",\"width\":1024},{\"alt\":\"Protein Ice Cream Mix & Protein Ice Cream Mix GYM BOD Protein snacks 7 Serves Vanilla\",\"id\":29174195880070,\"position\":2,\"preview_image\":{\"aspect_ratio\":1,\"height\":1024,\"width\":1024,\"src\":\"//www.elitesupps.com.au/cdn/shop/files/GYM-BOD-Protein-Ice-Cream-Mix-7-Serves-Vanilla-Elite-Supps.png?v=1793753085\"},\"aspect_ratio\":1,\"height\":1024,\"media_type\":\"image\",\"src\":\"//www.elitesupps.com.au/cdn/shop/files/GYM-BOD-Protein-Ice-Cream-Mix-7-Serves-Vanilla-Elite-Supps.png?v=1793753085\",\"width\":1024}],\"requires_selling_plan\":false,\"selling_plan_groups\":[],\"content\":\"GYM BOD\u2019s Protein Ice Cream Mix is the perfect alternative to your regular protein shakes, especially when you\u2019re craving something cold, creamy, and sweet. Packed with 51g protein per serve and only 363 calories, it\u2019s a macro-friendly ice cream that helps you hit your health and fitness goals. Simply scoop one cup of ice cream mix into your compatible ice cream machine, add one cup of water and enjoy a tasty, no-nonsense ice cream treat. You can even save one serve for another time by keeping it in your freezer, like regular ice cream.\"}"
+        },
+        {
+          "name": "u_sclid",
+          "value": "vcAGaxUp8OunrB3bLrXLzrfUwvTU83YmbiQgc1sp_fxyfLhMSpc6EIE57Awa83M3"
+        },
+        {
+          "name": "ig-fv",
+          "value": "1793997940197"
+        },
+        {
+          "name": "tempSession",
+          "value": "{\"behtempid\":\"hfFLEAOzLbQH99iCDSEOv4vRMBzhbZ\",\"creationDate\":\"2026-11-06T20:46:09.856Z\",\"behpageid\":1,\"firstRecEvent\":false}"
+        },
+        {
+          "name": "__$intcm",
+          "value": "{\"emptyBuffersSent\":2,\"totalBuffersSent\":3,\"firstRecordedAt\":1793997959222}"
+        },
+        {
+          "name": "visitorId",
+          "value": "65dfefa6-b410-41ec-abad-812e0bee9a5e"
+        },
+        {
+          "name": "f3b83c8e592aef14c2204ee437d40785",
+          "value": "001500r508748s8o17p4150o2n0o91p9"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1793997940910"
+        },
+        {
+          "name": "a7f3c9e2b18d4056",
+          "value": "{\"v\":1,\"t\":\"001500r508748s8o17p4150o2n0o91p9\",\"d\":false,\"f\":3}"
+        },
+        {
+          "name": "Instant_platformCartId",
+          "value": "hWNIqZ9Al9cxEFcvYlcrG2fz?key=94add5775d56b6fb0ceef860a31e4e21"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":3,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1793997969773},\"expires\":1801773969773},\"gsid_dc\":{\"value\":{\"joinId\":\"FJVdSsWLJny6c1UAoIHLIf-qMLMcJChoAg\",\"lastJoinedTimeMs\":1793997944968},\"expires\":1793998244968},\"gtg_load_status\":{\"status\":3,\"expires\":1794084345391}}"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU0ySmxOakZqTVdZdE0yRTJPQzAwTWpsaExUZzFZbUl0WldKak5tWmhaakE1T0RVeQ\",\"expires\":\"2027-11-06T19:45:43.681Z\"}"
+        },
+        {
+          "name": "Instant_FirstPartyBrowserId",
+          "value": "38dadaef-b602-46e6-8eaa-951fd693943b"
+        },
+        {
+          "name": "coveo_shopify_config",
+          "value": "{\"accessToken\":\"eyJhbGciOiJIUzI1NiJ9.eyJ2OCI6dHJ1ZSwidG9rZW5JZCI6InE0a2M0anJka242bnBnbmliZjZtNHBzbWttIiwib3JnYW5pemF0aW9uIjoiZWxpdGVzdXBwc3Byb2R1Y3Rpb24xNWZ5MTJ6ZW0iLCJ1c2VySWRzIjpbeyJ0eXBlIjoiVXNlciIsIm5hbWUiOiJhbm9ueW1vdXMiLCJwcm92aWRlciI6IkVtYWlsIFNlY3VyaXR5IFByb3ZpZGVyIn1dLCJyb2xlcyI6WyJxdWVyeUV4ZWN1dG9yIl0sImlzcyI6IlNlYXJjaEFwaSIsImV4cCI6MTc5NDA4NDM0NywiaWF0IjoxNzkzOTk3OTQ3fQ.W8HtAImp5LRydXet2oUAxPhD3dyScwxSkSPG4YP0pN8\",\"organizationId\":\"elitesuppsproduction15fy12zem\",\"trackingId\":\"market_124780678\",\"clientId\":\"65dfefa6-b410-41ec-abad-812e0bee9a5e\"}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIqZ9Al9cxEFcvYlcrG2fz\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIqZ9Al9cxEFcvYlcrG2fz\",\"customerProfileId\":null,\"countryCode\":\"PK\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "forterToken",
+          "value": "9c19b0a2b0514c71b8f847805e005100,1793997950177"
+        },
+        {
+          "name": "Instant_session",
+          "value": "{\"sessionId\":\"site_b4UgmBrOK461ZHi71vW02feQ|9e700c27-81dc-4bc4-8c31-3eaaf0bdcbb6\",\"lastInteractionTimestamp\":1793997952549,\"klaviyoLatestClosedForm\":\"\"}"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-06T20:45:45.510Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-b29c4d10-DCB7-4E76-FD22-63E21A7BE12A\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"elitesupps.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-b29c4d10-DCB7-4E76-FD22-63E21A7BE12A\",\"event_date_time\":\"2026-11-06T20:45:45.510Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"5d662eed-f980-4c90-ac53-7118eff057dd\",\"page_url\":\"https://www.elitesupps.com.au/products/protein-ice-cream-mix\",\"currency\":\"AUD\",\"product\":{\"product_id\":\"7551434129542\",\"product_title\":\"Protein Ice Cream Mix\",\"variant_id\":\"43349631074438\",\"variant_title\":\"7 Serves / Honeycomb\",\"quantity\":1,\"variant_price\":40.9,\"product_vendor\":\"GYM BOD\"}}}}}]"
+        },
+        {
+          "name": "ftr__gf",
+          "value": "{\"et\":1793997948746,\"us\":\"\\u0002Ois:V<\\u001fPI\\u001e\\\\sZ\\u0002LP\\u001b\\u0014vam\\rdH\\u000e\\f\\b\\rjeV\"}"
+        },
+        {
+          "name": "rpVisitedPages",
+          "value": "[{\"path\":\"https://www.elitesupps.com.au/products/protein-ice-cream-mix\",\"title\":\"GYM BOD Protein Ice Cream Mix | Elite Supps\",\"visitedAt\":\"2026-11-06T20:45:53.646Z\"}]"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIqZ9Al9cxEFcvYlcrG2fz\""
+        },
+        {
+          "name": "pst",
+          "value": "1793997950335"
+        },
+        {
+          "name": "rpUnknownVisit",
+          "value": "1"
+        },
+        {
+          "name": "coveo-recent-queries",
+          "value": "[]"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://www.elitesupps.com.au/products/protein-ice-cream-mix\",\"exp\":1796589944006}"
+        },
+        {
+          "name": "ig-vars",
+          "value": "{\"6f89f7537d1a\":\"e9fe2628c11a\",\"27d710395bd6\":\"9b4c27b893e7\",\"2e6f4334fea9\":\"1038e2df0049\",\"6e53863a1071\":\"9bf11a565f2f\",\"40bb4c344add\":\"102c9b03ca49\",\"1848176d387e\":\"088562b464f2\",\"ae2c07fe9f7f\":\"342a218acc0a\",\"d166cf83eba5\":\"c67780f50f5f\",\"f76a7586855f\":\"8c3152497d2f\",\"305efe6361d4\":\"3616d1880f73\",\"8bc0d72b10a0\":\"fe01b1195806\",\"3d7720cf9987\":\"14cd00a1d3de\",\"3b384c07ff37\":\"a71f1f711eae\",\"504654fc6f73\":\"eb017697b6b8\",\"redirectedFrom\":\"\"}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "7551434129542-categories",
+          "value": "\"Protein Powder,Vanilla Flavoured Protein Powder,Protein Snacks,Health & Vitamins,Functional Foods,\""
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "vcAGaxUp8OunrB3bLrXLzrfUwvTU83YmbiQgc1sp_fxyfLhMSpc6EIE57Awa83M3"
+        },
+        {
+          "name": "__$intc",
+          "value": "{\"startTime\":1793997969238,\"lastPersistTime\":1793997969238,\"counts\":{},\"nonTrustedLog\":[],\"keyboardLog\":[]}"
+        },
+        {
+          "name": "ig-id",
+          "value": "ig_7c40b2f903671b401bedafc165b663a6ddcc"
+        },
+        {
+          "name": "ftr__prdy",
+          "value": "{\"et\":1793997948747,\"us\":\"\\u0002Ois:V<\\u001fPI\\u001e\\\\sZ\\u0002LP\\u001b\\u0014vam\\rdH\\u000e\\f\\b\\rjeV\"}"
+        },
+        {
+          "name": "bhm_user",
+          "value": "{\"userID\":\"XTe1OCKIDMw3NHJHpXv3\",\"sessionID\":\"nTCEsJYy4SQurMBHuLjIuoaWVZqaD1Mq\",\"guest\":true,\"globalControl\":true,\"cart\":[{\"id\":\"43349631074438\",\"productID\":\"7551434129542\",\"name\":\"Protein Ice Cream Mix\",\"amount\":1,\"price\":40.9,\"formerPrice\":40.9,\"currency\":\"AUD\",\"color\":\"\",\"category\":\"simple\",\"imgUrl\":\"https://cdn.shopify.com/s/files/1/1851/4671/files/GYM-BOD-Protein-Ice-Cream-Mix-7-Serves-Honeycomb-Elite-Supps.png?v=1793753085\",\"size\":\"7 Serves\",\"sizeName\":\"7 Serves\",\"url\":\"https://www.elitesupps.com.au/products/protein-ice-cream-mix?variant=43349631074438\",\"superID\":\"mj0tKxccfdypbfFgC6MRuXbrDjhLwUHb\"}]}"
+        },
+        {
+          "name": "psc",
+          "value": "4"
+        }
+      ]
+    }
+  ]
+}

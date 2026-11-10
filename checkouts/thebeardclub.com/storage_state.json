@@ -1,0 +1,641 @@
+{
+  "cookies": [
+    {
+      "name": "wm_cv",
+      "value": "1.0.8",
+      "domain": ".thebeardclub.com",
+      "path": "/products",
+      "expires": 1825691711,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wm_frt",
+      "value": "2026-11-08T16:34:41.626Z",
+      "domain": ".thebeardclub.com",
+      "path": "/products",
+      "expires": 1825691712,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1825691722.630204,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1802018122.63072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG8Awq9AAEApyhf2CUiHPjdmBkLCr3Zd8RqJ0xTglU8Ys1AVwAOP1diSTStEW8VCwrGnc8Xm9XGQ8L_1tGYYp1z5vU:",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1825691678.186959,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaG8AwrZAAEAMrpRITO6OMTxHHPcmR-VQvNK_R0aI6Cs1YDIFC3MxYkOuxg9EeroIBhfNQenzah9-6B0nvrteL2fv3s:",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1825691678.187139,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaG8AwraAAEAFW0OLbd0xNiydXW_JJGnBQm6rD1t_PgjIjfHEI0cm_N3c-6YtTR-oOxZKydStUjwsQiYW_sly3Ec8fk:",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1825691678.1873,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-location",
+      "value": "{\"country\":\"PK\",\"city\":\"Karachi\",\"continent\":\"AS\",\"latitude\":\"24.86\",\"longitude\":\"67.01\",\"region\":\"Sindh\",\"regionCode\":\"SD\"}",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1794159280.653079,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ig-id",
+      "value": "ig_6677d45c5c85f2b7736c5756eccce5e1716b",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1825691680,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-fv",
+      "value": "1794155680686",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1825691708,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-vars",
+      "value": "{%227aac2a627af3%22:%2283cb916f1801%22%2C%22f8feb3d30194%22:%22bdf2c95faf9c%22%2C%22b553faf7768c%22:%22940c70b6748b%22%2C%22061b50353bcb%22:%22052c6b40d863%22%2C%22fe9e3c3659a8%22:%22148d4808defc%22%2C%22db426e36a3ac%22:%220321c7a179a6%22%2C%22733af245fd36%22:%22_UNASSIGNED%22%2C%22e2fa164ff0e9%22:%22e8827ccdfdb0%22%2C%220b5cfc820875%22:%222adae160e1d9%22%2C%22redirectedFrom%22:%22%22}",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1825691708,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_li_dcdm_c",
+      "value": ".thebeardclub.com",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi",
+      "value": "1af2ad7cd107--01m6y065cs5r29msk3vhg4wcpt",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1828715681.178832,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi_js",
+      "value": "1af2ad7cd107--01m6y065cs5r29msk3vhg4wcpt",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1794155681368.4748997210",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1801931681,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ugc_vid_d941c6a2-1a12-4152-b015-8fed92001dcd",
+      "value": "d3947e26-aaba-4913-a1ad-957f5075543e",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1825691681,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://thebeardclub.com",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1796747711,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "aae104d3-9c5e-4f3f-b292-83f88b0b8e14",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1825691681,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wm_cv",
+      "value": "1.0.8",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1825691681,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wm_frt",
+      "value": "2026-11-08T16:34:41.626Z",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1825691681,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__pp_sid",
+      "value": "STI3pHlAYoBYOpdM_mw81yvxd",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1794157511,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__pp_pid",
+      "value": "2QblCCtogTRoZ3ZA_mw81yvv0",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1828715712.152062,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "rstr_d",
+      "value": "{\"rcid\":\"d01aa2e7-8b2a-4cd1-868a-2889faf51734\"}",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1796729711,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shd_s",
+      "value": "9a8fc794-fdc4-434c-90da-c242c84f9f33",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1794157511.358975,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shd_y",
+      "value": "aae104d3-9c5e-4f3f-b292-83f88b0b8e14",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1825259711.3626,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIurXj2XfXP5r8aJ1NNoKB%3Fkey%3Dfbddedf4f797f20ecf686e44340b460c",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1802018122.630453,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "none",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1796747685,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_li_ss",
+      "value": "CgA",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1828715711.434917,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-pv",
+      "value": "4",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1825691708,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rp_customer_id",
+      "value": "",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1794155744,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rp_email",
+      "value": "",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1794155744,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rp_firstName",
+      "value": "",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1794155744,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rp_lastName",
+      "value": "",
+      "domain": "thebeardclub.com",
+      "path": "/",
+      "expires": 1794155744,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rp_fk",
+      "value": "",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rpdid",
+      "value": "8a9eda20-b932-4a11-8ff9-c181509561f1",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1828715712.607214,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rpsid",
+      "value": "97d2a6c3-5dcf-4d42-91b1-1d289e00c107",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1794177312,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rptkn",
+      "value": "thebeardclub9472",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1828715712.611093,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_Elevar-apex",
+      "value": "[1%2C%22AqzSj0zZSXw7Ya0sZuFz5%22%2C%221794155681%22%2C%221%22%2C%221794155715%22%2C{}%2C[]%2C%22{%5C%22_fbp%5C%22:%5C%22fb.1.1794155681368.4748997210%5C%22}%22%2C0]",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1825691715,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ps_session",
+      "value": "qtk2XxefVoasWZjJRbNKi",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1794242117,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ps_session_site_visit",
+      "value": "%7B%22sessionId%22%3A%22b29c622e-7c5e-40f0-8e88-ae5ba3aad285%22%2C%22startTime%22%3A1794155717080%7D",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1828715717,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ps_site_visit",
+      "value": "true",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1828715717,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shdfp",
+      "value": "eyJub25jZSI6MTc5NDE1NTcxNzcxNiwiY3JlYXRlZEF0IjoxNzk0MTU1NzE3NjMxLCJpc1ByaXZhdGUiOmZhbHNlLCJpc0JvdCI6ZmFsc2UsInVwZGF0ZWRBdCI6MH0%3D",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1825691717.716285,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_kUGHL5O4RwiU2Vt5XVcMdw%23b822fb68-c379-4959-a79d-7e3b6dd5716e-1794155708",
+      "domain": ".thebeardclub.com",
+      "path": "/",
+      "expires": 1825713322.629828,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://thebeardclub.com",
+      "localStorage": [
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionCount",
+          "value": "1"
+        },
+        {
+          "name": "ps_acorn_storefront_pixel_contract_v1",
+          "value": "{\"version\":1,\"writerVersion\":\"2026-08-28.1\",\"privacyPurpose\":\"marketing\"}"
+        },
+        {
+          "name": "ig-fv",
+          "value": "1794155680686"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "AqzSj0zZSXw7Ya0sZuFz5"
+        },
+        {
+          "name": "_pxSessionStart",
+          "value": "1794155685033"
+        },
+        {
+          "name": "_pxPageVisited",
+          "value": "{\"rQ9V3\":[\"/products/starter-beard-growth-kit\",\"/products/advanced-beard-growth-kit-for-men\",\"/products/ultimate-beard-growth-kit-for-men\"]}"
+        },
+        {
+          "name": "alia-jwt",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsYXN0VXNlcklEIjo5MzUxMDA0MDI3LCJpYXQiOjE3OTQxNTU3MTJ9.vKx891sVVeAzo-ambDbsoETk5stHSL1lWFpH6Hk52ws"
+        },
+        {
+          "name": "ps_session_activity",
+          "value": "{\"sessionId\":\"b29c622e-7c5e-40f0-8e88-ae5ba3aad285\",\"sessionStartTime\":\"2026-11-08T16:35:17.080Z\",\"pageEvents\":[{\"event\":{\"url\":\"https://thebeardclub.com/\",\"page_type\":\"page\",\"referrer\":\"\",\"shop_id\":\"560523\",\"search_params\":null},\"type\":\"page_view\",\"timestamp\":\"2026-11-08T16:34:39.754Z\"},{\"event\":{\"url\":\"https://thebeardclub.com/products/starter-beard-growth-kit\",\"page_type\":\"page\",\"referrer\":\"\",\"shop_id\":\"560523\",\"search_params\":null},\"type\":\"page_view\",\"timestamp\":\"2026-11-08T16:34:43.716Z\"},{\"event\":{\"url\":\"https://thebeardclub.com/products/starter-beard-growth-kit\",\"page_type\":\"product\",\"referrer\":\"\",\"shop_id\":\"560523\",\"search_params\":null,\"resource\":{\"resource_id\":\"7224317182055\",\"variant_id\":\"41244299853927\",\"variant_title\":\"Default Title\",\"product_title\":\"Starter Beard Growth Kit\",\"name\":\"Starter Beard Growth Kit - Default Title\",\"price_in_cents\":6500,\"sku\":\"KIT-GMGRW-01-02\",\"vendor\":\"The Beard Club\",\"category\":\"Kit\",\"resource_type\":\"product\"}},\"type\":\"page_view\",\"timestamp\":\"2026-11-08T16:34:43.723Z\"},{\"event\":{\"url\":\"https://thebeardclub.com/products/advanced-beard-growth-kit-for-men\",\"page_type\":\"page\",\"referrer\":\"\",\"shop_id\":\"560523\",\"search_params\":null},\"type\":\"page_view\",\"timestamp\":\"2026-11-08T16:34:56.386Z\"},{\"event\":{\"url\":\"https://thebeardclub.com/products/advanced-beard-growth-kit-for-men\",\"page_type\":\"product\",\"referrer\":\"\",\"shop_id\":\"560523\",\"search_params\":null,\"resource\":{\"resource_id\":\"7224319443047\",\"variant_id\":\"41244310896743\",\"variant_title\":\"Default Title\",\"product_title\":\"Advanced Beard Growth Kit\",\"name\":\"Advanced Beard Growth Kit - Default Title\",\"price_in_cents\":7925,\"sku\":\"KIT-GMGRW-02-02\",\"vendor\":\"The Beard Club\",\"category\":\"Kit\",\"resource_type\":\"product\"}},\"type\":\"page_view\",\"timestamp\":\"2026-11-08T16:34:56.393Z\"},{\"event\":{\"url\":\"https://thebeardclub.com/products/ultimate-beard-growth-kit-for-men\",\"page_type\":\"page\",\"referrer\":\"\",\"shop_id\":\"560523\",\"search_params\":null},\"type\":\"page_view\",\"timestamp\":\"2026-11-08T16:35:09.978Z\"},{\"event\":{\"url\":\"https://thebeardclub.com/products/ultimate-beard-growth-kit-for-men\",\"page_type\":\"product\",\"referrer\":\"\",\"shop_id\":\"560523\",\"search_params\":null,\"resource\":{\"resource_id\":\"7225136316519\",\"variant_id\":\"41246044684391\",\"variant_title\":\"Default Title\",\"product_title\":\"Ultimate Beard Growth Kit\",\"name\":\"Ultimate Beard Growth Kit - Default Title\",\"price_in_cents\":9150,\"sku\":\"KIT-GMGRW-03-03\",\"vendor\":\"The Beard Club\",\"category\":\"Kit\",\"resource_type\":\"product\"}},\"type\":\"page_view\",\"timestamp\":\"2026-11-08T16:35:09.984Z\"}],\"popupEvents\":[],\"seedValues\":{\"aiDataCollection\":0.5958481748352099,\"networkRecognitionSessionData\":0.5698788659533748}}"
+        },
+        {
+          "name": "_shdls",
+          "value": "eyJub25jZSI6MTc5NDE1NTcxNzcxNiwiY3JlYXRlZEF0IjoxNzk0MTU1NzE3NjMxLCJpc1ByaXZhdGUiOmZhbHNlLCJpc0JvdCI6ZmFsc2UsInVwZGF0ZWRBdCI6MH0%3D"
+        },
+        {
+          "name": "alia-user-actions",
+          "value": "[{\"merchantID\":8642,\"flowID\":404202,\"segmentID\":52645,\"type\":\"popupStep\",\"data\":{\"type\":\"popupStep\",\"stepID\":\"ce7ae809-9af6-498a-8b65-892d701e22ed\",\"stepIndex\":0,\"isFloatingButton\":false,\"reason\":{\"type\":\"trigger\",\"triggerType\":\"basic\",\"triggerID\":\"1b1b7852-c1ef-45ea-b98c-793169a5c4b3\"}},\"createdAt\":\"2026-11-08T16:35:20.743Z\",\"id\":12925837528,\"userID\":9351004027}]"
+        },
+        {
+          "name": "rokt_mp_das",
+          "value": "49125d73-f984-4d13-9570-81a6b35e7e4e"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageUrl",
+          "value": "https://thebeardclub.com/"
+        },
+        {
+          "name": "alia-test",
+          "value": "test"
+        },
+        {
+          "name": "_li_duid",
+          "value": "1af2ad7cd107--01m6y065cs5r29msk3vhg4wcpt"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIurXj2XfXP5r8aJ1NNoKB\"},{\"postPurchaseInquiryStatus\":\"disabled\"}]]"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--params",
+          "value": "{\"user_id\":\"AqzSj0zZSXw7Ya0sZuFz5\",\"session_id\":\"1794155681\",\"session_count\":\"1\",\"session_landing_page_url\":\"https://thebeardclub.com/\",\"session_landing_page_title\":\"The Beard Club | Men's Grooming & Beard Products\"}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionId",
+          "value": "1794155681"
+        },
+        {
+          "name": "rpVisitedPages",
+          "value": "[{\"path\":\"https://thebeardclub.com/products/ultimate-beard-growth-kit-for-men\",\"title\":\"Ultimate Beard Growth Kit | The Beard Club\",\"visitedAt\":\"2026-11-08T16:35:14.702Z\"}]"
+        },
+        {
+          "name": "swell-test-item",
+          "value": "true"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--lastDlPushTimestamp",
+          "value": "1794155715"
+        },
+        {
+          "name": "alia-storage-since",
+          "value": "1794155698696"
+        },
+        {
+          "name": "shd_cart",
+          "value": "{\"id\":\"gid://shopify/Cart/hWNIurXj2XfXP5r8aJ1NNoKB?key=fbddedf4f797f20ecf686e44340b460c\",\"totalQuantity\":0,\"checkoutUrl\":\"https://thebeardclub.com/cart/c/hWNIurXj2XfXP5r8aJ1NNoKB?key=ilvsn74S5ZZ_Tfn-4buTo3TseRbnxH07STHBqnWE9r3nOxG0SJ54lU1eO6RXJLvKX7LKWDRORipTKw_EZIbeQYj4LzvUpKB28oQ4OX5fphTVHs4q9U7MK2jGbA1ED9RNH-n2c9qn5NneZfP9yexnBA%3D%3D\",\"lines\":[],\"attributes\":[{\"key\":\"_digioh_attr\",\"value\":\"none\"},{\"key\":\"igId\",\"value\":\"ig_6677d45c5c85f2b7736c5756eccce5e1716b\"},{\"key\":\"igTestGroups\",\"value\":\"83cb916f1801,940c70b6748b,052c6b40d863\"}],\"cost\":{\"totalAmount\":{\"amount\":\"0.0\",\"currencyCode\":\"USD\"},\"subtotalAmount\":{\"amount\":\"0.0\",\"currencyCode\":\"USD\"},\"totalTaxAmount\":null,\"totalDutyAmount\":null}}"
+        },
+        {
+          "name": "_li_ss",
+          "value": "CgA"
+        },
+        {
+          "name": "ps_network_recognition_returning_reveal",
+          "value": "{\"factId\":\"efa10ffe-5905-517b-80a4-891810c61ea8\",\"expiresAt\":1794242117099}"
+        },
+        {
+          "name": "rpUnknownVisit",
+          "value": "1"
+        },
+        {
+          "name": "user-flow-v2-8552155008",
+          "value": "{\"state\":{\"_version\":1,\"steps\":[{\"step\":\"popup\",\"popupStepID\":\"ce7ae809-9af6-498a-8b65-892d701e22ed\",\"floatingButton\":false,\"timestamp\":1794155719143}]},\"updatedAt\":\"2026-11-08T16:35:19.143Z\"}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIurXj2XfXP5r8aJ1NNoKB\""
+        },
+        {
+          "name": "dgdr",
+          "value": "{\"env_ver\":\"digioh-1.0\",\"value\":\"N4Ig5gpg9iBcoGMoFcB2AXATgTwPqoEMBbCOEABQIGsBLAZ3QNRABoRMIwapVckATUrBABlACKsQCGumxkA0gUwEEACxqT0NErgBePISACCdGgQD0i5Wo1skGGqggZ8xQybOSANjy7pkgnAAbEEAdACc4QAcAMxsXgRa.oGwAEwALKFRAKzhAIx2KBg4fFApFPKSujQADgKGAOzpQQAMLZK1ZKktqaHpDX0xoXkxDZIcXDyuJGQijvyqkvZaTi71ZEYiIAC-bPwEZAg1ACQtAHoARroAVAgAfhdE1xfI16oAPgByACoABHktUItACk.AuzwAjs8vNdMA8qNcwA8wLdXvw7vwELdMM9VNcaHcEFiCIT-Lc8QQAGZ3Aj8d5iCB0KjoKA1YEEJEXdEXdDXanoO7IQkQZ53IjvEZ5IHSkGod4AYVUmCgJGBAHcHjRbqhrvwUTVMNolNgRFBKeg1UoIN9sDUIO8AELKtV0CCYYEXAi3CGnM4ECAYvEIBFeQkAD1uWoDFzo1xqGNjBHBEIxZJUDyx.Ep1wIqgeNWuADdCTCAFYYnV0Qng.hQggki44mpKLQELwASUEDkpNAQiW4Ov4Xl9ukdXkcVGB2HeAHV5lAXf8QYJ3rhJHRkETGXQ4FhkBA2MpUPw4P0oqkgg02Ogd7A8g1wuk8tlskFz8-YtsgA__\",\"expires\":1794159282155}"
+        },
+        {
+          "name": "alia-popup-ground",
+          "value": "{\"lastTriggerTime\":1794155719143}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageTitle",
+          "value": "The Beard Club | Men's Grooming & Beard Products"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://thebeardclub.com/\",\"exp\":1796747681619}"
+        },
+        {
+          "name": "ig-vars",
+          "value": "{\"7aac2a627af3\":\"83cb916f1801\",\"f8feb3d30194\":\"bdf2c95faf9c\",\"b553faf7768c\":\"940c70b6748b\",\"061b50353bcb\":\"052c6b40d863\",\"fe9e3c3659a8\":\"148d4808defc\",\"db426e36a3ac\":\"0321c7a179a6\",\"733af245fd36\":\"_UNASSIGNED\",\"e2fa164ff0e9\":\"e8827ccdfdb0\",\"0b5cfc820875\":\"2adae160e1d9\",\"redirectedFrom\":\"\"}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "ps_acorn_storefront_pixel_ready_v1",
+          "value": "1"
+        },
+        {
+          "name": "_digioh_attr",
+          "value": "none"
+        },
+        {
+          "name": "alia-user-8642",
+          "value": "{\"user\":{\"id\":9351004027,\"profile\":{\"properties\":{},\"prismMap\":{},\"history\":[[\"https://thebeardclub.com/products/ultimate-beard-growth-kit-for-men\"]]}}}"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794414881492"
+        },
+        {
+          "name": "_pxPixelSent",
+          "value": "{\"rQ9V3\":{\"\":{\"pixelSent\":true,\"sentAt\":1794155711723}}}"
+        },
+        {
+          "name": "alia-tracking-allowed-the-beard-club-official.myshopify.com",
+          "value": "true"
+        },
+        {
+          "name": "ps_network_recognition_observation",
+          "value": "{\"factId\":\"a06d69a5-4422-57e5-9ea8-f7e3422c30c1\",\"occurredAt\":\"2026-11-08T16:35:17.094Z\",\"attempts\":1,\"done\":true,\"expiresAt\":1794242117094}"
+        },
+        {
+          "name": "ps_network_recognition_adoption",
+          "value": "{\"sessionId\":\"qtk2XxefVoasWZjJRbNKi\",\"attempted\":true,\"expiresAt\":1794242117100}"
+        },
+        {
+          "name": "alia-consent-the-beard-club-official.myshopify.com",
+          "value": "{\"required\":false,\"source\":\"shopify\",\"regions\":{\"mode\":\"shopify\",\"countries\":[]}}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cookies",
+          "value": "{\"_fbp\":\"fb.1.1794155681368.4748997210\"}"
+        },
+        {
+          "name": "delivery_promise_default_address",
+          "value": "{\"zip\":\"74600\",\"timezone\":\"Asia/Karachi\"}"
+        },
+        {
+          "name": "reservedTimerEndTime",
+          "value": "1794155860"
+        },
+        {
+          "name": "xdibx",
+          "value": "N4Ig-mBGAeDGCuAnRIBcoAOGAuBnNAjAOwCcALAQKyVEEAMAHAEx0A0IGAbrAHbZpl2ufKmLkqlAGzNGDdl1y9-qQSERIANmhAh2GzdoD0ukBryFSFatJYM5HA6gDaIY-0MZEAewAm8WHiGuNgAhojYAKaIALSQEWE-0QDm3gDu2AAW0QDWAJb87p6-.oEhPpwhPLARiXEJyWmZOfnRAGZeMQC2ETwmHt5-AbiG8Ga5nSGRsfGIiSle6Vl52G0d0d29ALoAvuwQMJ4RnGigPiEAniJOYlZSMiR0O3tQ0Ec95ui74C-wuT7alB8rSIEQIPgI0SIsAAzJJomRKAQGLFJLAQtEIpQItCkbAmEwIq1YNEbhJpAQSERKCBtkA"
+        },
+        {
+          "name": "alia-cart",
+          "value": "{\"token\":\"hWNIurXj2XfXP5r8aJ1NNoKB?key=fbddedf4f797f20ecf686e44340b460c\",\"note\":\"\",\"attributes\":{\"_digioh_attr\":\"none\",\"igId\":\"ig_6677d45c5c85f2b7736c5756eccce5e1716b\",\"igTestGroups\":\"83cb916f1801,940c70b6748b,052c6b40d863\"},\"original_total_price\":0,\"total_price\":0,\"total_discount\":0,\"total_weight\":0,\"item_count\":0,\"items\":[],\"requires_shipping\":false,\"currency\":\"USD\",\"items_subtotal_price\":0,\"cart_level_discount_applications\":[],\"discount_codes\":[]}"
+        },
+        {
+          "name": "ig-id",
+          "value": "ig_6677d45c5c85f2b7736c5756eccce5e1716b"
+        },
+        {
+          "name": "rstr_d",
+          "value": "{\"rcid\":\"d01aa2e7-8b2a-4cd1-868a-2889faf51734\"}"
+        },
+        {
+          "name": "tpau_events",
+          "value": "[{\"event\":\"Digioh: Viewed Product\",\"timestamp\":\"2026-11-08T16:34:45.168Z\",\"data\":{\"price\":{\"amount\":65,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Starter Beard Growth Kit\",\"vendor\":\"The Beard Club\",\"id\":\"7224317182055\",\"untranslatedTitle\":\"Starter Beard Growth Kit\",\"url\":\"/products/starter-beard-growth-kit\",\"type\":\"Kit\"},\"id\":\"41244299853927\",\"image\":{\"src\":\"//thebeardclub.com/cdn/shop/files/beard-growth-kit-derma-roller-activation-oil-serum-gummies.webp?v=1786087717\"},\"sku\":\"KIT-GMGRW-01-02\",\"title\":\"Default Title\",\"untranslatedTitle\":\"Default Title\"}},{\"event\":\"Digioh: Viewed Product\",\"timestamp\":\"2026-11-08T16:34:57.409Z\",\"data\":{\"price\":{\"amount\":79.25,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Advanced Beard Growth Kit\",\"vendor\":\"The Beard Club\",\"id\":\"7224319443047\",\"untranslatedTitle\":\"Advanced Beard Growth Kit\",\"url\":\"/products/advanced-beard-growth-kit-for-men\",\"type\":\"Kit\"},\"id\":\"41244310896743\",\"image\":{\"src\":\"//thebeardclub.com/cdn/shop/files/advanced-beard-growth-kit-derma-roller-butter-oil-serum-gummies-brush.webp?v=1786088632\"},\"sku\":\"KIT-GMGRW-02-02\",\"title\":\"Default Title\",\"untranslatedTitle\":\"Default Title\"}},{\"event\":\"Digioh: Viewed Product\",\"timestamp\":\"2026-11-08T16:35:11.303Z\",\"data\":{\"price\":{\"amount\":91.5,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Ultimate Beard Growth Kit\",\"vendor\":\"The Beard Club\",\"id\":\"7225136316519\",\"untranslatedTitle\":\"Ultimate Beard Growth Kit\",\"url\":\"/products/ultimate-beard-growth-kit-for-men\",\"type\":\"Kit\"},\"id\":\"41246044684391\",\"image\":{\"src\":\"//thebeardclub.com/cdn/shop/files/ultimate-beard-growth-kit-derma-roller-trimmer-scissors-brush-comb-vitamins.webp?v=1786089223\"},\"sku\":\"KIT-GMGRW-03-03\",\"title\":\"Default Title\",\"untranslatedTitle\":\"Default Title\"}}]"
+        }
+      ]
+    }
+  ]
+}

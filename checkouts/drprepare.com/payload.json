@@ -1,0 +1,112 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEB0bqONdoi2-5OkXbos7E1BZe4hu87f6GLlw4ljGb4WCrmjeIA3ZD9IP8S3W6vDbWmmikgMdBarBuSxGEktxfQTsg5LZwiSTi6tH8EjmfTvT7rZuycOTMG75j_zCC34-2KHfFocBs6jAoFjqAl5M9tuT6gBMUItQKKJwLC0W2zUmrLXVzZPzW2QtHr27UHwozfSwAbXGS6x-kvt190bPCDHZe37nZBrWU"
+    },
+    "queueToken": "A5h7aOZ10z9lDAauEO1v3FyqLLcRTsBgUcZisnJOZddmQGGaltrvXmYyOBkm1h8zngtPUcVi-trXyfwdoOz58BB66MjQKhcg4H0F4-C9_U9q7IYUcivJL2eCBy92njNXKw==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "77cf0797-0925-4f81-a013-9082620825b6",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/50541419298985",
+              "variantId": "gid://shopify/ProductVariant/50541419298985",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "59.99",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": "BUNDLES_DYNAMIC_EXPAND",
+          "lineComponents": [
+            {
+              "stableId": "c2528ad0-66f9-ccad-d1e8-8bd47999bebd",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/47291970977961",
+                "digest": "216527121d10f944248485977be26f06",
+                "variantId": "gid://shopify/ProductVariant/47291970977961",
+                "title": "Invalid Variant from Blockify (DO NOT DELETE)",
+                "untranslatedTitle": "Invalid Variant from Blockify (DO NOT DELETE)",
+                "subtitle": "Test 1",
+                "untranslatedSubtitle": "Test 1",
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/9003841159337",
+                  "vendor": "Dr.Prepare",
+                  "productType": "",
+                  "disclosures": []
+                },
+                "productUrl": "/products/invalid-variant-from-blockify-do-not-delete",
+                "image": null,
+                "properties": [],
+                "requiresShipping": true,
+                "options": [
+                  {
+                    "name": "Option test",
+                    "value": "Test 1"
+                  }
+                ],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "59.99",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "934903e85d5a1ef5fd84c16f5c804720",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "59.99",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "59.99",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "59.99",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "59.99",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "59.99",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

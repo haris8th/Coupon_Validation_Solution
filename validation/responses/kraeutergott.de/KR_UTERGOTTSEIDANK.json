@@ -1,0 +1,697 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "checkpointData": null,
+          "configurationRecordId": "gid://shopify/CheckoutProfile/720240906",
+          "renderContextToken": null,
+          "queueToken": "A1GbK8uY057Ywy_kioVvWWcJkCvQe0kTPHiSVunH5vV_g97tSb7hLmOxtC_7J5Wnc6jLCkk9e2-9Z7a1dF7A7s-XTD_R7JB1jleiZJdQrMaphnUP-p5_SUXcdg3iJQVGqjXI8Kt_R4E=",
+          "buyerProposal": {
+            "merchandiseDiscount": {
+              "lines": [
+                {
+                  "discount": {
+                    "code": "KRÄUTERGOTTSEIDANK",
+                    "__typename": "DiscountCodeTrigger"
+                  },
+                  "__typename": "DiscountLine"
+                }
+              ],
+              "__typename": "FilledDiscountTerms"
+            },
+            "deliveryDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "2070fc52-5294-4d59-af7b-23bd66b63d3f",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/53516177965322",
+                    "digest": "a316f06ab5c816603d72b89dac0f2b63",
+                    "variantId": "gid://shopify/ProductVariant/53516177965322",
+                    "title": "KräuterGott Probier Abo",
+                    "untranslatedTitle": "KräuterGott Probier Abo",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/10592477184266",
+                      "vendor": "KräuterGott",
+                      "productType": "Sets",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/probier-abo",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/1121/3640/files/Kraeutergott_Probierab_Hola_Espana_64b5ae8e-4a43-449b-9272-c2f8c19713f0.jpg?v=1786692006",
+                      "one": "https://cdn.shopify.com/s/files/1/1121/3640/files/Kraeutergott_Probierab_Hola_Espana_64b5ae8e-4a43-449b-9272-c2f8c19713f0_64x64.jpg?v=1786692006",
+                      "two": "https://cdn.shopify.com/s/files/1/1121/3640/files/Kraeutergott_Probierab_Hola_Espana_64b5ae8e-4a43-449b-9272-c2f8c19713f0_128x128.jpg?v=1786692006",
+                      "four": "https://cdn.shopify.com/s/files/1/1121/3640/files/Kraeutergott_Probierab_Hola_Espana_64b5ae8e-4a43-449b-9272-c2f8c19713f0_256x256.jpg?v=1786692006",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": {
+                      "name": "KräuterGott Probier Abo - delivered every month",
+                      "id": "gid://shopify/SellingPlan/6246596874",
+                      "digest": "8ca69976e0254106caec1998c7d90853",
+                      "deliveriesPerBillingCycle": 1,
+                      "prepaid": false,
+                      "allowStoreCredit": false,
+                      "subscriptionDetails": {
+                        "billingInterval": "MONTH",
+                        "billingIntervalCount": 1,
+                        "billingMaxCycles": null,
+                        "deliveryInterval": "MONTH",
+                        "deliveryIntervalCount": 1,
+                        "__typename": "SellingPlanSubscriptionDetails"
+                      },
+                      "__typename": "SellingPlan"
+                    },
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "1300.0",
+                      "currencyCode": "PKR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "cde366f1fe88acfbfd1a0ce2a9630b01",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "1300.0",
+                        "currencyCode": "PKR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "1300.0",
+                        "currencyCode": "PKR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "1300.0",
+                        "currencyCode": "PKR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "1300.0",
+                        "currencyCode": "PKR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "1300.0",
+                        "currencyCode": "PKR",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "__typename": "Proposal"
+          },
+          "sellerProposal": {
+            "merchandiseDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "cartMetafields": null,
+            "customFields": [],
+            "deliveryDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "fee": {
+              "__typename": "FilledFeeTerms",
+              "totalFeeAmount": {
+                "__typename": "MoneyValueConstraint",
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "EUR",
+                  "__typename": "Money"
+                }
+              },
+              "feeLines": []
+            },
+            "__typename": "Proposal",
+            "deliveryExpectations": {
+              "__typename": "UnavailableTerms"
+            },
+            "promiseProgram": {
+              "variantPromises": [],
+              "__typename": "PromiseProgram"
+            },
+            "memberships": {
+              "__typename": "FilledMembershipTerms",
+              "memberships": []
+            },
+            "availableRedeemables": {
+              "availableRedeemables": [],
+              "__typename": "AvailableRedeemables"
+            },
+            "shopCashBalance": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopPromotion": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopDiscountOffer": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "availableDeliveryAddresses": [],
+            "mustSelectProvidedAddress": false,
+            "mustSelectProvidedShippingRate": false,
+            "canUpdateDiscountCodes": true,
+            "canUpdateDeliveryAddress": true,
+            "canUpdateMerchandise": true,
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "deliveryMethods": {
+              "__typename": "UnavailableTerms"
+            },
+            "sellability": {
+              "shipping": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "2070fc52-5294-4d59-af7b-23bd66b63d3f",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "local": [],
+              "pickUp": [],
+              "pickupPoint": [],
+              "none": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "2070fc52-5294-4d59-af7b-23bd66b63d3f",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "__typename": "FilledSellability"
+            },
+            "payment": {
+              "__typename": "UnavailableTerms"
+            },
+            "poNumber": null,
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "2070fc52-5294-4d59-af7b-23bd66b63d3f",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/53516177965322",
+                    "digest": "a316f06ab5c816603d72b89dac0f2b63",
+                    "variantId": "gid://shopify/ProductVariant/53516177965322",
+                    "title": "KräuterGott Probier Abo",
+                    "untranslatedTitle": "KräuterGott Probier Abo",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "sku": null,
+                    "price": {
+                      "amount": "3.99",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": {
+                      "amount": "3.99",
+                      "currencyCode": "EUR",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/10592477184266",
+                      "vendor": "KräuterGott",
+                      "productType": "Sets",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/probier-abo",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/1121/3640/files/Kraeutergott_Probierab_Hola_Espana_64b5ae8e-4a43-449b-9272-c2f8c19713f0.jpg?v=1786692006",
+                      "one": "https://cdn.shopify.com/s/files/1/1121/3640/files/Kraeutergott_Probierab_Hola_Espana_64b5ae8e-4a43-449b-9272-c2f8c19713f0_64x64.jpg?v=1786692006",
+                      "two": "https://cdn.shopify.com/s/files/1/1121/3640/files/Kraeutergott_Probierab_Hola_Espana_64b5ae8e-4a43-449b-9272-c2f8c19713f0_128x128.jpg?v=1786692006",
+                      "four": "https://cdn.shopify.com/s/files/1/1121/3640/files/Kraeutergott_Probierab_Hola_Espana_64b5ae8e-4a43-449b-9272-c2f8c19713f0_256x256.jpg?v=1786692006",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": {
+                      "name": "KräuterGott Probier Abo - delivered every month",
+                      "id": "gid://shopify/SellingPlan/6246596874",
+                      "digest": "8ca69976e0254106caec1998c7d90853",
+                      "deliveriesPerBillingCycle": 1,
+                      "prepaid": false,
+                      "allowStoreCredit": false,
+                      "subscriptionDetails": {
+                        "billingInterval": "MONTH",
+                        "billingIntervalCount": 1,
+                        "billingMaxCycles": null,
+                        "deliveryInterval": "MONTH",
+                        "deliveryIntervalCount": 1,
+                        "__typename": "SellingPlanSubscriptionDetails"
+                      },
+                      "__typename": "SellingPlan"
+                    },
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "3.99",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": {
+                    "title": "KräuterGott Probier Abo",
+                    "interval": "MONTH",
+                    "intervalCount": 1,
+                    "recurringPrice": {
+                      "amount": "3.99",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "fixedPrice": null,
+                    "fixedPriceCount": null,
+                    "__typename": "SubscriptionRecurringTotal"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "cde366f1fe88acfbfd1a0ce2a9630b01",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "3.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "3.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "3.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "3.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "3.99",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "note": {
+              "customAttributes": [],
+              "message": null,
+              "__typename": "Note"
+            },
+            "scriptFingerprint": null,
+            "transformerFingerprintV2": null,
+            "buyerIdentity": {
+              "shopUser": null,
+              "customer": {
+                "presentmentCurrency": null,
+                "countryCode": null,
+                "market": {
+                  "id": "gid://shopify/Market/443121813",
+                  "handle": "de",
+                  "__typename": "Market"
+                },
+                "shippingAddresses": [],
+                "__typename": "GuestProfile"
+              },
+              "purchasingCompany": null,
+              "phone": null,
+              "email": null,
+              "marketingConsent": [],
+              "shopPayOptInPhone": null,
+              "rememberMe": false,
+              "__typename": "FilledBuyerIdentityTerms"
+            },
+            "checkoutCompletionTarget": "ORDER",
+            "recurringTotals": [
+              {
+                "title": "KräuterGott Probier Abo",
+                "interval": "MONTH",
+                "intervalCount": 1,
+                "recurringPrice": {
+                  "amount": "3.99",
+                  "currencyCode": "EUR",
+                  "__typename": "Money"
+                },
+                "fixedPrice": null,
+                "fixedPriceCount": null,
+                "__typename": "SubscriptionRecurringTotal"
+              }
+            ],
+            "subtotalBeforeTaxesAndShipping": {
+              "value": {
+                "amount": "3.99",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacySubtotalBeforeTaxesShippingAndFees": {
+              "value": {
+                "amount": "3.99",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacyAggregatedMerchandiseTermsAsFees": [],
+            "legacyRepresentProductsAsFees": false,
+            "totalSavings": {
+              "value": {
+                "amount": "0.0",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "runningTotal": {
+              "value": {
+                "amount": "3.99",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "total": {
+              "__typename": "AnyConstraint"
+            },
+            "checkoutTotalBeforeTaxesAndShipping": null,
+            "checkoutTotalTaxes": null,
+            "checkoutTotal": {
+              "__typename": "AnyConstraint"
+            },
+            "deferredTotal": null,
+            "hasOnlyDeferredShipping": false,
+            "subtotalBeforeReductions": {
+              "value": {
+                "amount": "3.99",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "subtotalAfterMerchandiseDiscounts": {
+              "value": {
+                "amount": "3.99",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "duty": {
+              "totalDutyAmount": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAdditionalFeesAmount": null,
+              "__typename": "FilledDutyTerms"
+            },
+            "tax": {
+              "liability": null,
+              "taxBreakdown": null,
+              "totalTaxAmount": null,
+              "totalTaxAmountRange": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAmountIncludedInTarget": {
+                "value": {
+                  "amount": "0.26",
+                  "currencyCode": "EUR",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "__typename": "FilledTaxTerms"
+            },
+            "taxExemptions": {
+              "available": [],
+              "__typename": "FilledTaxExemptionTerms"
+            },
+            "tip": {
+              "tipSuggestions": [
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.15,
+                  "amount": {
+                    "value": {
+                      "amount": "0.6",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.18,
+                  "amount": {
+                    "value": {
+                      "amount": "0.72",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.2,
+                  "amount": {
+                    "value": {
+                      "amount": "0.8",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.0,
+                  "amount": {
+                    "value": {
+                      "amount": "0.0",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                }
+              ],
+              "terms": {
+                "tipLines": [],
+                "__typename": "FilledTipTerms"
+              },
+              "__typename": "TipWrapper"
+            },
+            "localizationExtension": {
+              "fields": [],
+              "__typename": "LocalizationExtension"
+            },
+            "landedCostDetails": {
+              "incotermInformation": null,
+              "__typename": "LandedCostDetails"
+            },
+            "dutiesIncluded": false,
+            "nonNegotiableTerms": null,
+            "optionalDuties": {
+              "buyerRefusesDuties": false,
+              "refuseDutiesPermitted": false,
+              "__typename": "OptionalDuties"
+            },
+            "attribution": {
+              "attributions": [],
+              "__typename": "Attribution"
+            },
+            "saleAttributions": {
+              "attributions": [],
+              "__typename": "SaleAttributions"
+            },
+            "managedByMarketsPro": false,
+            "managedMarketsPaymentProcessor": null,
+            "captcha": null,
+            "cartCheckoutValidation": null,
+            "alternativePaymentCurrency": null,
+            "lpmDisclosure": null,
+            "isShippingRequired": true,
+            "shopPayEnabled": true,
+            "remote": null,
+            "ucp": {
+              "continueUrl": "https://www.kraeutergott.de/cart/c/hWNIqt6OtozjmnTNelWT29xL?key=19e56c2ec5836f292f452471e65330b2",
+              "paymentHandlers": [
+                {
+                  "id": "shopify.card",
+                  "name": "dev.shopify.card",
+                  "version": "2026-01-15",
+                  "spec": "https://ucp.dev/specification/payment-handler-guide",
+                  "schema": "https://shopify.dev/ucp/card-payment-handler/2026-01-15/config.json",
+                  "config": {
+                    "payment_methods": [
+                      {
+                        "type": "card",
+                        "enabled_card_brands": [
+                          "visa",
+                          "maestro",
+                          "master",
+                          "american_express",
+                          "unionpay"
+                        ]
+                      }
+                    ]
+                  },
+                  "__typename": "UcpPaymentHandler"
+                },
+                {
+                  "id": "shop_pay",
+                  "name": "dev.shopify.shop_pay",
+                  "version": "2026-01-23",
+                  "spec": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/spec.md",
+                  "schema": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/schema.json",
+                  "config": {
+                    "shop_id": "11213640"
+                  },
+                  "__typename": "UcpPaymentHandler"
+                }
+              ],
+              "__typename": "UcpProposal"
+            }
+          },
+          "__typename": "NegotiationResultAvailable"
+        },
+        "errors": [
+          {
+            "code": "BUYER_IDENTITY_MISSING_CONTACT_METHOD",
+            "localizedMessage": "Es fehlt eine gültige Kontaktmethode.",
+            "nonLocalizedMessage": "Missing a valid contact method.",
+            "localizedMessageHtml": "Es fehlt eine gültige Kontaktmethode.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "BUYER_IDENTITY_EMAIL_REQUIRED",
+            "localizedMessage": "Eine E-Mail ist erforderlich, wenn der Merchandise-Artikel im Rahmen eines Abonnements gekauft wird.",
+            "nonLocalizedMessage": "An email is required when the merchandise is purchased using a selling plan.",
+            "localizedMessageHtml": "Eine E-Mail ist erforderlich, wenn der Merchandise-Artikel im Rahmen eines Abonnements gekauft wird.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "MERCHANDISE_EXPECTED_PRICE_MISMATCH",
+            "localizedMessage": "Der zuvor vorgeschlagene Preis für diesen Merchandise-Artikel war ungültig und wurde aktualisiert.",
+            "nonLocalizedMessage": "The price of this line could not be honoured, new price reflected in counter proposal.",
+            "localizedMessageHtml": "Der zuvor vorgeschlagene Preis für diesen Merchandise-Artikel war ungültig und wurde aktualisiert.",
+            "from": "$.merchandise.merchandiseLines[0]",
+            "to": "$.merchandise.merchandiseLines[0]",
+            "__typename": "ConfirmChangeViolation"
+          },
+          {
+            "code": "TAX_NEW_TAX_MUST_BE_ACCEPTED",
+            "localizedMessage": "Die mit deiner Bestellung verbundenen Steuern haben sich geändert. Überprüfe sie und versuche es erneut.",
+            "nonLocalizedMessage": "A new tax line in the seller proposal must be accepted in order to continue.",
+            "localizedMessageHtml": "Die mit deiner Bestellung verbundenen Steuern haben sich geändert. Überprüfe sie und versuche es erneut.",
+            "target": "$",
+            "__typename": "AcceptNewTermViolation"
+          },
+          {
+            "code": "DISCOUNTS_NO_ENTITLED_LINE_ITEMS",
+            "localizedMessage": "Der Rabattcode KRÄUTERGOTTSEIDANK ist für die Artikel in deinem Warenkorb nicht gültig",
+            "nonLocalizedMessage": "KRÄUTERGOTTSEIDANK discount code is not valid for items in your cart.",
+            "localizedMessageHtml": "Der Rabattcode <strong style=\"text-transform:uppercase\">KRÄUTERGOTTSEIDANK</strong> ist für die Artikel in deinem Warenkorb nicht gültig",
+            "target": "$.merchandiseDiscount.lines[0]",
+            "__typename": "RemoveTermViolation"
+          },
+          {
+            "code": "REQUIRED_ARTIFACTS_UNAVAILABLE",
+            "localizedMessage": "",
+            "nonLocalizedMessage": "Required artifacts are unavailable.",
+            "localizedMessageHtml": null,
+            "__typename": "RequiredArtifactsUnavailableViolation"
+          }
+        ]
+      },
+      "__typename": "Session"
+    }
+  }
+}

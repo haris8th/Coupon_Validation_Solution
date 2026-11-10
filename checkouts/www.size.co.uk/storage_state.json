@@ -1,0 +1,133 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "GB",
+      "domain": "www.size.co.uk",
+      "path": "/",
+      "expires": 1825688725.451192,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "GBP",
+      "domain": "www.size.co.uk",
+      "path": "/",
+      "expires": 1802015125.451399,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG71adKAAEAC3O-U7_MkBFOABeO1Vf_1zlU6XrIpOnHJQl3XvVicA6fx4sbEly3ouFblz6400cM4hOnpgcHArLtD5c:",
+      "domain": "www.size.co.uk",
+      "path": "/",
+      "expires": 1825688703.597901,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_c",
+      "value": "0",
+      "domain": ".size.co.uk",
+      "path": "/",
+      "expires": 1828316710,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tfa_tra_src",
+      "value": "Direct",
+      "domain": "www.size.co.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__pr.1ptc",
+      "value": "Y1WP11nJgZ",
+      "domain": ".size.co.uk",
+      "path": "/",
+      "expires": 1796744714,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Sun+Nov+08+2026+10%3A45%3A24+GMT-0500+(Eastern+Standard+Time)&version=202608.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=442367d5-ec62-44b5-aa86-38ab5e3a16e3&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.size.co.uk%2Fproducts%2F19774994&groups=C0004%3A0%2CC0003%3A0%2CC0001%3A1%2CC0002%3A0&crTime=1794152724872",
+      "domain": ".size.co.uk",
+      "path": "/",
+      "expires": 1825688724,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3amps._PKSD_t_f_anmq5kkdTuKnTeiKBwcbEA_%7B%22onetrust.dsId%22%3A%22442367d5-ec62-44b5-aa86-38ab5e3a16e3%22%7D%23a7a7ed3c-4af7-4d62-886b-435acd569017-1794152706",
+      "domain": ".size.co.uk",
+      "path": "/",
+      "expires": 1825710325.450998,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIumXmwXSWIk6TAzS1GS9L%3Fkey%3D091717c8c8c63f9f622c8ce1ce788f21",
+      "domain": "www.size.co.uk",
+      "path": "/",
+      "expires": 1802015125.451321,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.size.co.uk",
+      "localStorage": [
+        {
+          "name": "CUSTOMER_PRODUCT_HISTORY_size-prod.myshopify.com",
+          "value": "[\"15467173904707\"]"
+        },
+        {
+          "name": "shopSessionId",
+          "value": "08ff5e9c-fe04-4d8c-9d33-736b186c6a1c"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1794152706271"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "NRBA_SESSION::b8ff27d8",
+          "value": "{\"value\":\"255f531e362182f7\",\"inactiveAt\":1794154516863,\"expiresAt\":1794167116863,\"updatedAt\":1794152725870,\"sessionReplayMode\":0,\"sessionReplaySentFirstChunk\":false,\"sessionTraceMode\":1,\"traceHarvestStarted\":true,\"loggingMode\":2,\"logApiMode\":2,\"serverTimeDiff\":-843,\"custom\":{\"enduser.id\":\"user-27170ecc-1e16-4e9d-9fa7-94d9cedc5550-v1.0\"},\"numOfResets\":0,\"consent\":false}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIumXmwXSWIk6TAzS1GS9L\""
+        },
+        {
+          "name": "shopSessionLastActive",
+          "value": "2026-11-08T15:45:08.324Z"
+        },
+        {
+          "name": "newrelic-user-id",
+          "value": "27170ecc-1e16-4e9d-9fa7-94d9cedc5550"
+        }
+      ]
+    }
+  ]
+}

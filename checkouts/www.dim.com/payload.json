@@ -1,0 +1,47 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBXb6CP3VWs1mM6AgXKxpDLeO5JidI-WJ6QcoGGNVuNIlBZpd90VcxctagnID0SNEf_5VwBLfmK4271BTeYFIjmbPXSKyMq4tNq18ZXdnkVFRhsoxb__moIRoyDYFmBL8HcOTHb0_AHs517efEPg9IgQr74L6bk_AjtGxTaaW1yAk85c8QpFL8fuirruDbMV2W0y2VBEj3oXWNqxF5NjFE8BNYBb0"
+    },
+    "queueToken": "A9qaxzwVTgMyi2rzVpzZ1wPcHSIoOiYQY-xATMOz3-QAfpZZlXDEJfSghBgdHB17LvvDY5OLOcUZf-iD9rKZUYpbvNuIhUj7IX20o8GI-mdcMZwfO6pchlXUQF2g-O6PXw==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "8f7a7f0e-da08-4984-ba1d-3ae695d0a650",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/54348212896090",
+              "variantId": "gid://shopify/ProductVariant/54348212896090",
+              "properties": [
+                {
+                  "name": "Color",
+                  "value": {
+                    "string": "Light brown"
+                  },
+                  "visible": true
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "5700.00",
+              "currencyCode": "PKR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

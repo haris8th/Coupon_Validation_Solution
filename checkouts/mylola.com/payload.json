@@ -1,0 +1,61 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBYDlkwl1UtGzjI5cIa6evANx7thtR9OUH8_sJLclGJG_jFNGHhipoxk5riaLJyGpW9dU1QkIMk08EzuV1qAViWH3EXQ6KOfdCrp4a8Fpt8bBhOxZ75grOsVOrgC650CVGvxgIN578bg6CzuMtXJNjscQhoXlwpcnuqZUus23eWzGK28VThp29QdjHM1yKuh8WrahE11Y-QNjVBPExR6f5xU4"
+    },
+    "queueToken": "Ay6hj8ApWl5OwWn_7CPzKe03doMA-NwwqXPK_h5SEhBeafCGd4pky1wM2S3JPtTzqQnmaW9yIkNFEGYfwefwvWHeM1-axpoH5Dbd2-J-oHoYKW2X_f19xIuc4kSzPA==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "a683e5cb-0288-4383-a54a-7bf6e97efd63",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/40811471765550",
+              "variantId": "gid://shopify/ProductVariant/40811471765550",
+              "properties": [
+                {
+                  "name": "Regular",
+                  "value": {
+                    "string": "8"
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "Super",
+                  "value": {
+                    "string": "8"
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "_rb_id",
+                  "value": {
+                    "string": "VGCnutOzgP4C_-"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": "gid://shopify/SellingPlan/869629998",
+              "sellingPlanDigest": "91eddd9b21141b51063d6d6663395f2c"
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "10.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

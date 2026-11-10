@@ -1,0 +1,121 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "DE",
+      "domain": "grandora.de",
+      "path": "/",
+      "expires": 1825539708.296407,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "EUR",
+      "domain": "grandora.de",
+      "path": "/",
+      "expires": 1795213308.749318,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGy9CJmAAEA5mWAY29-YqG4RqTU5y4aojrmDviBQ724aZjSJK33HMu5N0xBn9LZfiK5Su9GWneNQ5ItI2_iYE9oBlg:",
+      "domain": "grandora.de",
+      "path": "/",
+      "expires": 1825539704.388961,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGy9CKiAAEAul8nRDkEWgf6U7iwwy7rvYVDVUEpFXFYYNG2pMYVTDtquEiW6oSi9Pwb1bDXAiPYvey8X_kEGtkdMtg:",
+      "domain": "grandora.de",
+      "path": "/",
+      "expires": 1825539704.389067,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGy9CKiAAEA6uFH5eqllPBHQDOv6Xijh4u91Pan4f37ytG9BMopdhuB5rAjD9YItlgl6T_Fqpl_NOPoG8R8RGaBEH8:",
+      "domain": "grandora.de",
+      "path": "/",
+      "expires": 1825539704.389182,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "adcell_vcad",
+      "value": "1",
+      "domain": "grandora.de",
+      "path": "/",
+      "expires": 1794004306.561024,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_g1681409114",
+      "value": "RVVS",
+      "domain": ".grandora.de",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIqisj0TiOWaBR9pLaZdEx%3Fkey%3D4f2afbc4d7fe9e3664316331cb44f07e",
+      "domain": "grandora.de",
+      "path": "/",
+      "expires": 1801866109.208139,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_ESz9KVzDQkisGOD5ge9Qig_%7B%7D%23620cccc7-9ce7-4404-95f4-d207cd505c4a-1794003708",
+      "domain": ".grandora.de",
+      "path": "/",
+      "expires": 1825561309.472578,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://grandora.de",
+      "localStorage": [
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1794003706159"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "__paypal-httpswwwpaypalcomsdkjscomponentsbuttonscommitfalsecurrencyEURlocaledeDEclientidAexZEtAxk09Ncgj6FSWFFyGKbxxAZLTyJ2DPdJWl1YUlecinmc5AfIaRF2qYjWlusWahlzz6SVkY5CimerchantidTXHBEYNPBW2DQintentauthorize_storage__",
+          "value": "{\"id\":\"uid_9d3a986061_mji6mje6ndg\",\"funding\":{},\"__session__\":{\"guid\":\"uid_2616fec227_mji6mje6ndg\",\"created\":1794003708755}}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIqisj0TiOWaBR9pLaZdEx\"},{\"postPurchaseInquiryStatus\":\"disabled\"}]]"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIqisj0TiOWaBR9pLaZdEx\""
+        }
+      ]
+    }
+  ]
+}

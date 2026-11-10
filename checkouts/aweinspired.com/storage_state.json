@@ -1,0 +1,539 @@
+{
+  "cookies": [
+    {
+      "name": "GlobalE_Analytics",
+      "value": "{\"merchantId\":\"30000373\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://webservices.global-e.com/\",\"clientId\":\"f309aa5c-a9cd-42ff-a8a5-3c2af9b8d973\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":true,\"FT_3DA_UTM_SOURCE_LIST\":[\"borderfree\"],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":true,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1793983591531}",
+      "domain": "aweinspired.com",
+      "path": "/en-pk/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "PK",
+      "domain": "aweinspired.com",
+      "path": "/en-pk",
+      "expires": 1825516002.062892,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGxwPTyAAEAEwpKev5cXeuA7uR9WnqOBH420Ejpbf_6j5oPpzU1O5uiGumgx4xPY4bKlm2F0-LjziaIpvJZJL7BY_I:",
+      "domain": "aweinspired.com",
+      "path": "/",
+      "expires": 1825519573.525072,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGxwPx4AAEA55quPmYz8IaOnvnO6xZ34hZrN-sooQkwdQRR5fQ4RN8XWfDefk4iVgZ58NnIZVoRgvsA_rdNTEgcPlI:",
+      "domain": "aweinspired.com",
+      "path": "/",
+      "expires": 1825519575.478246,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGxwPx5AAEAV59qYJMVJWnQU68DbLwGVPENypRtTAPrcDL9pYeLz7Q5YXzn_jtRbs04zFQ3Ijf53YoRg4QfI_zocd8:",
+      "domain": "aweinspired.com",
+      "path": "/",
+      "expires": 1825519575.478332,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__eventn_id",
+      "value": "4qiics50k8.1793983575",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1828543575.573148,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attn_eat_id",
+      "value": "2f3b27f09a874323903ead267bc90c93",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1827679580.495649,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://aweinspired.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "reeview_uid",
+      "value": "b9c15b91-22a9-47c8-bf52-a166e34b493c",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1795193183,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__pp_sid",
+      "value": "PdnqPKIDr86iKXtb_mw57i8ok",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1793985384,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__pp_pid",
+      "value": "OzCvYQ6voK3relzu_mw57i8ok",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1828543584.119011,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://aweinspired.com/en-pk",
+      "domain": "aweinspired.com",
+      "path": "/",
+      "expires": 1796575583,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_id",
+      "value": "1c7f7e6f8ace47b9b08a14e0bc28a10f",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1827679584,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_session_id",
+      "value": "3bac4788941642e1b66d59a7804044be",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1793985385,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzkzOTgzNTg0OTM3LFwidW9cIjoxNzkzOTgzNTg0OTM3LFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjFjN2Y3ZTZmOGFjZTQ3YjliMDhhMTRlMGJjMjhhMTBmXCJ9IiwiZWF0Ijoie1wiY29cIjoxNzkzOTgzNTg0OTIzLFwidW9cIjoxNzkzOTgzNTg0OTIzLFwibWFcIjozNjUwLFwiaW5cIjp0cnVlLFwidmFsXCI6XCJodHRwczovL3R6ZmdtLmF3ZWluc3BpcmVkLmNvbVwifSJ9",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1827679584,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1793983584941",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1827679584,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__obref",
+      "value": "cd33c10c-8297-479a-8829-43bc6fcd2e65",
+      "domain": "aweinspired.com",
+      "path": "/",
+      "expires": 1825519585.05892,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "2355c368-cf19-45c1-8229-9866203f6f9e",
+      "domain": "aweinspired.com",
+      "path": "/",
+      "expires": 1825515984,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPVlUQTBNVE0zTVRBdE5EVmtPQzAwWWpSakxUaGpaRGt0WWpJd1pHSTFNR0ZqTURoaA",
+      "domain": "aweinspired.com",
+      "path": "/",
+      "expires": 1825515982,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1793990785,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_axwrt",
+      "value": "2355c368-cf19-45c1-8229-9866203f6f9e",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1825519584,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_bopd_",
+      "value": "browser",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1827679585,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "1",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1793985385,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "ORGANIC",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1793985385,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1793983586630.3689569250",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1801759586,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "aweinspired.com",
+      "path": "/",
+      "expires": 1796575586,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_Elevar-apex",
+      "value": "[1%2C%222355c368-cf19-45c1-8229-9866203f6f9e%22%2C%221793983586%22%2C%221%22%2C%221793983588%22%2C{%22market_id%22:%2219022053428%22%2C%22locale_country_code%22:%22PK%22}%2C[]%2C%22{%5C%22_axwrt%5C%22:%5C%222355c368-cf19-45c1-8229-9866203f6f9e%5C%22%2C%5C%22__obref%5C%22:%5C%22cd33c10c-8297-479a-8829-43bc6fcd2e65%5C%22%2C%5C%22_fbp%5C%22:%5C%22fb.1.1793983586630.3689569250%5C%22}%22%2C0]",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1825519601,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIqAu0VytfyHtFC1cPHBUB%3Fkey%3Dde54928f0b9f4bb499de38380152178e",
+      "domain": "aweinspired.com",
+      "path": "/",
+      "expires": 1801846002.063191,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Consent",
+      "value": "%7B%22required%22%3Afalse%2C%22groups%22%3A%7B%221%22%3A1%2C%222%22%3A1%2C%223%22%3A1%7D%7D",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GLBE_SESS_ID",
+      "value": "%7B%22sid%22%3A%22915684145.474288909.30000373%22%2C%22expiry%22%3A%222026-11-06T17%3A16%3A34.105Z%22%7D",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1828543594.106149,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_Ya2EVsa3T828RhW3t-2A1g%23a1d906b6-c8cd-4420-bbdb-f3a9d80049d4-1793983580",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1825541202.0625,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "forterToken",
+      "value": "7ec02c115db347928c71372940d25f47_1793983593756__UDF43-m4_32ck_",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1828543598,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ax_visitor",
+      "value": "%7B%22firstVisitTs%22%3A1793983584987%2C%22lastVisitTs%22%3Anull%2C%22currentVisitStartTs%22%3A1793983584987%2C%22ts%22%3A1793983601142%2C%22visitCount%22%3A1%7D",
+      "domain": ".aweinspired.com",
+      "path": "/",
+      "expires": 1825519601,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "PKR",
+      "domain": "aweinspired.com",
+      "path": "/",
+      "expires": 1801846002.063458,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://aweinspired.com",
+      "localStorage": [
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionCount",
+          "value": "1"
+        },
+        {
+          "name": "loomi_session_products",
+          "value": "[{\"productId\":8950466052148,\"variantId\":48329718366260,\"ts\":\"2026-11-06T16:46:22.000Z\",\"handle\":\"ishtar-goddess-pendant\"}]"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "2355c368-cf19-45c1-8229-9866203f6f9e"
+        },
+        {
+          "name": "_pxSessionStart",
+          "value": "1793983584118"
+        },
+        {
+          "name": "_pxPageVisited",
+          "value": "{\"LJi1E\":[\"/en-pk/products/ishtar-goddess-pendant\"]}"
+        },
+        {
+          "name": "alia-jwt",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsYXN0VXNlcklEIjo5Mjc1NDU2Nzg5LCJpYXQiOjE3OTM5ODM1ODd9.Fo-EhQMffbV3Hcy9tH4pErY9IWLr_o2Cl4ii6V9fvWc"
+        },
+        {
+          "name": "_axwrt_backup",
+          "value": "{\"value\":\"2355c368-cf19-45c1-8229-9866203f6f9e\",\"setTs\":null,\"expiresAt\":1825519584983}"
+        },
+        {
+          "name": "f3b83c8e592aef14c2204ee437d40785",
+          "value": "74s52q04927317p829743oq511p20pr7"
+        },
+        {
+          "name": "a7f3c9e2b18d4056",
+          "value": "{\"v\":1,\"t\":\"74s52q04927317p829743oq511p20pr7\",\"d\":false,\"f\":3}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cart",
+          "value": "[]"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPVlUQTBNVE0zTVRBdE5EVmtPQzAwWWpSakxUaGpaRGt0WWpJd1pHSTFNR0ZqTURoaA\",\"expires\":\"2027-11-06T15:46:22.526Z\"}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageUrl",
+          "value": "https://aweinspired.com/en-pk/products/ishtar-goddess-pendant"
+        },
+        {
+          "name": "loomi-cart",
+          "value": "{\"token\":\"hWNIqAu0VytfyHtFC1cPHBUB?key=de54928f0b9f4bb499de38380152178e\",\"note\":\"\",\"attributes\":{\"vslyCT\":\"vslyCT_hWNIqAu0VytfyHtFC1cPHBUB?key=de54928f0b9f4bb499de38380152178e\",\"vslySUBS\":\"0\",\"vslyUID\":\"4qiics50k8\",\"vslySID\":\"6169269133941579\",\"GE_isApplePay\":\"false\",\"GE_consentPrefs\":\"{\\\"marketing\\\":\\\"\\\",\\\"analytics\\\":\\\"\\\",\\\"preferences\\\":\\\"\\\",\\\"sale_of_data\\\":\\\"\\\"}\",\"GE_utmParams\":\"utm_source=direct&utm_medium=(none)&utm_campaign=(not-set)\",\"GE_clientId\":\"f309aa5c-a9cd-42ff-a8a5-3c2af9b8d973\",\"cartToken\":\"hWNIqAu0VytfyHtFC1cPHBUB?key=de54928f0b9f4bb499de38380152178e\",\"GLBE_SESS_ID\":\"915684145.474288909.30000373\",\"GE_frtToken\":\"7ec02c115db347928c71372940d25f47_1793983593756__UDF43_32ck__tt\"},\"original_total_price\":0,\"total_price\":0,\"total_discount\":0,\"total_weight\":0,\"item_count\":0,\"items\":[],\"requires_shipping\":false,\"currency\":\"USD\",\"items_subtotal_price\":0,\"cart_level_discount_applications\":[],\"discount_codes\":[]}"
+        },
+        {
+          "name": "alia-consent-aweinspired.myshopify.com",
+          "value": "{\"required\":false,\"source\":\"shopify\",\"regions\":{\"mode\":\"shopify\",\"countries\":[]}}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIqAu0VytfyHtFC1cPHBUB\"},{\"postPurchaseInquiryStatus\":\"disabled\"}]]"
+        },
+        {
+          "name": "wishlist-count",
+          "value": "{\"value\":\"0\",\"timestamp\":1793983587628}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--params",
+          "value": "{\"market_id\":\"19022053428\",\"locale_country_code\":\"PK\",\"user_id\":\"2355c368-cf19-45c1-8229-9866203f6f9e\",\"session_id\":\"1793983586\",\"session_count\":\"1\",\"session_landing_page_url\":\"https://aweinspired.com/en-pk/products/ishtar-goddess-pendant\",\"session_landing_page_title\":\"Ishtar Goddess Pendant \u2013 Awe Inspired\"}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionId",
+          "value": "1793983586"
+        },
+        {
+          "name": "forterToken",
+          "value": "7ec02c115db347928c71372940d25f47,1793983598911"
+        },
+        {
+          "name": "ftr__gf",
+          "value": "{\"et\":1793983598126,\"us\":\"\\fI;zj\\u0005l\\u001c\\u0007\\u001dI^s\\u000e\\fO\\n@E\u007ffm\\u0007mI[X\\n\\r=aQ\"}"
+        },
+        {
+          "name": "okendo-cart-isShopifyCartAvailable",
+          "value": "{\"isCartAvailable\":true}"
+        },
+        {
+          "name": "lmi_utm_data",
+          "value": "[]"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--lastDlPushTimestamp",
+          "value": "1793983588"
+        },
+        {
+          "name": "alia-storage-since",
+          "value": "1793983585181"
+        },
+        {
+          "name": "pst",
+          "value": "1793983599654"
+        },
+        {
+          "name": "viewedProducts",
+          "value": "[\"8950466052148\"]"
+        },
+        {
+          "name": "dashAnalyticsClientId",
+          "value": "01a1b1c1-11b27-475b-be67-4856859f8580"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIqAu0VytfyHtFC1cPHBUB\""
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageTitle",
+          "value": "Ishtar Goddess Pendant \u2013 Awe Inspired"
+        },
+        {
+          "name": "GlobalE_Analytics",
+          "value": "{\"merchantId\":\"30000373\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://webservices.global-e.com/\",\"clientId\":\"f309aa5c-a9cd-42ff-a8a5-3c2af9b8d973\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":true,\"FT_3DA_UTM_SOURCE_LIST\":[\"borderfree\"],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":true,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1793983591531}"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://aweinspired.com/en-pk/products/ishtar-goddess-pendant\",\"exp\":1796575584579}"
+        },
+        {
+          "name": "vsly_session",
+          "value": "{\"id\":\"6169269133941579\",\"utm_campaign\":\"\",\"last_interaction\":\"2026-11-06T16:46:33.667Z\",\"landing_page\":\"https://aweinspired.com/en-pk\",\"start_at\":\"2026-11-06T16:46:15.569Z\"}"
+        },
+        {
+          "name": "vsly_visited_pages",
+          "value": "[{\"ts\":\"2026-11-06T16:46:19.000Z\",\"name\":\"https://aweinspired.com/en-pk/products/ishtar-goddess-pendant\"},{\"ts\":\"2026-11-06T16:46:15.000Z\",\"name\":\"https://aweinspired.com/en-pk\"}]"
+        },
+        {
+          "name": "_applovin_pixel_version",
+          "value": "s/3.6.57"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "loomi-cart-history",
+          "value": "[]"
+        },
+        {
+          "name": "loomi-flags",
+          "value": "{\"force-mobile-by-width\":true,\"sdk-reconcile\":true,\"keep-redirect-sid\":true,\"utm-decode\":true,\"op-focus-trap-removal\":true,\"force-refresh-cart\":true,\"beacon\":true,\"theme-testing\":true,\"persist-purchases\":true,\"live-prices\":true,\"sdk-hydration-support\":true,\"micro-batching\":true,\"checkout-reporting-ignore-mp\":true,\"sec-dim-image\":true,\"block-do-not-track\":false,\"sdk-force-apply-after-revert\":true,\"resolve-used-fonts-new-logic\":true,\"atc-alignment\":true,\"sdk-reinit-on-cache-v2\":true,\"sdk-enable-cart-enrichment\":false,\"allocate-checkout-extensibility\":true,\"cache-nav-clear\":true,\"coalesce-alloc\":true,\"checkout-live-prices\":true,\"experience-applied-callback\":true,\"backend-track-redirect\":true,\"alloc-client-side-formula\":true,\"subscriptions_v1\":true,\"bunny-cdn\":true,\"fb-locale-currency\":true,\"currency-aware-client-targeting\":true,\"pixel-atc\":true,\"opt-img\":true,\"svc-stats\":true,\"sdk-auto-clean\":true,\"sdk-defer-widgets\":true,\"fb-recs-cache\":true,\"reload-on-device-changed\":true,\"coalesce-recs\":true}"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794242786690"
+        },
+        {
+          "name": "_pxPixelSent",
+          "value": "{\"LJi1E\":{\"jckj8q\":{\"pixelSent\":true,\"sentAt\":1793983584120}}}"
+        },
+        {
+          "name": "alia-user-8390",
+          "value": "{\"user\":{\"id\":9275456789,\"profile\":{\"properties\":{},\"prismMap\":{},\"history\":[[\"https://aweinspired.com/en-pk/products/ishtar-goddess-pendant\"]]}}}"
+        },
+        {
+          "name": "dashAnalyticsSession",
+          "value": "{\"id\":\"01a1b1c1-11b27-3efe-b03e-6148657fc722\",\"lastActivity\":1793983601141}"
+        },
+        {
+          "name": "__$intc",
+          "value": "{\"startTime\":1793983597306,\"lastPersistTime\":1793983602297,\"counts\":{\"focusout\":1},\"nonTrustedLog\":[]}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cookies",
+          "value": "{\"_axwrt\":\"2355c368-cf19-45c1-8229-9866203f6f9e\",\"__obref\":\"cd33c10c-8297-479a-8829-43bc6fcd2e65\",\"_fbp\":\"fb.1.1793983586630.3689569250\"}"
+        },
+        {
+          "name": "kustomer-chat-tracking-token",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhZWUwNDYyOTRhNTRmZmJkOWNhNDQwOSIsIm9yZyI6IjY5NWJkNWMzYTdkOGI0MzFjOGVhMzFkYyIsImN1c3RvbWVyIjoiNmFlZTA0NjJkN2EyNTZlZjE5Yzk5YjM2IiwidmVyaWZpZWQiOnRydWUsImV4cCI6MTc5NjU3NTU4NiwiYXVkIjoidXJuOmNvbnN1bWVyIiwiaXNzIjoidXJuOmFwaSJ9.stD5lb9v_ayu2FATOhsetIlqSZU-6GWby92ZSbVLZUY"
+        },
+        {
+          "name": "_pxTimeBeforeUnload",
+          "value": "1793983602303"
+        },
+        {
+          "name": "__eventn_id",
+          "value": "4qiics50k8.1793983575"
+        },
+        {
+          "name": "alia-tracking-allowed-aweinspired.myshopify.com",
+          "value": "true"
+        },
+        {
+          "name": "psc",
+          "value": "4"
+        },
+        {
+          "name": "vsly_audiences",
+          "value": "[\"n\",\"d\"]"
+        }
+      ]
+    }
+  ]
+}

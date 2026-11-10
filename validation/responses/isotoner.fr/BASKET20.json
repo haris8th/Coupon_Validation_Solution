@@ -1,0 +1,599 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "checkpointData": null,
+          "configurationRecordId": "gid://shopify/CheckoutProfile/8440021324",
+          "renderContextToken": null,
+          "queueToken": "A24mL3WO0MtZv0w58rf6Gotp6A1CY-qu91xf_095h3KnC-dMlr0sYsLF5XKIUOcAeFzZEQxsehAOAiqPlqq6HLaStDRY3SPrC_ZW_s4ItSD2YboH7JVISB05R9s67bUz437MsxUoe6vNarY=",
+          "buyerProposal": {
+            "merchandiseDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "deliveryDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "5375ff3c-7d9e-413c-a86d-9468deb20009",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/58188454527308",
+                    "digest": "848a0a35e5db76f95bba432716079e06",
+                    "variantId": "gid://shopify/ProductVariant/58188454527308",
+                    "title": "Parapluie X-TRA SOLIDE 28 cm Zèbre Kaki",
+                    "untranslatedTitle": "Parapluie X-TRA SOLIDE 28 cm Zèbre Kaki",
+                    "subtitle": "zèbre kaki / TU",
+                    "untranslatedSubtitle": "zèbre kaki / TU",
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/15921889935692",
+                      "vendor": "Isotoner.fr",
+                      "productType": "Parapluies",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/parapluie-x-tra-solide-28-cm-zebre-kaki",
+                    "image": {
+                      "altText": "#coloris_zèbre kaki",
+                      "url": "https://cdn.shopify.com/s/files/1/0268/6907/1990/files/Parapluie-X-TRA-SOLIDE-28-cm-Zebre-Kaki-Isotoner-09416_ZEK_1.jpg?v=1784761911",
+                      "one": "https://cdn.shopify.com/s/files/1/0268/6907/1990/files/Parapluie-X-TRA-SOLIDE-28-cm-Zebre-Kaki-Isotoner-09416_ZEK_1_64x64.jpg?v=1784761911",
+                      "two": "https://cdn.shopify.com/s/files/1/0268/6907/1990/files/Parapluie-X-TRA-SOLIDE-28-cm-Zebre-Kaki-Isotoner-09416_ZEK_1_128x128.jpg?v=1784761911",
+                      "four": "https://cdn.shopify.com/s/files/1/0268/6907/1990/files/Parapluie-X-TRA-SOLIDE-28-cm-Zebre-Kaki-Isotoner-09416_ZEK_1_256x256.jpg?v=1784761911",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Coloris",
+                        "value": "zèbre kaki",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Taille",
+                        "value": "TU",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "39.9",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "fcbb6a1bbbcbc00ed0a9a6b33abf989c",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "39.9",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "39.9",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "39.9",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "39.9",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "39.9",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "__typename": "Proposal"
+          },
+          "sellerProposal": {
+            "merchandiseDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "cartMetafields": null,
+            "customFields": [],
+            "deliveryDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "fee": {
+              "__typename": "FilledFeeTerms",
+              "totalFeeAmount": {
+                "__typename": "MoneyValueConstraint",
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "EUR",
+                  "__typename": "Money"
+                }
+              },
+              "feeLines": []
+            },
+            "__typename": "Proposal",
+            "deliveryExpectations": {
+              "__typename": "UnavailableTerms"
+            },
+            "promiseProgram": {
+              "variantPromises": [],
+              "__typename": "PromiseProgram"
+            },
+            "memberships": {
+              "__typename": "FilledMembershipTerms",
+              "memberships": []
+            },
+            "availableRedeemables": {
+              "availableRedeemables": [],
+              "__typename": "AvailableRedeemables"
+            },
+            "shopCashBalance": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopPromotion": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopDiscountOffer": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "availableDeliveryAddresses": [],
+            "mustSelectProvidedAddress": false,
+            "mustSelectProvidedShippingRate": false,
+            "canUpdateDiscountCodes": true,
+            "canUpdateDeliveryAddress": true,
+            "canUpdateMerchandise": true,
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "deliveryMethods": {
+              "__typename": "UnavailableTerms"
+            },
+            "sellability": {
+              "shipping": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "5375ff3c-7d9e-413c-a86d-9468deb20009",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "local": [],
+              "pickUp": [],
+              "pickupPoint": [],
+              "none": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "5375ff3c-7d9e-413c-a86d-9468deb20009",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "__typename": "FilledSellability"
+            },
+            "payment": {
+              "__typename": "UnavailableTerms"
+            },
+            "poNumber": null,
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "5375ff3c-7d9e-413c-a86d-9468deb20009",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/58188454527308",
+                    "digest": "848a0a35e5db76f95bba432716079e06",
+                    "variantId": "gid://shopify/ProductVariant/58188454527308",
+                    "title": "Parapluie X-TRA SOLIDE 28 cm Zèbre Kaki",
+                    "untranslatedTitle": "Parapluie X-TRA SOLIDE 28 cm Zèbre Kaki",
+                    "subtitle": "zèbre kaki / TU",
+                    "untranslatedSubtitle": "zèbre kaki / TU",
+                    "sku": "09416-ZEK-ST",
+                    "price": {
+                      "amount": "39.9",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/15921889935692",
+                      "vendor": "Isotoner.fr",
+                      "productType": "Parapluies",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/parapluie-x-tra-solide-28-cm-zebre-kaki",
+                    "image": {
+                      "altText": "#coloris_zèbre kaki",
+                      "url": "https://cdn.shopify.com/s/files/1/0268/6907/1990/files/Parapluie-X-TRA-SOLIDE-28-cm-Zebre-Kaki-Isotoner-09416_ZEK_1.jpg?v=1784761911",
+                      "one": "https://cdn.shopify.com/s/files/1/0268/6907/1990/files/Parapluie-X-TRA-SOLIDE-28-cm-Zebre-Kaki-Isotoner-09416_ZEK_1_64x64.jpg?v=1784761911",
+                      "two": "https://cdn.shopify.com/s/files/1/0268/6907/1990/files/Parapluie-X-TRA-SOLIDE-28-cm-Zebre-Kaki-Isotoner-09416_ZEK_1_128x128.jpg?v=1784761911",
+                      "four": "https://cdn.shopify.com/s/files/1/0268/6907/1990/files/Parapluie-X-TRA-SOLIDE-28-cm-Zebre-Kaki-Isotoner-09416_ZEK_1_256x256.jpg?v=1784761911",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Coloris",
+                        "value": "zèbre kaki",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Taille",
+                        "value": "TU",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "39.9",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "fcbb6a1bbbcbc00ed0a9a6b33abf989c",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "39.9",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "39.9",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "39.9",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "39.9",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "39.9",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "note": {
+              "customAttributes": [],
+              "message": null,
+              "__typename": "Note"
+            },
+            "scriptFingerprint": null,
+            "transformerFingerprintV2": null,
+            "buyerIdentity": {
+              "shopUser": null,
+              "customer": {
+                "presentmentCurrency": null,
+                "countryCode": null,
+                "market": {
+                  "id": "gid://shopify/Market/45121654",
+                  "handle": "fr",
+                  "__typename": "Market"
+                },
+                "shippingAddresses": [],
+                "__typename": "GuestProfile"
+              },
+              "purchasingCompany": null,
+              "phone": null,
+              "email": null,
+              "marketingConsent": [],
+              "shopPayOptInPhone": null,
+              "rememberMe": false,
+              "__typename": "FilledBuyerIdentityTerms"
+            },
+            "checkoutCompletionTarget": "ORDER",
+            "recurringTotals": [],
+            "subtotalBeforeTaxesAndShipping": {
+              "value": {
+                "amount": "39.9",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacySubtotalBeforeTaxesShippingAndFees": {
+              "value": {
+                "amount": "39.9",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacyAggregatedMerchandiseTermsAsFees": [],
+            "legacyRepresentProductsAsFees": false,
+            "totalSavings": {
+              "value": {
+                "amount": "0.0",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "runningTotal": {
+              "value": {
+                "amount": "39.9",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "total": {
+              "__typename": "AnyConstraint"
+            },
+            "checkoutTotalBeforeTaxesAndShipping": null,
+            "checkoutTotalTaxes": null,
+            "checkoutTotal": {
+              "__typename": "AnyConstraint"
+            },
+            "deferredTotal": null,
+            "hasOnlyDeferredShipping": false,
+            "subtotalBeforeReductions": {
+              "value": {
+                "amount": "39.9",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "subtotalAfterMerchandiseDiscounts": {
+              "value": {
+                "amount": "39.9",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "duty": {
+              "totalDutyAmount": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAdditionalFeesAmount": null,
+              "__typename": "FilledDutyTerms"
+            },
+            "tax": {
+              "liability": null,
+              "taxBreakdown": null,
+              "totalTaxAmount": null,
+              "totalTaxAmountRange": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAmountIncludedInTarget": {
+                "value": {
+                  "amount": "6.65",
+                  "currencyCode": "EUR",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "__typename": "FilledTaxTerms"
+            },
+            "taxExemptions": {
+              "available": [],
+              "__typename": "FilledTaxExemptionTerms"
+            },
+            "tip": {
+              "tipSuggestions": [
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.15,
+                  "amount": {
+                    "value": {
+                      "amount": "5.99",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.18,
+                  "amount": {
+                    "value": {
+                      "amount": "7.18",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.2,
+                  "amount": {
+                    "value": {
+                      "amount": "7.98",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.0,
+                  "amount": {
+                    "value": {
+                      "amount": "0.0",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                }
+              ],
+              "terms": {
+                "tipLines": [],
+                "__typename": "FilledTipTerms"
+              },
+              "__typename": "TipWrapper"
+            },
+            "localizationExtension": {
+              "fields": [],
+              "__typename": "LocalizationExtension"
+            },
+            "landedCostDetails": {
+              "incotermInformation": null,
+              "__typename": "LandedCostDetails"
+            },
+            "dutiesIncluded": false,
+            "nonNegotiableTerms": null,
+            "optionalDuties": {
+              "buyerRefusesDuties": false,
+              "refuseDutiesPermitted": false,
+              "__typename": "OptionalDuties"
+            },
+            "attribution": {
+              "attributions": [],
+              "__typename": "Attribution"
+            },
+            "saleAttributions": {
+              "attributions": [],
+              "__typename": "SaleAttributions"
+            },
+            "managedByMarketsPro": false,
+            "managedMarketsPaymentProcessor": null,
+            "captcha": null,
+            "cartCheckoutValidation": {
+              "__typename": "CartCheckoutValidationTerms"
+            },
+            "alternativePaymentCurrency": null,
+            "lpmDisclosure": null,
+            "isShippingRequired": true,
+            "shopPayEnabled": false,
+            "remote": null,
+            "ucp": {
+              "continueUrl": "https://www.isotoner.fr/cart/c/hWNIqpS3IMYXt547rhao1kQd?key=2ab83295920c3eadb7e341bf93b838d8",
+              "paymentHandlers": [],
+              "__typename": "UcpProposal"
+            }
+          },
+          "__typename": "NegotiationResultAvailable"
+        },
+        "errors": [
+          {
+            "code": "REDUCTION_INVALID_CODE",
+            "localizedMessage": "Entrez un code de réduction ou une carte-cadeau valide",
+            "nonLocalizedMessage": "Reduction code couldn't be mapped to neither a gift card or discount.",
+            "localizedMessageHtml": "Entrez un code de réduction ou une carte-cadeau valide",
+            "__typename": "InputValidationError"
+          },
+          {
+            "code": "BUYER_IDENTITY_MISSING_CONTACT_METHOD",
+            "localizedMessage": "Il manque un moyen de contact valide.",
+            "nonLocalizedMessage": "Missing a valid contact method.",
+            "localizedMessageHtml": "Il manque un moyen de contact valide.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "TAX_NEW_TAX_MUST_BE_ACCEPTED",
+            "localizedMessage": "Les taxes associées à votre commande ont changé. Vérifiez et réessayez.",
+            "nonLocalizedMessage": "A new tax line in the seller proposal must be accepted in order to continue.",
+            "localizedMessageHtml": "Les taxes associées à votre commande ont changé. Vérifiez et réessayez.",
+            "target": "$",
+            "__typename": "AcceptNewTermViolation"
+          },
+          {
+            "code": "REQUIRED_ARTIFACTS_UNAVAILABLE",
+            "localizedMessage": "",
+            "nonLocalizedMessage": "Required artifacts are unavailable.",
+            "localizedMessageHtml": null,
+            "__typename": "RequiredArtifactsUnavailableViolation"
+          }
+        ]
+      },
+      "__typename": "Session"
+    }
+  }
+}

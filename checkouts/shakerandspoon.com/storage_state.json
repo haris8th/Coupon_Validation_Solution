@@ -1,0 +1,145 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "shakerandspoon.com",
+      "path": "/",
+      "expires": 1825796798.037844,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "shakerandspoon.com",
+      "path": "/",
+      "expires": 1795470398.526839,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHCRu7MAAEArXpswTl2G4knfU1NDqNZ0PfFXaMwfEknYuRyQEZDkiK9IWNKDfqqeQNGz3I5403Hoo0wbrDlOLgMyaU:",
+      "domain": "shakerandspoon.com",
+      "path": "/",
+      "expires": 1825796791.009832,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHCRu8BAAEADnLLuKzx3LCLJkVyicbDn19D3RQePgKjTtFvDIVZS1El3j7gLD7mNQetiwOP-Y6gK2lXUEG44Qpv6u8:",
+      "domain": "shakerandspoon.com",
+      "path": "/",
+      "expires": 1825796791.009916,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHCRu8BAAEAFW8gFLRpMIl38cky0ow7OfaL25QaSidt6mUVFh-lPfpLo0j6c-2wtxYo4KZflo1hxQG82V1bOjnKf78:",
+      "domain": "shakerandspoon.com",
+      "path": "/",
+      "expires": 1825796791.010003,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_recently_viewed",
+      "value": "the-fireside-sessions",
+      "domain": ".shakerandspoon.com",
+      "path": "/",
+      "expires": 1802036796,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://shakerandspoon.com",
+      "domain": "shakerandspoon.com",
+      "path": "/",
+      "expires": 1796852796,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "2fd58a00-0cda-4503-9335-90f208dbcd27",
+      "domain": "shakerandspoon.com",
+      "path": "/",
+      "expires": 1825796796,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "shakerandspoon.com",
+      "path": "/",
+      "expires": 1796852796,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxj3ose20ZK2ImUXxtaPD%3Fkey%3D8b3b365f6fb583522416344e2147b970",
+      "domain": "shakerandspoon.com",
+      "path": "/",
+      "expires": 1802123197.781726,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_bg0ZvmXvQ4qhe1WwAisqMw_%7B%7D%2379bbb0fb-66be-4e90-ac01-31b52cb261b8-1794260795",
+      "domain": ".shakerandspoon.com",
+      "path": "/",
+      "expires": 1825818398.038241,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://shakerandspoon.com",
+      "localStorage": [
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://shakerandspoon.com/products/the-fireside-sessions\",\"exp\":1796852796817}"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-09T21:46:37.800Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-c24714e1-FADA-4304-9502-C915D903B189\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"rriu10-j2.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-c24714e1-FADA-4304-9502-C915D903B189\",\"event_date_time\":\"2026-11-09T21:46:37.800Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"2fd58a00-0cda-4503-9335-90f208dbcd27\",\"page_url\":\"https://shakerandspoon.com/products/the-fireside-sessions\",\"currency\":\"USD\",\"product\":{\"product_id\":\"15235077111981\",\"product_title\":\"The Fireside Sessions\",\"variant_id\":\"67293502963885\",\"variant_title\":\"The Fireside Sessions\",\"quantity\":1,\"variant_price\":90,\"product_vendor\":\"Shaker & Spoon\"}}}}}]"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "__paypal-httpswwwpaypalcomsdkjscomponentsbuttonscommitfalsecurrencyUSDlocaleenUSclientidAbasDhzlU0HbpiStJiN1KRJcNJJ7xYBip7JJoMO0GQpLi8ePNgdbLXkC7KMeyTg8tnAKW4WKrh9qmfmerchantidUJJWMFVFAKZ6Qintentauthorize_storage__",
+          "value": "{\"id\":\"uid_8f280642ab_mje6ndy6mzk\",\"__session__\":{\"guid\":\"uid_6dc158a8e9_mje6ndy6mzk\",\"created\":1794260799448},\"funding\":{}}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxj3ose20ZK2ImUXxtaPD\""
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794519995029"
+        }
+      ]
+    }
+  ]
+}

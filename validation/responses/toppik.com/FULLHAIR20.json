@@ -1,0 +1,806 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "checkpointData": null,
+          "configurationRecordId": "gid://shopify/CheckoutProfile/17924211",
+          "renderContextToken": null,
+          "queueToken": "A5m8hoXa8F7mElU6mWKlzW77VLC16Vf_0xMl6iYYDEcX5OYf6DMhCgCdlJ1Sku_p1wfn96VjQJj1iWkS7-1A2Y8MS-c4NMi3FBgsw5yiNiXMCz1-C0sEb1bzA8RyW1DRHCJOBI4WbHshKgs=",
+          "buyerProposal": {
+            "merchandiseDiscount": {
+              "lines": [
+                {
+                  "discount": {
+                    "code": "FULLHAIR20",
+                    "__typename": "DiscountCodeTrigger"
+                  },
+                  "__typename": "DiscountLine"
+                }
+              ],
+              "__typename": "FilledDiscountTerms"
+            },
+            "deliveryDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "merchandise": {
+              "taxesIncluded": false,
+              "merchandiseLines": [
+                {
+                  "stableId": "acb20e28-fc09-498e-bef5-e86057b0ebc7",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/41738451648627",
+                    "digest": "611cd0a233617d0ce3ce71d8514a9cbc",
+                    "variantId": "gid://shopify/ProductVariant/41738451648627",
+                    "title": "Hair Building Fibers",
+                    "untranslatedTitle": "Hair Building Fibers",
+                    "subtitle": "Black / Regular 12g",
+                    "untranslatedSubtitle": "Black / Regular 12g",
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/7473177198707",
+                      "vendor": "Toppik.com",
+                      "productType": "",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/hair-building-fibers",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0599/3824/2675/files/01ProductThumbnail12g_7acd7950-ae26-4bc7-aadd-d8fb42810a58.png?v=1787313437",
+                      "one": "https://cdn.shopify.com/s/files/1/0599/3824/2675/files/01ProductThumbnail12g_7acd7950-ae26-4bc7-aadd-d8fb42810a58_64x64.png?v=1787313437",
+                      "two": "https://cdn.shopify.com/s/files/1/0599/3824/2675/files/01ProductThumbnail12g_7acd7950-ae26-4bc7-aadd-d8fb42810a58_128x128.png?v=1787313437",
+                      "four": "https://cdn.shopify.com/s/files/1/0599/3824/2675/files/01ProductThumbnail12g_7acd7950-ae26-4bc7-aadd-d8fb42810a58_256x256.png?v=1787313437",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Color",
+                        "value": "Black",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Size",
+                        "value": "Regular 12g",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": {
+                      "name": "60 Days",
+                      "id": "gid://shopify/SellingPlan/1541472371",
+                      "digest": "7e744da3ad3461c50f70fa52f5e4c3ce",
+                      "deliveriesPerBillingCycle": 1,
+                      "prepaid": false,
+                      "allowStoreCredit": false,
+                      "subscriptionDetails": {
+                        "billingInterval": "DAY",
+                        "billingIntervalCount": 60,
+                        "billingMaxCycles": null,
+                        "deliveryInterval": "DAY",
+                        "deliveryIntervalCount": 60,
+                        "__typename": "SellingPlanSubscriptionDetails"
+                      },
+                      "__typename": "SellingPlan"
+                    },
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "22.46",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "7bdf794acf2786ac6c3fd4c29e764dc1",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "22.46",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "22.46",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "22.46",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "22.46",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "22.46",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "__typename": "Proposal"
+          },
+          "sellerProposal": {
+            "merchandiseDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": [
+                {
+                  "allocations": {
+                    "__typename": "DiscountAllocatedAllocationSet",
+                    "allocations": [
+                      {
+                        "amount": {
+                          "value": {
+                            "amount": "4.49",
+                            "currencyCode": "USD",
+                            "__typename": "Money"
+                          },
+                          "__typename": "MoneyValueConstraint"
+                        },
+                        "target": {
+                          "index": 0,
+                          "targetType": "MERCHANDISELINE",
+                          "stableId": "acb20e28-fc09-498e-bef5-e86057b0ebc7",
+                          "__typename": "DiscountTarget"
+                        },
+                        "__typename": "DiscountAllocation"
+                      }
+                    ]
+                  },
+                  "discount": {
+                    "title": "FULLHAIR20",
+                    "code": "FULLHAIR20",
+                    "codeHidden": false,
+                    "presentationLevel": "CART",
+                    "allocationMethod": "ACROSS",
+                    "message": null,
+                    "targetSelection": "ALL",
+                    "targetType": "MERCHANDISELINE",
+                    "value": {
+                      "percentage": 20.0,
+                      "__typename": "PercentageValue"
+                    },
+                    "__typename": "CodeDiscount"
+                  },
+                  "lineAmount": {
+                    "value": {
+                      "amount": "4.49",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "__typename": "DiscountLine"
+                }
+              ]
+            },
+            "cartMetafields": null,
+            "customFields": [],
+            "deliveryDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "fee": {
+              "__typename": "FilledFeeTerms",
+              "totalFeeAmount": {
+                "__typename": "MoneyValueConstraint",
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                }
+              },
+              "feeLines": []
+            },
+            "__typename": "Proposal",
+            "deliveryExpectations": {
+              "__typename": "UnavailableTerms"
+            },
+            "promiseProgram": {
+              "variantPromises": [],
+              "__typename": "PromiseProgram"
+            },
+            "memberships": {
+              "__typename": "FilledMembershipTerms",
+              "memberships": []
+            },
+            "availableRedeemables": {
+              "availableRedeemables": [],
+              "__typename": "AvailableRedeemables"
+            },
+            "shopCashBalance": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopPromotion": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopDiscountOffer": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "availableDeliveryAddresses": [],
+            "mustSelectProvidedAddress": false,
+            "mustSelectProvidedShippingRate": false,
+            "canUpdateDiscountCodes": true,
+            "canUpdateDeliveryAddress": true,
+            "canUpdateMerchandise": true,
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "deliveryMethods": {
+              "__typename": "UnavailableTerms"
+            },
+            "sellability": {
+              "shipping": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "acb20e28-fc09-498e-bef5-e86057b0ebc7",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "local": [],
+              "pickUp": [],
+              "pickupPoint": [],
+              "none": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "acb20e28-fc09-498e-bef5-e86057b0ebc7",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "__typename": "FilledSellability"
+            },
+            "payment": {
+              "__typename": "UnavailableTerms"
+            },
+            "poNumber": null,
+            "merchandise": {
+              "taxesIncluded": false,
+              "merchandiseLines": [
+                {
+                  "stableId": "acb20e28-fc09-498e-bef5-e86057b0ebc7",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/41738451648627",
+                    "digest": "611cd0a233617d0ce3ce71d8514a9cbc",
+                    "variantId": "gid://shopify/ProductVariant/41738451648627",
+                    "title": "Hair Building Fibers",
+                    "untranslatedTitle": "Hair Building Fibers",
+                    "subtitle": "Black / Regular 12g",
+                    "untranslatedSubtitle": "Black / Regular 12g",
+                    "sku": "667820011014",
+                    "price": {
+                      "amount": "22.46",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": {
+                      "amount": "24.95",
+                      "currencyCode": "USD",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/7473177198707",
+                      "vendor": "Toppik.com",
+                      "productType": "",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/hair-building-fibers",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0599/3824/2675/files/01ProductThumbnail12g_7acd7950-ae26-4bc7-aadd-d8fb42810a58.png?v=1787313437",
+                      "one": "https://cdn.shopify.com/s/files/1/0599/3824/2675/files/01ProductThumbnail12g_7acd7950-ae26-4bc7-aadd-d8fb42810a58_64x64.png?v=1787313437",
+                      "two": "https://cdn.shopify.com/s/files/1/0599/3824/2675/files/01ProductThumbnail12g_7acd7950-ae26-4bc7-aadd-d8fb42810a58_128x128.png?v=1787313437",
+                      "four": "https://cdn.shopify.com/s/files/1/0599/3824/2675/files/01ProductThumbnail12g_7acd7950-ae26-4bc7-aadd-d8fb42810a58_256x256.png?v=1787313437",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Color",
+                        "value": "Black",
+                        "__typename": "ProductVariantOption"
+                      },
+                      {
+                        "name": "Size",
+                        "value": "Regular 12g",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": {
+                      "name": "60 Days",
+                      "id": "gid://shopify/SellingPlan/1541472371",
+                      "digest": "7e744da3ad3461c50f70fa52f5e4c3ce",
+                      "deliveriesPerBillingCycle": 1,
+                      "prepaid": false,
+                      "allowStoreCredit": false,
+                      "subscriptionDetails": {
+                        "billingInterval": "DAY",
+                        "billingIntervalCount": 60,
+                        "billingMaxCycles": null,
+                        "deliveryInterval": "DAY",
+                        "deliveryIntervalCount": 60,
+                        "__typename": "SellingPlanSubscriptionDetails"
+                      },
+                      "__typename": "SellingPlan"
+                    },
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "22.46",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": {
+                    "title": "Hair Building Fibers - Black / Regular 12g",
+                    "interval": "DAY",
+                    "intervalCount": 60,
+                    "recurringPrice": {
+                      "amount": "22.46",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "fixedPrice": null,
+                    "fixedPriceCount": null,
+                    "__typename": "SubscriptionRecurringTotal"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "7bdf794acf2786ac6c3fd4c29e764dc1",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "22.46",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "17.97",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "22.46",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "17.97",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "22.46",
+                        "currencyCode": "USD",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "allocation": {
+                            "amount": {
+                              "value": {
+                                "amount": "4.49",
+                                "currencyCode": "USD",
+                                "__typename": "Money"
+                              },
+                              "__typename": "MoneyValueConstraint"
+                            },
+                            "__typename": "DiscountAllocation"
+                          },
+                          "discount": {
+                            "title": "FULLHAIR20",
+                            "code": "FULLHAIR20",
+                            "codeHidden": false,
+                            "presentationLevel": "CART",
+                            "allocationMethod": "ACROSS",
+                            "message": null,
+                            "targetSelection": "ALL",
+                            "targetType": "MERCHANDISELINE",
+                            "value": {
+                              "percentage": 20.0,
+                              "__typename": "PercentageValue"
+                            },
+                            "__typename": "CodeDiscount"
+                          },
+                          "__typename": "LineComponentDiscountAllocation"
+                        },
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        },
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        },
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        },
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "note": {
+              "customAttributes": [],
+              "message": null,
+              "__typename": "Note"
+            },
+            "scriptFingerprint": null,
+            "transformerFingerprintV2": null,
+            "buyerIdentity": {
+              "shopUser": null,
+              "customer": {
+                "presentmentCurrency": null,
+                "countryCode": null,
+                "market": {
+                  "id": "gid://shopify/Market/13975519347",
+                  "handle": "us",
+                  "__typename": "Market"
+                },
+                "shippingAddresses": [],
+                "__typename": "GuestProfile"
+              },
+              "purchasingCompany": null,
+              "phone": null,
+              "email": null,
+              "marketingConsent": [],
+              "shopPayOptInPhone": null,
+              "rememberMe": false,
+              "__typename": "FilledBuyerIdentityTerms"
+            },
+            "checkoutCompletionTarget": "ORDER",
+            "recurringTotals": [
+              {
+                "title": "Hair Building Fibers - Black / Regular 12g",
+                "interval": "DAY",
+                "intervalCount": 60,
+                "recurringPrice": {
+                  "amount": "22.46",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                },
+                "fixedPrice": null,
+                "fixedPriceCount": null,
+                "__typename": "SubscriptionRecurringTotal"
+              }
+            ],
+            "subtotalBeforeTaxesAndShipping": {
+              "value": {
+                "amount": "22.46",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacySubtotalBeforeTaxesShippingAndFees": {
+              "value": {
+                "amount": "22.46",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacyAggregatedMerchandiseTermsAsFees": [],
+            "legacyRepresentProductsAsFees": false,
+            "totalSavings": {
+              "value": {
+                "amount": "4.49",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "runningTotal": {
+              "value": {
+                "amount": "19.58",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "total": {
+              "__typename": "AnyConstraint"
+            },
+            "checkoutTotalBeforeTaxesAndShipping": null,
+            "checkoutTotalTaxes": null,
+            "checkoutTotal": {
+              "__typename": "AnyConstraint"
+            },
+            "deferredTotal": null,
+            "hasOnlyDeferredShipping": false,
+            "subtotalBeforeReductions": {
+              "value": {
+                "amount": "24.07",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "subtotalAfterMerchandiseDiscounts": {
+              "value": {
+                "amount": "17.97",
+                "currencyCode": "USD",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "duty": {
+              "totalDutyAmount": null,
+              "totalTaxAndDutyAmount": {
+                "value": {
+                  "amount": "1.61",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "totalAdditionalFeesAmount": null,
+              "__typename": "FilledDutyTerms"
+            },
+            "tax": {
+              "liability": null,
+              "taxBreakdown": null,
+              "totalTaxAmount": {
+                "value": {
+                  "amount": "1.61",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "totalTaxAmountRange": null,
+              "totalTaxAndDutyAmount": {
+                "value": {
+                  "amount": "1.61",
+                  "currencyCode": "USD",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "totalAmountIncludedInTarget": null,
+              "__typename": "FilledTaxTerms"
+            },
+            "taxExemptions": {
+              "available": [],
+              "__typename": "FilledTaxExemptionTerms"
+            },
+            "tip": {
+              "tipSuggestions": [
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.15,
+                  "amount": {
+                    "value": {
+                      "amount": "2.7",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.18,
+                  "amount": {
+                    "value": {
+                      "amount": "3.23",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.2,
+                  "amount": {
+                    "value": {
+                      "amount": "3.59",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.0,
+                  "amount": {
+                    "value": {
+                      "amount": "0.0",
+                      "currencyCode": "USD",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                }
+              ],
+              "terms": {
+                "tipLines": [],
+                "__typename": "FilledTipTerms"
+              },
+              "__typename": "TipWrapper"
+            },
+            "localizationExtension": {
+              "fields": [],
+              "__typename": "LocalizationExtension"
+            },
+            "landedCostDetails": {
+              "incotermInformation": null,
+              "__typename": "LandedCostDetails"
+            },
+            "dutiesIncluded": false,
+            "nonNegotiableTerms": null,
+            "optionalDuties": {
+              "buyerRefusesDuties": false,
+              "refuseDutiesPermitted": false,
+              "__typename": "OptionalDuties"
+            },
+            "attribution": {
+              "attributions": [],
+              "__typename": "Attribution"
+            },
+            "saleAttributions": {
+              "attributions": [],
+              "__typename": "SaleAttributions"
+            },
+            "managedByMarketsPro": false,
+            "managedMarketsPaymentProcessor": null,
+            "captcha": null,
+            "cartCheckoutValidation": null,
+            "alternativePaymentCurrency": null,
+            "lpmDisclosure": null,
+            "isShippingRequired": true,
+            "shopPayEnabled": true,
+            "remote": null,
+            "ucp": {
+              "continueUrl": "https://www.toppik.com/cart/c/hWNIpkhWAcwilDIIyD2ABFlT?key=ac5b12a8321713967ca7e55d53f855e3",
+              "paymentHandlers": [
+                {
+                  "id": "shopify.card",
+                  "name": "dev.shopify.card",
+                  "version": "2026-01-15",
+                  "spec": "https://ucp.dev/specification/payment-handler-guide",
+                  "schema": "https://shopify.dev/ucp/card-payment-handler/2026-01-15/config.json",
+                  "config": {
+                    "payment_methods": [
+                      {
+                        "type": "card",
+                        "enabled_card_brands": [
+                          "visa",
+                          "master",
+                          "american_express",
+                          "discover",
+                          "diners_club",
+                          "elo",
+                          "jcb",
+                          "unionpay"
+                        ]
+                      }
+                    ]
+                  },
+                  "__typename": "UcpPaymentHandler"
+                },
+                {
+                  "id": "shop_pay",
+                  "name": "dev.shopify.shop_pay",
+                  "version": "2026-01-23",
+                  "spec": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/spec.md",
+                  "schema": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/schema.json",
+                  "config": {
+                    "shop_id": "59938242675"
+                  },
+                  "__typename": "UcpPaymentHandler"
+                }
+              ],
+              "__typename": "UcpProposal"
+            }
+          },
+          "__typename": "NegotiationResultAvailable"
+        },
+        "errors": [
+          {
+            "code": "BUYER_IDENTITY_MISSING_CONTACT_METHOD",
+            "localizedMessage": "Missing a valid contact method.",
+            "nonLocalizedMessage": "Missing a valid contact method.",
+            "localizedMessageHtml": "Missing a valid contact method.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "BUYER_IDENTITY_EMAIL_REQUIRED",
+            "localizedMessage": "An email is required when the merchandise is purchased using a subscription.",
+            "nonLocalizedMessage": "An email is required when the merchandise is purchased using a selling plan.",
+            "localizedMessageHtml": "An email is required when the merchandise is purchased using a subscription.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "TAX_NEW_TAX_MUST_BE_ACCEPTED",
+            "localizedMessage": "Taxes associated to your order have changed. Review and try again.",
+            "nonLocalizedMessage": "A new tax line in the seller proposal must be accepted in order to continue.",
+            "localizedMessageHtml": "Taxes associated to your order have changed. Review and try again.",
+            "target": "$",
+            "__typename": "AcceptNewTermViolation"
+          },
+          {
+            "code": "REQUIRED_ARTIFACTS_UNAVAILABLE",
+            "localizedMessage": "",
+            "nonLocalizedMessage": "Required artifacts are unavailable.",
+            "localizedMessageHtml": null,
+            "__typename": "RequiredArtifactsUnavailableViolation"
+          }
+        ]
+      },
+      "__typename": "Session"
+    }
+  }
+}

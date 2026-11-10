@@ -1,0 +1,493 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".cobra.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHBspLiAAEA7_6Q_31rr4uZx51NcwfbthAJ_aegf0M6g60TZ1YYqJkYZF8q1pnH8nZzs-PCJXAM7wsiOuT-l-HYvbc:",
+      "domain": "cobra.com",
+      "path": "/",
+      "expires": 1825787068.208638,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "www.cobra.com",
+      "path": "/",
+      "expires": 1825787085.440779,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "www.cobra.com",
+      "path": "/",
+      "expires": 1795460687.730104,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHBspQ_AAEASAXq-UqXJDLbASo69Y52G7DXgnOIkW9avgxI1IWFTqhetR4erbbf5xhaJzp-PyEA2QKkXOnVgu8ORCI:",
+      "domain": "www.cobra.com",
+      "path": "/",
+      "expires": 1825787068.710699,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHBspTkAAEAAqEDriQm8NMZP67QqBkEnPkHPOthXuVDwsnW-gtJ4AwBuL8uICerRl0Nke1yQtAYiiPo1fnka7DCDAc:",
+      "domain": "www.cobra.com",
+      "path": "/",
+      "expires": 1825787068.710849,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHBspTlAAEAlUuBIULpu4QHveicANu7l7O8g1Fj9mIc9Fl9in2zPs_OaosKNZcXgp_qgfqwQcNjJipHTpx_38te7vw:",
+      "domain": "www.cobra.com",
+      "path": "/",
+      "expires": 1825787068.711246,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxSdLzaG10T7ZVZGkyo43%3Fkey%3D4bf9a7595c654b32ab25ba05c5a750c5",
+      "domain": "www.cobra.com",
+      "path": "/",
+      "expires": 1802113487.431064,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "Shoplift_Session",
+      "value": "{\"isMerchant\":false,\"timestamp\":\"2026-11-09T19:04:33.318Z\",\"entryPage\":\"https://www.cobra.com/\",\"lastSeen\":1794251073318}",
+      "domain": ".www.cobra.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "Shoplift_Essential",
+      "value": "{\"timestamp\":\"2026-11-09T19:04:38.295Z\",\"consentApproved\":true,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T19:04:29.616Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}",
+      "domain": ".www.cobra.com",
+      "path": "/",
+      "expires": 1825787078,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "Shoplift_Analytics",
+      "value": "{\"timestamp\":\"2026-11-09T19:04:38.295Z\",\"visitor\":null,\"queue\":[]}",
+      "domain": ".www.cobra.com",
+      "path": "/",
+      "expires": 1825787078,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "4efa1beb-efa7-4fcc-9324-4fe61e3822f9",
+      "domain": "www.cobra.com",
+      "path": "/",
+      "expires": 1825787078,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__pp_sid",
+      "value": "nVBjiPqhxv7pYqyd_mw9mrktk",
+      "domain": "www.cobra.com",
+      "path": "/",
+      "expires": 1794252884,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__pp_pid",
+      "value": "Dq47rCAxYeCbwG6f_mw9mrktg",
+      "domain": "www.cobra.com",
+      "path": "/",
+      "expires": 1828811084.377854,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "7cc7d9ee-3708-4d17-9219-6ea4891eab4b",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1794341079,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.3dcd",
+      "value": "874c6d1931a030c9.1794251081.1.1794251081.1794251081",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1828811080.99926,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.3dcd",
+      "value": "*",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1794252880,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lantern",
+      "value": "0ae56cbf-7fa4-4dd9-a65b-a9ed5d56f0fc",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1796843080,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1794251081976.7e6b7198-543e-44db-9141-54eafaf9777e",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1802027081,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1606768979.1794251083",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1828811082.858571,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "value": "FPID2.2.%2BGLKD%2F0gkGPBhJHFC%2BHKLIwqnjgRQ8UNzuCyAyGFHC4%3D.1794251083",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1828811106.403565,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "value": "jj9X4nmYNEKHOlPPdEvSQJVrGbv6LQJFdwRDhqbza9FHeighIIkK6775BP9bj3rJwI9a7OfwK2zIy2fC91%2Ffgz1rbwLuvVAmaucmPoqcLKayln1jQwx8oGtaET4Ibw%3D%3D",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1794323083.233907,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPAU",
+      "value": "1.2.1938327543.1794251083",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1802027083.403927,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hstc",
+      "value": "229232323.d31f20f3da3001e014333a4535cf13b4.1794251084662.1794251084662.1794251084662.1",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1809803084,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hubspotutk",
+      "value": "d31f20f3da3001e014333a4535cf13b4",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1809803084,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssrc",
+      "value": "1",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssc",
+      "value": "229232323.1.1794251084663",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1794252884,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_Q3cXTX-6SPKjmx3LKuatbg%2351e484c0-bc32-4ffe-8832-b846aae249ad-1794251072",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1825808711.509856,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "5AJtLQSjG0j6kVY2slEWqP9tQlFXz5XYKs8J8p45BWM-1794251086.7208483-1.0.1.1-tKtELFPqaom2EW9sVPGq4xG7XHvQ3b6L9vASoq6vxsvaMQ6S37S72.K6BFNrZe3mNH5jF4iee66Uz6IpRydO2H89B4A5ECnc9QqoH29VGzh_unUWa.gC6xI20rPGYuDJ",
+      "domain": ".www.cobra.com",
+      "path": "/",
+      "expires": 1794252887.43139,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://cobra.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "_ga_W1Z5HRVGD7",
+      "value": "GS2.1.s1794251082$o1$g1$t1794251105$j37$l0$h292938623",
+      "domain": ".cobra.com",
+      "path": "/",
+      "expires": 1828811105.508518,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.cobra.com",
+      "localStorage": [
+        {
+          "name": "trackedCompleteOrderSourceId",
+          "value": "null"
+        },
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "_pxSessionStart",
+          "value": "1794251079832"
+        },
+        {
+          "name": "_pxPageVisited",
+          "value": "{\"NVt1k\":[\"/products/75-allroad\"]}"
+        },
+        {
+          "name": "algolia_analytics_clicked_objects",
+          "value": "[]"
+        },
+        {
+          "name": "lastSeenErrorReceiptId",
+          "value": "undefined"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,c\"!15Y\\#&]S[+o,pT3d<9mXa^|26j`<<l?@$VbkKRDB!Wj)[O,3C9X734 ]0iv;$#FjE^FQ7Hj^62ifVL0hj,mR]53qOm]SU"
+        },
+        {
+          "name": "trackedSourceId",
+          "value": "\"hWNIxSdLzaG10T7ZVZGkyo43\""
+        },
+        {
+          "name": "Shoplift_ClientId",
+          "value": "4efa1beb-efa7-4fcc-9324-4fe61e3822f9"
+        },
+        {
+          "name": "addedProductStape",
+          "value": "[{\"item_id\":\"7146497146942\",\"item_sku\":\"CCBR75AR01\",\"item_variant\":\"41402261504062\",\"item_name\":\"Cobra 75 All Road\",\"variant_name\":null,\"item_category\":\"CB Radio\",\"item_brand\":\"cobra.com\",\"item_url\":\"/products/75-allroad?variant=41402261504062\",\"price\":199.95,\"imageURL\":\"https://cdn.shopify.com/s/files/1/2203/2035/files/Cobra_Website_Product-Heros_Transparent-PNGs_75AllRoad_v1.png?v=1741287680\",\"quantity\":1,\"compare_at_price\":\"199.95\"}]"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,'%-pk+Ed1~3k`@I9))S2=Mj_2bW5u_%;vtd1?h!5(;.<69F%O0}!F\u007fT,L7xT>S22Jb@j,q@lyH)+1Op[Dzb$Hn-@KpEM3y"
+        },
+        {
+          "name": "__rmco",
+          "value": "{\"channelIds\":{\"attr_sid\":\"112298\",\"aff_mid\":\"53731\"},\"scope\":\"\",\"version\":\"2\",\"productConsents\":{\"ranTrkInt\":true,\"ranTrkExt\":true,\"ranAut\":true,\"ranCGE\":true,\"rtbRet\":true,\"rtbPro\":true,\"cadTrk\":true,\"dspTrk\":true},\"execStatus\":1,\"consentSought\":false,\"sourceDomain\":\"www.cobra.com\",\"rmPurposeConsents\":[],\"rmVendorConsents\":[],\"id\":\"708cd821-1224-4621-ba6e-2594120ec004\",\"scnt\":0,\"maxAge\":1794252882946}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxSdLzaG10T7ZVZGkyo43\"},{\"postPurchaseInquiryStatus\":\"disabled\",\"setShippingAddressAsDefault\":false}],[{\"id\":\"hWNIxSdLzaG10T7ZVZGkyo43\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}],[{\"id\":\"hWNIxSdLzaG10T7ZVZGkyo43\",\"checkoutSessionIdentifier\":\"6bebbbc9d8f386671662486a5d316f74\"},{}]]"
+        },
+        {
+          "name": "sid",
+          "value": "69cee290dc7011f1a3244d19fc0dfd7f"
+        },
+        {
+          "name": "algolia_analytics_options",
+          "value": "{\"partial\":true}"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-09T19:04:44.249Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-c1b302ed-81CB-4D1F-1872-90EF484EBC7C\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"cobra-com.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-c1b302ed-81CB-4D1F-1872-90EF484EBC7C\",\"event_date_time\":\"2026-11-09T19:04:44.249Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"4efa1beb-efa7-4fcc-9324-4fe61e3822f9\",\"page_url\":\"https://www.cobra.com/products/75-allroad\",\"currency\":\"USD\",\"product\":{\"product_id\":\"7146497146942\",\"product_title\":\"Cobra 75 All Road\",\"variant_id\":\"41402261504062\",\"variant_title\":\"Cobra 75 All Road\",\"quantity\":1,\"variant_price\":199.95,\"product_vendor\":\"cobra.com\"}}}}}]"
+        },
+        {
+          "name": "_sbp",
+          "value": "4efa1beb-efa7-4fcc-9324-4fe61e3822f9"
+        },
+        {
+          "name": "sidExpiry",
+          "value": "2026-11-10T19:04:39.481Z"
+        },
+        {
+          "name": "marketShopStape",
+          "value": "{\"id\":\"1075740734\",\"code\":\"US\"}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxSdLzaG10T7ZVZGkyo43\""
+        },
+        {
+          "name": "li_adsId",
+          "value": "944c1c96-dad1-4b4d-ad0a-9c773e033d2a"
+        },
+        {
+          "name": "shoplift_last_pageview",
+          "value": "{\"at\":1794251075978,\"loc\":\"/products/75-allroad\"}"
+        },
+        {
+          "name": "algolia_analytics_purchase_objects",
+          "value": "[{\"index\":\"shopify_cobra_us_products\",\"objectIDs\":[\"41402261504062\"],\"currency\":\"USD\",\"eventName\":\"Add To Cart\"}]"
+        },
+        {
+          "name": "fVjy0EcUpJXecA-rapid-js-visitor-3",
+          "value": "{\"visitorTimestamp\":1794251084908,\"numVisitorPageViews\":1,\"numSessionPageViews\":1,\"numSessions\":1,\"visitorId\":\"91a67b4d-aca3-4418-b113-f02737dd0f3e\",\"sessionId\":\"66e56a78-789e-4fc7-a233-a170d42b4bfc\",\"bandwidth\":\"\"}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "vidExpiry",
+          "value": "2027-12-04T19:04:39.190Z"
+        },
+        {
+          "name": "__rmid",
+          "value": "7d3ce3e9-54a1-4f6c-84d0-f7e936c8384c:1802027082958"
+        },
+        {
+          "name": "vid",
+          "value": "69a27b60dc7011f1a3244d19fc0dfd7f"
+        },
+        {
+          "name": "gtmBrowserId",
+          "value": "1794251959715"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,HVT\"R<P2:F!g+B#|z|kU8`gg+o\"|!M}*0\u007fpof=jUrSaXQbqq5h+=<r~^k6LG|G)h(uv\u007fQGJ#Zj2!)F^).-"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_",
+          "value": "data:application/zip;base92,XSKNXE? VJ{\"V0JT1_{t8\u007fyrZ8QvW>;>cHgD:7Ej%vm0mqoheP>SX8eQN6-9~j4$e~|8OlyV+ZR:G$}psP"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92, 5mEI~M~AY]CO\\_o1zW.UDSZ~l8Z{xN\"B5D-+Y<3dzF%PDPpR7:,[rXN2<?V1lh`vS1pBoJ_.;sEBFVwP]"
+        },
+        {
+          "name": "fieldMappingProductStape",
+          "value": "{\"7146497146942\":{\"category\":\"CB Radios\",\"collections\":[{\"id\":152685183038,\"title\":\"Recreational CB Radios\",\"handle\":\"recreational-cb-radios\"},{\"id\":261087985726,\"title\":\"Top Selling CB Radios\",\"handle\":\"top-selling-cb-radios\"}],\"metafields\":{\"custom\":{\"filter_query_name\":\"75 All Road\",\"pdp_addons\":[{\"id\":40026064977982,\"title\":\"Default Title\",\"sku\":\"CCBABTPT01\"},{\"id\":6927173419070,\"title\":\"Default Title\",\"sku\":\"HG A1500\"},{\"id\":6927173353534,\"title\":\"Default Title\",\"sku\":\"HG A1000\"}],\"product_box_image\":\"//www.cobra.com/cdn/shop/files/files/Cobra_2023_Product-Launch_75-AllRoad_PDP_Website-Content_WITB_v1.jpg?v=96048\",\"product_box_item_list\":[\"75 All Road CB Transceiver\",\"All-In-One USB-powered Bluetooth Handset\",\"Mounting Bracket & Hardware\",\"12V Power Adapter\",\"Hardwire Installation Cable\",\"Quick Start Guide\"],\"product_features_bottom_image\":\"//www.cobra.com/cdn/shop/files/files/Cobra_2023_Product-Launch_75-AllRoad_PDP_Website-Content_Main-Features_Image-2_v1.png?v=96048\",\"product_features_description\":\"For on road, off road, and everything in between, the Cobra 75 All Road is the only CB radio you'll ever need for clear communication.\",\"product_features_title\":\"For Every Road, There's All Road\",\"product_features_top_image\":\"//www.cobra.com/cdn/shop/files/files/Cobra_2023_Product-Launch_75-AllRoad_PDP_Website-Content_Main-Features_Image-1_v1.png?v=96048\",\"product_feature_1_description\":\"Access channels on AM or FM to communicate with more users and with better sound quality\",\"product_feature_1_title\":\"Dual-Mode AM/FM\",\"product_feature_2_description\":\"Built-in Bluetooth enables connections to a wireless headset* or the optional All Road PTT button*\",\"product_feature_2_title\":\"Bluetooth\u00ae Connectivity\",\"product_feature_3_description\":\"Transmit and receive with ultra-clear sound quality with DSP (Digital Signal Processing)\",\"product_feature_3_title\":\"Digital Noise Cancellation\",\"product_feature_4_description\":\"Head out in any weather with an IP66 rating that protects the All Road against water and dust\",\"product_feature_4_title\":\"Waterproof IP66 Rating\",\"product_feature_5_description\":\"The All Road\u2019s 2-piece wireless design lets you mount the transceiver anywhere inside the vehicle\",\"product_feature_5_title\":\"Modular Design\",\"product_feature_6_description\":\"Power the all-in-one handset directly from your vehicle's USB port or 12V accessory port\",\"product_feature_6_title\":\"USB or 12V Power\",\"product_info_faq\":\"BlueParrott:\u00a0\\nHow do I customize my BlueParrott button on my headset to PTT with the 75 All Road?\u00a0\\nTo configure your BlueParrott headset to PTT with the 75 All Road, you will need to download the BlueParrott App and select \u201cCobra PTT\u201d in the Menu options. You can find these instructions on cobra.com:\u00a0cobra.com/ptt\\n\u00a0\\n\u00a0\\nDo I need a BlueParrott headset to PTT with the All Road?\u00a0\\nYou do not need a BlueParrott headset to PTT with the All Road.\u00a0 You can pair and use any compatible Bluetooth headset.\u00a0\u00a0\u00a0\\n\u00a0\\nWhat is the difference between using a BlueParrott headset over other wireless headsets for use with the 75 All Road?\u00a0\\nBlueParrott has a customizable button (the \u201cBlueParrott Button\u201d) that is customizable to PTT with the 75 All Road.\u00a0 Without a BlueParrott headset, you will need to use the All Road handset or the All Road Wireless PTT Button to communicate with others over the All Road.\u00a0 Having the option to customize the BlueParrott button allows you to PTT directly from the headset and also switch between phone calls and CB communications while driving.\u00a0\\n\u00a0\\n\u00a0\\nWhy do I hear CB radio sound during a phone call when using a BlueParrott headset?\u00a0\\nDue to multipoint, and what profiles your headphones support, performance can vary across the many different Bluetooth headphones on the market.\u00a0 If you are experiencing noise or sound while on a phone call \u2013 or streaming, you can turn the All Road volume OFF or turn the squelch all the way up to block incoming noise from the CB.\u00a0\\n\u00a0\\nMy BlueParrott headset is configured to One Touch PTT.\u00a0 What happens if I accidentally press the BlueParrott button \u2013 will I jam the channel?\u00a0\\nIf the BlueParrott button is accidentally pressed while in One Touch PTT mode, the 75 All Road is designed with the Timeout Timer feature, which will automatically end or cut transmission on an open channel after 5 minutes (or it will cut off after the time you have adjusted in the Timeout Timer menu settings).\u00a0\\n\u00a0\\n----------------------------------\\n\u00a0\\nOperation/Troubleshooting:\u00a0\\nWhat is VOX and how does it work?\u00a0\\nVOX stands for \u2018voice activated transmission\u2019 or \u2018voice-operated exchange\u2019 and is used to broadcast without having to use PTT.\u202fThe advantage of this feature is you can talk hands-free.\u202f How it works is, when VOX is enabled, the microphone listens for your voice and when you start talking, the All Road\u202fautomatically starts transmitting and stops when you finish talking.\u202f VOX is useful for communicating without the use of your hands to operate the All Road.\u202f It is useful while driving or in situations where you need to keep both hands on the wheel. \u202fPlease note that VOX can trigger from high background noise levels.\u202f In this case use normal PTT to control the transmitter.\u00a0\\n\u00a0\\n\u00a0\\nWhy is my headset not working with the All Road VOX feature?\u00a0\\nThe 75 All Road VOX or \u2018voice activated transmission\u2019 feature is only supported through the All Road handset and is not supported with a 3rd party headset (you cannot use your headset microphone to use the VOX feature).\u00a0\\n\u00a0\\nWhen I turn my 75 All Road handset ON, all I see is the Cobra logo, what do I do?\u00a0\\nDisconnect power to the Black box. Plug your handset into the black box USB jack and then reconnect power to the Blackbox. Push and release the Handset power button if needed to power ON the All Road.\u00a0 After a few moments the Handset should display normal CB standby mode.\u00a0\\nConnecting your handset to the black box will re-establish Bluetooth Pairing.\u00a0\\n\u00a0\\nWhat is Digital Signal Processing?\u00a0\\nDigital Signal Processing is software enhanced noise filtering that produces better sound.\u00a0 In the All Road, DSP delivers improved speech intelligibility when transmitting and when receiving.\u00a0 The DSP levels can be increased or decreased in the MENU under the NR RX (Receive) and NR TX (Transmit) options.\u00a0\\n\u00a0\\nHow do I know DSP is working? \u2026or how do I know DSP is ON?\u00a0\\nDSP is set to ON and the DSP level is set to 1 out of the box for both RX (Receive) and TX (transmit) modes.\u00a0 You can see DSP is ON by the \u2018NR\u2019 on the display.\u00a0 You will see \u2018NR\u2019 on the display for both RX and TX (you must press the PTT to see \u2018NR\u2019 on the display in TX mode).\u00a0 DSP levels can be turned OFF or adjusted by clicking on MENU and selecting \u2018NR RX\u2019 (to adjust DSP in Receive mode) or \u2018NR TX\u2019 (to adjust DSP level when transmitting).\u00a0 While you will notice DSP\u2019s benefits at level 5, you may want to adjust depending on the noise conditions inside your vehicle or from the incoming signal.\u00a0\u00a0\u00a0\\n\u00a0\\nHow do I adjust DSP?\u00a0\\nThere are two audio DSP audio paths on the All Road.\u00a0 One is for receiver audio (RX).\u00a0 The second is for transmit microphone audio (TX).\u00a0\u00a0\u00a0\\nReceiver DSP adjustment guideline:\u00a0\\nStart with \u201cRX NR\u201d level set to 01 (default).\u00a0 If the background audio noise level is still to high then consider stepping up the level to 02 and then do another listening test.\u00a0\\nIf the receiving station has a weak signal level and the voice sounds unintelligible, try reducing the RX NR level.\u00a0 If the level is set to 01 and the voice of the receiving station is still to distorted or is uncomfortable to listen to then try turning OFF RX NR.\u00a0 Very week stations are more challenging to the DSP algorithm to process effectively.\u00a0\u00a0\u00a0\u00a0\u00a0\\nTransmitter DSP adjustment guidelines:\u00a0\\nTX NR or transmitter microphone DSP is meant for the benefit of the station that\u2019s receiving the All Road transmissions.\u00a0 If the All Road is operated in a very high noise environment, then TX NR level 05 is recommended.\u00a0 This will provide the highest-level microphone audio signal to noise processing.\u00a0 This means the background noise is greatly reduced which in turn enhances the operators voice and will improve the receiving station\u2019s ability to clearly hear the All Road operator.\u00a0 Radio\u2019s that lack this powerful DSP technology will have greatly reduced intelligibility of the radio operators voice with the effected of diminishing the effectiveness of two-way radio communications.\u00a0\\nIn very quiet operating environment like a home base station, there will be little benefit to using the DSP processing.\u00a0 TX NR level 01 or turning OFF are operating considerations.\u00a0\\n\u00a0\\n\u00a0\\nWhy does the screen freeze on my All Road handset?\u00a0\\nWhen the screen freezes on your handset, pairing is lost to the transceiver or \u2018black box\u2019.\u00a0 To restore the connection, plug your handset into the black box USB port, then power ON the handset and wait for the handset to enter CB radio standby mode.\u00a0 This connection automatically sets up Bluetooth pairing between the handset and black box.\u00a0 Once paired, the Handset can be disconnected from the black box USB jack and powered through another power source inside your vehicle (via the USB or the supplied 12V adapter) and will remain connected to the black box.\u00a0\\n\u00a0\\nHow do I know if my handset is connected to the black box?\u00a0\\nYou will know if the 75 All Road handset is connected to the black box via the \u2018LNK\u2019 icon at the upper right corner of the Handset LCD.\u00a0 If \u2018LNK\u2019 has a line through it, this tells you connection is lost. If \u2018LNK\u2019 appears and the handset screen is frozen or not responding, turn off the handset and plug it into the black box directly to re-establish connection.\u00a0 Power the handset ON and you should see \u2018LNK\u2019 appear on the display (showing you are reconnected).\u00a0\\n\u00a0\\nWhat is the range of the All Road CB?\u00a0\\nVehicle to Vehicle (point to point) range is typically about 2 to 4 miles.\u00a0 The best range performance can be realized by installing a highly efficient CB antenna.\u00a0\\n\u00a0\\nWhat is the purpose of having both AM and FM modes?\u00a0\\nA CB radio that supports AM and FM offers backward compatibility with older, AM only CB radios.\u00a0 FM for CB radio is the way of the future!!!\u00a0\u00a0\\n\u00a0\\nWhy can\u2019t I hear any sound coming out of my handset?\u00a0\\nIf you have adjusted squelch and volume and you hear no sound, it is most likely your headset is connected to the All Road and in range. This can easily be resolved by turning off Bluetooth in your SmartPhone.\u00a0 If you want to keep your cell phone connected, then you can switch the audio path by pressing and holding the ENT/MENU button to open the Menu options, select BLUETOOTH&gt;&gt;AUDIO PATH and changing it to \u201cHANDSET\u201d by using the UP or DOWN arrow keys. You can also look at the display \u2013 if your CB is routing audio through your handset, the \u2018HD\u2019 icon will display.\u00a0 If a headset is connected, \u2018HS\u2019 will show on the display.\u00a0\\n\u00a0\\nCan I use my existing CB antenna with the 75 All Road CB being dual mode AM/FM?\u00a0\\nYes you can use your existing antenna system with the All Road and plugs into the antenna port on the back of the CB.\u00a0\\n\u00a0\\nIs the All Road waterproof?\u00a0\\nThe 75 All Road is IPX6 rated and rated \u2018waterproof\u2019 when the handset is connected and \u201clocked\u201d to the black box.\u00a0 When the handset is disconnected from the black box and powered through the 12V power adapter or plugged into a USB port in your vehicle, the radio itself remains waterproof but water may be able to penetrate at those alternative power connection points.\u00a0\u00a0\\n\u00a0\\nDoes the 75 All Road include FM?\u00a0\\nYes, dual mode AM/FM is included in the All Road.\u00a0\\n\u00a0\\nWireless Headset/Wireless PTT:\u00a0\\nHow does handsfree work with the All Road?\u00a0\\nThe 75 All Road is compatible with the All Road Wireless Push-to-Talk Button, which is an external PTT button and sold separately on cobra.com.\u00a0 When connected with a wireless headset, the All Road PTT button allows you to push-to-talk without having to reach for the All Road handset to PTT while driving.\u00a0 The Wireless PTT Button includes a Velcro strap that wraps and attaches to the steering wheel that allows PTT at your fingertips.\u00a0\u00a0\\n\u00a0\\nHow do I disconnect my headset from the All Road?\u00a0\\nTo unpair or disconnect the headset from the All Road, go into Menu settings: Press ENT/MENU&gt;&gt;BLUETOOTH&gt;&gt;PAIR&gt;&gt;HEADSET&gt;&gt;DISCONNECT.\u00a0\\n\u00a0\\nCan the All Road pair to my Smartphone?\u00a0\\nYou can pair the All Road to a wireless headset but not to a SmartPhone.\u00a0 You can use the All Road with a multipoint headset to switch between phone calls and CB communications, which is convenient for road trips.\u00a0\\n\u00a0\\n\u00a0\\nWhy can\u2019t I hear anything coming out of my headset?\u00a0\\nYou may need to pair your headset to the All Road &lt;supply link to QSG&gt; or\u00a0\u00a0\\n\u00a0may need change the audio path. To check or change the audio path on the All Road by selecting MENU on the keypad then in your Menu options select BLUTOOTH&gt;AUDIO PATH and you will see which audio path you are connected.\u00a0\u00a0\u00a0\\n\u00a0\\nI answer a phone call on my SmartPhone and hear no sound.\u00a0 I am not using the All Road or my wireless headset. Why is this happening?\u00a0\\nYou may still be connected to your wireless headset or in range with Bluetooth\u00ae.\u00a0 Go to your Bluetooth settings in your phone and turn off Bluetooth and this should restore audio in your SmartPhone.\u00a0\\n\u00a0\\n\u00a0\\nAll I hear is static on my wireless headset when I stream or want to watch a video, why?\u00a0\u00a0\u00a0\\nWhen your headset is connected to the All Road and you receive a phone call, your headset will default to that incoming call.\u00a0 However, streaming, video or any other audio from the phone becomes secondary to the All Road, meaning your headset will default to the All Road.\u00a0 In order to use your wireless headset with your phone for streaming, video or music, you will need to turn the volume on the All Road CB to OFF or turn the Squelch setting to the maximum level.\u00a0\\n\u00a0\\nDo I need the All Road Wireless PTT button with my BlueParrot headset?\u00a0\\nWhen the BlueParrot headset is configured to PTT via the BlueParrot button, you do not need to purchase and use the All Road Wireless PTT Button (this is optional).\u00a0\u00a0\\n\u00a0\\nDo I need the All Road Wireless PTT Button with my Bluetooth headset?\u00a0\\nThe All Road Wireless PTT Button is convenient to talk handsfree while using a wireless headset but it is not required.\u00a0 Having the wireless PTT option is convenient because it attaches to your steering wheel and give you a PTT solution at your fingertips without having to reach for the handset to PTT while driving.\u00a0\\n\u00a0\\nWhat is the purpose of having the All Road Wireless PTT Button?\u00a0\\nThe All Road Wireless PTT Button attaches to your steering wheel allowing you PTT access at your finger tips while driving.\u00a0 This is convenient and safer, since you don\u2019t have to reach for the 75 All Road handset to PTT to communicate.\u00a0\\n\u00a0\\nMy All Road Wireless PTT button is configured to One Touch PTT.\u00a0 What happens if I press the wireless button accident \u2013 will I jam the channel?\u00a0\\nIf you accidentally press the All Road PTT Button when paired to the 75 All Road and it is set to One Touch PTT mode, the 75 All Road CB is designed with the Timeout Timer feature, which will automatically end or cut transmission on an open channel after 5 minutes (or it will cut off after the time you have adjusted in the Timeout Timer menu settings).\u00a0\\n\u00a0\\n\u00a0\\nSupport/Other:\u00a0\\nWhere can I find a full listing of all the menu options in the 75 All Road manual?\u00a0\\nThe menu options (descriptions and functions) can be found in the 75 All Road manual.\u00a0 You can download the manual from Cobra\u2019s support pages at https://www.cobra.com/pages/product-help-manuals .\u00a0\\n\u00a0\\nDoes the All Road offer a 12V power option for the Black Box?\u00a0\\nYes, 75 All Road offers a 12V power adapter for the black box that plugs into your vehicle\u2019s 12V port.\u00a0 This is sold separately and will be available on cobra.com soon.\",\"product_info_manuals_column_1\":\"User Manuals\\n75 All Road Quick Start Guide\\n75 All Road Manual\\n75 All Road Sales Sheet\",\"product_info_tech_column_1\":\"SPECIFICATIONS\\n\\nUnit Dimensions: 5.16\u201d H x 4.65\u201d W x 1.06\u201d D\\nIndividual Box Dimensions: 8.35&quot; H x 6.54&quot; W x 3.46&quot; D\\nIndividual Box Weight: 2.2 lbs\\nRF Output Power: 4 Watts\\nCB Channels: 40 Channels\\n\",\"product_info_tech_column_2\":\"FEATURES\\n4 Watts Power Output\u00a0- Maximum power allowed by law for extended range of communication\\n40 CB Channels\u00a0- Full channel coverage\\nDual-Mode AM/FM\u00a0- Communicate on either AM or FM modes on all 40 channels\\nAuto Squelch Control - Continuously measures and blocks noise of incoming signals\\nInstant Channel 9 and 19\u00a0- Immediate access to emergency channel 9 and information channel 19\",\"product_subtitle\":\"Wireless CB Radio with Digital Noise Cancellation\"}},\"variants\":{\"41402261504062\":{\"barcode\":\"028377202506\"}}}}"
+        },
+        {
+          "name": "_xsd",
+          "value": "0|3"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794510279465"
+        },
+        {
+          "name": "shoplift_last_pageview_at",
+          "value": "1794251075978"
+        },
+        {
+          "name": "_pxPixelSent",
+          "value": "{\"NVt1k\":{\"\":{\"pixelSent\":true,\"sentAt\":1794251081012}}}"
+        },
+        {
+          "name": "refId",
+          "value": "data:application/zip;base92,R=(1|h9Vs}5 _i@#b+YhyrLgZJT\"%=yJdv\"Md>m-a,Q'GtbKO}Vcf]euhA 255q)Ucpu{yd}@oEm4@4F9GIn;c9235@A&F#FhL{eJ9en1Qe3pNKm^OF]XSqs);8!|"
+        },
+        {
+          "name": "stape_events",
+          "value": "{}"
+        },
+        {
+          "name": "algolia_config",
+          "value": "{\"app_id\":\"OQS4ZLT7Y1\",\"search_api_key\":\"d3988cadd81036b88ebdd1d4f206b32c\",\"index_name\":\"shopify_cobra_us_products\",\"useCookie\":false}"
+        },
+        {
+          "name": "Shoplift_Analytics",
+          "value": "{\"timestamp\":\"2026-11-09T19:04:38.295Z\",\"visitor\":null,\"queue\":[{\"timestamp\":\"2026-11-09T19:04:33.599Z\",\"type\":5,\"cart\":{\"token\":\"hWNIxSdLzaG10T7ZVZGkyo43?key=4bf9a7595c654b32ab25ba05c5a750c5\",\"total_price\":0,\"total_discount\":0,\"currency\":\"USD\",\"items_subtotal_price\":0,\"items\":[]}}]}"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,mE@>{KKqE:Bw8[*^RxvsHN*mZrs vV>U@%_KVK/+BLj\"Vs~Fe\u007fAJ)[xk3J9[ &LM[4lk0GYhKRFmwAfQr3c;UuBx~WKuaIlm7_Hc!X/!HKNkE-SPjEA^LKK jB.%7.(qgp/%4!)fNxAJG1Z,tN@%u"
+        },
+        {
+          "name": "Shoplift_Essential",
+          "value": "{\"timestamp\":\"2026-11-09T19:04:38.295Z\",\"consentApproved\":true,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T19:04:29.616Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}"
+        },
+        {
+          "name": "fVjy0EcUpJXecA-rapid-js-qoe-5",
+          "value": "{\"sessionTimeSaved\":18274.099999845028,\"journeyTime\":18274.099999845028,\"entries\":675,\"timeSaved\":18274.099999845028,\"score\":51200,\"pageMeasured\":\"https://www.cobra.com/products/75-allroad\",\"pageMeasuredCategory\":\"\",\"violations\":[{\"lastByteTime\":1053.5,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js\",\"resourceSizeBytes\":42863},{\"lastByteTime\":1547.800000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/apps/wlm/js/wlm-1.1.js\",\"resourceSizeBytes\":98097},{\"lastByteTime\":1175.699999988079,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/checkouts/internal/preloads.js?locale=en-US&default_configuration_id=2011791422\",\"resourceSizeBytes\":10181},{\"lastByteTime\":1410.6000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://shop.app/checkouts/internal/preloads.js?locale=en-US&default_configuration_id=2011791422&shop_id=22032035\",\"resourceSizeBytes\":0},{\"lastByteTime\":1620.5999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-ed94c51f.js\",\"resourceSizeBytes\":14007},{\"lastByteTime\":1786.800000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shopifycloud/storefront/assets/shopify_pay/storefront-f0e26bdf.js?v=20250812\",\"resourceSizeBytes\":69305},{\"lastByteTime\":2113,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/storefront/assets/storefront/origin_trials-e8afbaf1.js\",\"resourceSizeBytes\":1679},{\"lastByteTime\":2108.899999976158,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/thirdparty.js?v=168835812590648142761777401065\",\"resourceSizeBytes\":3324},{\"lastByteTime\":2278.5,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn-widgetsrepository.yotpo.com/v1/loader/H3HiG7bhAapgSgkzLXpJZbTv05ESDnomGxanJnvI?languageCode=en\",\"resourceSizeBytes\":0},{\"lastByteTime\":2390.100000023842,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://static.klaviyo.com/onsite/js/Xu9JT6/klaviyo.js?company_id=Xu9JT6\",\"resourceSizeBytes\":0},{\"lastByteTime\":2422.699999988079,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/s/files/1/0654/5637/3996/files/delivery_coder_cc698f59-3829-49b3-8fa2-f9ef0ba024af.js?v=1767391130&t=1088\",\"resourceSizeBytes\":210119},{\"lastByteTime\":2438.400000035763,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/extensions/01a18973-a927-79a3-9205-8515282cb07a/56071677a62720b5cde4241477474f626e61c35a-40569/assets/algolia_autocomplete.js\",\"resourceSizeBytes\":221574},{\"lastByteTime\":2430.5,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/extensions/01a1b023-9252-7243-80f4-eacb07de6244/bixgrow-affiliate-213/assets/bixgrow_affiliate_toolbar.js\",\"resourceSizeBytes\":27858},{\"lastByteTime\":2486,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/extensions/01a1b023-9252-7243-80f4-eacb07de6244/bixgrow-affiliate-213/assets/bixgrow_tracker_logic.js\",\"resourceSizeBytes\":9670},{\"lastByteTime\":2681.400000035763,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/extensions/019feb7b-2b89-71ba-a248-f1c8ef9b3368/stape-remix-56/assets/widget.js\",\"resourceSizeBytes\":15444},{\"lastByteTime\":2695.800000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.15.1.min.js\",\"resourceSizeBytes\":84567},{\"lastByteTime\":2691.699999988079,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/cart-item-prices.js?v=176065824509818788131791399653\",\"resourceSizeBytes\":899},{\"lastByteTime\":2625.300000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/s/files/1/2203/2035/files/Cobra_Value-Icons_Black-Circle_Shipping_60x.png?v=1659023919\",\"resourceSizeBytes\":0},{\"lastByteTime\":2625.300000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/s/files/1/2203/2035/files/Cobra_Value-Icons_Black-Circle_Returns_60x.png?v=1659023927\",\"resourceSizeBytes\":0},{\"lastByteTime\":2625,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/files/Frame_7260.png?crop=center&height=117&v=1732002649&width=117\",\"resourceSizeBytes\":0},{\"lastByteTime\":2625.099999964237,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/files/Frame_7260_1.png?crop=center&height=117&v=1732002650&width=117\",\"resourceSizeBytes\":0},{\"lastByteTime\":2625.300000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/files/Frame_7260_2.png?crop=center&height=117&v=1732002650&width=117\",\"resourceSizeBytes\":0},{\"lastByteTime\":2625.300000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/files/Frame_7260_3.png?crop=center&height=117&v=1732002649&width=117\",\"resourceSizeBytes\":0},{\"lastByteTime\":863.1999999880791,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://fonts.googleapis.com/css?family=Oswald:400,600,700&display=swap\",\"resourceSizeBytes\":5988},{\"lastByteTime\":753.8999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/jquery.loading.js?v=183728732484344664281777400841\",\"resourceSizeBytes\":4014},{\"lastByteTime\":778.3000000119209,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/waypoints.min.js?v=109620183588257736861777400838\",\"resourceSizeBytes\":8044},{\"lastByteTime\":832.3000000119209,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/jquery.counterup.min.js?v=72741712870112733821777400840\",\"resourceSizeBytes\":1067},{\"lastByteTime\":2695.900000035763,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/vendors@layout.theme.js?v=37496939058548908431777400840\",\"resourceSizeBytes\":305690},{\"lastByteTime\":2688.199999988079,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/layout.theme.js?v=118738376275329949071777960557\",\"resourceSizeBytes\":25514},{\"lastByteTime\":2688.300000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/vendors@template.index@template.page.owner@template.product@template.product.dualpro@template.product.roadscout.js?v=182037972821113745121777400841\",\"resourceSizeBytes\":43182},{\"lastByteTime\":2756.2999999523163,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.product.js?v=29422125235701353471793394852\",\"resourceSizeBytes\":34800},{\"lastByteTime\":858,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/custom.scss.css?v=138747759131765256461787948322\",\"resourceSizeBytes\":82989},{\"lastByteTime\":951.3000000119209,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://unpkg.com/aos@next/dist/aos.js\",\"resourceSizeBytes\":0},{\"lastByteTime\":897.2999999523163,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://geoip-js.com/js/apis/geoip2/v2.1/geoip2.js\",\"resourceSizeBytes\":0},{\"lastByteTime\":986.3000000119209,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://a.klaviyo.com/media/js/onsite/onsite.js\",\"resourceSizeBytes\":0},{\"lastByteTime\":2738.800000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/interact.js?v=92975040936014374861777400840\",\"resourceSizeBytes\":461},{\"lastByteTime\":1153,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://staticw2.yotpo.com/H3HiG7bhAapgSgkzLXpJZbTv05ESDnomGxanJnvI/widget.js\",\"resourceSizeBytes\":0},{\"lastByteTime\":937.1000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://bat.bing.com/bat.js\",\"resourceSizeBytes\":0},{\"lastByteTime\":861.3999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://api.config-security.com/first?host=cobra-com.myshopify.com&plat=SHOPIFY\",\"resourceSizeBytes\":0},{\"lastByteTime\":1006.6000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/.well-known/shopify/monorail/unstable/produce_batch\",\"resourceSizeBytes\":0},{\"lastByteTime\":970.4000000357628,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/wpm/bf882002ew93f4c027p0c16e2cama50b1ec1m.js\",\"resourceSizeBytes\":307098},{\"lastByteTime\":1001.1999999880791,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/.well-known/shopify/monorail/unstable/produce_batch\",\"resourceSizeBytes\":0},{\"lastByteTime\":909.0999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/client.init-shop-cart-sync_Bj24fe02.en.esm.js\",\"resourceSizeBytes\":2029},{\"lastByteTime\":910.3999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.document_DMcRsBXN.esm.js\",\"resourceSizeBytes\":543},{\"lastByteTime\":908.8999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.window_CAbVMZox.esm.js\",\"resourceSizeBytes\":1264},{\"lastByteTime\":909.3999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.init_DeqOtZhZ.esm.js\",\"resourceSizeBytes\":656},{\"lastByteTime\":976.6999999880791,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.register_lK8tAztS.esm.js\",\"resourceSizeBytes\":50183},{\"lastByteTime\":977.3000000119209,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.networkErrorMessages_Du380vAr.esm.js\",\"resourceSizeBytes\":381},{\"lastByteTime\":976.4000000357628,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/client.shop-cart-sync_HrK6i5QK.en.esm.js\",\"resourceSizeBytes\":7889},{\"lastByteTime\":976.5999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.defineInitFunction_CIjOjzsO.esm.js\",\"resourceSizeBytes\":289},{\"lastByteTime\":1021.8000000119209,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.casing_U_9x-Om3.esm.js\",\"resourceSizeBytes\":11655},{\"lastByteTime\":1022.5999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.utils_Cjeq_SSZ.esm.js\",\"resourceSizeBytes\":9552},{\"lastByteTime\":1041.1000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.v4_C3N_0s0v.esm.js\",\"resourceSizeBytes\":1197},{\"lastByteTime\":1036.199999988079,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useUserRecognitionSignal_C16wRfzi.esm.js\",\"resourceSizeBytes\":970},{\"lastByteTime\":1041.0999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.storage_DQF5v-OM.esm.js\",\"resourceSizeBytes\":569},{\"lastByteTime\":1079.9000000357628,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.hooks_ClqWRLYJ.esm.js\",\"resourceSizeBytes\":140},{\"lastByteTime\":1035.800000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.authorize_DINGMyE5.esm.js\",\"resourceSizeBytes\":315},{\"lastByteTime\":1036,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useEventListener_fO4k2xJe.esm.js\",\"resourceSizeBytes\":1325},{\"lastByteTime\":1036.0999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.validators_09U1U9sZ.esm.js\",\"resourceSizeBytes\":1047},{\"lastByteTime\":1038.8999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/client.payment-terms_DvRDBIOa.en.esm.js\",\"resourceSizeBytes\":83763},{\"lastByteTime\":1038.5,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.hooks_CZqB7gtv.esm.js\",\"resourceSizeBytes\":1078},{\"lastByteTime\":1034.3999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.css_ToQXRmm8.esm.js\",\"resourceSizeBytes\":35235},{\"lastByteTime\":1034.5,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.StyleProvider_DFyhF6E4.esm.js\",\"resourceSizeBytes\":1575},{\"lastByteTime\":1035.8999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.ShopAppIcon_BZTgxoAY.esm.js\",\"resourceSizeBytes\":2367},{\"lastByteTime\":1043.800000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.AuthorizeStateProvider_Daab4M7a.esm.js\",\"resourceSizeBytes\":30187},{\"lastByteTime\":1035.699999988079,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.ShopIcon_BsWowIk6.esm.js\",\"resourceSizeBytes\":2075},{\"lastByteTime\":1035.9000000357628,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.Button_C110zdcO.esm.js\",\"resourceSizeBytes\":678},{\"lastByteTime\":1035.9000000357628,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.I18n_PpJQ9PIp.en.esm.js\",\"resourceSizeBytes\":3313},{\"lastByteTime\":1036.1000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.colors_CaG6LKvC.esm.js\",\"resourceSizeBytes\":3230},{\"lastByteTime\":1043.300000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.constructCheckoutLink_BAzA4WiE.esm.js\",\"resourceSizeBytes\":833},{\"lastByteTime\":1078,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.context_IZTYG4gY.esm.js\",\"resourceSizeBytes\":603},{\"lastByteTime\":1078.3999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.PortalProvider_C_lvE6fP.esm.js\",\"resourceSizeBytes\":791},{\"lastByteTime\":1084.1000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.debounce_C-IIq26m.esm.js\",\"resourceSizeBytes\":237},{\"lastByteTime\":834.0999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/HelveticaNeue.woff?v=151573132717615292101777400841\",\"resourceSizeBytes\":0},{\"lastByteTime\":834,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/HelveticaNeueLTStd-Md.woff2?v=41128383059594982021777400841\",\"resourceSizeBytes\":0},{\"lastByteTime\":833.8999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/HelveticaNeueLTStd-Bd.woff2?v=76259464525626999961777400839\",\"resourceSizeBytes\":0},{\"lastByteTime\":926.6000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/helvetica-65.otf?v=14962933692996606831777400840\",\"resourceSizeBytes\":0},{\"lastByteTime\":926.1999999880791,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/HelveticaNeueLTStd-MdIt.woff2?v=33988362847062774201777400839\",\"resourceSizeBytes\":0},{\"lastByteTime\":3228,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://player.vimeo.com/video/809103404?h=b8aa10a453&badge=0&autopause=0&player_id=0&app_id=58479\",\"resourceSizeBytes\":0},{\"lastByteTime\":795.5,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.cart.js?v=18019532427363728571777400842\",\"resourceSizeBytes\":11884},{\"lastByteTime\":787,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.collection.js?v=46677870092844959221777400838\",\"resourceSizeBytes\":11092},{\"lastByteTime\":800.1000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.index.js?v=100388003160370264131777400839\",\"resourceSizeBytes\":9112},{\"lastByteTime\":791,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.page.about.js?v=38011064113192822261777400841\",\"resourceSizeBytes\":938},{\"lastByteTime\":789.7999999523163,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.page.owner.js?v=157638674225478314661777400838\",\"resourceSizeBytes\":24482},{\"lastByteTime\":798.1999999880791,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.page.product-registration.js?v=62575741330288411181777400839\",\"resourceSizeBytes\":2784},{\"lastByteTime\":904,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.page.questionnaire.js?v=183697144153454980711777400840\",\"resourceSizeBytes\":9325},{\"lastByteTime\":895,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.page.support.js?v=33452073284406099371777400840\",\"resourceSizeBytes\":2382},{\"lastByteTime\":897.8999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.page.technology.js?v=39574003582806696911777400841\",\"resourceSizeBytes\":938},{\"lastByteTime\":898.3999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.product.dualpro.js?v=63020492150028114841777960558\",\"resourceSizeBytes\":26337},{\"lastByteTime\":905.5,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.product.roadscout.js?v=173289590015251977951777960559\",\"resourceSizeBytes\":26221},{\"lastByteTime\":897.3000000119209,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.search.js?v=153382364281378517661777400841\",\"resourceSizeBytes\":2073},{\"lastByteTime\":905.3999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.account.js?v=35867631386137981141777400840\",\"resourceSizeBytes\":7334},{\"lastByteTime\":905.6999999880791,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.addresses.js?v=151776310141868513741777400841\",\"resourceSizeBytes\":7334},{\"lastByteTime\":908.3000000119209,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.login.js?v=108924500292730953021777400840\",\"resourceSizeBytes\":2290},{\"lastByteTime\":909.1999999880791,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.order.js?v=138741944012718993241777400841\",\"resourceSizeBytes\":7334},{\"lastByteTime\":908.5999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/template.register.js?v=109244300282396160951777400840\",\"resourceSizeBytes\":2290},{\"lastByteTime\":809.4000000357628,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://cdn.shopify.com/s/files/1/1935/1881/files/Rift-Bold2.woff2?v=1659125688\",\"resourceSizeBytes\":0},{\"lastByteTime\":809.0999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/DIN2014-Regular.ttf?v=68051276085198336351777400841\",\"resourceSizeBytes\":0},{\"lastByteTime\":807,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/cdn/shop/t/618/assets/din-bolditalic.otf?v=89245710771130476121777400841\",\"resourceSizeBytes\":0},{\"lastByteTime\":1681.5999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://fullstory.com/s/fs.js\",\"resourceSizeBytes\":0},{\"lastByteTime\":755.6999999880791,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/web-pixels@f882002ew93f4c027p0c16e2cama50b1ec1/app/web-pixel-281641022@a3321ca85cf5aaf6b57585fcd8d67b3a~2/pixel.modern.js\",\"resourceSizeBytes\":18772},{\"lastByteTime\":759,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/web-pixels@f882002ew93f4c027p0c16e2cama50b1ec1/app/web-pixel-94208062@aa512388c6e159e69a109d31a3b74919~2/pixel.modern.js\",\"resourceSizeBytes\":9705},{\"lastByteTime\":2039,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/web-pixels@f882002ew93f4c027p0c16e2cama50b1ec1/custom/web-pixel-21790782@1/sandbox/modern/products/75-allroad\",\"resourceSizeBytes\":76355},{\"lastByteTime\":2200.399999976158,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/web-pixels@f882002ew93f4c027p0c16e2cama50b1ec1/custom/web-pixel-23494718@10/sandbox/modern/products/75-allroad\",\"resourceSizeBytes\":81591},{\"lastByteTime\":2052.400000035763,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/web-pixels@f882002ew93f4c027p0c16e2cama50b1ec1/custom/web-pixel-25329726@2/sandbox/modern/products/75-allroad\",\"resourceSizeBytes\":76349},{\"lastByteTime\":2047.8999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/web-pixels@f882002ew93f4c027p0c16e2cama50b1ec1/custom/web-pixel-29065278@1/sandbox/modern/products/75-allroad\",\"resourceSizeBytes\":75985},{\"lastByteTime\":2066.900000035763,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/web-pixels@f882002ew93f4c027p0c16e2cama50b1ec1/custom/web-pixel-30572606@1/sandbox/modern/products/75-allroad\",\"resourceSizeBytes\":76162},{\"lastByteTime\":2036.800000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/web-pixels@f882002ew93f4c027p0c16e2cama50b1ec1/custom/web-pixel-32866366@1/sandbox/modern/products/75-allroad\",\"resourceSizeBytes\":83538},{\"lastByteTime\":2039.5,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/web-pixels@f882002ew93f4c027p0c16e2cama50b1ec1/custom/web-pixel-shopify-custom-pixel@0530/sandbox/modern/products/75-allroad\",\"resourceSizeBytes\":75944},{\"lastByteTime\":1105.0999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://staticw2.yotpo.com/widget-assets/yotpo-pixel/2026-05-19_07-47-44/bundle.js\",\"resourceSizeBytes\":0},{\"lastByteTime\":1049.0999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://staticw2.yotpo.com/widget-assets/widgets-initializer/app.v0.9.13-54.js\",\"resourceSizeBytes\":0},{\"lastByteTime\":1241.7999999523163,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/.well-known/shopify/monorail/unstable/produce_batch\",\"resourceSizeBytes\":0},{\"lastByteTime\":1244.3999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://www.cobra.com/.well-known/shopify/monorail/unstable/produce_batch\",\"resourceSizeBytes\":0},{\"lastByteTime\":1205.8999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":1,\"resourceName\":\"https://geoip-js.com/geoip/v2.1/country/me?referrer=https%3A%2F%2Fwww.cobra.com\",\"resourceSizeBytes\":0},{\"lastByteTime\":788.1000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":2,\"resourceName\":\"https://shop.app/pay/session?v=1\",\"resourceSizeBytes\":0},{\"lastByteTime\":1255.1000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":2,\"resourceName\":\"https://error-analytics-sessions-production.shopifysvc.com/\",\"resourceSizeBytes\":0},{\"lastByteTime\":752,\"implementationType\":\"dom\",\"type\":4,\"zone\":2,\"resourceName\":\"https://www.shopify.com/__exp/get?flags=f_f1fe65a1b8b195926a79a22aa5ac04a3&experiments=\",\"resourceSizeBytes\":0},{\"lastByteTime\":923.4000000357628,\"implementationType\":\"dom\",\"type\":4,\"zone\":2,\"resourceName\":\"https://monorail-edge.shopifysvc.com/v1/produce\",\"resourceSizeBytes\":0},{\"lastByteTime\":923,\"implementationType\":\"dom\",\"type\":4,\"zone\":2,\"resourceName\":\"https://monorail-edge.shopifysvc.com/v1/produce\",\"resourceSizeBytes\":0},{\"lastByteTime\":2912.800000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://otlp-http-production.shopifysvc.com/v1/metrics\",\"resourceSizeBytes\":0},{\"lastByteTime\":1765,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://shop.app/pay/hop?analytics_trace_id=11b7a2c4-d502-4869-9a72-aceb1f33a6d6&target_origin=https%3A%2F%2Fwww.cobra.com&client_handle=cobra-com.myshopify.com\",\"resourceSizeBytes\":0},{\"lastByteTime\":807.8999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.experiment_BJw5Oznc.en.esm.js\",\"resourceSizeBytes\":5501},{\"lastByteTime\":1313.3999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://monorail-edge.shopifysvc.com/v1/produce\",\"resourceSizeBytes\":0},{\"lastByteTime\":1341.800000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://monorail-edge.shopifysvc.com/v1/produce\",\"resourceSizeBytes\":0},{\"lastByteTime\":1331.300000011921,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://monorail-edge.shopifysvc.com/v1/produce\",\"resourceSizeBytes\":0},{\"lastByteTime\":1332.9000000357628,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://monorail-edge.shopifysvc.com/v1/produce\",\"resourceSizeBytes\":0},{\"lastByteTime\":907.1000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://cdn-widgetsrepository.yotpo.com/brandkit/custom-fonts/H3HiG7bhAapgSgkzLXpJZbTv05ESDnomGxanJnvI/helveticaneue/helveticaneue-regular-400.css\",\"resourceSizeBytes\":0},{\"lastByteTime\":953.5,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://staticw2.yotpo.com/widget-assets/widget-reviews-star-ratings/app.v0.39.0-1490.js\",\"resourceSizeBytes\":0},{\"lastByteTime\":910.1999999880791,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://cdn-widgetsrepository.yotpo.com/brandkit/custom-fonts/H3HiG7bhAapgSgkzLXpJZbTv05ESDnomGxanJnvI/rift/rift-bold-700.css\",\"resourceSizeBytes\":0},{\"lastByteTime\":1102.699999988079,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://staticw2.yotpo.com/widget-assets/widget-reviews-main-widget/app.v0.162.1-6152.js\",\"resourceSizeBytes\":0},{\"lastByteTime\":1115,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://www.cobra.com/.well-known/shopify/monorail/unstable/produce_batch\",\"resourceSizeBytes\":0},{\"lastByteTime\":986.0999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://monorail-edge.shopifysvc.com/v1/produce\",\"resourceSizeBytes\":0},{\"lastByteTime\":1143.8999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://monorail-edge.shopifysvc.com/v1/produce\",\"resourceSizeBytes\":0},{\"lastByteTime\":927.3999999761581,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://www.cobra.com/shopify_pay/accelerated_checkout\",\"resourceSizeBytes\":0},{\"lastByteTime\":893.8000000119209,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://www.cobra.com/.well-known/shopify/monorail/unstable/produce_batch\",\"resourceSizeBytes\":0},{\"lastByteTime\":1053.9000000357628,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g\",\"resourceSizeBytes\":0},{\"lastByteTime\":850.6999999880791,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://otlp-http-production.shopifysvc.com/v1/metrics\",\"resourceSizeBytes\":0},{\"lastByteTime\":931.9000000357628,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://monorail-edge.shopifysvc.com/v1/produce\",\"resourceSizeBytes\":0},{\"lastByteTime\":1103.5,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://api.config-security.com/event\",\"resourceSizeBytes\":0},{\"lastByteTime\":1962.4000000357628,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://ss.cobra.com/c45venpedks.js?ci1qji=Gg9ZIiQjSCYrJSNSOyBDAE5ZSlRWCgtLEAQGFxFABhke\",\"resourceSizeBytes\":0},{\"lastByteTime\":885.6999999880791,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://api-cdn.yotpo.com/v3/storefront/store/H3HiG7bhAapgSgkzLXpJZbTv05ESDnomGxanJnvI/product/7146497146942/ratings\",\"resourceSizeBytes\":0},{\"lastByteTime\":884.6999999880791,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://api-cdn.yotpo.com/v3/storefront/store/H3HiG7bhAapgSgkzLXpJZbTv05ESDnomGxanJnvI/product/7146497146942/ratings\",\"resourceSizeBytes\":0},{\"lastByteTime\":978,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://www.cobra.com/.well-known/shopify/monorail/unstable/produce_batch\",\"resourceSizeBytes\":0},{\"lastByteTime\":882.1000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://www.cobra.com/.well-known/shopify/monorail/unstable/produce_batch\",\"resourceSizeBytes\":0},{\"lastByteTime\":883.6999999880791,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://ss.cobra.com/gtag/js?id=G-W1Z5HRVGD7&cx=c&gtm=4e6b50\",\"resourceSizeBytes\":0},{\"lastByteTime\":956.5,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://rapid-cdn.yottaa.com/rapid/lib/fVjy0EcUpJXecA.js\",\"resourceSizeBytes\":124507},{\"lastByteTime\":794.0999999642372,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://s3.amazonaws.com/idme/developer/idme-buttons-2.0.1/assets/js/idme-modal.min.js?shop=cobra-com.myshopify.com\",\"resourceSizeBytes\":0},{\"lastByteTime\":769.5,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://www.cobra.com/cart/add.js\",\"resourceSizeBytes\":1743},{\"lastByteTime\":1126.5,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://js.hs-banner.com/v2/49288215/banner.js\",\"resourceSizeBytes\":68375},{\"lastByteTime\":1410.6000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://js.hs-analytics.net/analytics/1794245400000/49288215.js\",\"resourceSizeBytes\":0},{\"lastByteTime\":882.6000000238419,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://vh8jbx51ee.execute-api.us-east-1.amazonaws.com/dev/public/activation/?variant_id=shp_22032035_7146497146942_41402261504062\",\"resourceSizeBytes\":0},{\"lastByteTime\":2060,\"implementationType\":\"dom\",\"type\":4,\"zone\":3,\"resourceName\":\"https://otlp-http-production.shopifysvc.com/v1/metrics\",\"resourceSizeBytes\":0},{\"lastByteTime\":2691.100000023842,\"implementationType\":\"dom\",\"type\":0,\"zone\":0,\"resourceName\":\"https://otlp-http-production.shopifysvc.com/v1/metrics\",\"resourceSizeBytes\":0},{\"lastByteTime\":116.69999998807907,\"implementationType\":\"dom\",\"type\":1,\"zone\":0,\"resourceName\":\"https://www.cobra.com/cdn/shopifycloud/checkout-web/assets/c1/6ec9a0fa.CZV7_daJ.js\",\"resourceSizeBytes\":1684250}],\"jsErrors\":[],\"domElementCount\":3345,\"maxScrollDepth\":768,\"pageMeasuredPrefetched\":false,\"pageMeasuredUuid\":\"88f84a35-c830-4ce1-9d96-f6e97d6ac46e\",\"lastInteraction\":{\"type\":\"keydown\",\"target\":\"<body class=\\\"template-product-75-allroad\\\" />\"},\"serviceWorkers\":{\"supported\":true,\"registrations\":[],\"cacheStats\":[],\"yottaaConfig\":{}},\"collectionTimestamp\":1794251105029,\"commonDimensions\":{\"optState\":\"none\",\"profileId\":70241},\"experienceMetrics\":{\"cumulative_layout_shift\":0.017625583452970554,\"largest_contentful_paint\":3332,\"interaction_to_next_paint\":224,\"hero_image_display\":6069.899999976158,\"hero_image\":\"https://www.cobra.com/cdn/shop/files/Cobra_Website_Product-Heros_Transparent-PNGs_75AllRoad_v1_615x.png?v=1741287680\",\"time_to_interactive\":21755.5},\"webVitalsInfo\":{\"lcp\":[{\"entryType\":\"largest-contentful-paint\",\"duration\":0,\"id\":\"\",\"name\":\"\",\"renderTime\":3080,\"startTime\":3080,\"size\":3731,\"loadTime\":0,\"url\":\"\",\"resourceIndex\":-1,\"element\":\"<span />\"},{\"entryType\":\"largest-contentful-paint\",\"duration\":0,\"id\":\"\",\"name\":\"\",\"renderTime\":3332,\"startTime\":3332,\"size\":59136,\"loadTime\":0,\"url\":\"\",\"resourceIndex\":-1,\"element\":\"<div class=\\\"ewa-rteLine\\\" />\"}],\"cls\":[{\"duration\":0,\"entryType\":\"layout-shift\",\"hadRecentInput\":false,\"lastInputTime\":0,\"name\":\"\",\"sources\":[{\"node\":\"<nav class=\\\"hidden xl:block\\\" />\",\"currentRect\":{\"x\":265,\"y\":61,\"width\":590.171875,\"height\":24,\"top\":61,\"right\":855.171875,\"bottom\":85,\"left\":265},\"previousRect\":{\"x\":265,\"y\":49,\"width\":545,\"height\":48,\"top\":49,\"right\":810,\"bottom\":97,\"left\":265}},{\"node\":\"<div class=\\\"flex justify-end font-bold w-2/5\\\" />\",\"currentRect\":{\"x\":871.890625,\"y\":53,\"width\":431.109375,\"height\":40,\"top\":53,\"right\":1303,\"bottom\":93,\"left\":871.890625},\"previousRect\":{\"x\":886.890625,\"y\":53,\"width\":431.109375,\"height\":40,\"top\":53,\"right\":1318,\"bottom\":93,\"left\":886.890625}},{\"node\":\"<div class=\\\"hidden xl:flex xl:w-1/5 justify-end items-center text-12 tracking-.75\\\" />\",\"currentRect\":{\"x\":1123.71875,\"y\":0,\"width\":179.28125,\"height\":54,\"top\":0,\"right\":1303,\"bottom\":54,\"left\":1123.71875},\"previousRect\":{\"x\":1136.578125,\"y\":0,\"width\":181.421875,\"height\":54,\"top\":0,\"right\":1318,\"bottom\":54,\"left\":1136.578125}},{\"node\":\"<div class=\\\"announcement-swiper swiper swiper-initialized swiper-horizontal swiper-backface-hidden\\\" />\",\"currentRect\":{\"x\":295.5,\"y\":0,\"width\":760,\"height\":8,\"top\":0,\"right\":1055.5,\"bottom\":8,\"left\":295.5},\"previousRect\":{\"x\":303,\"y\":0,\"width\":760,\"height\":8,\"top\":0,\"right\":1063,\"bottom\":8,\"left\":303}}],\"startTime\":3260.100000023842,\"value\":0.0019817879880863693},{\"duration\":0,\"entryType\":\"layout-shift\",\"hadRecentInput\":false,\"lastInputTime\":0,\"name\":\"\",\"sources\":[{\"node\":\"<div class=\\\"announcement-swiper swiper swiper-initialized swiper-horizontal swiper-backface-hidden\\\" />\",\"currentRect\":{\"x\":295.5,\"y\":5,\"width\":760,\"height\":26,\"top\":5,\"right\":1055.5,\"bottom\":31,\"left\":295.5},\"previousRect\":{\"x\":295.5,\"y\":0,\"width\":760,\"height\":8,\"top\":0,\"right\":1055.5,\"bottom\":8,\"left\":295.5}}],\"startTime\":3875.5,\"value\":0.00038657272084919236},{\"duration\":0,\"entryType\":\"layout-shift\",\"hadRecentInput\":false,\"lastInputTime\":0,\"name\":\"\",\"sources\":[{\"node\":\"<div class=\\\" flex-row xl:flex-col mx-auto justify-center\\\" />\",\"currentRect\":{\"x\":100,\"y\":179,\"width\":690.59375,\"height\":220,\"top\":179,\"right\":790.59375,\"bottom\":399,\"left\":100},\"previousRect\":{\"x\":100,\"y\":135,\"width\":690.59375,\"height\":220,\"top\":135,\"right\":790.59375,\"bottom\":355,\"left\":100}}],\"startTime\":5435.800000011921,\"value\":0.005726150160995966},{\"duration\":0,\"entryType\":\"layout-shift\",\"hadRecentInput\":false,\"lastInputTime\":0,\"name\":\"\",\"sources\":[{\"node\":\"<div class=\\\"flex justify-end font-bold w-2/5\\\" />\",\"currentRect\":{\"x\":865.890625,\"y\":52,\"width\":436.109375,\"height\":43,\"top\":52,\"right\":1302,\"bottom\":95,\"left\":865.890625},\"previousRect\":{\"x\":870.890625,\"y\":53.5,\"width\":431.109375,\"height\":40,\"top\":53.5,\"right\":1302,\"bottom\":93.5,\"left\":870.890625}},{\"node\":\"[object Text]\",\"currentRect\":{\"x\":325.5,\"y\":11,\"width\":730,\"height\":14,\"top\":11,\"right\":1055.5,\"bottom\":25,\"left\":325.5},\"previousRect\":{\"x\":325.5,\"y\":11,\"width\":700,\"height\":14,\"top\":11,\"right\":1025.5,\"bottom\":25,\"left\":325.5}}],\"startTime\":5645.800000011921,\"value\":0.0006199659653923047},{\"duration\":0,\"entryType\":\"layout-shift\",\"hadRecentInput\":false,\"lastInputTime\":0,\"name\":\"\",\"sources\":[{\"node\":\"<div class=\\\"pdp-addons-container\\\" />\",\"currentRect\":{\"x\":790.59375,\"y\":528.09375,\"width\":460.390625,\"height\":187,\"top\":528.09375,\"right\":1250.984375,\"bottom\":715.09375,\"left\":790.59375},\"previousRect\":{\"x\":790.59375,\"y\":486.71875,\"width\":460.390625,\"height\":187,\"top\":486.71875,\"right\":1250.984375,\"bottom\":673.71875,\"left\":790.59375}},{\"node\":\"<div class=\\\"tax-text-optimize\\\" />\",\"currentRect\":{\"x\":790.59375,\"y\":740.09375,\"width\":461.875,\"height\":19.5,\"top\":740.09375,\"right\":1252.46875,\"bottom\":759.59375,\"left\":790.59375},\"previousRect\":{\"x\":790.59375,\"y\":698.71875,\"width\":461.875,\"height\":19.5,\"top\":698.71875,\"right\":1252.46875,\"bottom\":718.21875,\"left\":790.59375}},{\"node\":\"<div id=\\\"sticky-atc\\\" class=\\\"sticky-atc product-available\\\" />\",\"currentRect\":{\"x\":0,\"y\":0,\"width\":0,\"height\":0,\"top\":0,\"right\":0,\"bottom\":0,\"left\":0},\"previousRect\":{\"x\":790.59375,\"y\":742.21875,\"width\":460.390625,\"height\":25.78125,\"top\":742.21875,\"right\":1250.984375,\"bottom\":768,\"left\":790.59375}},{\"node\":\"<div class=\\\"divider my-0 flex-grow mr-2\\\" />\",\"currentRect\":{\"x\":790.59375,\"y\":739.09375,\"width\":452.390625,\"height\":1,\"top\":739.09375,\"right\":1242.984375,\"bottom\":740.09375,\"left\":790.59375},\"previousRect\":{\"x\":790.59375,\"y\":697.71875,\"width\":452.390625,\"height\":1,\"top\":697.71875,\"right\":1242.984375,\"bottom\":698.71875,\"left\":790.59375}}],\"startTime\":5896.199999988079,\"value\":0.003531098413527469},{\"duration\":0,\"entryType\":\"layout-shift\",\"hadRecentInput\":false,\"lastInputTime\":0,\"name\":\"\",\"sources\":[{\"node\":\"<div class=\\\"pdp-addons-container\\\" />\",\"currentRect\":{\"x\":790.59375,\"y\":563.09375,\"width\":460.390625,\"height\":187,\"top\":563.09375,\"right\":1250.984375,\"bottom\":750.09375,\"left\":790.59375},\"previousRect\":{\"x\":790.59375,\"y\":528.09375,\"width\":460.390625,\"height\":187,\"top\":528.09375,\"right\":1250.984375,\"bottom\":715.09375,\"left\":790.59375}},{\"node\":\"<div class=\\\"md:text-center description-optimize lg:text-left text-battleshipGrey text-15 my-4\\\" />\",\"currentRect\":{\"x\":789.59375,\"y\":305.71875,\"width\":461.390625,\"height\":135,\"top\":305.71875,\"right\":1250.984375,\"bottom\":440.71875,\"left\":789.59375},\"previousRect\":{\"x\":789.59375,\"y\":270.71875,\"width\":461.390625,\"height\":135,\"top\":270.71875,\"right\":1250.984375,\"bottom\":405.71875,\"left\":789.59375}},{\"currentRect\":{\"x\":790.59375,\"y\":513.71875,\"width\":460.390625,\"height\":25.375,\"top\":513.71875,\"right\":1250.984375,\"bottom\":539.09375,\"left\":790.59375},\"previousRect\":{\"x\":790.59375,\"y\":478.71875,\"width\":460.390625,\"height\":25.375,\"top\":478.71875,\"right\":1250.984375,\"bottom\":504.09375,\"left\":790.59375}},{\"node\":\"<div class=\\\"text-15 xl:text-20 sm:text-center lg:text-left price-optimize-test\\\" />\",\"currentRect\":{\"x\":790.59375,\"y\":456.71875,\"width\":460.390625,\"height\":24,\"top\":456.71875,\"right\":1250.984375,\"bottom\":480.71875,\"left\":790.59375},\"previousRect\":{\"x\":790.59375,\"y\":421.71875,\"width\":460.390625,\"height\":24,\"top\":421.71875,\"right\":1250.984375,\"bottom\":445.71875,\"left\":790.59375}},{\"node\":\"<div class=\\\"tax-text-optimize\\\" />\",\"currentRect\":{\"x\":0,\"y\":0,\"width\":0,\"height\":0,\"top\":0,\"right\":0,\"bottom\":0,\"left\":0},\"previousRect\":{\"x\":790.59375,\"y\":740.09375,\"width\":461.875,\"height\":19.5,\"top\":740.09375,\"right\":1252.46875,\"bottom\":759.59375,\"left\":790.59375}}],\"startTime\":9077.800000011921,\"value\":0.005380008204119254}],\"fid\":[],\"inp\":[{\"duration\":224,\"entryType\":\"event\",\"interactionId\":0,\"name\":\"pointerover\",\"processingEnd\":9819.199999988079,\"processingStart\":9819.100000023842,\"startTime\":9814.600000023842,\"target\":\"<button name=\\\"add\\\" id=\\\"AddToCart\\\" class=\\\"w-2/3 text-15 xl:text- rounded-r-lg border border-black font-bold flex-grow text-center bg-black text-white is-loading\\\" />\"}]}}"
+        },
+        {
+          "name": "delivery_promise_default_address",
+          "value": "{\"zip\":\"74600\",\"timezone\":\"Asia/Karachi\"}"
+        }
+      ]
+    }
+  ]
+}

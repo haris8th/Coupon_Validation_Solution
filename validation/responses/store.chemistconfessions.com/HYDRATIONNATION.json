@@ -1,0 +1,359 @@
+{
+  "errors": [
+    {
+      "message": "Variable `$merchandise` of type `MerchandiseTermInput` was provided invalid value for `merchandiseLines.0.lineComponents.0.merchandise.id` (Field `id` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.digest` (Field `digest` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.variantId` (Field `variantId` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.title` (Field `title` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.untranslatedTitle` (Field `untranslatedTitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.subtitle` (Field `subtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.untranslatedSubtitle` (Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.compareAtPrice` (Field `compareAtPrice` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.product` (Field `product` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.productUrl` (Field `productUrl` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.image` (Field `image` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.properties` (Field `properties` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.requiresShipping` (Field `requiresShipping` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.options` (Field `options` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.sellingPlan` (Field `sellingPlan` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.giftCard` (Field `giftCard` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.expectedTotalPrice` (Expected `MoneyConstraintInput!` value to not be `null`), `merchandiseLines.0.lineComponents.0.totalAmount` (Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.0.recurringTotal` (Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.0.lineAllocations` (Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`)",
+      "locations": [
+        {
+          "line": 1,
+          "column": 161
+        }
+      ],
+      "extensions": {
+        "code": "INVALID_VARIABLE",
+        "value": {
+          "merchandiseLines": [
+            {
+              "stableId": "181e5175-fefb-4ec5-9a2c-fa94ee58264b",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/60152370266398",
+                  "variantId": "gid://shopify/ProductVariant/60152370266398",
+                  "properties": [],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "12.00",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": "BUNDLES_DYNAMIC_EXPAND",
+              "lineComponents": [
+                {
+                  "stableId": "4cb0bc99-cf09-a705-9d9a-4a5f680b1a85",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/59713016889630",
+                    "digest": "5fe99fb8e48f543f8575beb350b65ee7",
+                    "variantId": "gid://shopify/ProductVariant/59713016889630",
+                    "title": "CryoGoo Cooling Mask",
+                    "untranslatedTitle": "CryoGoo Cooling Mask",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/15843002548510",
+                      "vendor": "Chemist Confessions Inc.",
+                      "productType": "",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/cryo-goo-lattice-mask",
+                    "image": {
+                      "altText": "cryogoo cooling jelly peel off mask box",
+                      "url": "https://cdn.shopify.com/s/files/1/0264/5573/6367/files/CRYOGOO_box_horizontal.png?v=1790983623",
+                      "one": "https://cdn.shopify.com/s/files/1/0264/5573/6367/files/CRYOGOO_box_horizontal_64x64.png?v=1790983623",
+                      "two": "https://cdn.shopify.com/s/files/1/0264/5573/6367/files/CRYOGOO_box_horizontal_128x128.png?v=1790983623",
+                      "four": "https://cdn.shopify.com/s/files/1/0264/5573/6367/files/CRYOGOO_box_horizontal_256x256.png?v=1790983623"
+                    },
+                    "properties": [
+                      {
+                        "name": "_sb_bundle_title",
+                        "value": {
+                          "string": "CryoGoo Cooling Jelly Peel Off Mask – 1 Mask"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_sb_bundle_group",
+                        "value": {
+                          "string": "059abdae (1/1)"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_sb_bundle_variant_id_qty",
+                        "value": {
+                          "string": "60152370266398:1"
+                        },
+                        "visible": false
+                      }
+                    ],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "12.0",
+                      "currencyCode": "USD"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "7cdf57e01a4e94c6c26b1b6151bf1bad",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "12.0",
+                        "currencyCode": "USD"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "12.0",
+                        "currencyCode": "USD"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "12.0",
+                        "currencyCode": "USD"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "12.0",
+                        "currencyCode": "USD"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "12.0",
+                        "currencyCode": "USD"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "problems": [
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "id"
+            ],
+            "explanation": "Field `id` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "digest"
+            ],
+            "explanation": "Field `digest` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "variantId"
+            ],
+            "explanation": "Field `variantId` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "title"
+            ],
+            "explanation": "Field `title` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "untranslatedTitle"
+            ],
+            "explanation": "Field `untranslatedTitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "subtitle"
+            ],
+            "explanation": "Field `subtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "untranslatedSubtitle"
+            ],
+            "explanation": "Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "compareAtPrice"
+            ],
+            "explanation": "Field `compareAtPrice` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "product"
+            ],
+            "explanation": "Field `product` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "productUrl"
+            ],
+            "explanation": "Field `productUrl` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "image"
+            ],
+            "explanation": "Field `image` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "properties"
+            ],
+            "explanation": "Field `properties` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "requiresShipping"
+            ],
+            "explanation": "Field `requiresShipping` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "options"
+            ],
+            "explanation": "Field `options` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "sellingPlan"
+            ],
+            "explanation": "Field `sellingPlan` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "giftCard"
+            ],
+            "explanation": "Field `giftCard` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "expectedTotalPrice"
+            ],
+            "explanation": "Expected `MoneyConstraintInput!` value to not be `null`"
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "totalAmount"
+            ],
+            "explanation": "Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "recurringTotal"
+            ],
+            "explanation": "Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "lineAllocations"
+            ],
+            "explanation": "Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`."
+          }
+        ]
+      }
+    }
+  ]
+}

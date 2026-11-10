@@ -1,0 +1,821 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".bark.co",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wm_cv",
+      "value": "1.0.8",
+      "domain": ".bark.co",
+      "path": "/products",
+      "expires": 1825516770,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wm_frt",
+      "value": "2026-11-06T16:59:31.131Z",
+      "domain": ".bark.co",
+      "path": "/products",
+      "expires": 1825516771,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1825516791.696587,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1801846791.697045,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGxzPy3AAEA5UdjpOZyGQROXQR4bhNassnshmrK-DA7am4ZwHV-zr2EtRMgc5_VouBEQ_8zOFMVboki8sgK_sThsSg:",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1825520361.964409,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGxzPzvAAEAaqeWplDGPzelVCZRQtbvnYFEAQigO-LoKgxgjzU6Z38WPNNS1d0kqnQykutZGS0Hs5IV43Z07-JsFA0:",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1825520361.964555,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGxzPzvAAEAImen_hLhREzV6c-EjimyFClI6hdlPQxww6SJjs3j7WhL_nLzNNR3X1NyN0amd3yIdvM65q4LFjapDS0:",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1825520361.964744,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "oMKUPrvMyxGoCxUXoyoLaotAh9Rqeg.Y1HQCYqGa3TA-1793984363.612282-1.0.1.1-MxZM1Mh3VdKwDn8VTO.WTs2FaBk.emdBVGiX18K66._bbh4xjrN9Rm02eZNn6dUBzR4Gw1NPcBj89VXFTlCn60OTIwmCkbuDHNkuYenyJbph2co2uKa6XGHF8ooq0IkG",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1793986161.964927,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "EXP_ecf65e44fe_identity",
+      "value": "JTIyJTdCJTVDJTIyd2ViX2V4cF9pZF92MiU1QyUyMiUzQSU1QyUyMmYxZWY3YTIwLWQ4MmMtNDc0OC1iODg2LTM2NzY3NWIwZDQ1NyU1QyUyMiUyQyU1QyUyMmZpcnN0X3NlZW4lNUMlMjIlM0ElNUMlMjIxNzkzOTg0MzY0LjA3OSU1QyUyMiU3RCUyMg==",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520364,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "og_session_id",
+      "value": "8881bc00f1de11ee9d1a2a5a00645b88.737741.1793984365",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1828544369.506306,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "datagrail_consent_id",
+      "value": "57c9e54a-566b-4a18-b07d-0e09ffd062fe.fa9c0e24-5d65-4abd-897e-469acad14c53",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1825516765,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "datagrail_consent_version_14761a33-038b-4bae-ada7-d9370e184748",
+      "value": "1de2d803-fb6a-439d-99c5-17e4389e0d85",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1825516765,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tkbl_session",
+      "value": "66223434-34fc-4e1c-bb84-0521af68cd7a",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1828544382.55973,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rl_page_init_referrer",
+      "value": "RS_ENC_v3_IiRkaXJlY3Qi",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520372,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__obref",
+      "value": "36723800-4458-448a-8896-b064db36743a",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1825520368.373811,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wisepops",
+      "value": "%7B%22popups%22%3A%7B%7D%2C%22sub%22%3A0%2C%22ucrn%22%3A86%2C%22cid%22%3A%2290889%22%2C%22v%22%3A5%7D",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1828544369.059229,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__pp_sid",
+      "value": "SnfELiYB3PHpSbY7_mw57z1tm",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1793986168,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__pp_pid",
+      "value": "jcJolw4rwSJ1wDIY_mw57z1rw",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1828544369.501862,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AMP_ecf65e44fe",
+      "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI2MTk0N2ZmOC01ZDdkLTRkMGYtYTE1Ni01YmRhODcyYzI5NDglMjIlMkMlMjJ1c2VySWQlMjIlM0ElMjIlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzkzOTg0MzY3NTgzJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc5Mzk4NDM2OTUzMiUyQyUyMmxhc3RFdmVudElkJTIyJTNBMCUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMCU3RA==",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520369,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rsession",
+      "value": "82d81b818d6d89cd",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1793986173,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ruid",
+      "value": "eyJ1dWlkIjoiOGE4ZDM0M2UtMTQxOS00ZjhiLTg0ZWUtMTAzNmE2OWM1NWJmIn0%3D",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1828544372.313789,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1793984370002.cbe1aa6e-968a-41ec-ba3b-b13b47aa1a39",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1801760370,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://bark.co",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1796576370,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "e0434994-4098-443f-90ec-0a19e971488e",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1825516770,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "76386dc2-09dc-4281-9519-4af5bb6a306a",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1794074371,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shd_s",
+      "value": "66d7e146-6458-4224-8600-7dc293bbcd12",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1793986185.078886,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wisepops_visitor",
+      "value": "%7B%22qpkowKbPw4%22%3A%2290cd075d-020c-4fc4-8fe7-28f94bb9cfdc%22%7D",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1828544371.691137,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wisepops_visits",
+      "value": "%5B%222026-11-06T16%3A59%3A26.361Z%22%5D",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1828544371.742877,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wisepops_session",
+      "value": "%7B%22mtime%22%3A1793984371818%2C%22pageviews%22%3A1%2C%22popups%22%3A%7B%7D%2C%22bars%22%3A%7B%7D%2C%22embeds%22%3A%7B%7D%2C%22sticky%22%3A%7B%7D%2C%22countdowns%22%3A%7B%7D%2C%22ref%22%3Anull%2C%22utm%22%3A%7B%7D%2C%22testIp%22%3Anull%2C%22debugToken%22%3Anull%2C%22closed%22%3A%5B%5D%7D",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shd_y",
+      "value": "e0434994-4098-443f-90ec-0a19e971488e",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825088385.280998,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "addshoppers.com",
+      "value": "2%7C1%3A0%7C10%3A1793984373%7C15%3Aaddshoppers.com%7C44%3AMWM4MTNkYTBhM2U5NDU5NDkwMDA2OTcyNWFhMTFmNDc%3D%7C1e3a8b6fbf9fe7e6b5185becdc846c7804c49286413e3e906cf8cf0d96358019",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1828544372.188116,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scsrid_r",
+      "value": "",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1828112372,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "Z4EJBj5iehdiaWAP4nB4QaOWxZ_8bdKm",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1828112372,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "Z4EJBj5iehdiaWAP4nB4QaOWxZ_8bdKm",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1828112372,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_axwrt",
+      "value": "e0434994-4098-443f-90ec-0a19e971488e",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520372,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.6a8e",
+      "value": "*",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1793986174,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.6a8e",
+      "value": "d41d0f82c66b2f27.1793984373.1.1793984374.1793984373",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1828544374.438132,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1796576374,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_mpxl_guid",
+      "value": "737d8971-da03-11f1-8b64-7bd008ce9e61",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520377.386995,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3AMPS._PKSD_f_f_MgTFL0u7TGSAmTvV1eHUzg%23d439d3aa-ba35-462c-a96c-f57b161cc582-1793984367",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825541991.69625,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIqCEUpUp9V9iEftKSgPxb%3Fkey%3D4488cfa4e9493518cffa23996c665520",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1801846791.696815,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "discount_code",
+      "value": "LICKSTERS",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rl_user_id",
+      "value": "RudderEncrypt%3AU2FsdGVkX1977d7lh8KnAS3g9KKcVcphauv0c5iBHek%3D",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520382,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rl_trait",
+      "value": "RudderEncrypt%3AU2FsdGVkX18idLKioCFs15uxFe%2BBP48tAHpQW3s63yB5SQQEC%2FAnNT%2FrsaEdG2Lf1RmNCN8zTfYF0IhB8XrQqsvZDG7ELwjjOvdicVdEFEM%3D",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520382,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rl_group_id",
+      "value": "RudderEncrypt%3AU2FsdGVkX18503WM3dvy3CVCrBIq%2BQRgUTphsVPRjoE%3D",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520382,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rl_group_trait",
+      "value": "RudderEncrypt%3AU2FsdGVkX18PCBJm3vhfAzvrfsAsHqmLRM4ERcTHZXI%3D",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520382,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rl_anonymous_id",
+      "value": "RudderEncrypt%3AU2FsdGVkX1%2Br%2FXOp9cr9jBtmL%2Fe3jsqMhRRMSl6Ai1vfNlQbF1gVZ11aJkTT3Ews2XjBI9RDAT%2FNQ8lfnmEIWg%3D%3D",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520382,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scida",
+      "value": "LXjgQ0mUQJg-PzfsChnpcUiOrNwHn899",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1828112380,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rl_session",
+      "value": "RudderEncrypt%3AU2FsdGVkX19DiO8tcofBIp2o14pb8e1XsGM6SP5Q2Jx3YtCCe4aq7gijGWXOSYMseQCkYIVIC7z3SEplEo30YUrmbSqOM5oqwszTPSlve%2B4iJYSbA9vqejlQmnioSKNTfywPcjAaW%2FGtA%2BOoJgAHUA%3D%3D",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520385,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rs_shopify_session_id",
+      "value": "1793984382613",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1793987986,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rs_shopify_cart_identified_at",
+      "value": "1793984386722",
+      "domain": "bark.co",
+      "path": "/",
+      "expires": 1793987986,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ax_session_data",
+      "value": "eyJpbnZpc2libGVUaW1lIjowLCJ0b3RhbFRpbWUiOjE2OTg4LCJsYXN0VXBkYXRlIjoxNzkzOTg0Mzg5MzM3fQ==",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520390,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ax_visitor",
+      "value": "%7B%22firstVisitTs%22%3A1793984376332%2C%22lastVisitTs%22%3Anull%2C%22currentVisitStartTs%22%3A1793984376332%2C%22ts%22%3A1793984390768%2C%22visitCount%22%3A1%7D",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520390,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ax_last_event",
+      "value": "1793984390746",
+      "domain": ".bark.co",
+      "path": "/",
+      "expires": 1825520390,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://bark.co",
+      "localStorage": [
+        {
+          "name": "rudder.03c97627-00ad-4a35-ae7c-e2ba20623d74.ack",
+          "value": "1793984393084"
+        },
+        {
+          "name": "asCartContents",
+          "value": "{\"contents\":[{\"product_name\":\"Licksters: Starter Kit (Toy + 2 Treat Sample Pack)\",\"price\":19.99,\"image\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_S_01.png\",\"quantity\":1,\"sku\":\"https://bark.co/products/licksters-starter-kit\"},{\"product_name\":\"Licksters Treat Peanut Butter + Beef Treats 7 oz Refill\",\"price\":14.99,\"image\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_S_01_SubscribeSave_Noticeable_1.png\",\"quantity\":1,\"sku\":\"https://bark.co/products/licksters-starter-kit\"}],\"timestamp\":1793984380460}"
+        },
+        {
+          "name": "_axwrt_backup",
+          "value": "{\"value\":\"e0434994-4098-443f-90ec-0a19e971488e\",\"setTs\":null,\"expiresAt\":1825520372059}"
+        },
+        {
+          "name": "5718FABB002E",
+          "value": "AAwQfxr73-JBieMBLDkfBbG17V23MvIj7GFhkM_X1oU7p10IO4QHwJ6fCC6ykleOiL1Zk8l0pzCCOv0Sp37VIR-QdSVBeg"
+        },
+        {
+          "name": "mprtcl-v4_37341E1C",
+          "value": "{'gs':{'ie':1|'dt':'us2-bfa6dad9e9cbc7479baca5f1effb73a8'|'cgid':'367ea3b0-ce4f-47ed-4e9f-427881f9976b'|'das':'d4b1ecf2-304f-4e45-209b-c9fff0ed6507'|'csm':'WyItNDIzNTExNDAwOTQ4ODM3NTI3OSJd'|'sid':'A09115FC-8E40-470D-7608-849B9E898240'|'les':1793984380042|'ssd':1793984370400}|'l':0|'-4235114009488375279':{'fst':1793984370983}|'cu':'-4235114009488375279'}"
+        },
+        {
+          "name": "asProductViewHistory",
+          "value": "[{\"time\":1793984371943,\"product\":{\"product_name\":\"Licksters: Starter Kit (Toy + 2 Treat Sample Pack)\",\"image\":\"https://bark.co/cdn/shop/files/Licksters_StarterKit_ATB_PDP_S_01.png\",\"quantity\":1,\"sku\":\"https://bark.co/products/licksters-starter-kit\"}}]"
+        },
+        {
+          "name": "sig_session_id",
+          "value": "{\"id\":\"3ab13b15-0ba1-401b-ac49-95c1cb643835\",\"createdAt\":1793984377644}"
+        },
+        {
+          "name": "asUsersActiveEmailCampaign",
+          "value": "{\"id\":\"6adbec9ab888887b52100647\",\"subtype\":\"Intent\",\"exp\":1794589180453}"
+        },
+        {
+          "name": "sid",
+          "value": "705546f0da0311f1b44eefdbf41ef449"
+        },
+        {
+          "name": "asTimeOnSiteValue",
+          "value": "22004"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-06T16:59:37.842Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-b1cd6569-BD05-44BC-A07B-CEFCCDE9B2DE\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"bark-food.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-b1cd6569-BD05-44BC-A07B-CEFCCDE9B2DE\",\"event_date_time\":\"2026-11-06T16:59:37.842Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"e0434994-4098-443f-90ec-0a19e971488e\",\"page_url\":\"https://bark.co/products/licksters-starter-kit\",\"currency\":\"USD\",\"product\":{\"product_id\":\"7693089275991\",\"product_title\":\"Licksters: Starter Kit (Toy + 2 Treat Sample Pack)\",\"variant_id\":\"44030847811671\",\"variant_title\":\"S\",\"quantity\":1,\"variant_price\":19.99,\"product_vendor\":\"BARK\"}}}}},{\"name\":\"Added to Cart\",\"time\":\"2026-11-06T16:59:37.859Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-b1cd658b-E457-4D56-91EB-B1CA3789FAB6\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"bark-food.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-b1cd658b-E457-4D56-91EB-B1CA3789FAB6\",\"event_date_time\":\"2026-11-06T16:59:37.859Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"e0434994-4098-443f-90ec-0a19e971488e\",\"page_url\":\"https://bark.co/products/licksters-starter-kit\",\"currency\":\"USD\",\"product\":{\"product_id\":\"7693019414615\",\"product_title\":\"Licksters Treat Peanut Butter + Beef Treats 7 oz Refill\",\"variant_id\":\"44030705762391\",\"variant_title\":\"S\",\"quantity\":1,\"variant_price\":14.99,\"product_vendor\":\"BARK\"}}}}}]"
+        },
+        {
+          "name": "sidExpiry",
+          "value": "2026-11-07T16:59:32.959Z"
+        },
+        {
+          "name": "EXP_ecf65e44fe",
+          "value": "{\"web_exp_id\":\"f1ef7a20-d82c-4748-b886-367675b0d457\",\"web_exp_id_v2\":\"f1ef7a20-d82c-4748-b886-367675b0d457\"}"
+        },
+        {
+          "name": "asShopperData",
+          "value": "{\"campaign_id\":\"6adbec9ab888887b52100647\",\"active_cart\":true,\"idshopper\":\"68ca6ae931f3ff37ecaf4855\",\"session_id\":\"1c813da0a3e94594900069725aa11f47\",\"datareg_gdpr_consented\":false}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIqCEUpUp9V9iEftKSgPxb\""
+        },
+        {
+          "name": "rudder_beacon_2eI6kw5WVNvV0ZGIs3LtMLRGWRT.3f9a3bdd-984c-44a1-9ed6-60c666457f90.ack",
+          "value": "\"1793984392049\""
+        },
+        {
+          "name": "asTimeOnSiteSetTime",
+          "value": "1793984392438"
+        },
+        {
+          "name": "AS_DATA_PRIVACY_DATA_REGULATED",
+          "value": "false"
+        },
+        {
+          "name": "rudder.03c97627-00ad-4a35-ae7c-e2ba20623d74.queue",
+          "value": "[]"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://bark.co/products/licksters-starter-kit\",\"exp\":1796576370898}"
+        },
+        {
+          "name": "theme:recently-viewed-products",
+          "value": "[7693089275991]"
+        },
+        {
+          "name": "asPageViews",
+          "value": "1"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "vid",
+          "value": "6f1a55f0da0311f1b44eefdbf41ef449"
+        },
+        {
+          "name": "isOnCart",
+          "value": "true"
+        },
+        {
+          "name": "rudder_2eI6kw5WVNvV0ZGIs3LtMLRGWRT.b6d72e9f-84e7-4666-a0b4-f57b7be2ec3e.batchQueue",
+          "value": "\"[]\""
+        },
+        {
+          "name": "pixelLastLoadedDatetime",
+          "value": "1794002372634"
+        },
+        {
+          "name": "pixelLastLoadedDatetimeIdentity",
+          "value": "1794002391095"
+        },
+        {
+          "name": "rudder.03c97627-00ad-4a35-ae7c-e2ba20623d74.reclaimStart",
+          "value": "null"
+        },
+        {
+          "name": "AMP_unsent_ecf65e44fe",
+          "value": "[]"
+        },
+        {
+          "name": "u_sclid",
+          "value": "4udqVATc3p8UEXkYfODJdu37Ju3C1zYuZ4EJBj5iehdiaWAP4nB4QaOWxZ_8bdKm"
+        },
+        {
+          "name": "NRBA_SESSION",
+          "value": "{\"value\":\"ecfafe29348ac490\",\"inactiveAt\":1793986190675,\"expiresAt\":1793998780048,\"updatedAt\":1793984392912,\"sessionReplayMode\":0,\"sessionReplaySentFirstChunk\":false,\"sessionTraceMode\":0,\"traceHarvestStarted\":false,\"serverTimeDiff\":-1549,\"custom\":{}}"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1793984369584"
+        },
+        {
+          "name": "ed73f20edbf2b73",
+          "value": "4511c0ed315b4c6fa2ad7b28007efee9_1827680382490"
+        },
+        {
+          "name": "_rsession",
+          "value": "tPLTEEYbCwF3QxTxGieDWMP3AEyfgsmV10951vdjpPDsC4QAVpRabA3VEaceDhMzmabwceyI4MmQ4MWI4MThkNmQ4OWNkIjp7ImlkIjoiODJkODFiODE4ZDZkODljZCIsImZpcnN0X2FjdGl2ZSI6MTc5Mzk4NDM3MDM2MCwibGFzdF9hY3RpdmUiOjE3OTM5ODQzNzE1MjYsImdlb2xvY2F0aW9uIjp7ImNpdHlfbmFtZSI6IkthcmFjaGkiLCJjb250aW5lbnRfY29kZSI6IkFTIiwiY29udGluZW50X25hbWUiOiJBc2lhIiwiY291bnRyeV9jb2RlIjoiUEsiLCJjb3VudHJ5X25hbWUiOiJQYWtpc3RhbiIsImxhdGl0dWRlIjoyNC44NjA4LCJsb25naXR1ZGUiOjY3LjAxMDQsInBvc3RhbF9jb2RlIjoiNzQwMDAiLCJwcm92aW5jZV9jb2RlIjoiU0QiLCJwcm92aW5jZV9uYW1lIjoiU2luZGgifX19"
+        },
+        {
+          "name": "rudder_beacon_2eI6kw5WVNvV0ZGIs3LtMLRGWRT.3f9a3bdd-984c-44a1-9ed6-60c666457f90.queue",
+          "value": "\"[]\""
+        },
+        {
+          "name": "bark_xo_customer_dogs",
+          "value": "null"
+        },
+        {
+          "name": "mprtcl-v4_37341E1C-id-cache",
+          "value": ""
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIqCEUpUp9V9iEftKSgPxb\"},{\"postPurchaseInquiryStatus\":\"disabled\"}]]"
+        },
+        {
+          "name": "OG_STATE",
+          "value": "{\"sessionId\":\"8881bc00f1de11ee9d1a2a5a00645b88.737741.1793984365\",\"optedin\":[],\"optedout\":[],\"productOffer\":{},\"firstOrderPlaceDate\":{},\"productToSubscribe\":{}}"
+        },
+        {
+          "name": "_renriched",
+          "value": "[{\"admin_graphql_api_id\":\"gid://shopify/Product/7693089275991\",\"body_html\":\"<p>Combine snacktime and playtime with LICKSTERS\u2014the toy and treat combo that turns restless zoomies into slobbery zen. Just twist open, insert 2 treats, and twist close for up to 40 minutes of long-lasting play. LICKSTERS Toy + Treat Combo nourishes your pup\u2019s brain and belly, with a natural rubber enrichment toy featuring multiple points of engagement, and wobbly, kinetic energy. Also included are 2 droolworthy treats\u2014made with real peanut butter, delicious beef flavor, gut-supporting probiotics, and not a lick of corn or soy. LICKSTERS keeps your dog\u2019s tail wagging and tongue lapping. Keep calm and LICK ON!<br><br>Size:<br>Small: 4.75\u201dW x 8.25\u201dH<br>Medium/Large: 6.25\u201dW x 9.75\u201dH<br><br>Features:<br>\u2022 Treat Dispenser<br>\u2022 Wacky Wobble<br>\u2022 Reduces Pup Boredom<br>\u2022 Easy Drool Removal<br>\u2022 Dishwasher Safe (Top Rack Only)<br><br>Recommended For: Fetch, Enrichment</p>\",\"category\":{\"admin_graphql_api_id\":\"gid://shopify/TaxonomyCategory/ap-2-3-7\",\"full_name\":\"Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Toys\",\"name\":\"Dog Toys\"},\"created_at\":\"2026-07-14T16:22:23-04:00\",\"description\":\"Combine snacktime and playtime with LICKSTERS\u2014the toy and treat combo that turns restless zoomies into slobbery zen. Just twist open, insert 2 treats, and twist close for up to 40 minutes of long-lasting play. LICKSTERS Toy + Treat Combo nourishes your pup\u2019s brain and belly, with a natural rubber enrichment toy featuring multiple points of engagement, and wobbly, kinetic energy. Also included are 2 droolworthy treats\u2014made with real peanut butter, delicious beef flavor, gut-supporting probiotics, and not a lick of corn or soy. LICKSTERS keeps your dog\u2019s tail wagging and tongue lapping. Keep calm and LICK ON!\\r\\n\\r\\nSize:\\r\\nSmall: 4.75\u201dW x 8.25\u201dH\\r\\nMedium/Large: 6.25\u201dW x 9.75\u201dH\\r\\n\\r\\nFeatures:\\r\\n\u2022 Treat Dispenser\\r\\n\u2022 Wacky Wobble\\r\\n\u2022 Reduces Pup Boredom\\r\\n\u2022 Easy Drool Removal\\r\\n\u2022 Dishwasher Safe (Top Rack Only)\\r\\n\\r\\nRecommended For: Fetch, Enrichment\",\"handle\":\"licksters-starter-kit\",\"has_variants_that_requires_components\":false,\"id\":7693089275991,\"image\":{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35660598542423\",\"alt\":\"Licksters_StarterKit_ATB_PDP_S_01#Size_S\",\"created_at\":\"2026-07-29T09:18:05-04:00\",\"height\":1200,\"id\":35660598542423,\"metafields\":[],\"position\":1,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_S_01.png?v=1785331087\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[],\"width\":1200},\"images\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35660598542423\",\"alt\":\"Licksters_StarterKit_ATB_PDP_S_01#Size_S\",\"created_at\":\"2026-07-29T09:18:05-04:00\",\"height\":1200,\"id\":35660598542423,\"metafields\":[],\"position\":1,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_S_01.png?v=1785331087\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35660598607959\",\"alt\":\"Licksters_StarterKit_ATB_PDP_S_02#Size_S\",\"created_at\":\"2026-07-29T09:18:05-04:00\",\"height\":1200,\"id\":35660598607959,\"metafields\":[],\"position\":2,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_S_02.png?v=1785331087\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35660598575191\",\"alt\":\"Licksters_StarterKit_ATB_PDP_S_03#Size_S\",\"created_at\":\"2026-07-29T09:18:05-04:00\",\"height\":1200,\"id\":35660598575191,\"metafields\":[],\"position\":3,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_S_03.png?v=1785331087\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35617800618071\",\"alt\":\"900431-Licksters-Combo-Kit-S_PT03_cropped#Size_S\",\"created_at\":\"2026-07-24T12:05:02-04:00\",\"height\":1200,\"id\":35617800618071,\"metafields\":[],\"position\":4,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/900431-Licksters-Combo-Kit-S_PT03_cropped.jpg?v=1784909104\",\"updated_at\":\"2026-08-20T06:09:25-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35660598509655\",\"alt\":\"Licksters_StarterKit_ATB_PDP_S_04#Size_S\",\"created_at\":\"2026-07-29T09:18:05-04:00\",\"height\":1200,\"id\":35660598509655,\"metafields\":[],\"position\":5,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_S_04.png?v=1785331087\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35660597428311\",\"alt\":\"Licksters_StarterKit_ATB_PDP_ML_01#Size_M/L\",\"created_at\":\"2026-07-29T09:17:57-04:00\",\"height\":1200,\"id\":35660597428311,\"metafields\":[],\"position\":6,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_ML_01.png?v=1785331079\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35660597395543\",\"alt\":\"Licksters_StarterKit_ATB_PDP_ML_02#Size_M/L\",\"created_at\":\"2026-07-29T09:17:57-04:00\",\"height\":1200,\"id\":35660597395543,\"metafields\":[],\"position\":7,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_ML_02.png?v=1785331079\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35660597362775\",\"alt\":\"Licksters_StarterKit_ATB_PDP_ML_03#Size_M/L\",\"created_at\":\"2026-07-29T09:17:57-04:00\",\"height\":1200,\"id\":35660597362775,\"metafields\":[],\"position\":8,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_ML_03.png?v=1785331078\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35618083602519\",\"alt\":\"900430-Licksters-Combo-Kit-M_L_PT03_cropped#Size_M/L\",\"created_at\":\"2026-07-24T12:36:59-04:00\",\"height\":1200,\"id\":35618083602519,\"metafields\":[],\"position\":9,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/900430-Licksters-Combo-Kit-M_L_PT03_cropped.jpg?v=1784911021\",\"updated_at\":\"2026-08-20T06:09:26-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35660597330007\",\"alt\":\"Licksters_StarterKit_ATB_PDP_ML_04#Size_M/L\",\"created_at\":\"2026-07-29T09:17:56-04:00\",\"height\":1200,\"id\":35660597330007,\"metafields\":[],\"position\":10,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_ML_04.png?v=1785331078\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35617800847447\",\"alt\":null,\"created_at\":\"2026-07-24T12:05:02-04:00\",\"height\":1200,\"id\":35617800847447,\"metafields\":[],\"position\":11,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/900431-Licksters-Combo-Kit-S_PT10_cropped.jpg?v=1784909104\",\"updated_at\":\"2026-08-20T06:09:25-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35660598476887\",\"alt\":\"Licksters_StarterKit_ATB_PDP_S_05\",\"created_at\":\"2026-07-29T09:18:05-04:00\",\"height\":1200,\"id\":35660598476887,\"metafields\":[],\"position\":12,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_S_05.png?v=1785331086\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35660597297239\",\"alt\":\"Licksters_StarterKit_ATB_PDP_ML_05\",\"created_at\":\"2026-07-29T09:17:56-04:00\",\"height\":1200,\"id\":35660597297239,\"metafields\":[],\"position\":13,\"product_id\":7693089275991,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_ML_05.png?v=1785331078\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[],\"width\":1200}],\"media\":[{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332184178775\",\"alt\":\"Licksters_StarterKit_ATB_PDP_S_01#Size_S\",\"created_at\":\"2026-07-29T09:18:05-04:00\",\"id\":27332184178775,\"media_content_type\":\"IMAGE\",\"position\":1,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_S_01.png?v=1785331087\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693089275991,\"status\":\"READY\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332184244311\",\"alt\":\"Licksters_StarterKit_ATB_PDP_S_02#Size_S\",\"created_at\":\"2026-07-29T09:18:05-04:00\",\"id\":27332184244311,\"media_content_type\":\"IMAGE\",\"position\":2,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_S_02.png?v=1785331087\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693089275991,\"status\":\"READY\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332184211543\",\"alt\":\"Licksters_StarterKit_ATB_PDP_S_03#Size_S\",\"created_at\":\"2026-07-29T09:18:05-04:00\",\"id\":27332184211543,\"media_content_type\":\"IMAGE\",\"position\":3,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_S_03.png?v=1785331087\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693089275991,\"status\":\"READY\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27311326855255\",\"alt\":\"900431-Licksters-Combo-Kit-S_PT03_cropped#Size_S\",\"created_at\":\"2026-07-24T12:05:02-04:00\",\"id\":27311326855255,\"media_content_type\":\"IMAGE\",\"position\":4,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/900431-Licksters-Combo-Kit-S_PT03_cropped.jpg?v=1784909104\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693089275991,\"status\":\"READY\",\"updated_at\":\"2026-08-20T06:09:25-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332184146007\",\"alt\":\"Licksters_StarterKit_ATB_PDP_S_04#Size_S\",\"created_at\":\"2026-07-29T09:18:05-04:00\",\"id\":27332184146007,\"media_content_type\":\"IMAGE\",\"position\":5,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_S_04.png?v=1785331087\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693089275991,\"status\":\"READY\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332183294039\",\"alt\":\"Licksters_StarterKit_ATB_PDP_ML_01#Size_M/L\",\"created_at\":\"2026-07-29T09:17:57-04:00\",\"id\":27332183294039,\"media_content_type\":\"IMAGE\",\"position\":6,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_ML_01.png?v=1785331079\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693089275991,\"status\":\"READY\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332183261271\",\"alt\":\"Licksters_StarterKit_ATB_PDP_ML_02#Size_M/L\",\"created_at\":\"2026-07-29T09:17:57-04:00\",\"id\":27332183261271,\"media_content_type\":\"IMAGE\",\"position\":7,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_ML_02.png?v=1785331079\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693089275991,\"status\":\"READY\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332183228503\",\"alt\":\"Licksters_StarterKit_ATB_PDP_ML_03#Size_M/L\",\"created_at\":\"2026-07-29T09:17:57-04:00\",\"id\":27332183228503,\"media_content_type\":\"IMAGE\",\"position\":8,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_ML_03.png?v=1785331078\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693089275991,\"status\":\"READY\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27311366668375\",\"alt\":\"900430-Licksters-Combo-Kit-M_L_PT03_cropped#Size_M/L\",\"created_at\":\"2026-07-24T12:36:59-04:00\",\"id\":27311366668375,\"media_content_type\":\"IMAGE\",\"position\":9,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/900430-Licksters-Combo-Kit-M_L_PT03_cropped.jpg?v=1784911021\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693089275991,\"status\":\"READY\",\"updated_at\":\"2026-08-20T06:09:26-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332183195735\",\"alt\":\"Licksters_StarterKit_ATB_PDP_ML_04#Size_M/L\",\"created_at\":\"2026-07-29T09:17:56-04:00\",\"id\":27332183195735,\"media_content_type\":\"IMAGE\",\"position\":10,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_ML_04.png?v=1785331078\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693089275991,\"status\":\"READY\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27311327084631\",\"alt\":null,\"created_at\":\"2026-07-24T12:05:02-04:00\",\"id\":27311327084631,\"media_content_type\":\"IMAGE\",\"position\":11,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/900431-Licksters-Combo-Kit-S_PT10_cropped.jpg?v=1784909104\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693089275991,\"status\":\"READY\",\"updated_at\":\"2026-08-20T06:09:25-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332184113239\",\"alt\":\"Licksters_StarterKit_ATB_PDP_S_05\",\"created_at\":\"2026-07-29T09:18:05-04:00\",\"id\":27332184113239,\"media_content_type\":\"IMAGE\",\"position\":12,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_S_05.png?v=1785331086\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693089275991,\"status\":\"READY\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332183162967\",\"alt\":\"Licksters_StarterKit_ATB_PDP_ML_05\",\"created_at\":\"2026-07-29T09:17:56-04:00\",\"id\":27332183162967,\"media_content_type\":\"IMAGE\",\"position\":13,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_StarterKit_ATB_PDP_ML_05.png?v=1785331078\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693089275991,\"status\":\"READY\",\"updated_at\":\"2026-08-20T06:21:01-04:00\",\"variant_ids\":[]}],\"options\":[{\"id\":9949768581207,\"name\":\"Size\",\"position\":1,\"product_id\":7693089275991,\"values\":[\"S\",\"M/L\"]}],\"product_type\":\"Toys\",\"published_at\":\"2026-08-03T09:12:12-04:00\",\"published_scope\":\"web\",\"status\":\"ready\",\"tags\":\"8/26, 9/26, licksters, new, sc-toy, style_enrichment, treats-chews\",\"template_suffix\":\"\",\"title\":\"Licksters: Starter Kit (Toy + 2 Treat Sample Pack)\",\"updated_at\":\"2026-11-06T11:44:16-05:00\",\"variant_gids\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/44030847811671\",\"updated_at\":\"2026-11-06T16:44:17.000Z\"},{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/44030847844439\",\"updated_at\":\"2026-11-06T16:37:09.000Z\"}],\"vendor\":\"BARK\",\"variants\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/44030847811671\",\"barcode\":null,\"barcodes\":[],\"compare_at_price\":null,\"created_at\":\"2026-07-14T16:23:24-04:00\",\"fulfillment_service\":\"\",\"grams\":0,\"id\":44030847811671,\"image_id\":null,\"inventory_item_id\":46148685561943,\"inventory_management\":\"shopify\",\"inventory_policy\":\"deny\",\"inventory_quantity\":3567,\"metafields\":{\"custom\":{\"subscription_companion_variant\":\"gid://shopify/ProductVariant/44030705762391\"},\"finance\":{\"level4\":\"Licksters - Starter kit\"},\"msft_bingads\":{\"import_status\":\"approved\"},\"subscription\":{\"upsell_eligible\":\"true\"}},\"old_inventory_quantity\":3567,\"option1\":\"S\",\"option2\":null,\"option3\":null,\"position\":1,\"price\":\"19.99\",\"product_id\":7693089275991,\"requires_shipping\":false,\"sku\":\"900431\",\"tax_code\":\"\",\"taxable\":true,\"title\":\"S\",\"updated_at\":\"2026-11-06T11:44:17-05:00\",\"weight\":0,\"link\":\"https://bark.co/products/licksters-starter-kit?variant=44030847811671\"},{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/44030847844439\",\"barcode\":null,\"barcodes\":[],\"compare_at_price\":null,\"created_at\":\"2026-07-14T16:23:24-04:00\",\"fulfillment_service\":\"\",\"grams\":0,\"id\":44030847844439,\"image_id\":null,\"inventory_item_id\":46148685594711,\"inventory_management\":\"shopify\",\"inventory_policy\":\"deny\",\"inventory_quantity\":10642,\"metafields\":{\"custom\":{\"subscription_companion_variant\":\"gid://shopify/ProductVariant/44030705795159\"},\"finance\":{\"level4\":\"Licksters - Starter kit\"},\"msft_bingads\":{\"import_status\":\"approved\"},\"subscription\":{\"upsell_eligible\":\"true\"}},\"old_inventory_quantity\":10642,\"option1\":\"M/L\",\"option2\":null,\"option3\":null,\"position\":2,\"price\":\"23.99\",\"product_id\":7693089275991,\"requires_shipping\":false,\"sku\":\"900430\",\"tax_code\":\"\",\"taxable\":true,\"title\":\"M/L\",\"updated_at\":\"2026-11-06T11:37:09-05:00\",\"weight\":0,\"link\":\"https://bark.co/products/licksters-starter-kit?variant=44030847844439\"}],\"metafields\":{\"custom\":{\"auto_discount_code\":\"LICKSTERS\",\"dynamic_sections_bottom\":[\"gid://shopify/Metaobject/254829396055\",\"gid://shopify/Metaobject/254830313559\",\"gid://shopify/Metaobject/255841828951\",\"gid://shopify/Metaobject/254832083031\"],\"dynamic_sections_top\":[\"gid://shopify/Metaobject/254828740695\",\"gid://shopify/Metaobject/254829330519\"],\"partnerships\":\"[\\\"Licksters\\\"]\",\"play_style\":\"[\\\"Enrichment\\\"]\",\"product_details_section\":\"gid://shopify/Metaobject/248893603927\",\"protein_types\":\"[\\\"Peanuts\\\"]\",\"size\":\"[\\\"Small\\\",\\\"Medium\\\",\\\"Large\\\"]\",\"subscription_companion_discount_percent\":\"50\",\"toy_type\":\"[\\\"Tough Toys\\\"]\",\"variation_products\":\"[\\\"gid://shopify/Product/7693089275991\\\",\\\"gid://shopify/Product/7694730592343\\\",\\\"gid://shopify/Product/7693019414615\\\"]\",\"variation_value\":\"Starter Pack\"},\"mc-facebook\":{\"google_product_category\":\"5010\"},\"mm-google-shopping\":{\"google_product_category\":\"5010\"},\"msft_bingads\":{\"product_status\":\"{\\\"pending\\\":0,\\\"failed\\\":0,\\\"approved\\\":2}\"},\"reviews\":{\"rating\":{\"scale_min\":\"1.0\",\"scale_max\":\"5.0\",\"value\":\"4.0\"},\"rating_count\":\"121\"},\"subscription\":{\"upsell_eligible\":\"true\"},\"yotpo\":{\"llm_schema_html\":\"<div id=\\\"yotpo-reviews-section-data\\\" style=\\\"margin-top:4px; font-size:11px; line-height:1.35; color:#555; max-height:220px; overflow:auto; padding:6px 8px; border:1px solid #eee; border-radius:4px; background:#fafafa;\\\">   <section id=\\\"yotpo-reviews-overall-rating\\\">     <p><strong>Overall rating:</strong> 3.966942 / 5 from 121 reviews.</p>   </section>   <section id=\\\"yotpo-reviews-ai-summary\\\">     <h3>AI Generated Review Summary</h3>     <p>LICKSTERS Starter Kit combines a durable toy with tasty treats, designed to engage and nourish your dog. The toy features multiple engagement points and a wobbly action, while the treats are made with real ingredients and probiotics. Customers appreciate the toy's quality and the treats' chewiness, though opinions on the treats vary.</p>   </section>   <section id=\\\"yotpo-reviews-summary-topics\\\">     <h3>Summary topics</h3>     <ul>       <li><span class=\\\"yotpo-topic-name\\\">Toy Quality</span> (<span class=\\\"yotpo-topic-coverage\\\">25%</span>): <span class=\\\"yotpo-topic-summary\\\">A significant number of customers raved about this toy, praising its durability and overall quality.</span></li><li><span class=\\\"yotpo-topic-name\\\">Overall Product Enjoyment</span> (<span class=\\\"yotpo-topic-coverage\\\">25%</span>): <span class=\\\"yotpo-topic-summary\\\">In general, customers love the Lickster for its chewiness and ability to destroy toys.</span></li><li><span class=\\\"yotpo-topic-name\\\">Treat Quality</span> (<span class=\\\"yotpo-topic-coverage\\\">30%</span>): <span class=\\\"yotpo-topic-summary\\\">Customers expressed differing viewpoints regarding the treats, with some loving them and others finding them unsatisfactory.</span></li>     </ul>   </section>   <section id=\\\"yotpo-reviews-review-topics\\\">     <p><strong>Review topics:</strong> [&quot;size&quot;,&quot;toys&quot;,&quot;treats&quot;,&quot;dog&quot;,&quot;lickster&quot;,&quot;order&quot;,&quot;idea&quot;,&quot;refills&quot;,&quot;10 minutes&quot;,&quot;chewer&quot;,&quot;pup&quot;,&quot;hit&quot;,&quot;hold&quot;,&quot;rubber&quot;,&quot;option&quot;].</p>   </section>   <section id=\\\"yotpo-reviews-highlights\\\">     <h3>Review highlights</h3>     <ul>       <li><span class=\\\"yotpo-highlight-text\\\">&quot;They were so involved in licking the yummy treat they didn't seem to concerned over the storms.&quot;</span> &mdash; <span class=\\\"yotpo-highlight-author\\\">Yvette H.</span></li><li><span class=\\\"yotpo-highlight-text\\\">&quot;Bermuda loves her licker toy.&quot;</span> &mdash; <span class=\\\"yotpo-highlight-author\\\">Lori R.</span></li><li><span class=\\\"yotpo-highlight-text\\\">&quot;My puppies love this toy!!&quot;</span> &mdash; <span class=\\\"yotpo-highlight-author\\\">Nicolette L.</span></li>     </ul>   </section>   <section id=\\\"yotpo-reviews-individual-reviews\\\">     <h3>Reviews</h3>     <article class=\\\"yotpo-review\\\" data-reviewer=\\\"Justin S.\\\" data-rating=\\\"4\\\">       <h4 class=\\\"yotpo-review-title\\\">Size small was perfect for</h4>       <p class=\\\"yotpo-review-body\\\">&quot;Size small was perfect for our 20 lb Boston Terriers. They loved the treat, and spent the whole afternoon licking away! Our only issue (not sure if this is a common problems) is the amount of droll that would collect under the toy as they worked to get the treat. That&rsquo;s OK&hellip;. we will make it an outside toy!&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Justin S.</span> (<span class=\\\"yotpo-review-rating\\\">4/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Kaitlin P.\\\" data-rating=\\\"5\\\">       <h4 class=\\\"yotpo-review-title\\\">The Licksters is now a</h4>       <p class=\\\"yotpo-review-body\\\">&quot;The Licksters is now a household favorite for my pup! He is obsessed with trying to get to the treats. The enrichment lasts more than an hour, and is a great way to tire him out when he has a lot of leftover energy in the day. Highly recommend the Licksters for pups all of sizes, especially for higher energy breeds.&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Kaitlin P.</span> (<span class=\\\"yotpo-review-rating\\\">5/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Abbe S.\\\" data-rating=\\\"1\\\">       <h4 class=\\\"yotpo-review-title\\\">My pitty destroyed this way</h4>       <p class=\\\"yotpo-review-body\\\">&quot;My pitty destroyed this way sooner than expected. When are you coming out with a heavy duty version???&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Abbe S.</span> (<span class=\\\"yotpo-review-rating\\\">1/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Kara S.\\\" data-rating=\\\"3\\\">       <h4 class=\\\"yotpo-review-title\\\">I bought 2 of these,</h4>       <p class=\\\"yotpo-review-body\\\">&quot;I bought 2 of these, one for each of my dogs along with the refills for each dog. While they both love rubber toys you can hide treats in, neither really cared for this one. I think the issue is that they can't actually get the treat out. Ocassionally my younger dog will give it another look, but not very often. I think it is a great product, my doggos just dont seem to care about it.&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Kara S.</span> (<span class=\\\"yotpo-review-rating\\\">3/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Heather E.\\\" data-rating=\\\"1\\\">       <h4 class=\\\"yotpo-review-title\\\">Casey won&rsquo;t play with it.</h4>       <p class=\\\"yotpo-review-body\\\">&quot;Casey won&rsquo;t play with it. She doesn&rsquo;t seem to even care about the treat inside. She tried pushing it around but it was heavy and didnt really roll. Also not that easy to even lick the treat. Definitely disappointed as we were both looking forward to some longer play time&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Heather E.</span> (<span class=\\\"yotpo-review-rating\\\">1/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Yvette H.\\\" data-rating=\\\"5\\\">       <h4 class=\\\"yotpo-review-title\\\">My dogs love these. I</h4>       <p class=\\\"yotpo-review-body\\\">&quot;My dogs love these. I was skeptical that it would keep them busy for 20 minutes let alone 40+ minutes like it said. But it really did. I was so surprised. 3 out of my 5 are afraid of thunderstorms so we gave these to the dogs prior to the storm. They were so involved in licking the yummy treat they didn't seem to concerned over the storms. All 5 of them enjoyed these and I ordered more refills. Thank you Bark. Kevin, Yvette, Journey, Jaxson, Jubilee, Avery Jo and Fiddler Hyatt&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Yvette H.</span> (<span class=\\\"yotpo-review-rating\\\">5/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Heidi F.\\\" data-rating=\\\"5\\\">       <h4 class=\\\"yotpo-review-title\\\">This was an excellent purchase</h4>       <p class=\\\"yotpo-review-body\\\">&quot;This was an excellent purchase my little guy LOVES this! I got the starter kit and put both treats inside to see how long it lasted - it kept him busy for 1. 5 hrs for the first treat! Safe to say, I immediately went on the app and ordered refills in my next box, haha. He kept returning to it on and off for the rest of the day. Hard recommend!!&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Heidi F.</span> (<span class=\\\"yotpo-review-rating\\\">5/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Amber R.\\\" data-rating=\\\"5\\\">       <h4 class=\\\"yotpo-review-title\\\">Oh my goodness, This is</h4>       <p class=\\\"yotpo-review-body\\\">&quot;Oh my goodness, This is an incredible dog toy and treat, brilliant!!!! I am so pleased and so are my Pups!!! My two one year old Frenchies love rolling it around and licking the treat. The Lickster came in our Bark Box. They fought over it \ud83d\ude48so I had to order another one \ud83d\ude09 Thank you for creating such a great dog toy\ud83e\udd73&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Amber R.</span> (<span class=\\\"yotpo-review-rating\\\">5/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Alina T.\\\" data-rating=\\\"5\\\">       <h4 class=\\\"yotpo-review-title\\\">Big hit! My dog normally</h4>       <p class=\\\"yotpo-review-body\\\">&quot;Big hit! My dog normally either destroys these types of toys quickly to get to the treat, or figures them out so fast that they are pointless. I put the two pucks into this toy and he was enthralled for at least an hour and they still didn&rsquo;t run out. He started to chew it, so we&rsquo;ll see how sturdy the plastic is, but it was definitely worth it so far. The refills are also not too expensive. Fun treat for my pup!&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Alina T.</span> (<span class=\\\"yotpo-review-rating\\\">5/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Melanie M.\\\" data-rating=\\\"4\\\">       <h4 class=\\\"yotpo-review-title\\\">My Oliver, a 70 pound</h4>       <p class=\\\"yotpo-review-body\\\">&quot;My Oliver, a 70 pound English Bulldog, is obsessed with his Lickster!!! The picture shows just how much he wanted it. He's only had it for 8 days. I wish I could give this review 5 stars. I just can't. The kit only comes with 2 treat disks, which is one serving. If you don't buy the 7oz refill with the kit, you're out of luck. The refill has 7 refill disc's which is only good for 3 days at $14. 99 a bag. If I had known that I would have bought more treat bags instead of sitting here praying it ships soon.&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Melanie M.</span> (<span class=\\\"yotpo-review-rating\\\">4/5</span>)</p>     </article>   </section>   <section id=\\\"yotpo-reviews-qa\\\">     <h3>Q&amp;A</h3>     <dl>            </dl>   </section> </div>\",\"preloaded_bottomline\":\"{\\\"bottomline\\\":{\\\"totalReviews\\\":121,\\\"averageScore\\\":3.966942,\\\"totalOrganicReviews\\\":0,\\\"organicAverageScore\\\":0.0}}\",\"preloaded_product_filters\":\"{\\\"storeId\\\":\\\"HddbOqIxtSzeDU82iV439mPkJX9olbOXS68INacF\\\",\\\"productId\\\":\\\"1110241128\\\",\\\"externalId\\\":\\\"7693089275991\\\",\\\"topics\\\":[\\\"size\\\",\\\"toys\\\",\\\"treats\\\",\\\"dog\\\",\\\"lickster\\\",\\\"order\\\",\\\"idea\\\",\\\"refills\\\",\\\"10 minutes\\\",\\\"rubber\\\",\\\"hit\\\",\\\"hold\\\",\\\"option\\\",\\\"pup\\\",\\\"chewer\\\"],\\\"customQuestions\\\":[],\\\"summaryTopics\\\":[{\\\"displayTopic\\\":\\\"Toy Quality\\\",\\\"topic\\\":\\\"toys\\\",\\\"summary\\\":\\\"A significant number of customers raved about this toy, praising its durability and overall quality.\\\",\\\"coverage\\\":\\\"25\\\",\\\"avgSentiment\\\":0.7094734},{\\\"displayTopic\\\":\\\"Overall Product Enjoyment\\\",\\\"topic\\\":\\\"lickster\\\",\\\"summary\\\":\\\"In general, customers love the Lickster for its chewiness and ability to destroy toys.\\\",\\\"coverage\\\":\\\"25\\\",\\\"avgSentiment\\\":0.6888709},{\\\"displayTopic\\\":\\\"Treat Quality\\\",\\\"topic\\\":\\\"treats\\\",\\\"summary\\\":\\\"Customers expressed differing viewpoints regarding the treats, with some loving them and others finding them unsatisfactory.\\\",\\\"coverage\\\":\\\"30\\\",\\\"avgSentiment\\\":0.6431059}],\\\"summaryHighlights\\\":[{\\\"reviewId\\\":881977001,\\\"reviewerName\\\":\\\"Yvette H.\\\",\\\"highlight\\\":\\\"They were so involved in licking the yummy treat they didn't seem to concerned over the storms.\\\"},{\\\"reviewId\\\":884483448,\\\"reviewerName\\\":\\\"Lori R.\\\",\\\"highlight\\\":\\\"Bermuda loves her licker toy.\\\"},{\\\"reviewId\\\":881941900,\\\"reviewerName\\\":\\\"Nicolette L.\\\",\\\"highlight\\\":\\\"My puppies love this toy!!\\\"}],\\\"paragraphSummary\\\":\\\"LICKSTERS Starter Kit combines a durable toy with tasty treats, designed to engage and nourish your dog. The toy features multiple engagement points and a wobbly action, while the treats are made with real ingredients and probiotics. Customers appreciate the toy's quality and the treats' chewiness, though opinions on the treats vary.\\\",\\\"countries\\\":[{\\\"code\\\":\\\"US\\\",\\\"label\\\":\\\"\ud83c\uddfa\ud83c\uddf8 United States\\\",\\\"count\\\":121}]}\",\"preloaded_reviews\":\"{\\\"pagination\\\":{\\\"page\\\":1,\\\"perPage\\\":5,\\\"total\\\":121},\\\"bottomline\\\":{\\\"totalReview\\\":121,\\\"averageScore\\\":3.966942,\\\"totalOrganicReviews\\\":0,\\\"organicAverageScore\\\":0.0,\\\"starDistribution\\\":{\\\"1\\\":16,\\\"2\\\":5,\\\"3\\\":16,\\\"4\\\":14,\\\"5\\\":70},\\\"customFieldsBottomline\\\":{}},\\\"products\\\":[{\\\"id\\\":1110241128,\\\"domainKey\\\":\\\"7693089275991\\\",\\\"name\\\":\\\"Licksters: Starter Kit (Toy + 2 Treat Sample Pack)\\\",\\\"socialLinks\\\":{\\\"linkedin\\\":\\\"https://yotpo.com/go/fZv2VmBm\\\",\\\"facebook\\\":\\\"https://yotpo.com/go/iJJDPfer\\\",\\\"twitter\\\":\\\"https://yotpo.com/go/t6DlWX0R\\\",\\\"googleOauth2\\\":\\\"https://yotpo.com/go/UWwaQTD8\\\"},\\\"embeddedWidgetLink\\\":\\\"https://yotpo.com/go/emu3wD0f\\\",\\\"testimonialsProductLink\\\":\\\"https://yotpo.com/go/seylEdKZ\\\",\\\"productLink\\\":\\\"https://yotpo.com/go/kpnSbbPW\\\",\\\"imageUrl\\\":\\\"https://cdn-yotpo-images-production.yotpo.com/Product/1058739768/875850749/square.png?1785331931\\\"}],\\\"reviews\\\":[{\\\"id\\\":908750758,\\\"score\\\":5,\\\"votesUp\\\":0,\\\"votesDown\\\":0,\\\"content\\\":\\\"The Licksters is now a household favorite for my pup! He is obsessed with trying to get to the treats. The enrichment lasts more than an hour, and is a great way to tire him out when he has a lot of leftover energy in the day. Highly recommend the Licksters for pups all of sizes, especially for higher energy breeds.\\\",\\\"title\\\":\\\"The Licksters is now a\\\",\\\"createdAt\\\":\\\"2026-10-20T04:52:14\\\",\\\"verifiedBuyer\\\":true,\\\"sentiment\\\":0.96284336,\\\"isIncentivized\\\":false,\\\"isShop\\\":false,\\\"topics\\\":{},\\\"fieldsHighlights\\\":{},\\\"customFields\\\":{},\\\"comment\\\":{\\\"id\\\":53872752,\\\"content\\\":\\\"We\u2019re so glad that you and your pup are enjoying the Licksters Starter Kit.\\\",\\\"createdAt\\\":\\\"2026-11-04T05:24:28\\\",\\\"displayName\\\":\\\"Bark\\\",\\\"commentsAvatar\\\":\\\"https://cdn-yotpo-images-production.yotpo.com/App/2002669/649973960/thumb.png?1736360194\\\"},\\\"user\\\":{\\\"userId\\\":169798485,\\\"userType\\\":\\\"User\\\",\\\"isSocialConnected\\\":0,\\\"displayName\\\":\\\"Kaitlin P.\\\"},\\\"country\\\":{\\\"code\\\":\\\"US\\\",\\\"label\\\":\\\"\ud83c\uddfa\ud83c\uddf8 United States\\\"},\\\"productVariants\\\":{\\\"Size\\\":\\\"M/L\\\"},\\\"language\\\":\\\"en\\\"},{\\\"id\\\":907445175,\\\"score\\\":5,\\\"votesUp\\\":0,\\\"votesDown\\\":0,\\\"content\\\":\\\"My Lieutenant Simba McGillicuddy absolutely loved this!!\\\",\\\"title\\\":\\\"My Lieutenant Simba McGillicuddy absolutely\\\",\\\"createdAt\\\":\\\"2026-10-17T05:36:52\\\",\\\"verifiedBuyer\\\":true,\\\"sentiment\\\":0.9759129,\\\"isIncentivized\\\":false,\\\"isShop\\\":false,\\\"topics\\\":{\\\"lieutenant simba mcgillicuddy\\\":{\\\"name\\\":\\\"lieutenant simba mcgillicuddy\\\",\\\"sentence\\\":\\\"My Lieutenant Simba McGillicuddy absolutely loved this!!\\\"}},\\\"fieldsHighlights\\\":{},\\\"customFields\\\":{},\\\"user\\\":{\\\"userId\\\":79268725,\\\"userType\\\":\\\"User\\\",\\\"isSocialConnected\\\":0,\\\"displayName\\\":\\\"Amanda M.\\\"},\\\"country\\\":{\\\"code\\\":\\\"US\\\",\\\"label\\\":\\\"\ud83c\uddfa\ud83c\uddf8 United States\\\"},\\\"productVariants\\\":{\\\"Size\\\":\\\"M/L\\\"},\\\"language\\\":\\\"en\\\"},{\\\"id\\\":907278928,\\\"score\\\":5,\\\"votesUp\\\":0,\\\"votesDown\\\":0,\\\"content\\\":\\\"The dogs had trouble navigating tgem\\\",\\\"title\\\":\\\"The dogs had trouble navigating\\\",\\\"createdAt\\\":\\\"2026-10-16T22:40:31\\\",\\\"verifiedBuyer\\\":true,\\\"sentiment\\\":0.3231107,\\\"isIncentivized\\\":false,\\\"isShop\\\":false,\\\"topics\\\":{},\\\"fieldsHighlights\\\":{},\\\"customFields\\\":{},\\\"comment\\\":{\\\"id\\\":53634390,\\\"content\\\":\\\"We\u2019d love to know more about the feedback you\u2019ve shared about the recent item. One of our Happy Ambassadors will be sending you an email!\\\",\\\"createdAt\\\":\\\"2026-10-29T10:27:40\\\",\\\"displayName\\\":\\\"Bark\\\",\\\"commentsAvatar\\\":\\\"https://cdn-yotpo-images-production.yotpo.com/App/2002669/649973960/thumb.png?1736360194\\\"},\\\"user\\\":{\\\"userId\\\":163624280,\\\"userType\\\":\\\"User\\\",\\\"isSocialConnected\\\":0,\\\"displayName\\\":\\\"Melanie S.\\\"},\\\"country\\\":{\\\"code\\\":\\\"US\\\",\\\"label\\\":\\\"\ud83c\uddfa\ud83c\uddf8 United States\\\"},\\\"productVariants\\\":{\\\"Size\\\":\\\"S\\\"},\\\"language\\\":\\\"en\\\"},{\\\"id\\\":905238162,\\\"score\\\":1,\\\"votesUp\\\":0,\\\"votesDown\\\":0,\\\"content\\\":\\\"Casey won\u2019t play with it. She doesn\u2019t seem to even care about the treat inside. She tried pushing it around but it was heavy and didnt really roll. Also not that easy to even lick the treat. Definitely disappointed as we were both looking forward to some longer play time\\\",\\\"title\\\":\\\"Casey won\u2019t play with it.\\\",\\\"createdAt\\\":\\\"2026-10-14T21:48:25\\\",\\\"verifiedBuyer\\\":true,\\\"sentiment\\\":0.023948524,\\\"isIncentivized\\\":false,\\\"isShop\\\":false,\\\"topics\\\":{\\\"casey\\\":{\\\"name\\\":\\\"casey\\\",\\\"sentence\\\":\\\"Casey won\u2019t play with it.\\\"},\\\"playtime\\\":{\\\"name\\\":\\\"playtime\\\",\\\"sentence\\\":\\\"Definitely disappointed as we were both looking forward to some longer play time\\\"}},\\\"fieldsHighlights\\\":{},\\\"customFields\\\":{},\\\"comment\\\":{\\\"id\\\":53606583,\\\"content\\\":\\\"We\u2019re so sorry the Licksters starter kit wasn\u2019t the fun experience you and Casey were looking forward to. We know how disappointing that must be, especially when you were hoping for some extra playtime together. Our team will be reaching out through email to make things right\\\",\\\"createdAt\\\":\\\"2026-10-28T02:31:21\\\",\\\"displayName\\\":\\\"Bark\\\",\\\"commentsAvatar\\\":\\\"https://cdn-yotpo-images-production.yotpo.com/App/2002669/649973960/thumb.png?1736360194\\\"},\\\"user\\\":{\\\"userId\\\":72612550,\\\"userType\\\":\\\"User\\\",\\\"isSocialConnected\\\":0,\\\"displayName\\\":\\\"Heather E.\\\"},\\\"country\\\":{\\\"code\\\":\\\"US\\\",\\\"label\\\":\\\"\ud83c\uddfa\ud83c\uddf8 United States\\\"},\\\"productVariants\\\":{\\\"Size\\\":\\\"M/L\\\"},\\\"language\\\":\\\"en\\\"},{\\\"id\\\":904667610,\\\"score\\\":4,\\\"votesUp\\\":0,\\\"votesDown\\\":0,\\\"content\\\":\\\"Size small was perfect for our 20 lb Boston Terriers. They loved the treat, and spent the whole afternoon licking away! Our only issue (not sure if this is a common problems) is the amount of droll that would collect under the toy as they worked to get the treat. That\u2019s OK\u2026. we will make it an outside toy!\\\",\\\"title\\\":\\\"Size small was perfect for\\\",\\\"createdAt\\\":\\\"2026-10-13T10:57:06\\\",\\\"verifiedBuyer\\\":true,\\\"sentiment\\\":0.8481982,\\\"isIncentivized\\\":false,\\\"isShop\\\":false,\\\"topics\\\":{\\\"treats\\\":{\\\"name\\\":\\\"treats\\\",\\\"sentence\\\":\\\"They loved the treat, and spent the whole afternoon licking away!\\\"},\\\"problem\\\":{\\\"name\\\":\\\"problem\\\",\\\"sentence\\\":\\\"Our only issue (not sure if this is a common problems) is the amount of droll that would collect under the toy as they worked to get the treat.\\\"}},\\\"fieldsHighlights\\\":{},\\\"customFields\\\":{},\\\"imagesData\\\":[{\\\"id\\\":897466855,\\\"thumbUrl\\\":\\\"https://cdn-yotpo-images-production.yotpo.com/Review/904667610/897466855/square.jpg?1791889271\\\",\\\"originalUrl\\\":\\\"https://cdn-yotpo-images-production.yotpo.com/Review/904667610/897466855/original.jpg?1791889271\\\",\\\"imageWidth\\\":1677,\\\"imageHeight\\\":1080}],\\\"comment\\\":{\\\"id\\\":53589641,\\\"content\\\":\\\"We're so happy to hear that this was a hit for your pup! Thank you for sharing your experience with us, your happiness and your pup's happiness mean the world to us! We're also sorry to hear about the drool, but we're glad you're able to make it an outside toy! If there\u2019s anything your pup doesn\u2019t like or if there\u2019s an issue, just let us know! We\u2019re happy to send a replacement through our Scout's Honor Guarantee.\\\",\\\"createdAt\\\":\\\"2026-10-27T20:40:34\\\",\\\"displayName\\\":\\\"Bark\\\",\\\"commentsAvatar\\\":\\\"https://cdn-yotpo-images-production.yotpo.com/App/2002669/649973960/thumb.png?1736360194\\\"},\\\"user\\\":{\\\"userId\\\":23055133,\\\"userType\\\":\\\"User\\\",\\\"isSocialConnected\\\":0,\\\"displayName\\\":\\\"Justin S.\\\"},\\\"country\\\":{\\\"code\\\":\\\"US\\\",\\\"label\\\":\\\"\ud83c\uddfa\ud83c\uddf8 United States\\\"},\\\"productVariants\\\":{\\\"Size\\\":\\\"S\\\"},\\\"language\\\":\\\"en\\\"}]}\",\"preloaded_star_distribution\":\"{\\\"1\\\":16,\\\"2\\\":5,\\\"3\\\":16,\\\"4\\\":14,\\\"5\\\":70}\",\"reviews_average\":\"4\",\"reviews_count\":\"121\"},\"seo\":{\"hidden\":\"1\"}},\"collection_ids\":[270086111319,270313750615,274396381271,275110035543,276642824279,278595240023,280596152407,281142493271,281360695383,283153793111,284804546647,285813768279,286201839703,288413876311,297825468503],\"ratings\":{\"yotpo_average_star_rating\":3.97,\"yotpo_total_reviews\":121},\"cache_info\":{\"loaded_options\":{\"metafields\":true,\"variant_metafields\":true,\"selling_plans\":false,\"shopify_selling_plans_loaded\":true,\"country_code\":false,\"locale\":false},\"metafields_format\":\"reb-21448\",\"variant_metafields_format\":\"reb-21448\",\"shopify_selling_plans_loaded_at\":1793984338,\"cached_at_time\":1793983474,\"cache_key\":\"pro_bt#de23461952957738f417f3c5bbf3cd3d\",\"cache_key_readable\":\"pro_bt#user_id:10951#shopify_product_id:\\\"7693089275991\\\"#user_id:\\\"10951\\\"\"},\"link\":\"https://bark.co/products/licksters-starter-kit\",\"owner\":10951,\"selling_plan_groups\":[],\"subscription\":false,\"selected_variant\":{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/44030847811671\",\"barcode\":null,\"barcodes\":[],\"compare_at_price\":null,\"created_at\":\"2026-07-14T16:23:24-04:00\",\"fulfillment_service\":\"\",\"grams\":0,\"id\":44030847811671,\"image_id\":null,\"inventory_item_id\":46148685561943,\"inventory_management\":\"shopify\",\"inventory_policy\":\"deny\",\"inventory_quantity\":3567,\"metafields\":{\"custom\":{\"subscription_companion_variant\":\"gid://shopify/ProductVariant/44030705762391\"},\"finance\":{\"level4\":\"Licksters - Starter kit\"},\"msft_bingads\":{\"import_status\":\"approved\"},\"subscription\":{\"upsell_eligible\":\"true\"}},\"old_inventory_quantity\":3567,\"option1\":\"S\",\"option2\":null,\"option3\":null,\"position\":1,\"price\":\"19.99\",\"product_id\":7693089275991,\"requires_shipping\":false,\"sku\":\"900431\",\"tax_code\":\"\",\"taxable\":true,\"title\":\"S\",\"updated_at\":\"2026-11-06T11:44:17-05:00\",\"weight\":0,\"link\":\"https://bark.co/products/licksters-starter-kit?variant=44030847811671\"},\"selected_variant_id\":44030847811671,\"selected_product_id\":7693089275991,\"option1\":\"S\",\"option2\":null,\"option3\":null,\"quantity\":1,\"properties\":{},\"reviews\":{},\"has_subscription\":false,\"timestamp\":1793984372164},{\"admin_graphql_api_id\":\"gid://shopify/Product/7693019414615\",\"body_html\":\"<p>Combine snacktime and playtime with LICKSTERS Peanut Butter &amp; Beef Recipe Treat Refills. These droolworthy treats are made with scrumptious peanut butter, delicious beef flavor, gut-supporting probiotics, and not a lick of corn or soy. This recipe was crafted by our dog-loving animal nutrition experts and taste-tested by our treat-loving dogs!</p>\\n<p>LICKSTERS treat refills are the perfect fit for LICKSTERS Enrichment Toy (sold separately)\u2014Just twist open, insert 2 treats, and twist close for up to 40 minutes of long-lasting play! Keep calm and LICK ON!</p>\",\"category\":{\"admin_graphql_api_id\":\"gid://shopify/TaxonomyCategory/ap-2-3-9\",\"full_name\":\"Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Treats\",\"name\":\"Dog Treats\"},\"created_at\":\"2026-07-14T15:25:25-04:00\",\"description\":\"Combine snacktime and playtime with LICKSTERS Peanut Butter & Beef Recipe Treat Refills. These droolworthy treats are made with scrumptious peanut butter, delicious beef flavor, gut-supporting probiotics, and not a lick of corn or soy. This recipe was crafted by our dog-loving animal nutrition experts and taste-tested by our treat-loving dogs!\\r\\n\\r\\n LICKSTERS treat refills are the perfect fit for LICKSTERS Enrichment Toy (sold separately)\u2014Just twist open, insert 2 treats, and twist close for up to 40 minutes of long-lasting play! Keep calm and LICK ON!\",\"handle\":\"licksters-refill\",\"has_variants_that_requires_components\":false,\"id\":7693019414615,\"image\":{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/36130219163735\",\"alt\":null,\"created_at\":\"2026-09-14T10:04:37-04:00\",\"height\":1200,\"id\":36130219163735,\"metafields\":[],\"position\":1,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_S_01_SubscribeSave_Noticeable_1.png?v=1789394678\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},\"images\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/36130219163735\",\"alt\":null,\"created_at\":\"2026-09-14T10:04:37-04:00\",\"height\":1200,\"id\":36130219163735,\"metafields\":[],\"position\":1,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_S_01_SubscribeSave_Noticeable_1.png?v=1789394678\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35661592068183\",\"alt\":\"Licksters_TreatRefills_ATB_PDP_S_02#Size_S\",\"created_at\":\"2026-07-29T10:10:49-04:00\",\"height\":1200,\"id\":35661592068183,\"metafields\":[],\"position\":2,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_S_02.png?v=1785334251\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35503143223383\",\"alt\":\"219068-Licksters-Treat-Refills-S_03_cropped#Size_S\",\"created_at\":\"2026-07-14T15:29:13-04:00\",\"height\":1200,\"id\":35503143223383,\"metafields\":[],\"position\":3,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219068-Licksters-Treat-Refills-S_03_cropped.jpg?v=1784057355\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35503143419991\",\"alt\":\"219068-Licksters-Treat-Refills-S_06_cropped#Size_S\",\"created_at\":\"2026-07-14T15:29:13-04:00\",\"height\":1200,\"id\":35503143419991,\"metafields\":[],\"position\":4,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219068-Licksters-Treat-Refills-S_06_cropped.jpg?v=1784057355\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35661591838807\",\"alt\":\"Licksters_TreatRefills_ATB_PDP_S_04#Size_S\",\"created_at\":\"2026-07-29T10:10:49-04:00\",\"height\":1200,\"id\":35661591838807,\"metafields\":[],\"position\":5,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_S_04.png?v=1785334250\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35503143321687\",\"alt\":\"219068-Licksters-Treat-Refills-S_09_cropped#Size_S\",\"created_at\":\"2026-07-14T15:29:13-04:00\",\"height\":1200,\"id\":35503143321687,\"metafields\":[],\"position\":6,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219068-Licksters-Treat-Refills-S_09_cropped.jpg?v=1784057355\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35503143256151\",\"alt\":\"219068-Licksters-Treat-Refills-S_04_cropped#Size_S\",\"created_at\":\"2026-07-14T15:29:13-04:00\",\"height\":1200,\"id\":35503143256151,\"metafields\":[],\"position\":7,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219068-Licksters-Treat-Refills-S_04_cropped.jpg?v=1784057355\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35661592035415\",\"alt\":\"Licksters_TreatRefills_ATB_PDP_ML_01#Size_M/L\",\"created_at\":\"2026-07-29T10:10:49-04:00\",\"height\":1200,\"id\":35661592035415,\"metafields\":[],\"position\":8,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_ML_01.png?v=1785334251\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35661592166487\",\"alt\":\"Licksters_TreatRefills_ATB_PDP_ML_02#Size_M/L\",\"created_at\":\"2026-07-29T10:10:49-04:00\",\"height\":1200,\"id\":35661592166487,\"metafields\":[],\"position\":9,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_ML_02.png?v=1785334251\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35503231434839\",\"alt\":\"219069-Licksters-Treat-Refills-ML_03_cropped#Size_M/L\",\"created_at\":\"2026-07-14T15:38:07-04:00\",\"height\":1200,\"id\":35503231434839,\"metafields\":[],\"position\":10,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219069-Licksters-Treat-Refills-ML_03_cropped.jpg?v=1784057888\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35503231565911\",\"alt\":\"219069-Licksters-Treat-Refills-ML_06_cropped#Size_M/L\",\"created_at\":\"2026-07-14T15:38:07-04:00\",\"height\":1200,\"id\":35503231565911,\"metafields\":[],\"position\":11,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219069-Licksters-Treat-Refills-ML_06_cropped.jpg?v=1784057889\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35661591871575\",\"alt\":\"Licksters_TreatRefills_ATB_PDP_ML_04#Size_M/L\",\"created_at\":\"2026-07-29T10:10:49-04:00\",\"height\":1200,\"id\":35661591871575,\"metafields\":[],\"position\":12,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_ML_04.png?v=1785334251\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35503231402071\",\"alt\":\"219069-Licksters-Treat-Refills-ML_09_cropped#Size_M/L\",\"created_at\":\"2026-07-14T15:38:06-04:00\",\"height\":1200,\"id\":35503231402071,\"metafields\":[],\"position\":13,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219069-Licksters-Treat-Refills-ML_09_cropped.jpg?v=1784057888\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35503231533143\",\"alt\":\"219069-Licksters-Treat-Refills-ML_04_cropped#Size_M/L\",\"created_at\":\"2026-07-14T15:38:07-04:00\",\"height\":1200,\"id\":35503231533143,\"metafields\":[],\"position\":14,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219069-Licksters-Treat-Refills-ML_04_cropped.jpg?v=1784057888\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35661591806039\",\"alt\":null,\"created_at\":\"2026-07-29T10:10:49-04:00\",\"height\":1200,\"id\":35661591806039,\"metafields\":[],\"position\":15,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_S_05.png?v=1785334250\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35661591773271\",\"alt\":null,\"created_at\":\"2026-07-29T10:10:49-04:00\",\"height\":1200,\"id\":35661591773271,\"metafields\":[],\"position\":16,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_ML_05.png?v=1785334250\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/35661592100951\",\"alt\":\"Licksters_TreatRefills_ATB_PDP_S_01#Size_S\",\"created_at\":\"2026-07-29T10:10:49-04:00\",\"height\":1200,\"id\":35661592100951,\"metafields\":[],\"position\":17,\"product_id\":7693019414615,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_S_01.png?v=1785334251\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[],\"width\":1200}],\"media\":[{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27662859108439\",\"alt\":null,\"created_at\":\"2026-09-14T10:04:37-04:00\",\"id\":27662859108439,\"media_content_type\":\"IMAGE\",\"position\":1,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_S_01_SubscribeSave_Noticeable_1.png?v=1789394678\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332982341719\",\"alt\":\"Licksters_TreatRefills_ATB_PDP_S_02#Size_S\",\"created_at\":\"2026-07-29T10:10:49-04:00\",\"id\":27332982341719,\"media_content_type\":\"IMAGE\",\"position\":2,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_S_02.png?v=1785334251\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27223446257751\",\"alt\":\"219068-Licksters-Treat-Refills-S_03_cropped#Size_S\",\"created_at\":\"2026-07-14T15:29:13-04:00\",\"id\":27223446257751,\"media_content_type\":\"IMAGE\",\"position\":3,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219068-Licksters-Treat-Refills-S_03_cropped.jpg?v=1784057355\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27223446454359\",\"alt\":\"219068-Licksters-Treat-Refills-S_06_cropped#Size_S\",\"created_at\":\"2026-07-14T15:29:13-04:00\",\"id\":27223446454359,\"media_content_type\":\"IMAGE\",\"position\":4,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219068-Licksters-Treat-Refills-S_06_cropped.jpg?v=1784057355\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332982112343\",\"alt\":\"Licksters_TreatRefills_ATB_PDP_S_04#Size_S\",\"created_at\":\"2026-07-29T10:10:49-04:00\",\"id\":27332982112343,\"media_content_type\":\"IMAGE\",\"position\":5,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_S_04.png?v=1785334250\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27223446356055\",\"alt\":\"219068-Licksters-Treat-Refills-S_09_cropped#Size_S\",\"created_at\":\"2026-07-14T15:29:13-04:00\",\"id\":27223446356055,\"media_content_type\":\"IMAGE\",\"position\":6,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219068-Licksters-Treat-Refills-S_09_cropped.jpg?v=1784057355\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27223446290519\",\"alt\":\"219068-Licksters-Treat-Refills-S_04_cropped#Size_S\",\"created_at\":\"2026-07-14T15:29:13-04:00\",\"id\":27223446290519,\"media_content_type\":\"IMAGE\",\"position\":7,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219068-Licksters-Treat-Refills-S_04_cropped.jpg?v=1784057355\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332982308951\",\"alt\":\"Licksters_TreatRefills_ATB_PDP_ML_01#Size_M/L\",\"created_at\":\"2026-07-29T10:10:49-04:00\",\"id\":27332982308951,\"media_content_type\":\"IMAGE\",\"position\":8,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_ML_01.png?v=1785334251\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332982440023\",\"alt\":\"Licksters_TreatRefills_ATB_PDP_ML_02#Size_M/L\",\"created_at\":\"2026-07-29T10:10:49-04:00\",\"id\":27332982440023,\"media_content_type\":\"IMAGE\",\"position\":9,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_ML_02.png?v=1785334251\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27223492722775\",\"alt\":\"219069-Licksters-Treat-Refills-ML_03_cropped#Size_M/L\",\"created_at\":\"2026-07-14T15:38:07-04:00\",\"id\":27223492722775,\"media_content_type\":\"IMAGE\",\"position\":10,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219069-Licksters-Treat-Refills-ML_03_cropped.jpg?v=1784057888\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27223492853847\",\"alt\":\"219069-Licksters-Treat-Refills-ML_06_cropped#Size_M/L\",\"created_at\":\"2026-07-14T15:38:07-04:00\",\"id\":27223492853847,\"media_content_type\":\"IMAGE\",\"position\":11,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219069-Licksters-Treat-Refills-ML_06_cropped.jpg?v=1784057889\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332982145111\",\"alt\":\"Licksters_TreatRefills_ATB_PDP_ML_04#Size_M/L\",\"created_at\":\"2026-07-29T10:10:49-04:00\",\"id\":27332982145111,\"media_content_type\":\"IMAGE\",\"position\":12,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_ML_04.png?v=1785334251\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27223492690007\",\"alt\":\"219069-Licksters-Treat-Refills-ML_09_cropped#Size_M/L\",\"created_at\":\"2026-07-14T15:38:06-04:00\",\"id\":27223492690007,\"media_content_type\":\"IMAGE\",\"position\":13,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219069-Licksters-Treat-Refills-ML_09_cropped.jpg?v=1784057888\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27223492821079\",\"alt\":\"219069-Licksters-Treat-Refills-ML_04_cropped#Size_M/L\",\"created_at\":\"2026-07-14T15:38:07-04:00\",\"id\":27223492821079,\"media_content_type\":\"IMAGE\",\"position\":14,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/219069-Licksters-Treat-Refills-ML_04_cropped.jpg?v=1784057888\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332982079575\",\"alt\":null,\"created_at\":\"2026-07-29T10:10:49-04:00\",\"id\":27332982079575,\"media_content_type\":\"IMAGE\",\"position\":15,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_S_05.png?v=1785334250\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332982046807\",\"alt\":null,\"created_at\":\"2026-07-29T10:10:49-04:00\",\"id\":27332982046807,\"media_content_type\":\"IMAGE\",\"position\":16,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_ML_05.png?v=1785334250\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/27332982374487\",\"alt\":\"Licksters_TreatRefills_ATB_PDP_S_01#Size_S\",\"created_at\":\"2026-07-29T10:10:49-04:00\",\"id\":27332982374487,\"media_content_type\":\"IMAGE\",\"position\":17,\"preview_image\":{\"height\":1200,\"src\":\"https://cdn.shopify.com/s/files/1/0559/3713/8775/files/Licksters_TreatRefills_ATB_PDP_S_01.png?v=1785334251\",\"status\":\"READY\",\"width\":1200},\"product_id\":7693019414615,\"status\":\"READY\",\"updated_at\":\"2026-09-14T10:05:19-04:00\",\"variant_ids\":[]}],\"options\":[{\"id\":9949695672407,\"name\":\"Size\",\"position\":1,\"product_id\":7693019414615,\"values\":[\"S\",\"M/L\"]}],\"product_type\":\"Treats & Chews\",\"published_at\":\"2026-08-03T09:01:20-04:00\",\"published_scope\":\"web\",\"status\":\"ready\",\"tags\":\"8/26, 9/26, autoship, licksters, new, protein-peanuts, rebuy-exclude, soft-chewy, treats-chews\",\"template_suffix\":\"\",\"title\":\"Licksters Treat Peanut Butter + Beef Treats 7 oz Refill\",\"updated_at\":\"2026-11-06T11:48:06-05:00\",\"variant_gids\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/44030705795159\",\"updated_at\":\"2026-11-06T16:48:06.000Z\"},{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/44030705762391\",\"updated_at\":\"2026-11-06T16:44:07.000Z\"}],\"vendor\":\"BARK\",\"variants\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/44030705762391\",\"barcode\":null,\"barcodes\":[],\"compare_at_price\":null,\"created_at\":\"2026-07-14T15:25:25-04:00\",\"fulfillment_service\":\"\",\"grams\":0,\"id\":44030705762391,\"image_id\":null,\"inventory_item_id\":46148543512663,\"inventory_management\":\"shopify\",\"inventory_policy\":\"deny\",\"inventory_quantity\":4468,\"metafields\":{\"finance\":{\"level4\":\"Licksters - Treat\"},\"msft_bingads\":{\"import_status\":\"approved\"},\"subscription\":{\"frequency_every\":[1,2,3],\"frequency_every_period\":\"month\",\"initial_discount_percent\":\"10\",\"upsell_eligible\":\"true\"}},\"old_inventory_quantity\":4468,\"option1\":\"S\",\"option2\":null,\"option3\":null,\"position\":1,\"price\":\"14.99\",\"product_id\":7693019414615,\"requires_shipping\":false,\"sku\":\"219457\",\"tax_code\":\"\",\"taxable\":true,\"title\":\"S\",\"updated_at\":\"2026-11-06T11:44:07-05:00\",\"weight\":0,\"link\":\"https://bark.co/products/licksters-refill?variant=44030705762391\"},{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/44030705795159\",\"barcode\":null,\"barcodes\":[],\"compare_at_price\":null,\"created_at\":\"2026-07-14T15:25:25-04:00\",\"fulfillment_service\":\"\",\"grams\":0,\"id\":44030705795159,\"image_id\":null,\"inventory_item_id\":46148543545431,\"inventory_management\":\"shopify\",\"inventory_policy\":\"deny\",\"inventory_quantity\":4676,\"metafields\":{\"finance\":{\"level4\":\"Licksters - Treat\"},\"msft_bingads\":{\"import_status\":\"approved\"},\"subscription\":{\"frequency_every\":[1,2,3],\"frequency_every_period\":\"month\",\"initial_discount_percent\":\"10\",\"upsell_eligible\":\"true\"}},\"old_inventory_quantity\":4676,\"option1\":\"M/L\",\"option2\":null,\"option3\":null,\"position\":2,\"price\":\"14.99\",\"product_id\":7693019414615,\"requires_shipping\":false,\"sku\":\"219458\",\"tax_code\":\"\",\"taxable\":true,\"title\":\"M/L\",\"updated_at\":\"2026-11-06T11:48:06-05:00\",\"weight\":0,\"link\":\"https://bark.co/products/licksters-refill?variant=44030705795159\"}],\"metafields\":{\"custom\":{\"dynamic_sections_bottom\":[\"gid://shopify/Metaobject/254829396055\",\"gid://shopify/Metaobject/254830313559\",\"gid://shopify/Metaobject/255841828951\",\"gid://shopify/Metaobject/254832083031\"],\"dynamic_sections_top\":[\"gid://shopify/Metaobject/254828740695\",\"gid://shopify/Metaobject/254829330519\"],\"free_shipping_callout\":\"Pause or Cancel Anytime\",\"partnerships\":\"[\\\"Licksters\\\"]\",\"product_details_section\":\"gid://shopify/Metaobject/248891506775\",\"protein_types\":\"[\\\"Beef\\\",\\\"Peanuts\\\"]\",\"variation_products\":\"[\\\"gid://shopify/Product/7693089275991\\\",\\\"gid://shopify/Product/7694730592343\\\",\\\"gid://shopify/Product/7693019414615\\\"]\",\"variation_value\":\"Treat Refills\"},\"mc-facebook\":{\"google_product_category\":\"5011\"},\"mm-google-shopping\":{\"google_product_category\":\"5011\"},\"msft_bingads\":{\"product_status\":\"{\\\"pending\\\":0,\\\"failed\\\":0,\\\"approved\\\":2}\"},\"reviews\":{\"rating\":{\"scale_min\":\"1.0\",\"scale_max\":\"5.0\",\"value\":\"4.4\"},\"rating_count\":\"77\"},\"shopify\":{\"package-type\":[\"gid://shopify/Metaobject/160580862039\"],\"pet-food-flavor\":[\"gid://shopify/Metaobject/137576251479\",\"gid://shopify/Metaobject/141724418135\"],\"pet-treat-texture\":[\"gid://shopify/Metaobject/86379561047\",\"gid://shopify/Metaobject/85912125527\"],\"pet-treat-type\":[\"gid://shopify/Metaobject/137578348631\"]},\"subscription\":{\"upsell_eligible\":\"true\"},\"yotpo\":{\"llm_schema_html\":\"<div id=\\\"yotpo-reviews-section-data\\\" style=\\\"margin-top:4px; font-size:11px; line-height:1.35; color:#555; max-height:220px; overflow:auto; padding:6px 8px; border:1px solid #eee; border-radius:4px; background:#fafafa;\\\">   <section id=\\\"yotpo-reviews-overall-rating\\\">     <p><strong>Overall rating:</strong> 4.4025974 / 5 from 77 reviews.</p>   </section>   <section id=\\\"yotpo-reviews-ai-summary\\\">     <h3>AI Generated Review Summary</h3>     <p>The refill treats are a hit with dogs, offering a delicious combination of peanut butter and beef flavors. They are designed to fit into LICKSTERS Enrichment Toy for extended playtime, and they are free from corn and soy.</p>   </section>   <section id=\\\"yotpo-reviews-summary-topics\\\">     <h3>Summary topics</h3>     <ul>       <li><span class=\\\"yotpo-topic-name\\\">Enrichment Toy Compatibility</span> (<span class=\\\"yotpo-topic-coverage\\\">17%</span>): <span class=\\\"yotpo-topic-summary\\\">A significant number of customers pointed out that this toy is a success with all their pups.</span></li><li><span class=\\\"yotpo-topic-name\\\">Treat Flavor and Enjoyment</span> (<span class=\\\"yotpo-topic-coverage\\\">26%</span>): <span class=\\\"yotpo-topic-summary\\\">Many customers appreciated the treat, stating that it was their dogs' favorite and they enjoyed it.</span></li>     </ul>   </section>   <section id=\\\"yotpo-reviews-review-topics\\\">     <p><strong>Review topics:</strong> [&quot;treats&quot;,&quot;toys&quot;,&quot;lickster&quot;,&quot;taste&quot;,&quot;idea&quot;,&quot;dog&quot;,&quot;refills&quot;].</p>   </section>   <section id=\\\"yotpo-reviews-highlights\\\">     <h3>Review highlights</h3>     <ul>       <li><span class=\\\"yotpo-highlight-text\\\">&quot;Treats were great, but the container that holds the treat opens easily&quot;</span> &mdash; <span class=\\\"yotpo-highlight-author\\\">Jessica Z.</span></li><li><span class=\\\"yotpo-highlight-text\\\">&quot;My dogs love this special treat.&quot;</span> &mdash; <span class=\\\"yotpo-highlight-author\\\">justine s.</span></li><li><span class=\\\"yotpo-highlight-text\\\">&quot;This toy is a success with all my pups.&quot;</span> &mdash; <span class=\\\"yotpo-highlight-author\\\">Sparky J.</span></li>     </ul>   </section>   <section id=\\\"yotpo-reviews-individual-reviews\\\">     <h3>Reviews</h3>     <article class=\\\"yotpo-review\\\" data-reviewer=\\\"Lorry K.\\\" data-rating=\\\"5\\\">       <h4 class=\\\"yotpo-review-title\\\">Lola LOVES these. Ruby thinks</h4>       <p class=\\\"yotpo-review-body\\\">&quot;Lola LOVES these. Ruby thinks they are too much work. They are extremely well made. Lola can't get it open and trust me, she tried. She likes the taste too and I like that they are easy to clean. Ruby liked it the first time but decided it's more li king than she thinks the treat is worth. I still give it to her sometimes, Lola finishes whatever Ruby left behind.&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Lorry K.</span> (<span class=\\\"yotpo-review-rating\\\">5/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Lindsay S.\\\" data-rating=\\\"2\\\">       <h4 class=\\\"yotpo-review-title\\\">It is a great idea,</h4>       <p class=\\\"yotpo-review-body\\\">&quot;It is a great idea, but it didn&rsquo;t last more than a week with our pup. He learned how to open it, then he quickly destroyed it on his second treat. I was hoping it would be more durable for our heavy chewer.&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Lindsay S.</span> (<span class=\\\"yotpo-review-rating\\\">2/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Leona T.\\\" data-rating=\\\"2\\\">       <h4 class=\\\"yotpo-review-title\\\">Paulie either did not read</h4>       <p class=\\\"yotpo-review-body\\\">&quot;Paulie either did not read or else did not understand the instructions with this item. It's not fun to just try to lick it. He thinks the goal is to take it apart so that he gets to just eat the treat inside.&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Leona T.</span> (<span class=\\\"yotpo-review-rating\\\">2/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Yvette H.\\\" data-rating=\\\"5\\\">       <h4 class=\\\"yotpo-review-title\\\">I was very skeptical that</h4>       <p class=\\\"yotpo-review-body\\\">&quot;I was very skeptical that these Licksters would last with my dogs. I can say they really do. My dogs were kept busy by these for over an hour. I have since ordered extras as backups of the Licksters starter kits with multiple Licksters refills. They even kept my dogs busy during a thunderstorm and 3 out of my 5 dogs hate storms. Thank-you, Kevin, Yvette, Journey, Jaxson, Jubilee, Avery Jo and Fiddler Hyatt&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Yvette H.</span> (<span class=\\\"yotpo-review-rating\\\">5/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"VICKI S.\\\" data-rating=\\\"5\\\">       <h4 class=\\\"yotpo-review-title\\\">Rip loves the treats!! I</h4>       <p class=\\\"yotpo-review-body\\\">&quot;Rip loves the treats!! I would like to have one treat fill the entire lickster. Sometimes I put in one treat, add peanut butter and then put different treats on top. Rip has figured out how to unscrew it and then he just devours the entire treat at one time.&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">VICKI S.</span> (<span class=\\\"yotpo-review-rating\\\">5/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Laurie Z.\\\" data-rating=\\\"1\\\">       <h4 class=\\\"yotpo-review-title\\\">No reflection on the item</h4>       <p class=\\\"yotpo-review-body\\\">&quot;No reflection on the item itself ... the girls just were not impressed so no reason to order refills for now. Our original BarkBox girl, Sadie Mae, would have absolutely loved these (she licked EVERYTHING). But these girls? Maybe when they get older (they are 3 years old and are terriers, so still in their youth years), but not at this point, unfortunately.&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Laurie Z.</span> (<span class=\\\"yotpo-review-rating\\\">1/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Robin C.\\\" data-rating=\\\"5\\\">       <h4 class=\\\"yotpo-review-title\\\">My dog goes crazy for</h4>       <p class=\\\"yotpo-review-body\\\">&quot;My dog goes crazy for his Licksters treats! The moment he sees the blue treat dispenser he knows what's coming. I love the ingredients and they last longer for us than the advertised 40 minutes. He stays content and entertained, and I am happy knowing I am providing healthy enrichment for him. Highly recommended!&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Robin C.</span> (<span class=\\\"yotpo-review-rating\\\">5/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Tammy D.\\\" data-rating=\\\"3\\\">       <h4 class=\\\"yotpo-review-title\\\">These Licksters are okay. We</h4>       <p class=\\\"yotpo-review-body\\\">&quot;These Licksters are okay. We have a 1 year old and a 9 year old dog and they get these Licksters slimy with their saliva and by the time they are done getting the treat out, you have to wash them! They do provide the dogs great fun and keep them busy but the slimy saliva is a bit to much.&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Tammy D.</span> (<span class=\\\"yotpo-review-rating\\\">3/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"Sparky J.\\\" data-rating=\\\"4\\\">       <h4 class=\\\"yotpo-review-title\\\">This toy is a success</h4>       <p class=\\\"yotpo-review-body\\\">&quot;This toy is a success with all my pups. I got the big one for Hoss, the Malinois, and the smaller one for Dudley, the Aussiedoodle. The big one is a little too big, but that's my bad! My heeler, Koda, keeps stealing the small one from Dudley (she steals everything!), so I'll probably have to buy one more. Still only four stars, though, as there's only the one flavor for the treat insert. Maybe bacon and cheese for the next one?&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">Sparky J.</span> (<span class=\\\"yotpo-review-rating\\\">4/5</span>)</p>     </article><article class=\\\"yotpo-review\\\" data-reviewer=\\\"petra v.\\\" data-rating=\\\"3\\\">       <h4 class=\\\"yotpo-review-title\\\">The package is cute and</h4>       <p class=\\\"yotpo-review-body\\\">&quot;The package is cute and my dog likes the taste but he gets upset he cant get the treat and gives up but at first he loved it!&quot;</p>       <p class=\\\"yotpo-review-author\\\">&mdash; <span class=\\\"yotpo-reviewer-name\\\">petra v.</span> (<span class=\\\"yotpo-review-rating\\\">3/5</span>)</p>     </article>   </section>   <section id=\\\"yotpo-reviews-qa\\\">     <h3>Q&amp;A</h3>     <dl>            </dl>   </section> </div>\",\"preloaded_bottomline\":\"{\\\"bottomline\\\":{\\\"totalReviews\\\":77,\\\"averageScore\\\":4.4025974,\\\"totalOrganicReviews\\\":0,\\\"organicAverageScore\\\":0.0}}\",\"preloaded_product_filters\":\"{\\\"storeId\\\":\\\"HddbOqIxtSzeDU82iV439mPkJX9olbOXS68INacF\\\",\\\"productId\\\":\\\"1110229406\\\",\\\"externalId\\\":\\\"7693019414615\\\",\\\"topics\\\":[\\\"treats\\\",\\\"toys\\\",\\\"lickster\\\",\\\"taste\\\",\\\"idea\\\",\\\"dog\\\",\\\"refills\\\"],\\\"summaryTopics\\\":[{\\\"displayTopic\\\":\\\"Enrichment Toy Compatibility\\\",\\\"topic\\\":\\\"toys\\\",\\\"summary\\\":\\\"A significant number of customers pointed out that this toy is a success with all their pups.\\\",\\\"coverage\\\":\\\"17\\\",\\\"avgSentiment\\\":0.95651513},{\\\"displayTopic\\\":\\\"Treat Flavor and Enjoyment\\\",\\\"topic\\\":\\\"treats\\\",\\\"summary\\\":\\\"Many customers appreciated the treat, stating that it was their dogs' favorite and they enjoyed it.\\\",\\\"coverage\\\":\\\"26\\\",\\\"avgSentiment\\\":0.92194986}],\\\"summaryHighlights\\\":[{\\\"reviewId\\\":894960800,\\\"reviewerName\\\":\\\"Jessica Z.\\\",\\\"highlight\\\":\\\"Treats were great, but the container that holds the treat opens easily\\\"},{\\\"reviewId\\\":892267071,\\\"reviewerName\\\":\\\"justine s.\\\",\\\"highlight\\\":\\\"My dogs love this special treat.\\\"},{\\\"reviewId\\\":895292836,\\\"reviewerName\\\":\\\"Sparky J.\\\",\\\"highlight\\\":\\\"This toy is a success with all my pups.\\\"}],\\\"paragraphSummary\\\":\\\"The refill treats are a hit with dogs, offering a delicious combination of peanut butter and beef flavors. They are designed to fit into LICKSTERS Enrichment Toy for extended playtime, and they are free from corn and soy.\\\",\\\"countries\\\":[{\\\"code\\\":\\\"US\\\",\\\"label\\\":\\\"\ud83c\uddfa\ud83c\uddf8 United States\\\",\\\"count\\\":77}]}\",\"preloaded_reviews\":\"{\\\"pagination\\\":{\\\"page\\\":1,\\\"perPage\\\":5,\\\"total\\\":77},\\\"bottomline\\\":{\\\"totalReview\\\":77,\\\"averageScore\\\":4.4025974,\\\"totalOrganicReviews\\\":0,\\\"organicAverageScore\\\":0.0,\\\"starDistribution\\\":{\\\"1\\\":3,\\\"2\\\":5,\\\"3\\\":6,\\\"4\\\":7,\\\"5\\\":56}},\\\"products\\\":[{\\\"id\\\":1110229406,\\\"domainKey\\\":\\\"7693019414615\\\",\\\"name\\\":\\\"Licksters Treat Peanut Butter + Beef Treats 7 oz Refill\\\",\\\"socialLinks\\\":{\\\"linkedin\\\":\\\"https://yotpo.com/go/553WBktE\\\",\\\"facebook\\\":\\\"https://yotpo.com/go/2H9E4cLT\\\",\\\"twitter\\\":\\\"https://yotpo.com/go/2nnEM2V4\\\",\\\"googleOauth2\\\":\\\"https://yotpo.com/go/a054YEtv\\\"},\\\"embeddedWidgetLink\\\":\\\"https://yotpo.com/go/inKDkTm3\\\",\\\"testimonialsProductLink\\\":\\\"https://yotpo.com/go/qOH6NO1C\\\",\\\"productLink\\\":\\\"https://yotpo.com/go/2wKBKpyT\\\",\\\"imageUrl\\\":\\\"https://cdn-yotpo-images-production.yotpo.com/Product/1058728317/870835742/square.png?1789394816\\\"}],\\\"reviews\\\":[{\\\"id\\\":910205776,\\\"score\\\":5,\\\"votesUp\\\":0,\\\"votesDown\\\":0,\\\"content\\\":\\\"Pierce liked this but as soon as the treat was gone, he demolished the holder! Would love to see this made in nylon for our super chewer.\\\",\\\"title\\\":\\\"Pierce liked this but as\\\",\\\"createdAt\\\":\\\"2026-10-22T22:04:39\\\",\\\"verifiedBuyer\\\":true,\\\"sentiment\\\":0.6774895,\\\"isIncentivized\\\":false,\\\"isShop\\\":false,\\\"comment\\\":{\\\"id\\\":53918216,\\\"content\\\":\\\"We're glad your pup enjoyed the Lickster Refill! We're sorry the holder didn't last, though. Thanks for the great suggestion about making it in nylon for our super chewers! We'll be sure to pass this feedback along to our team!\\\",\\\"createdAt\\\":\\\"2026-11-06T07:33:46\\\",\\\"displayName\\\":\\\"Bark\\\",\\\"commentsAvatar\\\":\\\"https://cdn-yotpo-images-production.yotpo.com/App/2002669/649973960/thumb.png?1736360194\\\"},\\\"user\\\":{\\\"userId\\\":343479747,\\\"userType\\\":\\\"User\\\",\\\"isSocialConnected\\\":0,\\\"displayName\\\":\\\"Laura T.\\\"},\\\"country\\\":{\\\"code\\\":\\\"US\\\",\\\"label\\\":\\\"\ud83c\uddfa\ud83c\uddf8 United States\\\"},\\\"productVariants\\\":{\\\"Size\\\":\\\"S\\\"},\\\"language\\\":\\\"en\\\"},{\\\"id\\\":909971695,\\\"score\\\":5,\\\"votesUp\\\":0,\\\"votesDown\\\":0,\\\"content\\\":\\\"My pups love it\\\",\\\"title\\\":\\\"My pups love it\\\",\\\"createdAt\\\":\\\"2026-10-22T11:24:11\\\",\\\"verifiedBuyer\\\":true,\\\"sentiment\\\":0.970104,\\\"isIncentivized\\\":false,\\\"isShop\\\":false,\\\"comment\\\":{\\\"id\\\":53915282,\\\"content\\\":\\\"Thank you for your feedback. We love hearing that the treats have been such a hit for you and your fur baby!\\\",\\\"createdAt\\\":\\\"2026-11-05T23:50:20\\\",\\\"displayName\\\":\\\"Bark\\\",\\\"commentsAvatar\\\":\\\"https://cdn-yotpo-images-production.yotpo.com/App/2002669/649973960/thumb.png?1736360194\\\"},\\\"user\\\":{\\\"userId\\\":167933913,\\\"userType\\\":\\\"User\\\",\\\"isSocialConnected\\\":0,\\\"displayName\\\":\\\"Deborah V.\\\"},\\\"country\\\":{\\\"code\\\":\\\"US\\\",\\\"label\\\":\\\"\ud83c\uddfa\ud83c\uddf8 United States\\\"},\\\"productVariants\\\":{\\\"Size\\\":\\\"S\\\"},\\\"language\\\":\\\"en\\\"},{\\\"id\\\":909415163,\\\"score\\\":5,\\\"votesUp\\\":0,\\\"votesDown\\\":0,\\\"content\\\":\\\"Love licksters, keeps my 2 pups busy for atleast 20 mins.\\\",\\\"title\\\":\\\"Love licksters, keeps my 2\\\",\\\"createdAt\\\":\\\"2026-10-22T02:18:32\\\",\\\"verifiedBuyer\\\":true,\\\"sentiment\\\":0.9308568,\\\"isIncentivized\\\":false,\\\"isShop\\\":false,\\\"comment\\\":{\\\"id\\\":53914851,\\\"content\\\":\\\"It is absolutely great to hear that your pups are loving the Lickster toy! It is our aim to keep their tails wagging! Thanks so much for sharing this with us. It truly makes our day.\\\",\\\"createdAt\\\":\\\"2026-11-05T22:05:06\\\",\\\"displayName\\\":\\\"Bark\\\",\\\"commentsAvatar\\\":\\\"https://cdn-yotpo-images-production.yotpo.com/App/2002669/649973960/thumb.png?1736360194\\\"},\\\"user\\\":{\\\"userId\\\":49258770,\\\"userType\\\":\\\"User\\\",\\\"isSocialConnected\\\":0,\\\"displayName\\\":\\\"Susan M.\\\"},\\\"country\\\":{\\\"code\\\":\\\"US\\\",\\\"label\\\":\\\"\ud83c\uddfa\ud83c\uddf8 United States\\\"},\\\"productVariants\\\":{\\\"Size\\\":\\\"M/L\\\"},\\\"language\\\":\\\"en\\\"},{\\\"id\\\":909278668,\\\"score\\\":5,\\\"votesUp\\\":0,\\\"votesDown\\\":0,\\\"content\\\":\\\"They always like these.\\\",\\\"title\\\":\\\"They always like these.\\\",\\\"createdAt\\\":\\\"2026-10-21T20:27:19\\\",\\\"verifiedBuyer\\\":true,\\\"sentiment\\\":0.9236826,\\\"isIncentivized\\\":false,\\\"isShop\\\":false,\\\"comment\\\":{\\\"id\\\":53904179,\\\"content\\\":\\\"We're so happy to hear your pups continue to enjoy their goodies. Knowing they love what we send makes our tails wag!\\\",\\\"createdAt\\\":\\\"2026-11-05T08:35:05\\\",\\\"displayName\\\":\\\"Bark\\\",\\\"commentsAvatar\\\":\\\"https://cdn-yotpo-images-production.yotpo.com/App/2002669/649973960/thumb.png?1736360194\\\"},\\\"user\\\":{\\\"userId\\\":22638129,\\\"userType\\\":\\\"User\\\",\\\"isSocialConnected\\\":0,\\\"displayName\\\":\\\"Brandy P.\\\"},\\\"country\\\":{\\\"code\\\":\\\"US\\\",\\\"label\\\":\\\"\ud83c\uddfa\ud83c\uddf8 United States\\\"},\\\"productVariants\\\":{\\\"Size\\\":\\\"M/L\\\"},\\\"language\\\":\\\"en\\\"},{\\\"id\\\":909207059,\\\"score\\\":3,\\\"votesUp\\\":0,\\\"votesDown\\\":0,\\\"content\\\":\\\"The package is cute and my dog likes the taste but he gets upset he cant get the treat and gives up but at first he loved it!\\\",\\\"title\\\":\\\"The package is cute and\\\",\\\"createdAt\\\":\\\"2026-10-21T15:34:03\\\",\\\"verifiedBuyer\\\":true,\\\"sentiment\\\":0.6236952,\\\"isIncentivized\\\":false,\\\"isShop\\\":false,\\\"comment\\\":{\\\"id\\\":53903122,\\\"content\\\":\\\"Thank you for your review! We're glad to hear your pup enjoyed the Lickster toy at first, but we're sorry it became frustrating for him. Someone from our Happy Team will be reaching out by email to learn more and help!\\\",\\\"createdAt\\\":\\\"2026-11-05T06:08:36\\\",\\\"displayName\\\":\\\"Bark\\\",\\\"commentsAvatar\\\":\\\"https://cdn-yotpo-images-production.yotpo.com/App/2002669/649973960/thumb.png?1736360194\\\"},\\\"user\\\":{\\\"userId\\\":343303978,\\\"userType\\\":\\\"User\\\",\\\"isSocialConnected\\\":0,\\\"displayName\\\":\\\"petra v.\\\"},\\\"country\\\":{\\\"code\\\":\\\"US\\\",\\\"label\\\":\\\"\ud83c\uddfa\ud83c\uddf8 United States\\\"},\\\"productVariants\\\":{\\\"Size\\\":\\\"S\\\"},\\\"language\\\":\\\"en\\\"}]}\",\"preloaded_star_distribution\":\"{\\\"1\\\":3,\\\"2\\\":5,\\\"3\\\":6,\\\"4\\\":7,\\\"5\\\":56}\",\"reviews_average\":\"4.4\",\"reviews_count\":\"77\"},\"seo\":{\"hidden\":\"1\"}},\"collection_ids\":[270313750615,274396381271,275110035543,275405504599,276642824279,278595240023,281142493271,283153793111,283162280023,284804546647,285813768279,286201839703,292904468567],\"ratings\":{\"yotpo_average_star_rating\":4.39,\"yotpo_total_reviews\":76},\"cache_info\":{\"loaded_options\":{\"metafields\":true,\"variant_metafields\":true,\"selling_plans\":false,\"shopify_selling_plans_loaded\":true,\"country_code\":false,\"locale\":false},\"metafields_format\":\"reb-21448\",\"variant_metafields_format\":\"reb-21448\",\"shopify_selling_plans_loaded_at\":1793984367,\"cached_at_time\":1793983761,\"cache_key\":\"pro_bt#7ae9d426f3f9145d6eae91ebcef27cf3\",\"cache_key_readable\":\"pro_bt#user_id:10951#shopify_product_id:\\\"7693019414615\\\"#user_id:\\\"10951\\\"\"},\"link\":\"https://bark.co/products/licksters-refill\",\"owner\":10951,\"selling_plan_groups\":[],\"subscription\":false,\"selected_variant\":{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/44030705762391\",\"barcode\":null,\"barcodes\":[],\"compare_at_price\":null,\"created_at\":\"2026-07-14T15:25:25-04:00\",\"fulfillment_service\":\"\",\"grams\":0,\"id\":44030705762391,\"image_id\":null,\"inventory_item_id\":46148543512663,\"inventory_management\":\"shopify\",\"inventory_policy\":\"deny\",\"inventory_quantity\":4468,\"metafields\":{\"finance\":{\"level4\":\"Licksters - Treat\"},\"msft_bingads\":{\"import_status\":\"approved\"},\"subscription\":{\"frequency_every\":[1,2,3],\"frequency_every_period\":\"month\",\"initial_discount_percent\":\"10\",\"upsell_eligible\":\"true\"}},\"old_inventory_quantity\":4468,\"option1\":\"S\",\"option2\":null,\"option3\":null,\"position\":1,\"price\":\"14.99\",\"product_id\":7693019414615,\"requires_shipping\":false,\"sku\":\"219457\",\"tax_code\":\"\",\"taxable\":true,\"title\":\"S\",\"updated_at\":\"2026-11-06T11:44:07-05:00\",\"weight\":0,\"link\":\"https://bark.co/products/licksters-refill?variant=44030705762391\"},\"selected_variant_id\":44030705762391,\"selected_product_id\":7693019414615,\"option1\":\"S\",\"option2\":null,\"option3\":null,\"quantity\":1,\"properties\":{},\"reviews\":{},\"has_subscription\":false,\"timestamp\":1793984385305}]"
+        },
+        {
+          "name": "cartTotal",
+          "value": "14.99"
+        },
+        {
+          "name": "ed73f20edbf2b74",
+          "value": "0:1:1793984377882:1793984377882:a91af1c81121124e168e7cb52ffb9863"
+        },
+        {
+          "name": "attraqtsessionid",
+          "value": "f52de5af-5bbe-43b8-9844-4406ad1f3d75"
+        },
+        {
+          "name": "EXP_ecf65e44fe_DEFAULT_USER_PROVIDER",
+          "value": "{\"first_seen\":\"1793984364.079\"}"
+        },
+        {
+          "name": "userInfoCache",
+          "value": "{\"success\": true, \"has_hash\": false, \"has_email\": false, \"data_partner_calls\": {\"persistent\": null, \"traverse\": null, \"audience\": \"2026-11-06 16:59:42.792794+00:00\"}}"
+        },
+        {
+          "name": "rudder_beacon_2eI6kw5WVNvV0ZGIs3LtMLRGWRT.3f9a3bdd-984c-44a1-9ed6-60c666457f90.batchQueue",
+          "value": "\"[]\""
+        },
+        {
+          "name": "userInfoLastLoadedDatetime",
+          "value": "1794002390764"
+        },
+        {
+          "name": "rudder_2eI6kw5WVNvV0ZGIs3LtMLRGWRT.b6d72e9f-84e7-4666-a0b4-f57b7be2ec3e.ack",
+          "value": "\"1793984393083\""
+        },
+        {
+          "name": "rudder_2eI6kw5WVNvV0ZGIs3LtMLRGWRT.b6d72e9f-84e7-4666-a0b4-f57b7be2ec3e.inProgress",
+          "value": "\"{}\""
+        },
+        {
+          "name": "_applovin_pixel_version",
+          "value": "s/a/3.6.68"
+        },
+        {
+          "name": "_rdiscount_codes",
+          "value": "[\"LICKSTERS\"]"
+        },
+        {
+          "name": "vidExpiry",
+          "value": "2027-12-01T16:59:30.895Z"
+        },
+        {
+          "name": "bark_xo_customer_tags",
+          "value": "[]"
+        },
+        {
+          "name": "mprtcl-tos-37341E1C",
+          "value": "20690"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "4udqVATc3p8UEXkYfODJdu37Ju3C1zYuZ4EJBj5iehdiaWAP4nB4QaOWxZ_8bdKm"
+        },
+        {
+          "name": "__paypal-httpswwwpaypalcomsdkjscomponentsbuttonscommitfalsecurrencyUSDlocaleenUSclientidAexZEtAxk09Ncgj6FSWFFyGKbxxAZLTyJ2DPdJWl1YUlecinmc5AfIaRF2qYjWlusWahlzz6SVkY5CimerchantidPX8J4HPY7H4WNintentauthorize_storage__",
+          "value": "{\"id\":\"uid_5de77215a4_mty6ntk6ndu\",\"__session__\":{\"guid\":\"uid_97f33e032d_mty6ntk6ndu\",\"created\":1793984385463},\"funding\":{}}"
+        },
+        {
+          "name": "_replo_sid",
+          "value": "{\"sessionId\":\"571f272b-09f8-4daa-8683-4f2616f804ca\",\"reploId\":\"b83f540e-a403-46fe-8386-959bc7833f7a\",\"createdAt\":1793984369567,\"expiresAt\":1793986190747,\"conversionsCounter\":0,\"isEntryPage\":false}"
+        },
+        {
+          "name": "audienceLastLoadedDatetime",
+          "value": "1794002380754"
+        },
+        {
+          "name": "rudder.03c97627-00ad-4a35-ae7c-e2ba20623d74.inProgress",
+          "value": "{}"
+        },
+        {
+          "name": "rudder_2eI6kw5WVNvV0ZGIs3LtMLRGWRT.b6d72e9f-84e7-4666-a0b4-f57b7be2ec3e.queue",
+          "value": "\"[]\""
+        },
+        {
+          "name": "rudder_beacon_2eI6kw5WVNvV0ZGIs3LtMLRGWRT.3f9a3bdd-984c-44a1-9ed6-60c666457f90.inProgress",
+          "value": "\"{}\""
+        },
+        {
+          "name": "asHasViewedProductPage",
+          "value": "true"
+        },
+        {
+          "name": "_ruid",
+          "value": "tPLTEEYbCwF3QxTxGieDWMP3AEyfgsmV10951vdjpPDsC4QAVpRabA3VEaceDhMzmabwceyJ1dWlkIjoiOGE4ZDM0M2UtMTQxOS00ZjhiLTg0ZWUtMTAzNmE2OWM1NWJmIiwic2Vzc2lvbiI6eyJpZCI6IjgyZDgxYjgxOGQ2ZDg5Y2QiLCJmaXJzdF9hY3RpdmUiOjE3OTM5ODQzNzAzNjAsImxhc3RfYWN0aXZlIjoxNzkzOTg0MzcwMzYwLCJnZW9sb2NhdGlvbiI6eyJjaXR5X25hbWUiOiJLYXJhY2hpIiwiY29udGluZW50X2NvZGUiOiJBUyIsImNvbnRpbmVudF9uYW1lIjoiQXNpYSIsImNvdW50cnlfY29kZSI6IlBLIiwiY291bnRyeV9uYW1lIjoiUGFraXN0YW4iLCJsYXRpdHVkZSI6MjQuODYwOCwibG9uZ2l0dWRlIjo2Ny4wMTA0LCJwb3N0YWxfY29kZSI6Ijc0MDAwIiwicHJvdmluY2VfY29kZSI6IlNEIiwicHJvdmluY2VfbmFtZSI6IlNpbmRoIn19LCJmaXJzdF9hY3RpdmUiOnsidXJsIjoiaHR0cHM6Ly9iYXJrLmNvL3Byb2R1Y3RzL2xpY2tzdGVycy1zdGFydGVyLWtpdCIsInRpbWVzdGFtcCI6MTc5Mzk4NDM3MDM5NSwicmVmZXJyZXIiOiIifSwibGFzdF9hY3RpdmUiOnsidXJsIjoiaHR0cHM6Ly9iYXJrLmNvL3Byb2R1Y3RzL2xpY2tzdGVycy1zdGFydGVyLWtpdCIsInRpbWVzdGFtcCI6MTc5Mzk4NDM3MDM5NSwicmVmZXJyZXIiOiIifX0="
+        },
+        {
+          "name": "rudder.03c97627-00ad-4a35-ae7c-e2ba20623d74.reclaimEnd",
+          "value": "null"
+        }
+      ]
+    }
+  ]
+}

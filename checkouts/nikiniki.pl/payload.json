@@ -1,0 +1,47 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBy5QU2UV_SkvH6EWnIqE08IGLmn5MR85SRmoQrqrMPNFCCyDO4peoVl5pvQ3_PVxaG_Wx_Qaq9Li8dHGtaMm7FSR8XfL6TRJwE2354qhiYOGMDPnWHsROPnwPJh5YKga4hVa-R3_G_e63AZ90tFR14ID6fePSM8eL16V7atHKBb3QxG3RnoFVkpOKszBcoOxgxPycQcHOiVZmH2TjO_mCrBQ0h4-e"
+    },
+    "queueToken": "A7kwPovHXV3f95YlmFhqg1hC92M1Q8WKuxcaN3NLOxUmiwuTQIQ7JkEQ5LGkvRRvzf-DViv9QyCPNXsOFENLpEnDxvB3sFnVQwM9NFLqYPPGELOaDHygSFgh0UzUPqvl8A==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "4b2da2a3-d032-454a-a296-23be1dbdb581",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/51795712442664",
+              "variantId": "gid://shopify/ProductVariant/51795712442664",
+              "properties": [
+                {
+                  "name": "_wykonawca",
+                  "value": {
+                    "string": "LACH"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "89.00",
+              "currencyCode": "PLN"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

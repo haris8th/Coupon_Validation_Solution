@@ -1,0 +1,17 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "pollAfter": "2026-11-09T19:15:43Z",
+          "queueToken": "A4RNiootELXIttNOTrWrU4RYRtJKj0VA7dT9tmA4kCG7olcgxNaBRl9QVVf--OzdwlUGyUd5gJ2qFj0GHOS-FlrvfZCC8DJ_nPa6Wp8YHqupLIGojoRiM3kRWM9vVe842MprGB1SgvI6DJ06TWxm7x4=",
+          "pollUrl": "https://browntaped.myshopify.com/queue/poll",
+          "__typename": "Throttled"
+        },
+        "errors": []
+      },
+      "__typename": "Session"
+    }
+  }
+}

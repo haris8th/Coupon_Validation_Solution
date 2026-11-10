@@ -1,0 +1,47 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEB9IzozkbAIGHmtt9uoibKEPhTI-YiOz1ViS8ynnoO2ZjsL_BWpP25S8VphzMO5kkpbVaDNUtjEc0wvT6DrnLk4nivMe9X34DB-nDFxaBL0cUGuoRGXGqGM_NKjWavjTdBJfDU58Qcid2htdTPaxP0w9neTMgQlpcQKHTo53xn6PGkZkdHc_l42iuRdXcQjDV_e-pinojByszJWPv5ximxqdsPR5pusLvVJa8udCZI"
+    },
+    "queueToken": "A_EKGCb_zcHYPF_llGubM-CQ1LawtvoAFqb2RQal23Vx5c24G88jsrD2bVL9IFHPQG1Wru43HtXrQVHdZFNfZyU1y-xDTGH62muqqSTY4N_WVVaw0blMOGkZ3ztUUHweZQ==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "b1196eb8-e931-4260-83d1-1390627b3dd9",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/44302846918755",
+              "variantId": "gid://shopify/ProductVariant/44302846918755",
+              "properties": [
+                {
+                  "name": "_Lead Time - groupStandard - Order Confirmation",
+                  "value": {
+                    "string": "Your item will ship in 2 - 3 Days "
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "0.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

@@ -1,0 +1,269 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBADeFd9j76mm_YZQqFVKhq5eu8VkbryGrJ453tuHjEpsrw3f2L2MKlrt8cPFIePJfPa_656F4hTRcyDj34gCQgEVLpDu4Rq6YebtpTdEYWhkOFr9TZcgMjDo7zM7FiTGgnQUKcxFLO1n7-AQxzpjqGDs0UukPZ_eI8N6dUuIzhS9E3YQYXFfQjFwkaFcQCVtvzt-czjJQzzIABzTdku0BZkTP6BAyjcLv"
+    },
+    "queueToken": "Ax9Riyb4lzoq_uq9cw2Vho6-iovpIUzKVXzcJ0_gKVoCG3E6qa3I3XE-hUeTeuXWyCxxuN8dYlPB65AlexsuDAGmS6VXXFXCD7_jRQr0NmIyTdk4Hd93r_JOoU_Fw_WzIg==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "56f59b5e-84c1-4496-8986-b1869f7f9a8f",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/50899973570862",
+              "variantId": "gid://shopify/ProductVariant/50899973570862",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "39.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": "BUNDLES_STATIC_EXPAND",
+          "lineComponents": [
+            {
+              "stableId": "9b1fe907-246a-278b-b015-922251a2d02f",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/50827395039534",
+                "digest": "921240226509daee7d4508aca2a2deec",
+                "variantId": "gid://shopify/ProductVariant/50827395039534",
+                "title": "Dark Chocolate and Caramel Masterpiece Bag",
+                "untranslatedTitle": "Dark Chocolate and Caramel Masterpiece Bag",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/9880181834030",
+                  "vendor": "GODIVA Chocolatier, Inc.",
+                  "productType": "Chocolate",
+                  "disclosures": []
+                },
+                "productUrl": "/products/dark-chocolate-and-caramel-masterpiece-bag",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/0794/2704/3630/files/16247_MP_DarkCaramel.jpg?v=1760457329",
+                  "one": "https://cdn.shopify.com/s/files/1/0794/2704/3630/files/16247_MP_DarkCaramel_64x64.jpg?v=1760457329",
+                  "two": "https://cdn.shopify.com/s/files/1/0794/2704/3630/files/16247_MP_DarkCaramel_128x128.jpg?v=1760457329",
+                  "four": "https://cdn.shopify.com/s/files/1/0794/2704/3630/files/16247_MP_DarkCaramel_256x256.jpg?v=1760457329"
+                },
+                "properties": [],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "13.0",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "3fe84626dcac10f4c344312d4c40fdcf",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "7b23fe8a-2d51-ba0d-7f96-88905700c85f",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/51935017074990",
+                "digest": "5e3a1dc9292299556abef4c7efffc2f5",
+                "variantId": "gid://shopify/ProductVariant/51935017074990",
+                "title": "Dark Chocolate Ganache Masterpiece Bag",
+                "untranslatedTitle": "Dark Chocolate Ganache Masterpiece Bag",
+                "subtitle": "Dark chocolate",
+                "untranslatedSubtitle": "Dark chocolate",
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/9880180883758",
+                  "vendor": "GODIVA Chocolatier, Inc.",
+                  "productType": "Chocolate",
+                  "disclosures": []
+                },
+                "productUrl": "/products/dark-chocolate-ganache-masterpiece-bag",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/0794/2704/3630/files/16245_MP_DarkGanache.jpg?v=1757620299",
+                  "one": "https://cdn.shopify.com/s/files/1/0794/2704/3630/files/16245_MP_DarkGanache_64x64.jpg?v=1757620299",
+                  "two": "https://cdn.shopify.com/s/files/1/0794/2704/3630/files/16245_MP_DarkGanache_128x128.jpg?v=1757620299",
+                  "four": "https://cdn.shopify.com/s/files/1/0794/2704/3630/files/16245_MP_DarkGanache_256x256.jpg?v=1757620299"
+                },
+                "properties": [],
+                "requiresShipping": true,
+                "options": [
+                  {
+                    "name": "Chocolate type",
+                    "value": "Dark chocolate"
+                  }
+                ],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "13.0",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "d05a83758a53854b422dd587519c71f3",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "eaaf9a73-695e-3a25-bd95-163e8ba7f04a",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/52104774582574",
+                "digest": "2ae6362bbf08f1398c727c12ee691dce",
+                "variantId": "gid://shopify/ProductVariant/52104774582574",
+                "title": "Milk Chocolate Ganache Masterpiece Bag",
+                "untranslatedTitle": "Milk Chocolate Ganache Masterpiece Bag",
+                "subtitle": "Milk chocolate",
+                "untranslatedSubtitle": "Milk chocolate",
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/9880181309742",
+                  "vendor": "GODIVA Chocolatier, Inc.",
+                  "productType": "Chocolate",
+                  "disclosures": []
+                },
+                "productUrl": "/products/milk-chocolate-ganache-masterpiece-bag",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/0794/2704/3630/files/16246_MP_MilkGanache.jpg?v=1760457346",
+                  "one": "https://cdn.shopify.com/s/files/1/0794/2704/3630/files/16246_MP_MilkGanache_64x64.jpg?v=1760457346",
+                  "two": "https://cdn.shopify.com/s/files/1/0794/2704/3630/files/16246_MP_MilkGanache_128x128.jpg?v=1760457346",
+                  "four": "https://cdn.shopify.com/s/files/1/0794/2704/3630/files/16246_MP_MilkGanache_256x256.jpg?v=1760457346"
+                },
+                "properties": [],
+                "requiresShipping": true,
+                "options": [
+                  {
+                    "name": "Chocolate type",
+                    "value": "Milk chocolate"
+                  }
+                ],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "13.0",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "0f363ce8137aa650b6d088b509da4235",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "13.0",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

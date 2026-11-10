@@ -1,0 +1,64 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEB1-8gmnudQU6dx3Tnbw2EZmTHYBx4XA5olgcpHzAqssaymOHO8xZ2xsn5rtrAWAl29B1_3wQj2IA3g7jaumnKhYL876TzNPVtBQSfM_LMBZO2kjoz5koQo4d8paYmqO_91--IONEg9V1f70feaqgGUUlI-yRTyciT2Vc9jxLl2jgX3lT32MOWTUeP2_5mj4_pc0XDdWG2PleOnTCDrdWnc_YLDnZ_EQvWEEqj"
+    },
+    "queueToken": "A_z_1UWqgd73Rxta-U6PIYpxkM6PPRMJgbo_RxJLpIGUu-5IVWwLMhtKAQGjSsPXXqWFt9QgwXga94DkOSwC38OCyN0W2bMQJ93GxxOGBDe74mqF25tmk5qhmHkiWYgE4IIYusP2fO8=",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "e32071f4-6d17-44b4-893f-a5a12c4cd2ca",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/67713376125143",
+              "variantId": "gid://shopify/ProductVariant/67713376125143",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "169.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "adab0c4f-f73b-4a92-af40-017d9b75d5c0",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/49532865183959",
+              "variantId": "gid://shopify/ProductVariant/49532865183959",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "1799.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

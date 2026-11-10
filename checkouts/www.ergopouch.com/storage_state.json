@@ -1,0 +1,787 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1825788358.238059,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1795461959.004862,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHBxejFAAEAONcfoJAwJo5s3GSdeorSDn-pcnd0bOuTil3fmmg7HKqtiI3L-9NOfRmunxDqG_MLQI-Wjz4izbSVVQs:",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1825788335.616225,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHBxenNAAEAsYTLHT0_IUkfwQHgcIn5j1Ygzbq4rkej6WPNE4WCthvqp7Cs8cTxYiodMWm3wTEWGNwHkfAIyXQWzbM:",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1825788335.616331,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHBxenNAAEADjBMDRl1Q3tePHZujpL3KNVpsE3D_rlt4b2T2UdsAUgqZ74VGsE3VCPqM22Z7s-uQDcJJDMIymcokMs:",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1825788335.616428,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxUlrgiLQvJwvZwJgkXqN%3Fkey%3D8b34630c3b5536fc2c11647d2632a7b2",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1802114756.129903,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uxify_group",
+      "value": "optimized",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1794338746.927069,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "moast-p",
+      "value": "d43e9e94-b341-47ad-91cc-4c8ffe922d0d",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1825788338,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "recordID",
+      "value": "ea5db4a3-29da-449c-bb65-e967abb78eb8",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "moast-p-views",
+      "value": "0",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dmSessionID",
+      "value": "d91bed56-b006-45c4-969c-894ef247276b",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://www.ergopouch.com",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1796844348,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "moast-p-id",
+      "value": "",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pp_visitor_id",
+      "value": "bbbd2bb9-7499-47f9-8b09-97315312f8bc",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1825788358.73803,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__prz_uid",
+      "value": "e76d5483-13fb-406a-8c34-f7e6141d5f1c",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1796844350,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_id",
+      "value": "b9fe6b822bb34ce2991e02676ff277f6",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1827948350,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_session_id",
+      "value": "77d13ce1f0d24eb5a1161db765c5ffd4",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1794254157,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1794252341313",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1827948341,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "moast-p-impressions",
+      "value": "1",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "moast-p-cr",
+      "value": "1.0:USD",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_bopd_",
+      "value": "browser",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1827948342,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1794259542,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "ORGANIC",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1794254142,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssUserId",
+      "value": "a7de5bf9-7402-4b4c-9b09-00b33d220624",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssSessionIdNamespace",
+      "value": "795eed66-a557-428a-9cfb-5a47e1edba75",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssShopperId",
+      "value": "02be4a69-4b2e-40d0-832a-9964e69830d5",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__prz_ab_popup",
+      "value": "b",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1794338744,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "test",
+      "value": "test",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "",
+      "value": "test",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Shoplift_Session",
+      "value": "{\"isMerchant\":false,\"timestamp\":\"2026-11-09T19:25:45.761Z\",\"entryPage\":\"https://www.ergopouch.com/\",\"lastSeen\":1794252345761}",
+      "domain": ".www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "Shoplift_Essential",
+      "value": "{\"timestamp\":\"2026-11-09T19:25:48.427Z\",\"consentApproved\":true,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T19:25:35.706Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}",
+      "domain": ".www.ergopouch.com",
+      "path": "/",
+      "expires": 1825788348,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "Shoplift_Analytics",
+      "value": "{\"timestamp\":\"2026-11-09T19:25:48.427Z\",\"visitor\":null,\"queue\":[]}",
+      "domain": ".www.ergopouch.com",
+      "path": "/",
+      "expires": 1825788348,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzk0MjUyMzQxMzA3LFwidW9cIjoxNzk0MjUyMzQxMzA3LFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcImI5ZmU2YjgyMmJiMzRjZTI5OTFlMDI2NzZmZjI3N2Y2XCJ9IiwiZWF0Ijoie1wiY29cIjoxNzk0MjUyMzQ4NDUzLFwidW9cIjoxNzk0MjUyMzQ4NDUzLFwibWFcIjozNjUwLFwiaW5cIjp0cnVlLFwidmFsXCI6XCJodHRwczovL3d3dy5lcmdvcG91Y2guY29tL2FwcHMvc2hvcC9hcXprbFwifSJ9",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1827948348,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "2",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1794254150,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1794252338008.ddd750ca-a37f-402a-bb97-cdeb872ba323",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1802028348,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ssShopperId",
+      "value": "",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssCartProducts",
+      "value": "ffa3f815-06ae-4bac-849e-974f2bbc0101",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "none",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1796844353,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "ouDnklrH0ynYXApD7FsmLFseNQxeaOhy4Z3gPTD69VI-1794252354.4311783-1.0.1.1-jibyDFSH4sBFMjOEGglgDTooR2SaDHlOXB9Wc7s7pjheeA1U897JOZfecScl14TPSvMSaTx77FoAJrFNz1DPOcysYD8R9Uqn1gAi9vZ36ccA6upmLSBFOlstBSeZI569",
+      "domain": ".www.ergopouch.com",
+      "path": "/",
+      "expires": 1794254154.566455,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://ergopouch.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "apt_pixel",
+      "value": "eyJkZXZpY2VJZCI6IjQ4ZmVlMTFkLTc5ZGMtNDdjNC05MzY4LTBjOGIyOGNlODgwYSIsInVzZXJJZCI6bnVsbCwiZXZlbnRJZCI6MSwibGFzdEV2ZW50VGltZSI6MTc5NDI1MjM1NDg1MCwiY2hlY2tvdXQiOnsiYnJhbmQiOiJjYXNoYXBwYWZ0ZXJwYXkifX0=",
+      "domain": ".www.ergopouch.com",
+      "path": "/",
+      "expires": 1825788354,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amp_f24a38",
+      "value": "jWdkeTxzKZ4_u9h8nB-lOL...1k70scdb3.1k70scdb3.0.0.0",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1825788354,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__blockify::analyzer",
+      "value": "%7B%22startTime%22%3A1794252355552%7D",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "prz-ai-visitor",
+      "value": "c68f6efd-470b-4e5f-9949-920574c306d4",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1796844356,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "prz-ai-session",
+      "value": "29336477-a804-4b48-9cf4-a1c2fcc817fe",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1794857156,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=efb34464-572c-49c0-8fa7-95d51a33d8db&logs=1&id=dfbffa15-e95a-44ea-93de-a2a82d019612&created=1794252339558&expire=1794253257299",
+      "domain": "www.ergopouch.com",
+      "path": "/",
+      "expires": 1825788357,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ssCartProducts",
+      "value": "EPCO-1.0T02-06MTP17",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssViewedProducts",
+      "value": "EPCO-1.0T02-06MTP17",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1828812359.367219,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssSessionId",
+      "value": "ea4543f2-5390-40bb-b24c-b89d55430006",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1794254159,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_1IlrczmLSaebhg8J7M8p6w%2379c296f3-b2d5-415c-accb-683bf6ee4841-1794252344",
+      "domain": ".ergopouch.com",
+      "path": "/",
+      "expires": 1825809967.244353,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.ergopouch.com",
+      "localStorage": [
+        {
+          "name": "_upf_fingerprint",
+          "value": "{\"value\":{\"uuid\":\"39069e39-cd2c-4de0-abcc-f43b1d191b04\",\"confidence\":1},\"at\":1794252339801}"
+        },
+        {
+          "name": "ssViewedProducts",
+          "value": "{\"value\":[{\"sku\":\"EPCO-1.0T02-06MTP17\",\"parentId\":\"10314194485417\",\"uid\":\"50526255579305\"}]}"
+        },
+        {
+          "name": "Uxify:visitor",
+          "value": "{\"id\":\"qQCBuE0ScqPHTdCQ\",\"braveDetected\":false,\"firstName\":\"Bert\",\"lastName\":\"McJumpy\",\"nickname\":\"Bert McJumpy\",\"persona\":\"Future Champion\"}"
+        },
+        {
+          "name": "prz-ai-chat-history",
+          "value": "[{\"content\":\"Hi! \u2728 Have questions about the Cocoon Swaddle Sack 1.0 TOG Triangle Pops? Ask me about sizing, safe sleep, TOG warmth, materials, or similar options. \",\"sessionId\":\"7f62ac31-1ccc-41d3-b4ee-3384e749838e\",\"visitorId\":\"f46bef98-41fe-4b32-bf3a-c7ef753a7c41\",\"isSender\":false,\"isProductInit\":false,\"traceId\":\"00-b4e9691a703087127cd2378daf1c6943-6dea5e5b476945a4-01\",\"responseType\":\"SpecificProductQuestion\",\"citation\":null,\"responsePayload\":[{\"id\":\"10314194485417\",\"documentId\":\"10314194485417\",\"categoryTags\":[\"swaddles\",\"swaddle sacks\",\"cocoon swaddles\",\"cocoon swaddle sacks\",\"baby swaddles\",\"newborn swaddles\",\"2-6m swaddles\",\"1.0 tog swaddles\"],\"title\":\"Cocoon Swaddle Sack 1.0 TOG Triangle Pops\",\"vendor\":null,\"productType\":\"cocoon swaddle sack\",\"link\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"imageUrl\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"websiteUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops?variant=50526255579305\",\"price\":34.97,\"originalPrice\":49.95,\"availableIn\":\"Triangle Pops / 1.0 TOG / 2-6M\",\"variants\":[{\"id\":\"50526255579305\",\"sku\":\"EPCO-1.0T02-06MTP17\",\"title\":\"Triangle Pops / 1.0 TOG / 2-6M\",\"price\":34.97,\"imageUrl\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"variantUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops?variant=50526255579305\",\"originalPrice\":49.95,\"primaryColor\":null,\"patternDesign\":\"triangle pops\",\"patternColor\":null,\"stockAvailable\":true,\"displayColor\":\"Triangle Pops\",\"displaySize\":\"2-6m\",\"bestFits\":\"\",\"sale\":true,\"displayDynamicFields\":null}],\"sale\":true,\"bestFits\":\"\",\"displaySize\":\"2-6m\",\"selectedVariantId\":\"50526255579305\",\"aiMandatoryFields\":{\"categoryTags\":\"swaddles,swaddle sacks,cocoon swaddles,cocoon swaddle sacks,baby swaddles,newborn swaddles,2-6m swaddles,1.0 tog swaddles\",\"primaryColor\":\"\",\"rawColor\":\"\",\"brand\":\"ergoPouch\",\"newArrival\":\"False\",\"gender\":\"male, female\"},\"aiFeatures\":[{\"name\":\"**Wear Options**\",\"description\":\"Wear arms in, hands up, or arms out.\"},{\"name\":\"**TOG Rating**\",\"description\":\"1.0 TOG rating for lightweight sleep comfort.\"},{\"name\":\"**Age Suitability**\",\"description\":\"Designed for babies aged 2-6 months.\"},{\"name\":\"**Swaddle Design**\",\"description\":\"Grows with your baby\u2019s changing startle reflex.\"},{\"name\":\"**Product Type**\",\"description\":\"Cocoon-style swaddle sack for secure baby sleep.\"},{\"name\":\"**Pattern**\",\"description\":\"Triangle Pops design adds a playful visual detail.\"},{\"name\":\"**Seasonality**\",\"description\":\"Lightweight design suited to warmer sleeping conditions.\"}],\"searchSummary\":\"Specific product question from greeting\",\"images\":[\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Triangle-Pops_1688x2000_f3dbda0e-f4e7-41fa-9afb-2652d584806f.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Triangle-Pops-1-Arm-Out_1688x2000_f9895e1b-6fa8-49eb-b49a-a780be24a684.jpg?v=1793144287\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Baby-CloseUp-TrianglePops_1688x2000_f0343ccc-4034-406d-951e-987c79e1e101.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Tummy-Time-2.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon_TrianglePops2_1688x2000_07e43764-a584-4892-90d6-504c7b74117a.jpg?v=1793144287\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon_TrianglePops_4_1688x2000_1ea1064b-f441-465b-a8cf-a701e1cd887b.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Triangle-Pops-2-Arms-Out_1688x2000_2a09d54e-8099-4403-8357-cf820fdbb3cc.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon_TrianglePops_1ArmOut_3_1688x2000_e61105c6-f1ab-44b9-aef5-cfbdaa0b68b4.jpg?v=1793144287\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/WhatToWear_US_2025_PDP_1688x2000_1.jpg?v=1775087216\"],\"perfectMatch\":false,\"productMinifiedStore\":{\"id\":\"10314194485417\",\"documentId\":\"10314194485417\",\"productType\":\"cocoon swaddle sack\",\"categoryTags\":null,\"title\":\"Cocoon Swaddle Sack 1.0 TOG Triangle Pops\",\"searchSummary\":\"Specific product question from greeting\",\"imageUrl\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"price\":34.97,\"originalPrice\":49.95}}],\"products\":[],\"responseSuggestion\":[\"**What room temperature suits 1.0 TOG?**\",\"**How does the three-way swaddle work?**\",\"**When should arms-out sleeping begin?**\",\"**How do I choose the size?**\",\"**Is it machine washable?**\"],\"arguments\":null,\"hasMoreProducts\":false,\"searchRefinement\":false,\"isCompareSearch\":false,\"isContinuation\":false,\"useSmartResponse\":false,\"total\":0,\"filters\":[],\"searchHistoryId\":null,\"productDetailsFromExistAPI\":{\"id\":\"10314194485417\",\"documentId\":\"10314194485417\",\"categoryTags\":[\"swaddles\",\"swaddle sacks\",\"cocoon swaddles\",\"cocoon swaddle sacks\",\"baby swaddles\",\"newborn swaddles\",\"2-6m swaddles\",\"1.0 tog swaddles\"],\"title\":\"Cocoon Swaddle Sack 1.0 TOG Triangle Pops\",\"vendor\":null,\"productType\":\"cocoon swaddle sack\",\"link\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"imageUrl\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"websiteUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops?variant=50526255579305\",\"price\":34.97,\"originalPrice\":49.95,\"availableIn\":\"Triangle Pops / 1.0 TOG / 2-6M\",\"variants\":[{\"id\":\"50526255579305\",\"sku\":\"EPCO-1.0T02-06MTP17\",\"title\":\"Triangle Pops / 1.0 TOG / 2-6M\",\"price\":34.97,\"imageUrl\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"variantUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops?variant=50526255579305\",\"originalPrice\":49.95,\"primaryColor\":null,\"patternDesign\":\"triangle pops\",\"patternColor\":null,\"stockAvailable\":true,\"displayColor\":\"Triangle Pops\",\"displaySize\":\"2-6m\",\"bestFits\":\"\",\"sale\":true,\"displayDynamicFields\":null}],\"sale\":true,\"bestFits\":\"\",\"displaySize\":\"2-6m\",\"selectedVariantId\":\"50526255579305\",\"aiMandatoryFields\":{\"CategoryTags\":\"swaddles,swaddle sacks,cocoon swaddles,cocoon swaddle sacks,baby swaddles,newborn swaddles,2-6m swaddles,1.0 tog swaddles\",\"PrimaryColor\":\"\",\"RawColor\":\"\",\"Brand\":\"ergoPouch\",\"NewArrival\":\"False\",\"Gender\":\"male, female\"},\"aiFeatures\":[{\"name\":\"**Wear Options**\",\"description\":\"Wear arms in, hands up, or arms out.\"},{\"name\":\"**TOG Rating**\",\"description\":\"1.0 TOG rating for lightweight sleep comfort.\"},{\"name\":\"**Age Suitability**\",\"description\":\"Designed for babies aged 2-6 months.\"},{\"name\":\"**Swaddle Design**\",\"description\":\"Grows with your baby\u2019s changing startle reflex.\"},{\"name\":\"**Product Type**\",\"description\":\"Cocoon-style swaddle sack for secure baby sleep.\"},{\"name\":\"**Pattern**\",\"description\":\"Triangle Pops design adds a playful visual detail.\"},{\"name\":\"**Seasonality**\",\"description\":\"Lightweight design suited to warmer sleeping conditions.\"}],\"searchSummary\":\"\",\"images\":[\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Triangle-Pops_1688x2000_f3dbda0e-f4e7-41fa-9afb-2652d584806f.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Triangle-Pops-1-Arm-Out_1688x2000_f9895e1b-6fa8-49eb-b49a-a780be24a684.jpg?v=1793144287\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Baby-CloseUp-TrianglePops_1688x2000_f0343ccc-4034-406d-951e-987c79e1e101.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Tummy-Time-2.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon_TrianglePops2_1688x2000_07e43764-a584-4892-90d6-504c7b74117a.jpg?v=1793144287\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon_TrianglePops_4_1688x2000_1ea1064b-f441-465b-a8cf-a701e1cd887b.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Triangle-Pops-2-Arms-Out_1688x2000_2a09d54e-8099-4403-8357-cf820fdbb3cc.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon_TrianglePops_1ArmOut_3_1688x2000_e61105c6-f1ab-44b9-aef5-cfbdaa0b68b4.jpg?v=1793144287\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/WhatToWear_US_2025_PDP_1688x2000_1.jpg?v=1775087216\"],\"perfectMatch\":false,\"productMinifiedStore\":{\"id\":\"10314194485417\",\"documentId\":\"10314194485417\",\"productType\":\"cocoon swaddle sack\",\"categoryTags\":null,\"title\":\"Cocoon Swaddle Sack 1.0 TOG Triangle Pops\",\"searchSummary\":\"\",\"imageUrl\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"price\":34.97,\"originalPrice\":49.95}},\"isProductOverview\":true,\"isGreeting\":true}]"
+        },
+        {
+          "name": "gorgias.conversation-starters-timeout-cohort",
+          "value": "5000"
+        },
+        {
+          "name": "gorgias.guest-id",
+          "value": "bbbd2bb9-7499-47f9-8b09-97315312f8bc"
+        },
+        {
+          "name": "prz-ai-chat-is-streaming",
+          "value": "false"
+        },
+        {
+          "name": "Uxify:migration:target-url-cleanup:v1",
+          "value": "1"
+        },
+        {
+          "name": "redo-selling-plans",
+          "value": "{\"expiry\":1794255958298,\"value\":{}}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxUlrgiLQvJwvZwJgkXqN\""
+        },
+        {
+          "name": "alia-storage-since",
+          "value": "1794252341644"
+        },
+        {
+          "name": "Uxify:orderIdLatestSession",
+          "value": "NtOJt8dVcm3FHBKm"
+        },
+        {
+          "name": "alia-tracking-allowed-ergopouch-us.myshopify.com",
+          "value": "true"
+        },
+        {
+          "name": "redo-final-sale-valid-10314194485417",
+          "value": "{\"expiry\":1794255952388,\"value\":\"false\"}"
+        },
+        {
+          "name": "alia-consent-ergopouch-us.myshopify.com",
+          "value": "{\"required\":false,\"source\":\"shopify\",\"regions\":{\"mode\":\"shopify\",\"countries\":[]}}"
+        },
+        {
+          "name": "redo-protection-valid-10314194485417",
+          "value": "{\"expiry\":1794255952388,\"value\":\"true\"}"
+        },
+        {
+          "name": "prz-ai-mini-trigger-shown",
+          "value": "false"
+        },
+        {
+          "name": "recentlyviewedproducts",
+          "value": "[{\"objectType\":\"product\",\"productType\":\"Cocoon Swaddle Sack\",\"bundlePrices\":0,\"isGiftCard\":false,\"handle\":\"cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"url\":\"/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"id\":10314194485417,\"tags\":[\"1.0 tog\",\"_okendo:syndication_key:cocoon-swaddle-1-0-triangle-pops\",\"cocoon swaddle sack\",\"custom|discount_badge\",\"custom|final_sale\",\"final-sale\",\"newborn\",\"nursery\",\"offer\",\"pouches\",\"swaddling\"],\"title\":\"Cocoon Swaddle Sack 1.0 TOG Triangle Pops\",\"createdAt\":\"2026-10-08T03:01:30Z\",\"totalInventory\":36,\"vendor\":\"ergoPouch\",\"metafields\":[{\"key\":\"product_siblings\",\"value\":[\"gid://shopify/Product/10314194485417\",\"gid://shopify/Product/8391253229737\",\"gid://shopify/Product/8391253262505\",\"gid://shopify/Product/8806347440297\",\"gid://shopify/Product/8261734072489\",\"gid://shopify/Product/8261734138025\",\"gid://shopify/Product/8806347407529\",\"gid://shopify/Product/8806346916009\"],\"type\":\"list.product_reference\",\"reference\":null,\"references\":{\"edges\":[{\"node\":{\"id\":\"gid://shopify/Product/10314194485417\",\"handle\":\"cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"title\":\"Cocoon Swaddle Sack 1.0 TOG Triangle Pops\",\"metafields\":[{\"key\":\"color-pattern\",\"value\":\"[\\\"gid://shopify/Metaobject/612024090793\\\"]\",\"type\":\"list.metaobject_reference\",\"references\":{\"edges\":[{\"node\":{\"id\":\"gid://shopify/Metaobject/612024090793\",\"color\":{\"value\":\"#F1E4E4\"},\"image\":null}}]}}]}},{\"node\":{\"id\":\"gid://shopify/Product/8391253229737\",\"handle\":\"cocoon-swaddle-sack-1-0-tog-bon-appetit\",\"title\":\"Cocoon Swaddle Sack 1.0 TOG Bon Appetit\",\"metafields\":[{\"key\":\"color-pattern\",\"value\":\"[\\\"gid://shopify/Metaobject/123066187945\\\"]\",\"type\":\"list.metaobject_reference\",\"references\":{\"edges\":[{\"node\":{\"id\":\"gid://shopify/Metaobject/123066187945\",\"color\":null,\"image\":{\"reference\":{\"image\":{\"url\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/ColourSwatches_BonAppetit_28x.jpg?v=1739248616\"}}}}}]}}]}},{\"node\":{\"id\":\"gid://shopify/Product/8806347440297\",\"handle\":\"cocoon-swaddle-sack-1-0-tog-midnight-arrows\",\"title\":\"Cocoon Swaddle Sack 1.0 TOG Midnight Arrows\",\"metafields\":[{\"key\":\"color-pattern\",\"value\":\"[\\\"gid://shopify/Metaobject/170115236009\\\"]\",\"type\":\"list.metaobject_reference\",\"references\":{\"edges\":[{\"node\":{\"id\":\"gid://shopify/Metaobject/170115236009\",\"color\":{\"value\":\"#48718e\"},\"image\":{\"reference\":{\"image\":{\"url\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/midnight-arrows_28x.jpg?v=1777341403\"}}}}}]}}]}},{\"node\":{\"id\":\"gid://shopify/Product/8261734138025\",\"handle\":\"cocoon-swaddle-sack-1-0-tog-desert-bloom\",\"title\":\"Cocoon Swaddle Sack 1.0 TOG Desert Bloom\",\"metafields\":[{\"key\":\"color-pattern\",\"value\":\"[\\\"gid://shopify/Metaobject/88772280489\\\"]\",\"type\":\"list.metaobject_reference\",\"references\":{\"edges\":[{\"node\":{\"id\":\"gid://shopify/Metaobject/88772280489\",\"color\":{\"value\":\"#deb887\"},\"image\":{\"reference\":{\"image\":{\"url\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/desert-bloom_28x.jpg?v=1728363629\"}}}}}]}}]}},{\"node\":{\"id\":\"gid://shopify/Product/8806347407529\",\"handle\":\"cocoon-swaddle-sack-1-0-tog-spring-leaves\",\"title\":\"Cocoon Swaddle Sack 1.0 TOG Spring Leaves\",\"metafields\":[{\"key\":\"color-pattern\",\"value\":\"[\\\"gid://shopify/Metaobject/170115203241\\\"]\",\"type\":\"list.metaobject_reference\",\"references\":{\"edges\":[{\"node\":{\"id\":\"gid://shopify/Metaobject/170115203241\",\"color\":{\"value\":\"#d7b0b0\"},\"image\":{\"reference\":{\"image\":{\"url\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/spring-leaves_28x.jpg?v=1777341360\"}}}}}]}}]}},{\"node\":{\"id\":\"gid://shopify/Product/8806346916009\",\"handle\":\"cocoon-swaddle-sack-1-0-tog-clouds\",\"title\":\"Cocoon Swaddle Sack 1.0 TOG Clouds\",\"metafields\":[{\"key\":\"color-pattern\",\"value\":\"[\\\"gid://shopify/Metaobject/170115268777\\\"]\",\"type\":\"list.metaobject_reference\",\"references\":{\"edges\":[{\"node\":{\"id\":\"gid://shopify/Metaobject/170115268777\",\"color\":{\"value\":\"#F5F5F5\"},\"image\":{\"reference\":{\"image\":{\"url\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/clouds_28x.jpg?v=1777339734\"}}}}}]}}]}}]}},{\"key\":\"tog_rating\",\"value\":[\"gid://shopify/Metaobject/88774344873\"],\"type\":\"list.metaobject_reference\",\"reference\":null,\"references\":{\"edges\":[{\"node\":{\"id\":\"gid://shopify/Metaobject/88774344873\",\"bundle_products\":null,\"tog_colour\":{\"value\":\"#2d4e5f\"},\"tog_title\":{\"value\":\"1.0 TOG\"}}}]}}],\"metaobject_badge\":{},\"promotional_badges\":{\"metaobject_badge\":{}},\"variants\":[{\"id\":50526255579305,\"available\":true,\"compare_at_price\":4995,\"options\":[\"Triangle Pops\",\"1.0 TOG\",\"2-6M\"],\"image\":{\"alt\":\"Cocoon Swaddle Sack 1.0 TOG Triangle Pops\",\"media_type\":\"image\",\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\"}}],\"price_calculated\":\"34.97\",\"price_min\":\"34.97\",\"price_max\":\"34.97\",\"compare_at_price_min\":49.95,\"compare_at_price_max\":49.95,\"compare_at_price_calculated\":\"49.95\",\"price\":3497,\"compare_at_price\":4995,\"featuredImage\":{\"alt\":\"Cocoon Swaddle Sack 1.0 TOG Triangle Pops\",\"media_type\":\"image\",\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\"},\"media\":[{\"alt\":\"Cocoon Swaddle Sack 1.0 TOG Triangle Pops\",\"media_type\":\"image\",\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\"},{\"alt\":\"Cocoon Swaddle Sack 1.0 TOG Triangle Pops\",\"media_type\":\"image\",\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Triangle-Pops_1688x2000_f3dbda0e-f4e7-41fa-9afb-2652d584806f.jpg?v=1793144286\"}],\"has_only_default_variant\":false,\"options\":[\"Colour\",\"TOG\",\"Size\"],\"options_with_values\":[{\"name\":\"Colour\",\"position\":1,\"values\":[\"Triangle Pops\"]},{\"name\":\"TOG\",\"position\":2,\"values\":[\"1.0 TOG\"]},{\"name\":\"Size\",\"position\":3,\"values\":[\"2-6M\"]}],\"product_swatches\":[{\"handle\":\"cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"id\":10314194485417,\"color\":\"#F1E4E4\",\"image\":null,\"url\":\"/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\"},{\"handle\":\"cocoon-swaddle-sack-1-0-tog-bon-appetit\",\"id\":8391253229737,\"color\":null,\"image\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/ColourSwatches_BonAppetit_28x.jpg?v=1739248616\",\"url\":\"/products/cocoon-swaddle-sack-1-0-tog-bon-appetit\"},{\"handle\":\"cocoon-swaddle-sack-1-0-tog-midnight-arrows\",\"id\":8806347440297,\"color\":\"#48718e\",\"image\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/midnight-arrows_28x.jpg?v=1777341403\",\"url\":\"/products/cocoon-swaddle-sack-1-0-tog-midnight-arrows\"},{\"handle\":\"cocoon-swaddle-sack-1-0-tog-desert-bloom\",\"id\":8261734138025,\"color\":\"#deb887\",\"image\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/desert-bloom_28x.jpg?v=1728363629\",\"url\":\"/products/cocoon-swaddle-sack-1-0-tog-desert-bloom\"},{\"handle\":\"cocoon-swaddle-sack-1-0-tog-spring-leaves\",\"id\":8806347407529,\"color\":\"#d7b0b0\",\"image\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/spring-leaves_28x.jpg?v=1777341360\",\"url\":\"/products/cocoon-swaddle-sack-1-0-tog-spring-leaves\"},{\"handle\":\"cocoon-swaddle-sack-1-0-tog-clouds\",\"id\":8806346916009,\"color\":\"#F5F5F5\",\"image\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/clouds_28x.jpg?v=1777339734\",\"url\":\"/products/cocoon-swaddle-sack-1-0-tog-clouds\"}],\"tog_metafields\":[{\"tog_colour\":\"#2d4e5f\",\"tog_title\":\"1.0 TOG\"}]}]"
+        },
+        {
+          "name": "Uxify:orderIdSession",
+          "value": "NtOJt8dVcm3FHBKm"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://www.ergopouch.com/\",\"exp\":1796844338083}"
+        },
+        {
+          "name": "Uxify:pv:1794252359487:ad2f0e57-0c31-4782-af13-cd2710a61499",
+          "value": "__UXIFY_EXP_v1__:1794252374487;{\"id\":\"ad2f0e57-0c31-4782-af13-cd2710a61499\",\"pvId\":\"hqj8N4PffEO1wP2J\",\"targetUrl\":null,\"createdAt\":1794252359487,\"context\":{\"siteId\":\"cEIxaxvZfIXiCykm\",\"visitorId\":\"qQCBuE0ScqPHTdCQ\",\"pvId\":\"hqj8N4PffEO1wP2J\",\"startedAt\":1794252359486},\"sourceUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"tabId\":\"ee0748a9-f4d1-4b24-9b61-3517e36dbc6a\"}"
+        },
+        {
+          "name": "redo_fees",
+          "value": "{\"expiry\":1794254149641,\"value\":{\"productId\":9041660772521,\"variantId\":\"48538710016169\",\"price\":\"1\",\"enabled\":true,\"handle\":\"free-unlimited-return-package-protection-valid-in-us\",\"mainType\":\"return,package_protection\",\"splitProducts\":true,\"returnProduct\":{\"productId\":9044947828905,\"variants\":[{\"variant_id\":\"48656099836073\",\"title\":\"$1.00\",\"price\":\"1.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656099868841\",\"title\":\"$1.25\",\"price\":\"1.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656099901609\",\"title\":\"$1.50\",\"price\":\"1.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656099934377\",\"title\":\"$1.75\",\"price\":\"1.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656099967145\",\"title\":\"$2.00\",\"price\":\"2.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656099999913\",\"title\":\"$2.25\",\"price\":\"2.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656100032681\",\"title\":\"$2.50\",\"price\":\"2.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656100065449\",\"title\":\"$2.75\",\"price\":\"2.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656100098217\",\"title\":\"$3.00\",\"price\":\"3.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656100130985\",\"title\":\"$3.25\",\"price\":\"3.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656100163753\",\"title\":\"$3.50\",\"price\":\"3.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656100196521\",\"title\":\"$3.75\",\"price\":\"3.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656100229289\",\"title\":\"$4.00\",\"price\":\"4.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656100262057\",\"title\":\"$4.25\",\"price\":\"4.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656100294825\",\"title\":\"$4.50\",\"price\":\"4.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656100327593\",\"title\":\"$4.75\",\"price\":\"4.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"},{\"variant_id\":\"48656100360361\",\"title\":\"$5.00\",\"price\":\"5.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-09-15T23:20:50.066Z\",\"updatedAt\":\"2026-09-15T23:20:50.066Z\"}],\"handle\":\"free-unlimited-return-valid-in-us-2\",\"type\":\"return\",\"sellingPlanGroups\":[]},\"packageProduct\":{\"productId\":9041660805289,\"variants\":[{\"variant_id\":\"48538708148393\",\"title\":\"$1.00\",\"price\":\"1.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708181161\",\"title\":\"$1.25\",\"price\":\"1.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708213929\",\"title\":\"$1.50\",\"price\":\"1.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708246697\",\"title\":\"$1.75\",\"price\":\"1.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708279465\",\"title\":\"$2.00\",\"price\":\"2.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708312233\",\"title\":\"$2.25\",\"price\":\"2.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708345001\",\"title\":\"$2.50\",\"price\":\"2.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708377769\",\"title\":\"$2.75\",\"price\":\"2.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708410537\",\"title\":\"$3.00\",\"price\":\"3.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708443305\",\"title\":\"$3.25\",\"price\":\"3.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708476073\",\"title\":\"$3.50\",\"price\":\"3.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708508841\",\"title\":\"$3.75\",\"price\":\"3.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708541609\",\"title\":\"$4.00\",\"price\":\"4.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708574377\",\"title\":\"$4.25\",\"price\":\"4.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708607145\",\"title\":\"$4.50\",\"price\":\"4.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708639913\",\"title\":\"$4.75\",\"price\":\"4.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"},{\"variant_id\":\"48538708672681\",\"title\":\"$5.00\",\"price\":\"5.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.120Z\",\"updatedAt\":\"2026-10-08T09:53:35.120Z\"}],\"handle\":\"package-protection-valid-in-us\",\"type\":\"package_protection\",\"sellingPlanGroups\":[]},\"bothProduct\":{\"productId\":9041660772521,\"variants\":[{\"variant_id\":\"48538710016169\",\"title\":\"$1.00\",\"price\":\"1.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710048937\",\"title\":\"$2.00\",\"price\":\"2.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710081705\",\"title\":\"$2.25\",\"price\":\"2.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710114473\",\"title\":\"$2.50\",\"price\":\"2.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710147241\",\"title\":\"$2.75\",\"price\":\"2.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710180009\",\"title\":\"$3.00\",\"price\":\"3.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710212777\",\"title\":\"$3.25\",\"price\":\"3.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710245545\",\"title\":\"$3.50\",\"price\":\"3.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710278313\",\"title\":\"$3.75\",\"price\":\"3.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710311081\",\"title\":\"$4.00\",\"price\":\"4.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710343849\",\"title\":\"$4.25\",\"price\":\"4.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710376617\",\"title\":\"$4.50\",\"price\":\"4.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710409385\",\"title\":\"$4.75\",\"price\":\"4.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710442153\",\"title\":\"$5.00\",\"price\":\"5.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710474921\",\"title\":\"$5.25\",\"price\":\"5.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710507689\",\"title\":\"$5.50\",\"price\":\"5.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710540457\",\"title\":\"$5.75\",\"price\":\"5.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710573225\",\"title\":\"$6.00\",\"price\":\"6.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710605993\",\"title\":\"$6.25\",\"price\":\"6.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710638761\",\"title\":\"$6.50\",\"price\":\"6.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710671529\",\"title\":\"$6.75\",\"price\":\"6.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710704297\",\"title\":\"$7.00\",\"price\":\"7.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710737065\",\"title\":\"$7.25\",\"price\":\"7.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710769833\",\"title\":\"$7.50\",\"price\":\"7.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710802601\",\"title\":\"$7.75\",\"price\":\"7.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710835369\",\"title\":\"$8.00\",\"price\":\"8.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710868137\",\"title\":\"$8.25\",\"price\":\"8.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710900905\",\"title\":\"$8.50\",\"price\":\"8.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710933673\",\"title\":\"$8.75\",\"price\":\"8.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710966441\",\"title\":\"$9.00\",\"price\":\"9.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538710999209\",\"title\":\"$9.25\",\"price\":\"9.25\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538711031977\",\"title\":\"$9.50\",\"price\":\"9.50\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538711064745\",\"title\":\"$9.75\",\"price\":\"9.75\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"},{\"variant_id\":\"48538711097513\",\"title\":\"$10.00\",\"price\":\"10.00\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-08T09:53:35.410Z\",\"updatedAt\":\"2026-10-08T09:53:35.410Z\"}],\"handle\":\"free-unlimited-return-package-protection-valid-in-us\",\"type\":\"return,package_protection\",\"sellingPlanGroups\":[]}}}"
+        },
+        {
+          "name": "Uxify:pv:1794252354212:b76e8337-1c56-4359-b457-5afda98470ac",
+          "value": "__UXIFY_EXP_v1__:1794252474212;{\"id\":\"b76e8337-1c56-4359-b457-5afda98470ac\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"targetUrl\":\"https://www.ergopouch.com/collections/sale\",\"createdAt\":1794252354212,\"context\":{\"siteId\":\"cEIxaxvZfIXiCykm\",\"visitorId\":\"qQCBuE0ScqPHTdCQ\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"startedAt\":1794252344245},\"sourceUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"tabId\":\"ee0748a9-f4d1-4b24-9b61-3517e36dbc6a\",\"navAIAttribution\":{\"type\":\"prefetch\"}}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "prz-ai-chat-history-topic-product",
+          "value": "{\"id\":\"10314194485417\",\"documentId\":\"10314194485417\",\"categoryTags\":[\"swaddles\",\"swaddle sacks\",\"cocoon swaddles\",\"cocoon swaddle sacks\",\"baby swaddles\",\"newborn swaddles\",\"2-6m swaddles\",\"1.0 tog swaddles\"],\"title\":\"Cocoon Swaddle Sack 1.0 TOG Triangle Pops\",\"vendor\":null,\"productType\":\"cocoon swaddle sack\",\"link\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"imageUrl\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"websiteUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops?variant=50526255579305\",\"price\":34.97,\"originalPrice\":49.95,\"availableIn\":\"Triangle Pops / 1.0 TOG / 2-6M\",\"variants\":[{\"id\":\"50526255579305\",\"sku\":\"EPCO-1.0T02-06MTP17\",\"title\":\"Triangle Pops / 1.0 TOG / 2-6M\",\"price\":34.97,\"imageUrl\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"variantUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops?variant=50526255579305\",\"originalPrice\":49.95,\"primaryColor\":null,\"patternDesign\":\"triangle pops\",\"patternColor\":null,\"stockAvailable\":true,\"displayColor\":\"Triangle Pops\",\"displaySize\":\"2-6m\",\"bestFits\":\"\",\"sale\":true,\"displayDynamicFields\":null}],\"sale\":true,\"bestFits\":\"\",\"displaySize\":\"2-6m\",\"selectedVariantId\":\"50526255579305\",\"aiMandatoryFields\":{\"CategoryTags\":\"swaddles,swaddle sacks,cocoon swaddles,cocoon swaddle sacks,baby swaddles,newborn swaddles,2-6m swaddles,1.0 tog swaddles\",\"PrimaryColor\":\"\",\"RawColor\":\"\",\"Brand\":\"ergoPouch\",\"NewArrival\":\"False\",\"Gender\":\"male, female\"},\"aiFeatures\":[{\"name\":\"**Wear Options**\",\"description\":\"Wear arms in, hands up, or arms out.\"},{\"name\":\"**TOG Rating**\",\"description\":\"1.0 TOG rating for lightweight sleep comfort.\"},{\"name\":\"**Age Suitability**\",\"description\":\"Designed for babies aged 2-6 months.\"},{\"name\":\"**Swaddle Design**\",\"description\":\"Grows with your baby\u2019s changing startle reflex.\"},{\"name\":\"**Product Type**\",\"description\":\"Cocoon-style swaddle sack for secure baby sleep.\"},{\"name\":\"**Pattern**\",\"description\":\"Triangle Pops design adds a playful visual detail.\"},{\"name\":\"**Seasonality**\",\"description\":\"Lightweight design suited to warmer sleeping conditions.\"}],\"searchSummary\":\"\",\"images\":[\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Triangle-Pops_1688x2000_f3dbda0e-f4e7-41fa-9afb-2652d584806f.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Triangle-Pops-1-Arm-Out_1688x2000_f9895e1b-6fa8-49eb-b49a-a780be24a684.jpg?v=1793144287\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Baby-CloseUp-TrianglePops_1688x2000_f0343ccc-4034-406d-951e-987c79e1e101.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Tummy-Time-2.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon_TrianglePops2_1688x2000_07e43764-a584-4892-90d6-504c7b74117a.jpg?v=1793144287\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon_TrianglePops_4_1688x2000_1ea1064b-f441-465b-a8cf-a701e1cd887b.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Triangle-Pops-2-Arms-Out_1688x2000_2a09d54e-8099-4403-8357-cf820fdbb3cc.jpg?v=1793144286\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon_TrianglePops_1ArmOut_3_1688x2000_e61105c6-f1ab-44b9-aef5-cfbdaa0b68b4.jpg?v=1793144287\",\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/WhatToWear_US_2025_PDP_1688x2000_1.jpg?v=1775087216\"],\"perfectMatch\":false,\"productMinifiedStore\":{\"id\":\"10314194485417\",\"documentId\":\"10314194485417\",\"productType\":\"cocoon swaddle sack\",\"categoryTags\":null,\"title\":\"Cocoon Swaddle Sack 1.0 TOG Triangle Pops\",\"searchSummary\":\"\",\"imageUrl\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"price\":34.97,\"originalPrice\":49.95}}"
+        },
+        {
+          "name": "prz-ai-chat-is-loading",
+          "value": "false"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794511538540"
+        },
+        {
+          "name": "products",
+          "value": "[]"
+        },
+        {
+          "name": "__paypal-httpswwwpaypalcomsdkjscomponentsbuttonscommitfalsecurrencyUSDlocaleenUSclientidAexZEtAxk09Ncgj6FSWFFyGKbxxAZLTyJ2DPdJWl1YUlecinmc5AfIaRF2qYjWlusWahlzz6SVkY5Cimerchantid4M6HLVKKYKFMCintentauthorize_storage__",
+          "value": "{\"id\":\"uid_bd20ede1e9_mtk6mju6ndm\",\"funding\":{},\"__session__\":{\"guid\":\"uid_7362cdc21e_mtk6mju6ndm\",\"created\":1794252343633}}"
+        },
+        {
+          "name": "Uxify:NPTelemetryMeta:lastpv",
+          "value": "1794252355560"
+        },
+        {
+          "name": "Uxify:pv:1794252348552:30e3408c-7c58-471b-8d86-14f22dbf3d3d",
+          "value": "__UXIFY_EXP_v1__:1794252468552;{\"id\":\"30e3408c-7c58-471b-8d86-14f22dbf3d3d\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"targetUrl\":\"https://www.ergopouch.com/pages/size-guide\",\"createdAt\":1794252348552,\"context\":{\"siteId\":\"cEIxaxvZfIXiCykm\",\"visitorId\":\"qQCBuE0ScqPHTdCQ\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"startedAt\":1794252344245},\"sourceUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"tabId\":\"ee0748a9-f4d1-4b24-9b61-3517e36dbc6a\",\"navAIAttribution\":{\"type\":\"prefetch\"}}"
+        },
+        {
+          "name": "redo.anonymous_shopper_id",
+          "value": "dc2fe0ce-7abf-4041-a852-aad4bc1373b3"
+        },
+        {
+          "name": "Shoplift_Essential",
+          "value": "{\"timestamp\":\"2026-11-09T19:25:48.427Z\",\"consentApproved\":true,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T19:25:35.706Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}"
+        },
+        {
+          "name": "alia-user-14416",
+          "value": "{\"user\":{\"id\":9395997088,\"profile\":{\"properties\":{},\"prismMap\":{},\"history\":[[\"https://www.ergopouch.com/\",\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\"]]}}}"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":{\"activated\":\"idle\"},\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":true,\"chatTitle\":\"ergoPouch US\",\"isConnected\":false,\"isChatOnline\":false,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"always-required\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":true,\"replyType\":\"reply-dynamic\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "delivery_promise_default_address",
+          "value": "{\"zip\":\"74600\",\"timezone\":\"Asia/Karachi\"}"
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "Uxify:cart:add-intent",
+          "value": "null"
+        },
+        {
+          "name": "alia-jwt",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsYXN0VXNlcklEIjo5Mzk1OTk3MDg4LCJpYXQiOjE3OTQyNTIzNDJ9.S7mVcxyWdS3AWaSzVt-KexipRMM6j3JYhGyAxJKM3NY"
+        },
+        {
+          "name": "Uxify:cart:state",
+          "value": "__UXIFY_EXP_v1__:1794338757898;{\"total\":34.97,\"currency\":\"USD\",\"source\":\"shopify\",\"itemCount\":1}"
+        },
+        {
+          "name": "redo-remove-redo",
+          "value": "{\"expiry\":1794255958298,\"value\":false}"
+        },
+        {
+          "name": "redo-product-info-10314194485417",
+          "value": "{\"expiry\":1794255952386,\"value\":{\"tags\":[\"1.0 tog\",\"_okendo:syndication_key:cocoon-swaddle-1-0-triangle-pops\",\"cocoon swaddle sack\",\"custom|discount_badge\",\"custom|final_sale\",\"final-sale\",\"newborn\",\"nursery\",\"offer\",\"pouches\",\"swaddling\"],\"collections\":[],\"product\":{\"id\":10314194485417,\"title\":\"Cocoon Swaddle Sack 1.0 TOG Triangle Pops\",\"body_html\":\"<p>One swaddle, 3 ways to wear - arms in, hands up, or arms out. The only swaddle to grow with your baby's startle reflex.</p>\",\"vendor\":\"ergoPouch\",\"product_type\":\"Cocoon Swaddle Sack\",\"created_at\":\"2026-10-07T23:01:30-04:00\",\"handle\":\"cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"updated_at\":\"2026-11-09T14:25:52-05:00\",\"published_at\":\"2026-10-27T19:47:41-04:00\",\"template_suffix\":\"cocoon\",\"published_scope\":\"global\",\"tags\":\"1.0 TOG, _okendo:syndication_key:cocoon-swaddle-1-0-triangle-pops, Cocoon Swaddle Sack, custom|discount_badge, custom|final_sale, final-sale, Newborn, Nursery, Offer, Pouches, Swaddling\",\"variants\":[{\"id\":50526255579305,\"product_id\":10314194485417,\"title\":\"Triangle Pops / 1.0 TOG / 2-6M\",\"price\":\"34.97\",\"sku\":\"EPCO-1.0T02-06MTP17\",\"position\":1,\"compare_at_price\":\"49.95\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Triangle Pops\",\"option2\":\"1.0 TOG\",\"option3\":\"2-6M\",\"created_at\":\"2026-10-07T23:01:30-04:00\",\"updated_at\":\"2026-11-09T14:25:52-05:00\",\"taxable\":true,\"barcode\":\"9352240001882\",\"grams\":220,\"image_id\":null,\"weight\":220,\"weight_unit\":\"g\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"USD\",\"compare_at_price_currency\":\"USD\",\"quantity_price_breaks\":[]}],\"options\":[{\"id\":13242142949545,\"product_id\":10314194485417,\"name\":\"Colour\",\"position\":1,\"values\":[\"Triangle Pops\"]},{\"id\":13242142982313,\"product_id\":10314194485417,\"name\":\"TOG\",\"position\":2,\"values\":[\"1.0 TOG\"]},{\"id\":13242143015081,\"product_id\":10314194485417,\"name\":\"Size\",\"position\":3,\"values\":[\"2-6M\"]}],\"images\":[{\"id\":45067839373481,\"product_id\":10314194485417,\"position\":1,\"created_at\":\"2026-10-27T19:38:05-04:00\",\"updated_at\":\"2026-10-27T19:38:06-04:00\",\"alt\":null,\"width\":1688,\"height\":2000,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"variant_ids\":[]},{\"id\":45067839340713,\"product_id\":10314194485417,\"position\":2,\"created_at\":\"2026-10-27T19:38:05-04:00\",\"updated_at\":\"2026-10-27T19:38:06-04:00\",\"alt\":null,\"width\":1688,\"height\":2001,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Triangle-Pops_1688x2000_f3dbda0e-f4e7-41fa-9afb-2652d584806f.jpg?v=1793144286\",\"variant_ids\":[]},{\"id\":45067839144105,\"product_id\":10314194485417,\"position\":3,\"created_at\":\"2026-10-27T19:38:05-04:00\",\"updated_at\":\"2026-10-27T19:38:07-04:00\",\"alt\":null,\"width\":1688,\"height\":2001,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Triangle-Pops-1-Arm-Out_1688x2000_f9895e1b-6fa8-49eb-b49a-a780be24a684.jpg?v=1793144287\",\"variant_ids\":[]},{\"id\":45067839111337,\"product_id\":10314194485417,\"position\":4,\"created_at\":\"2026-10-27T19:38:05-04:00\",\"updated_at\":\"2026-10-27T19:38:06-04:00\",\"alt\":null,\"width\":1688,\"height\":2000,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Baby-CloseUp-TrianglePops_1688x2000_f0343ccc-4034-406d-951e-987c79e1e101.jpg?v=1793144286\",\"variant_ids\":[]},{\"id\":45067839209641,\"product_id\":10314194485417,\"position\":5,\"created_at\":\"2026-10-27T19:38:05-04:00\",\"updated_at\":\"2026-10-27T19:38:06-04:00\",\"alt\":null,\"width\":1688,\"height\":2000,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Tummy-Time-2.jpg?v=1793144286\",\"variant_ids\":[]},{\"id\":45067839307945,\"product_id\":10314194485417,\"position\":6,\"created_at\":\"2026-10-27T19:38:05-04:00\",\"updated_at\":\"2026-10-27T19:38:07-04:00\",\"alt\":null,\"width\":1688,\"height\":2001,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon_TrianglePops2_1688x2000_07e43764-a584-4892-90d6-504c7b74117a.jpg?v=1793144287\",\"variant_ids\":[]},{\"id\":45067839275177,\"product_id\":10314194485417,\"position\":7,\"created_at\":\"2026-10-27T19:38:05-04:00\",\"updated_at\":\"2026-10-27T19:38:06-04:00\",\"alt\":null,\"width\":1688,\"height\":2000,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon_TrianglePops_4_1688x2000_1ea1064b-f441-465b-a8cf-a701e1cd887b.jpg?v=1793144286\",\"variant_ids\":[]},{\"id\":45067839176873,\"product_id\":10314194485417,\"position\":8,\"created_at\":\"2026-10-27T19:38:05-04:00\",\"updated_at\":\"2026-10-27T19:38:06-04:00\",\"alt\":null,\"width\":1688,\"height\":2000,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon-Swaddle-Triangle-Pops-2-Arms-Out_1688x2000_2a09d54e-8099-4403-8357-cf820fdbb3cc.jpg?v=1793144286\",\"variant_ids\":[]},{\"id\":45067839242409,\"product_id\":10314194485417,\"position\":9,\"created_at\":\"2026-10-27T19:38:05-04:00\",\"updated_at\":\"2026-10-27T19:38:07-04:00\",\"alt\":null,\"width\":1688,\"height\":2000,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Cocoon_TrianglePops_1ArmOut_3_1688x2000_e61105c6-f1ab-44b9-aef5-cfbdaa0b68b4.jpg?v=1793144287\",\"variant_ids\":[]},{\"id\":41455889350825,\"product_id\":10314194485417,\"position\":10,\"created_at\":\"2025-02-17T22:29:42-05:00\",\"updated_at\":\"2026-04-01T19:46:56-04:00\",\"alt\":\"The ergoPouch What to Wear Guide is a table that recommends TOG-rated sleepwear products and layers based on room temperature\",\"width\":1688,\"height\":2001,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/WhatToWear_US_2025_PDP_1688x2000_1.jpg?v=1775087216\",\"variant_ids\":[]}],\"image\":{\"id\":45067839373481,\"product_id\":10314194485417,\"position\":1,\"created_at\":\"2026-10-27T19:38:05-04:00\",\"updated_at\":\"2026-10-27T19:38:06-04:00\",\"alt\":null,\"width\":1688,\"height\":2000,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/Summer_Cocoon_TrianglePops_1688x2000_99995c46-477a-455c-9fa4-3dd20fe86aed.jpg?v=1793144286\",\"variant_ids\":[]}},\"variantMetafields\":[]}}"
+        },
+        {
+          "name": "ssCartProducts",
+          "value": "{\"value\":[{\"parentId\":\"10314194485417\",\"uid\":\"50526255579305\",\"sku\":\"EPCO-1.0T02-06MTP17\",\"qty\":1,\"price\":34.97}]}"
+        },
+        {
+          "name": "amplitude_unsent_identify_f24a385d8a24a6edbbbccef706d9644e_apt-placement",
+          "value": "[]"
+        },
+        {
+          "name": "redo_autocheck",
+          "value": "{\"expiry\":1794254151647,\"value\":{\"autocheck\":{\"teamId\":\"6a7e773b6a212a7b3df27a5d\",\"widgetSlug\":\"45iuqb8hx8n1trk\",\"exchangeBannerPositionBottom\":false,\"exchangeBannerInsertBeforeBody\":false,\"icon\":\"gift\",\"iconColor\":\"\",\"iconBackgroundColor\":\"\",\"displayIcon\":false,\"checkboxIconPosition\":\"description_right\",\"storefrontAccessToken\":\"8c0e4b807058997191d7bdce9abbbebb\",\"multistorefront\":[],\"html\":\"\",\"toggleTextOptions\":{\"bothProductToggle\":{\"_id\":\"6aa9d289caece9094fc30337\",\"negativeSubtext\":\"\",\"positiveSubtext\":\"\",\"titleText\":\"\"},\"packageProtectionToggle\":{\"_id\":\"6aa9d289caece9094fc30336\",\"negativeSubtext\":\"\",\"positiveSubtext\":\"\",\"titleText\":\"\"},\"returnToggle\":{\"_id\":\"6aa9d289caece9094fc30335\",\"negativeSubtext\":\"\",\"positiveSubtext\":\"\",\"titleText\":\"\"}},\"exchangeBannerColor\":\"\",\"exchangeBannerText\":\"\",\"exchangeBannerFont\":\"\",\"exchangeBannerFontColor\":\"\",\"exchangeBannerShowDoneButton\":true,\"exchangeBannerCustomCss\":\"\",\"disableRedoForCustomer\":false,\"respectForcedRemovalDuringEnsure\":false,\"redoAutoCheck\":true,\"selector\":\"\",\"paidModel\":\"customer_paid\",\"textColor\":\"#000000\",\"checkboxFontSize\":12,\"coverage\":{\"exchange\":true,\"refund\":true,\"storeCredit\":true},\"enabled\":true,\"logo\":\"\",\"coverageEnabled\":true,\"storefrontPublishStatus\":{\"coverage\":\"live_site\"},\"finalSaleTags\":[\"final-sale\"],\"protectionExcludeTags\":[],\"coverageExcludeCollections\":[],\"coverageExcludeDiscountCodes\":[],\"coverageExcludeProperties\":[],\"coverageExcludedVariantMetafields\":[],\"returnsCoverageExcludedSkus\":[],\"excludeCoverageIfAnyInvalidProduct\":false,\"discountCodePartialMatch\":false,\"hideCheckboxBranding\":false,\"hideCheckbox\":true,\"hideCheckboxPrice\":false,\"attachmentStrategy\":\"checkout-button-product\",\"toggleSubtextEnabled\":true,\"countries\":[\"US\"],\"countriesPackageProtection\":[\"US\"],\"countriesFinalSaleReturns\":[\"US\"],\"predictedCountry\":\"US\",\"modalTextAdjustments\":{\"text1\":\"\",\"text2\":\"\",\"text3\":\"\",\"title1\":\"\",\"title2\":\"\",\"title3\":\"\"},\"infoModal\":{\"cartIconEnabled\":false,\"checkoutIconEnabled\":false,\"customCss\":\"\",\"enableTopLayerModalApi\":true,\"headerText\":\"\",\"line1\":{\"_id\":\"6aab56a65ae56b64f02b1d4b\",\"subtitleText\":\"\",\"titleText\":\"\"},\"line2\":{\"_id\":\"6aab56a65ae56b64f02b1d4c\",\"subtitleText\":\"\",\"titleText\":\"\"},\"line3\":{\"_id\":\"6aab56a65ae56b64f02b1d4d\",\"subtitleText\":\"\",\"titleText\":\"\"},\"logo\":\"\",\"sideImage\":\"\",\"subheaderText\":\"\",\"version\":\"v2\"},\"modalLogo\":\"\",\"shopSiteUseCartDiscounts\":false,\"excludeProductTags\":[],\"excludeProductSkus\":[],\"cartValueCalculationMethod\":\"cart_value_post_discount\",\"excludedItemProperties\":[],\"cartToggle\":{\"enabled\":true,\"useShadowRootInCart\":false,\"cartShadowRootSelector\":\"\",\"cartToggleShadowRootSelector\":\"\",\"toggleOnColor\":\"\",\"toggleOffColor\":\"\",\"toggleCircleColor\":\"\",\"cartTogglePlacement\":\"before\",\"cartReplaceItems\":false},\"widgetConfigs\":[{\"_id\":\"6aa8d7bb5406f95ea40b8609\",\"badgeWord\":\"\",\"cardText\":{\"_id\":\"6aa8d7bb5406f95ea40b860a\",\"both\":{\"_id\":\"6aa8d7bb5406f95ea40b860d\",\"subtitleText\":\"\",\"titleText\":\"\"},\"packageProtection\":{\"_id\":\"6aa8d7bb5406f95ea40b860c\",\"subtitleText\":\"\",\"titleText\":\"\"},\"returns\":{\"_id\":\"6aa8d7bb5406f95ea40b860b\",\"subtitleText\":\"Free returns + Protection for Damage, Loss, Theft & More!\",\"titleText\":\"\"}},\"dataTarget\":\"\",\"elementType\":\"info-card\",\"imageElement\":\"shield\",\"infoCardStyles\":{\"_id\":\"6aa8d7bb5406f95ea40b860e\",\"color\":\"#dddddd\",\"subtitleFontColor\":\"#000000\",\"subtitleFontSize\":11,\"titleFontColor\":\"#000000\",\"titleFontSize\":14},\"insertionPosition\":\"after\",\"placeInsideAndOutsideShadowRoot\":false,\"placement\":{\"list\":[{\"cssSelector\":\"[name=\\\"checkout\\\"]\",\"hidingElementSelector\":\"[name=\\\"checkout\\\"]\",\"insertionPosition\":\"after\",\"meta\":{\"placementContainerType\":\"side-cart\"},\"shadowRootSelector\":\"\"}],\"version\":1},\"placementSelector\":\"\",\"placementType\":\"Cart\",\"priceLocation\":\"right\",\"shadowRootSelector\":\"\",\"showBackground\":false,\"showInfoIcon\":true},{\"_id\":\"6aa8d7bb5406f95ea40b860f\",\"coverageButtonStyles\":{\"_id\":\"6aa8d7bb5406f95ea40b8615\",\"color\":\"#303d3e\",\"fontColor\":\"#ffffff\",\"fontSize\":14,\"includeNonCoverageUnderline\":true,\"nonCoverageFontColor\":\"#000000\",\"nonCoverageFontSize\":13,\"subtitleFontColor\":\"#ffffff\",\"subtitleFontSize\":10},\"coverageButtonText\":{\"_id\":\"6aa8d7bb5406f95ea40b8610\",\"both\":{\"_id\":\"6aa8d7bb5406f95ea40b8613\",\"subtitleText\":\"\",\"titleText\":\"\"},\"packageProtection\":{\"_id\":\"6aa8d7bb5406f95ea40b8612\",\"subtitleText\":\"\",\"titleText\":\"\"},\"returns\":{\"_id\":\"6aa8d7bb5406f95ea40b8611\",\"subtitleText\":\"\",\"titleText\":\"\"}},\"dataTarget\":\"\",\"elementType\":\"both-checkout-buttons\",\"insertionPosition\":\"after\",\"nonCoverageButtonText\":{\"_id\":\"6aa8d7bb5406f95ea40b8614\",\"both\":\"\",\"packageProtection\":\"\",\"returns\":\"\"},\"optOutButtonFirst\":false,\"placeInsideAndOutsideShadowRoot\":false,\"placement\":{\"list\":[{\"cssSelector\":\"[name=\\\"checkout\\\"]\",\"hidingElementSelector\":\"[name=\\\"checkout\\\"]\",\"insertionPosition\":\"after\",\"meta\":{\"placementContainerType\":\"side-cart\"},\"shadowRootSelector\":\"\"}],\"version\":1},\"placementSelector\":\"\",\"placementType\":\"Cart\",\"shadowRootSelector\":\"\"}],\"groupNearbyToggleElementsTogether\":true,\"hideRedoProduct\":{\"cartCountModifications\":[],\"cartDiscountModifications\":[],\"cartPriceModifications\":[],\"checkoutButtonSelector\":\"\",\"enabled\":true,\"productSelector\":\"\"},\"packageProtection\":{\"coverageEnabled\":true,\"packageProtectionPlusEnabled\":false,\"percentage\":0.02,\"splitProducts\":true,\"pricingRuleSets\":[{\"countries\":[\"US\"],\"priceBrackets\":[{\"pricePoint\":0,\"value\":0.005}],\"type\":\"percentage\"}],\"pricingStrategy\":\"cart-value\",\"minPrice\":1,\"maxPrice\":5,\"packageProtectionPlusMerchantPaidPerOrderEnabled\":false,\"packageProtectionPlusMerchantPaidEnabledDates\":[],\"shouldRecordPackageProtectionExposure\":false,\"coverageExcludedCollections\":[],\"internationalInsurance\":{\"providerName\":\"UPSCIA\",\"termsUrl\":\"https://www.insureshield.com/content/terms-and-conditions/REDO_TermsandConditions.pdf\",\"ratePer100\":0.8,\"minimumPremium\":0},\"coverageExcludedVariantMetafields\":[]},\"packageProtectionAutoCheck\":true,\"usingCartAndCheckoutToggle\":false,\"forceDoubleCheckoutToggle\":false,\"setCheckoutToggleBasedOnOptInCartAttribute\":true,\"hideCheckoutUiWhenOptedIn\":false,\"openShadowRoot\":false,\"checkoutExtensionEnabled\":false,\"fraudZipCoverageExclusionStrategy\":\"NO_OP\",\"customPdpCss\":\"\",\"customToggleCss\":\"[data-target=\\\"info-card-container\\\"]{\\nmargin-top: -10px !important;\\nmargin-bottom: -10px !important;\\n}\",\"forceIPAddressLocation\":false,\"excludePickup\":false,\"dynamicReturnsPricing\":{\"_id\":\"6aa8d8a1536ffa6b9503952a\",\"maxPrice\":5,\"pricingRuleSet\":{\"countries\":[],\"priceBrackets\":[{\"pricePoint\":0,\"value\":0.015}],\"type\":\"percentage\"},\"type\":\"cart-value\"},\"preProtectedOrdersEnabled\":false,\"checkoutUICustomizations\":{\"_id\":\"6aab56a65ae56b64f02b1d63\",\"spacing\":\"none\",\"subtextSize\":\"\",\"titleOnly\":false,\"titleTextSize\":\"\"},\"internationalReturnsPricing\":[],\"currencyExchangeRate\":1,\"finalSaleReturns\":{\"coverageEnabled\":false,\"coverageValidTags\":[],\"coverageValidCollections\":[],\"coverageValidCollectionTitles\":[],\"shippingLabelCoveragePrice\":1,\"percentage\":0.02,\"pricingRuleSets\":[{\"countries\":[\"US\"],\"priceBrackets\":[{\"pricePoint\":0,\"value\":0.02}],\"type\":\"percentage\"}],\"minPrice\":1,\"maxPrice\":15,\"allCovered\":false,\"allEligible\":false},\"customerAccounts\":{\"enabled\":false,\"saveForLaterPanel\":{\"enabled\":false}},\"customerWidgetEnabled\":false,\"chatWidgetScriptTagInstalled\":false,\"contextual\":{\"enabled\":false},\"reviews\":{\"enabled\":false},\"orderTrackingLogin\":{\"enabled\":false,\"settings\":null,\"loadingBackgroundColor\":null},\"pricePerOrder\":\"1\",\"brandKit\":{\"font\":{\"bodyFontFamily\":\"Arial\",\"fontFamily\":\"Arial\",\"headerFontFamily\":\"Arial\",\"hierarchy\":{\"body\":{\"fontSizePx\":16,\"fontWeight\":\"regular\"},\"h1\":{\"fontSizePx\":48,\"fontWeight\":\"bold\"},\"h2\":{\"fontSizePx\":36,\"fontWeight\":\"semibold\"},\"h3\":{\"fontSizePx\":30,\"fontWeight\":\"regular\"},\"subtext\":{\"fontSizePx\":14,\"fontWeight\":\"regular\"}}},\"images\":{\"bannerUrl\":\"\",\"faviconUrl\":\"\",\"logoBannerUrl\":\"\",\"logoUrl\":\"\"},\"buttons\":{\"primary\":{\"backgroundColor\":\"#000000\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#ffffff\"},\"secondary\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"},\"tertiary\":{\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":0}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"}},\"colors\":{\"accent\":\"#000000\",\"background\":\"#ffffff\"},\"customFontFamilies\":[],\"inputs\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"errorColor\":\"#ff0000\",\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"}},\"extendedWarranties\":{\"enabled\":false,\"cartToggleExperience\":\"toggle\",\"pdpRenderMethod\":\"app_block\",\"popupExperience\":\"disabled\"},\"concierge\":{\"enabled\":false,\"placeConciergeProductForm\":false},\"marketing\":{\"enabled\":false,\"subscribeFromSaveForLater\":false,\"numEmbeddedFormsConfigured\":0,\"hasPublishedSignupForms\":false,\"hasEnabledNonEmbeddedSpotlights\":false},\"recover\":{\"enabled\":false},\"checkoutDeliveryEstimates\":{\"enabled\":false},\"conversion\":{\"enabled\":false},\"hsa\":{\"enabled\":false},\"loyalty\":{\"enabled\":false},\"termsAndConditions\":{\"_id\":\"6aa8d7bb5406f95ea40b861a\",\"blockCheckoutIfNotAccepted\":false,\"blockedMessageText\":\"\",\"termsCheckboxSelector\":\"\"},\"clickStandardCheckoutButton\":{\"_id\":\"6aa8d7bb5406f95ea40b861b\",\"checkoutButtonSelector\":\"\",\"enabled\":false},\"addProductOnOptInClick\":true,\"useBuyNowCoverage\":false,\"autoNavigateToCheckoutAfterTimeout\":true,\"checkoutMethod\":\"navigate_after_add\",\"rescueCheckoutButtonsEnabled\":false,\"shouldNotUseStorefrontApi\":false,\"disableBusinessAccountInStorefront\":false,\"preventPageRefreshAfterCartAdd\":false,\"dispatchResizeAfterItemsPlaced\":false,\"coverageCreditIncentive\":{\"percentageSettings\":{\"percentage\":5,\"storeCreditAmountCap\":0},\"creditExpirationDays\":null,\"enabled\":false,\"expirationReminderDaysBefore\":null,\"fixedAmount\":5,\"minimumQualifyingPurchaseAmount\":0,\"sendEmail\":true,\"sendExpirationReminderEmail\":false,\"type\":\"fixed\"},\"discountsAreFinalSales\":false,\"purpleDotEnabled\":false,\"dynamicCoverageTransformFunctionEnabled\":false,\"billing\":{\"status\":\"up_to_date\"},\"localizationTextOverrides\":[],\"localizationGroups\":[],\"storefrontLoggingAllowedPercentage\":4,\"visitorObservationEnabled\":true,\"storefrontConsentEnabled\":false,\"localizationObjectId\":\"autocheck-6a7e773b6a212a7b3df27a5d\",\"customerTagTextOverride\":{\"coverageSubtext\":\"\",\"coverageTitle\":\"\",\"customerTags\":[],\"enabled\":false},\"cartResponseCaptureEnabled\":true,\"coveragePlacementMetrics\":{\"152391516329\":{\"default\":{\"lastLoadedAt\":\"2026-11-09T19:24:17.517Z\",\"placements\":{}}},\"185232687273\":{\"default\":{\"lastLoadedAt\":\"2026-11-09T19:25:16.617Z\",\"placements\":{\"[\\\"6aa8d7bb5406f95ea40b8609\\\",0,null]\":{\"placementId\":\"6aa8d7bb5406f95ea40b8609\",\"placementIndex\":0,\"elementType\":\"info-card\",\"selector\":\"[name=\\\"checkout\\\"]\",\"insertionPosition\":\"after\",\"lastSeenAt\":\"2026-11-09T19:25:08.280Z\"},\"[\\\"6aa8d7bb5406f95ea40b860f\\\",0,null]\":{\"placementId\":\"6aa8d7bb5406f95ea40b860f\",\"placementIndex\":0,\"elementType\":\"both-checkout-buttons\",\"selector\":\"[name=\\\"checkout\\\"]\",\"insertionPosition\":\"after\",\"lastSeenAt\":\"2026-11-09T19:22:11.439Z\"}}}},\"185394200745\":{\"default\":{\"lastLoadedAt\":\"2026-11-09T19:23:54.692Z\",\"placements\":{\"[\\\"6aa8d7bb5406f95ea40b8609\\\",0,null]\":{\"placementId\":\"6aa8d7bb5406f95ea40b8609\",\"placementIndex\":0,\"elementType\":\"info-card\",\"selector\":\"[name=\\\"checkout\\\"]\",\"insertionPosition\":\"after\",\"lastSeenAt\":\"2026-11-09T19:16:05.892Z\"},\"[\\\"6aa8d7bb5406f95ea40b860f\\\",0,null]\":{\"placementId\":\"6aa8d7bb5406f95ea40b860f\",\"placementIndex\":0,\"elementType\":\"both-checkout-buttons\",\"selector\":\"[name=\\\"checkout\\\"]\",\"insertionPosition\":\"after\",\"lastSeenAt\":\"2026-11-09T19:23:17.972Z\"}}}}},\"coverageProductIds\":[\"9041660805289\",\"9041660739753\",\"9036381749417\",\"9044947828905\",\"9041660772521\"]},\"currency\":\"USD\",\"customerId\":null,\"language\":\"en\",\"country\":\"US\"}}"
+        },
+        {
+          "name": "ssUserId",
+          "value": "{\"value\":{\"value\":\"a7de5bf9-7402-4b4c-9b09-00b33d220624\",\"timestamp\":\"2026-11-09T19:25:59.829Z\"}}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxUlrgiLQvJwvZwJgkXqN\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxUlrgiLQvJwvZwJgkXqN\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "Uxify:pv:1794252354213:fb1b8ef5-374e-4b7f-b9e7-cfe92a5291d4",
+          "value": "__UXIFY_EXP_v1__:1794252474213;{\"id\":\"fb1b8ef5-374e-4b7f-b9e7-cfe92a5291d4\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"targetUrl\":\"https://www.ergopouch.com/pages/wt-is-swaddling\",\"createdAt\":1794252354213,\"context\":{\"siteId\":\"cEIxaxvZfIXiCykm\",\"visitorId\":\"qQCBuE0ScqPHTdCQ\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"startedAt\":1794252344245},\"sourceUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"tabId\":\"ee0748a9-f4d1-4b24-9b61-3517e36dbc6a\",\"navAIAttribution\":{\"type\":\"prefetch\"}}"
+        },
+        {
+          "name": "ssSessionId",
+          "value": "{\"value\":{\"value\":\"ea4543f2-5390-40bb-b24c-b89d55430006\",\"timestamp\":\"2026-11-09T19:25:59.864Z\"}}"
+        },
+        {
+          "name": "Uxify:orderId",
+          "value": "ORFzhJITtljk9CHc"
+        },
+        {
+          "name": "okendo-cart-isShopifyCartAvailable",
+          "value": "{\"isCartAvailable\":true}"
+        },
+        {
+          "name": "Uxify:pv:1794252348549:3621dda3-bffc-4ff2-b294-dd0d8b8b304f",
+          "value": "__UXIFY_EXP_v1__:1794252468549;{\"id\":\"3621dda3-bffc-4ff2-b294-dd0d8b8b304f\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"targetUrl\":\"https://www.ergopouch.com/collections/pajamas-rompers\",\"createdAt\":1794252348549,\"context\":{\"siteId\":\"cEIxaxvZfIXiCykm\",\"visitorId\":\"qQCBuE0ScqPHTdCQ\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"startedAt\":1794252344245},\"sourceUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"tabId\":\"ee0748a9-f4d1-4b24-9b61-3517e36dbc6a\",\"navAIAttribution\":{\"type\":\"prefetch\"}}"
+        },
+        {
+          "name": "redo-return-valid-excl-props-10314194485417",
+          "value": "{\"expiry\":1794255952387,\"value\":\"false\"}"
+        },
+        {
+          "name": "Uxify:pv:1794252348553:19ca56fe-0930-45c2-953a-dd04955e4d4d",
+          "value": "__UXIFY_EXP_v1__:1794252468553;{\"id\":\"19ca56fe-0930-45c2-953a-dd04955e4d4d\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"targetUrl\":\"https://www.ergopouch.com/pages/newsletter-sign-up\",\"createdAt\":1794252348553,\"context\":{\"siteId\":\"cEIxaxvZfIXiCykm\",\"visitorId\":\"qQCBuE0ScqPHTdCQ\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"startedAt\":1794252344245},\"sourceUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"tabId\":\"ee0748a9-f4d1-4b24-9b61-3517e36dbc6a\",\"navAIAttribution\":{\"type\":\"prefetch\"}}"
+        },
+        {
+          "name": "isModelView",
+          "value": "[]"
+        },
+        {
+          "name": "Uxify:pv:1794252355414:2bf973f3-5fa3-48ce-9a1b-a874c67fc24b",
+          "value": "__UXIFY_EXP_v1__:1794252475414;{\"id\":\"2bf973f3-5fa3-48ce-9a1b-a874c67fc24b\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"targetUrl\":\"https://www.ergopouch.com/collections/bundles\",\"createdAt\":1794252355414,\"context\":{\"siteId\":\"cEIxaxvZfIXiCykm\",\"visitorId\":\"qQCBuE0ScqPHTdCQ\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"startedAt\":1794252344245},\"sourceUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"tabId\":\"ee0748a9-f4d1-4b24-9b61-3517e36dbc6a\",\"navAIAttribution\":{\"type\":\"prefetch\"}}"
+        },
+        {
+          "name": "Uxify:adBlocker",
+          "value": "__UXIFY_EXP_v1__:1794252637906;0"
+        },
+        {
+          "name": "redo.rolling_session",
+          "value": "{\"id\":\"redo-886183f7-8aea-4b03-84a1-d1c72f20b358\",\"lastActivityMs\":1794252348129}"
+        },
+        {
+          "name": "Uxify:shopifyCartId",
+          "value": "Z2lkOi8vc2hvcGlmeS9DYXJ0L2hXTkl4VWxyZ2lMUXZKd3Zad0pna1hxTg=="
+        },
+        {
+          "name": "redo_products",
+          "value": "{\"expiry\":1794252709680,\"value\":{\"shopifyProducts\":{\"mainShopifyProduct\":{\"id\":9041660772521,\"title\":\"Free Unlimited Return  + Package Protection Valid in US.\",\"handle\":\"free-unlimited-return-package-protection-valid-in-us\",\"description\":\"\",\"published_at\":\"2026-09-15T19:31:30-04:00\",\"created_at\":\"2026-09-15T01:28:28-04:00\",\"vendor\":\"re:do\",\"type\":\"return,package_protection\",\"tags\":[\"exclude_rebuy\",\"klaviyo_reviews_exclude\",\"NOREVIEWS\"],\"price\":100,\"price_min\":100,\"price_max\":1000,\"available\":true,\"price_varies\":true,\"compare_at_price\":100,\"compare_at_price_min\":100,\"compare_at_price_max\":1000,\"compare_at_price_varies\":true,\"variants\":[{\"id\":48538710016169,\"title\":\"$1.00\",\"option1\":\"$1.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $1.00\",\"public_title\":\"$1.00\",\"options\":[\"$1.00\"],\"price\":100,\"weight\":0,\"compare_at_price\":100,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710048937,\"title\":\"$2.00\",\"option1\":\"$2.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $2.00\",\"public_title\":\"$2.00\",\"options\":[\"$2.00\"],\"price\":200,\"weight\":0,\"compare_at_price\":200,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710081705,\"title\":\"$2.25\",\"option1\":\"$2.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $2.25\",\"public_title\":\"$2.25\",\"options\":[\"$2.25\"],\"price\":225,\"weight\":0,\"compare_at_price\":225,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710114473,\"title\":\"$2.50\",\"option1\":\"$2.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $2.50\",\"public_title\":\"$2.50\",\"options\":[\"$2.50\"],\"price\":250,\"weight\":0,\"compare_at_price\":250,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710147241,\"title\":\"$2.75\",\"option1\":\"$2.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $2.75\",\"public_title\":\"$2.75\",\"options\":[\"$2.75\"],\"price\":275,\"weight\":0,\"compare_at_price\":275,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710180009,\"title\":\"$3.00\",\"option1\":\"$3.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $3.00\",\"public_title\":\"$3.00\",\"options\":[\"$3.00\"],\"price\":300,\"weight\":0,\"compare_at_price\":300,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710212777,\"title\":\"$3.25\",\"option1\":\"$3.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $3.25\",\"public_title\":\"$3.25\",\"options\":[\"$3.25\"],\"price\":325,\"weight\":0,\"compare_at_price\":325,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710245545,\"title\":\"$3.50\",\"option1\":\"$3.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $3.50\",\"public_title\":\"$3.50\",\"options\":[\"$3.50\"],\"price\":350,\"weight\":0,\"compare_at_price\":350,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710278313,\"title\":\"$3.75\",\"option1\":\"$3.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $3.75\",\"public_title\":\"$3.75\",\"options\":[\"$3.75\"],\"price\":375,\"weight\":0,\"compare_at_price\":375,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710311081,\"title\":\"$4.00\",\"option1\":\"$4.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $4.00\",\"public_title\":\"$4.00\",\"options\":[\"$4.00\"],\"price\":400,\"weight\":0,\"compare_at_price\":400,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710343849,\"title\":\"$4.25\",\"option1\":\"$4.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $4.25\",\"public_title\":\"$4.25\",\"options\":[\"$4.25\"],\"price\":425,\"weight\":0,\"compare_at_price\":425,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710376617,\"title\":\"$4.50\",\"option1\":\"$4.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $4.50\",\"public_title\":\"$4.50\",\"options\":[\"$4.50\"],\"price\":450,\"weight\":0,\"compare_at_price\":450,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710409385,\"title\":\"$4.75\",\"option1\":\"$4.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $4.75\",\"public_title\":\"$4.75\",\"options\":[\"$4.75\"],\"price\":475,\"weight\":0,\"compare_at_price\":475,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710442153,\"title\":\"$5.00\",\"option1\":\"$5.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $5.00\",\"public_title\":\"$5.00\",\"options\":[\"$5.00\"],\"price\":500,\"weight\":0,\"compare_at_price\":500,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710474921,\"title\":\"$5.25\",\"option1\":\"$5.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $5.25\",\"public_title\":\"$5.25\",\"options\":[\"$5.25\"],\"price\":525,\"weight\":0,\"compare_at_price\":525,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710507689,\"title\":\"$5.50\",\"option1\":\"$5.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $5.50\",\"public_title\":\"$5.50\",\"options\":[\"$5.50\"],\"price\":550,\"weight\":0,\"compare_at_price\":550,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710540457,\"title\":\"$5.75\",\"option1\":\"$5.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $5.75\",\"public_title\":\"$5.75\",\"options\":[\"$5.75\"],\"price\":575,\"weight\":0,\"compare_at_price\":575,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710573225,\"title\":\"$6.00\",\"option1\":\"$6.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $6.00\",\"public_title\":\"$6.00\",\"options\":[\"$6.00\"],\"price\":600,\"weight\":0,\"compare_at_price\":600,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710605993,\"title\":\"$6.25\",\"option1\":\"$6.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $6.25\",\"public_title\":\"$6.25\",\"options\":[\"$6.25\"],\"price\":625,\"weight\":0,\"compare_at_price\":625,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710638761,\"title\":\"$6.50\",\"option1\":\"$6.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $6.50\",\"public_title\":\"$6.50\",\"options\":[\"$6.50\"],\"price\":650,\"weight\":0,\"compare_at_price\":650,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710671529,\"title\":\"$6.75\",\"option1\":\"$6.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $6.75\",\"public_title\":\"$6.75\",\"options\":[\"$6.75\"],\"price\":675,\"weight\":0,\"compare_at_price\":675,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710704297,\"title\":\"$7.00\",\"option1\":\"$7.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $7.00\",\"public_title\":\"$7.00\",\"options\":[\"$7.00\"],\"price\":700,\"weight\":0,\"compare_at_price\":700,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710737065,\"title\":\"$7.25\",\"option1\":\"$7.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $7.25\",\"public_title\":\"$7.25\",\"options\":[\"$7.25\"],\"price\":725,\"weight\":0,\"compare_at_price\":725,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710769833,\"title\":\"$7.50\",\"option1\":\"$7.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $7.50\",\"public_title\":\"$7.50\",\"options\":[\"$7.50\"],\"price\":750,\"weight\":0,\"compare_at_price\":750,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710802601,\"title\":\"$7.75\",\"option1\":\"$7.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $7.75\",\"public_title\":\"$7.75\",\"options\":[\"$7.75\"],\"price\":775,\"weight\":0,\"compare_at_price\":775,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710835369,\"title\":\"$8.00\",\"option1\":\"$8.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $8.00\",\"public_title\":\"$8.00\",\"options\":[\"$8.00\"],\"price\":800,\"weight\":0,\"compare_at_price\":800,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710868137,\"title\":\"$8.25\",\"option1\":\"$8.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $8.25\",\"public_title\":\"$8.25\",\"options\":[\"$8.25\"],\"price\":825,\"weight\":0,\"compare_at_price\":825,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710900905,\"title\":\"$8.50\",\"option1\":\"$8.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $8.50\",\"public_title\":\"$8.50\",\"options\":[\"$8.50\"],\"price\":850,\"weight\":0,\"compare_at_price\":850,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710933673,\"title\":\"$8.75\",\"option1\":\"$8.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $8.75\",\"public_title\":\"$8.75\",\"options\":[\"$8.75\"],\"price\":875,\"weight\":0,\"compare_at_price\":875,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710966441,\"title\":\"$9.00\",\"option1\":\"$9.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $9.00\",\"public_title\":\"$9.00\",\"options\":[\"$9.00\"],\"price\":900,\"weight\":0,\"compare_at_price\":900,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710999209,\"title\":\"$9.25\",\"option1\":\"$9.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $9.25\",\"public_title\":\"$9.25\",\"options\":[\"$9.25\"],\"price\":925,\"weight\":0,\"compare_at_price\":925,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538711031977,\"title\":\"$9.50\",\"option1\":\"$9.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $9.50\",\"public_title\":\"$9.50\",\"options\":[\"$9.50\"],\"price\":950,\"weight\":0,\"compare_at_price\":950,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538711064745,\"title\":\"$9.75\",\"option1\":\"$9.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $9.75\",\"public_title\":\"$9.75\",\"options\":[\"$9.75\"],\"price\":975,\"weight\":0,\"compare_at_price\":975,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538711097513,\"title\":\"$10.00\",\"option1\":\"$10.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $10.00\",\"public_title\":\"$10.00\",\"options\":[\"$10.00\"],\"price\":1000,\"weight\":0,\"compare_at_price\":1000,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]}],\"images\":[\"//cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_fd85dd35-83b0-4612-bf74-1fc0b5cd3b9b.png?v=1789613737\"],\"featured_image\":\"//cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_fd85dd35-83b0-4612-bf74-1fc0b5cd3b9b.png?v=1789613737\",\"options\":[{\"name\":\"Price\",\"position\":1,\"values\":[\"$1.00\",\"$2.00\",\"$2.25\",\"$2.50\",\"$2.75\",\"$3.00\",\"$3.25\",\"$3.50\",\"$3.75\",\"$4.00\",\"$4.25\",\"$4.50\",\"$4.75\",\"$5.00\",\"$5.25\",\"$5.50\",\"$5.75\",\"$6.00\",\"$6.25\",\"$6.50\",\"$6.75\",\"$7.00\",\"$7.25\",\"$7.50\",\"$7.75\",\"$8.00\",\"$8.25\",\"$8.50\",\"$8.75\",\"$9.00\",\"$9.25\",\"$9.50\",\"$9.75\",\"$10.00\"]}],\"url\":\"/products/free-unlimited-return-package-protection-valid-in-us\",\"media\":[{\"alt\":\"Redo Product Image\",\"id\":36124032270505,\"position\":1,\"preview_image\":{\"aspect_ratio\":1,\"height\":682,\"width\":682,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_fd85dd35-83b0-4612-bf74-1fc0b5cd3b9b.png?v=1789613737\"},\"aspect_ratio\":1,\"height\":682,\"media_type\":\"image\",\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_fd85dd35-83b0-4612-bf74-1fc0b5cd3b9b.png?v=1789613737\",\"width\":682}],\"requires_selling_plan\":false,\"selling_plan_groups\":[]},\"returnShopifyProduct\":{\"id\":9044947828905,\"title\":\"Free Unlimited Return  Valid in US.\",\"handle\":\"free-unlimited-return-valid-in-us-2\",\"description\":\"\",\"published_at\":\"2026-09-15T19:29:47-04:00\",\"created_at\":\"2026-09-15T19:20:48-04:00\",\"vendor\":\"re:do\",\"type\":\"return\",\"tags\":[\"exclude_rebuy\",\"klaviyo_reviews_exclude\",\"NOREVIEWS\"],\"price\":100,\"price_min\":100,\"price_max\":500,\"available\":true,\"price_varies\":true,\"compare_at_price\":100,\"compare_at_price_min\":100,\"compare_at_price_max\":500,\"compare_at_price_varies\":true,\"variants\":[{\"id\":48656099836073,\"title\":\"$1.00\",\"option1\":\"$1.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $1.00\",\"public_title\":\"$1.00\",\"options\":[\"$1.00\"],\"price\":100,\"weight\":0,\"compare_at_price\":100,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656099868841,\"title\":\"$1.25\",\"option1\":\"$1.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $1.25\",\"public_title\":\"$1.25\",\"options\":[\"$1.25\"],\"price\":125,\"weight\":0,\"compare_at_price\":125,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656099901609,\"title\":\"$1.50\",\"option1\":\"$1.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $1.50\",\"public_title\":\"$1.50\",\"options\":[\"$1.50\"],\"price\":150,\"weight\":0,\"compare_at_price\":150,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656099934377,\"title\":\"$1.75\",\"option1\":\"$1.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $1.75\",\"public_title\":\"$1.75\",\"options\":[\"$1.75\"],\"price\":175,\"weight\":0,\"compare_at_price\":175,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656099967145,\"title\":\"$2.00\",\"option1\":\"$2.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $2.00\",\"public_title\":\"$2.00\",\"options\":[\"$2.00\"],\"price\":200,\"weight\":0,\"compare_at_price\":200,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656099999913,\"title\":\"$2.25\",\"option1\":\"$2.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $2.25\",\"public_title\":\"$2.25\",\"options\":[\"$2.25\"],\"price\":225,\"weight\":0,\"compare_at_price\":225,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656100032681,\"title\":\"$2.50\",\"option1\":\"$2.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $2.50\",\"public_title\":\"$2.50\",\"options\":[\"$2.50\"],\"price\":250,\"weight\":0,\"compare_at_price\":250,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656100065449,\"title\":\"$2.75\",\"option1\":\"$2.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $2.75\",\"public_title\":\"$2.75\",\"options\":[\"$2.75\"],\"price\":275,\"weight\":0,\"compare_at_price\":275,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656100098217,\"title\":\"$3.00\",\"option1\":\"$3.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $3.00\",\"public_title\":\"$3.00\",\"options\":[\"$3.00\"],\"price\":300,\"weight\":0,\"compare_at_price\":300,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656100130985,\"title\":\"$3.25\",\"option1\":\"$3.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $3.25\",\"public_title\":\"$3.25\",\"options\":[\"$3.25\"],\"price\":325,\"weight\":0,\"compare_at_price\":325,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656100163753,\"title\":\"$3.50\",\"option1\":\"$3.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $3.50\",\"public_title\":\"$3.50\",\"options\":[\"$3.50\"],\"price\":350,\"weight\":0,\"compare_at_price\":350,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656100196521,\"title\":\"$3.75\",\"option1\":\"$3.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $3.75\",\"public_title\":\"$3.75\",\"options\":[\"$3.75\"],\"price\":375,\"weight\":0,\"compare_at_price\":375,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656100229289,\"title\":\"$4.00\",\"option1\":\"$4.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $4.00\",\"public_title\":\"$4.00\",\"options\":[\"$4.00\"],\"price\":400,\"weight\":0,\"compare_at_price\":400,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656100262057,\"title\":\"$4.25\",\"option1\":\"$4.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $4.25\",\"public_title\":\"$4.25\",\"options\":[\"$4.25\"],\"price\":425,\"weight\":0,\"compare_at_price\":425,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656100294825,\"title\":\"$4.50\",\"option1\":\"$4.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $4.50\",\"public_title\":\"$4.50\",\"options\":[\"$4.50\"],\"price\":450,\"weight\":0,\"compare_at_price\":450,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656100327593,\"title\":\"$4.75\",\"option1\":\"$4.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $4.75\",\"public_title\":\"$4.75\",\"options\":[\"$4.75\"],\"price\":475,\"weight\":0,\"compare_at_price\":475,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48656100360361,\"title\":\"$5.00\",\"option1\":\"$5.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  Valid in US. - $5.00\",\"public_title\":\"$5.00\",\"options\":[\"$5.00\"],\"price\":500,\"weight\":0,\"compare_at_price\":500,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]}],\"images\":[\"//cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_83390068-98b7-489a-b1fd-05aa72128c2a.png?v=1789613737\"],\"featured_image\":\"//cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_83390068-98b7-489a-b1fd-05aa72128c2a.png?v=1789613737\",\"options\":[{\"name\":\"Price\",\"position\":1,\"values\":[\"$1.00\",\"$1.25\",\"$1.50\",\"$1.75\",\"$2.00\",\"$2.25\",\"$2.50\",\"$2.75\",\"$3.00\",\"$3.25\",\"$3.50\",\"$3.75\",\"$4.00\",\"$4.25\",\"$4.50\",\"$4.75\",\"$5.00\"]}],\"url\":\"/products/free-unlimited-return-valid-in-us-2\",\"media\":[{\"alt\":\"Redo Product Image\",\"id\":36124032204969,\"position\":1,\"preview_image\":{\"aspect_ratio\":1,\"height\":682,\"width\":682,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_83390068-98b7-489a-b1fd-05aa72128c2a.png?v=1789613737\"},\"aspect_ratio\":1,\"height\":682,\"media_type\":\"image\",\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_83390068-98b7-489a-b1fd-05aa72128c2a.png?v=1789613737\",\"width\":682}],\"requires_selling_plan\":false,\"selling_plan_groups\":[]},\"packageShopifyProduct\":{\"id\":9041660805289,\"title\":\"Package Protection Valid in US.\",\"handle\":\"package-protection-valid-in-us\",\"description\":\"\",\"published_at\":\"2026-09-15T19:31:30-04:00\",\"created_at\":\"2026-09-15T01:28:28-04:00\",\"vendor\":\"re:do\",\"type\":\"package_protection\",\"tags\":[\"exclude_rebuy\",\"klaviyo_reviews_exclude\",\"NOREVIEWS\"],\"price\":100,\"price_min\":100,\"price_max\":500,\"available\":true,\"price_varies\":true,\"compare_at_price\":100,\"compare_at_price_min\":100,\"compare_at_price_max\":500,\"compare_at_price_varies\":true,\"variants\":[{\"id\":48538708148393,\"title\":\"$1.00\",\"option1\":\"$1.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $1.00\",\"public_title\":\"$1.00\",\"options\":[\"$1.00\"],\"price\":100,\"weight\":0,\"compare_at_price\":100,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708181161,\"title\":\"$1.25\",\"option1\":\"$1.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $1.25\",\"public_title\":\"$1.25\",\"options\":[\"$1.25\"],\"price\":125,\"weight\":0,\"compare_at_price\":125,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708213929,\"title\":\"$1.50\",\"option1\":\"$1.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $1.50\",\"public_title\":\"$1.50\",\"options\":[\"$1.50\"],\"price\":150,\"weight\":0,\"compare_at_price\":150,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708246697,\"title\":\"$1.75\",\"option1\":\"$1.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $1.75\",\"public_title\":\"$1.75\",\"options\":[\"$1.75\"],\"price\":175,\"weight\":0,\"compare_at_price\":175,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708279465,\"title\":\"$2.00\",\"option1\":\"$2.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $2.00\",\"public_title\":\"$2.00\",\"options\":[\"$2.00\"],\"price\":200,\"weight\":0,\"compare_at_price\":200,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708312233,\"title\":\"$2.25\",\"option1\":\"$2.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $2.25\",\"public_title\":\"$2.25\",\"options\":[\"$2.25\"],\"price\":225,\"weight\":0,\"compare_at_price\":225,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708345001,\"title\":\"$2.50\",\"option1\":\"$2.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $2.50\",\"public_title\":\"$2.50\",\"options\":[\"$2.50\"],\"price\":250,\"weight\":0,\"compare_at_price\":250,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708377769,\"title\":\"$2.75\",\"option1\":\"$2.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $2.75\",\"public_title\":\"$2.75\",\"options\":[\"$2.75\"],\"price\":275,\"weight\":0,\"compare_at_price\":275,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708410537,\"title\":\"$3.00\",\"option1\":\"$3.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $3.00\",\"public_title\":\"$3.00\",\"options\":[\"$3.00\"],\"price\":300,\"weight\":0,\"compare_at_price\":300,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708443305,\"title\":\"$3.25\",\"option1\":\"$3.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $3.25\",\"public_title\":\"$3.25\",\"options\":[\"$3.25\"],\"price\":325,\"weight\":0,\"compare_at_price\":325,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708476073,\"title\":\"$3.50\",\"option1\":\"$3.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $3.50\",\"public_title\":\"$3.50\",\"options\":[\"$3.50\"],\"price\":350,\"weight\":0,\"compare_at_price\":350,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708508841,\"title\":\"$3.75\",\"option1\":\"$3.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $3.75\",\"public_title\":\"$3.75\",\"options\":[\"$3.75\"],\"price\":375,\"weight\":0,\"compare_at_price\":375,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708541609,\"title\":\"$4.00\",\"option1\":\"$4.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $4.00\",\"public_title\":\"$4.00\",\"options\":[\"$4.00\"],\"price\":400,\"weight\":0,\"compare_at_price\":400,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708574377,\"title\":\"$4.25\",\"option1\":\"$4.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $4.25\",\"public_title\":\"$4.25\",\"options\":[\"$4.25\"],\"price\":425,\"weight\":0,\"compare_at_price\":425,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708607145,\"title\":\"$4.50\",\"option1\":\"$4.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $4.50\",\"public_title\":\"$4.50\",\"options\":[\"$4.50\"],\"price\":450,\"weight\":0,\"compare_at_price\":450,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708639913,\"title\":\"$4.75\",\"option1\":\"$4.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $4.75\",\"public_title\":\"$4.75\",\"options\":[\"$4.75\"],\"price\":475,\"weight\":0,\"compare_at_price\":475,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538708672681,\"title\":\"$5.00\",\"option1\":\"$5.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Package Protection Valid in US. - $5.00\",\"public_title\":\"$5.00\",\"options\":[\"$5.00\"],\"price\":500,\"weight\":0,\"compare_at_price\":500,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]}],\"images\":[\"//cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_5fb45b44-b1e5-4dd1-84b4-f6d64d8e9e3a.png?v=1789613737\"],\"featured_image\":\"//cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_5fb45b44-b1e5-4dd1-84b4-f6d64d8e9e3a.png?v=1789613737\",\"options\":[{\"name\":\"Price\",\"position\":1,\"values\":[\"$1.00\",\"$1.25\",\"$1.50\",\"$1.75\",\"$2.00\",\"$2.25\",\"$2.50\",\"$2.75\",\"$3.00\",\"$3.25\",\"$3.50\",\"$3.75\",\"$4.00\",\"$4.25\",\"$4.50\",\"$4.75\",\"$5.00\"]}],\"url\":\"/products/package-protection-valid-in-us\",\"media\":[{\"alt\":\"Redo Product Image\",\"id\":36124032237737,\"position\":1,\"preview_image\":{\"aspect_ratio\":1,\"height\":682,\"width\":682,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_5fb45b44-b1e5-4dd1-84b4-f6d64d8e9e3a.png?v=1789613737\"},\"aspect_ratio\":1,\"height\":682,\"media_type\":\"image\",\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_5fb45b44-b1e5-4dd1-84b4-f6d64d8e9e3a.png?v=1789613737\",\"width\":682}],\"requires_selling_plan\":false,\"selling_plan_groups\":[]},\"bothShopifyProduct\":{\"id\":9041660772521,\"title\":\"Free Unlimited Return  + Package Protection Valid in US.\",\"handle\":\"free-unlimited-return-package-protection-valid-in-us\",\"description\":\"\",\"published_at\":\"2026-09-15T19:31:30-04:00\",\"created_at\":\"2026-09-15T01:28:28-04:00\",\"vendor\":\"re:do\",\"type\":\"return,package_protection\",\"tags\":[\"exclude_rebuy\",\"klaviyo_reviews_exclude\",\"NOREVIEWS\"],\"price\":100,\"price_min\":100,\"price_max\":1000,\"available\":true,\"price_varies\":true,\"compare_at_price\":100,\"compare_at_price_min\":100,\"compare_at_price_max\":1000,\"compare_at_price_varies\":true,\"variants\":[{\"id\":48538710016169,\"title\":\"$1.00\",\"option1\":\"$1.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $1.00\",\"public_title\":\"$1.00\",\"options\":[\"$1.00\"],\"price\":100,\"weight\":0,\"compare_at_price\":100,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710048937,\"title\":\"$2.00\",\"option1\":\"$2.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $2.00\",\"public_title\":\"$2.00\",\"options\":[\"$2.00\"],\"price\":200,\"weight\":0,\"compare_at_price\":200,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710081705,\"title\":\"$2.25\",\"option1\":\"$2.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $2.25\",\"public_title\":\"$2.25\",\"options\":[\"$2.25\"],\"price\":225,\"weight\":0,\"compare_at_price\":225,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710114473,\"title\":\"$2.50\",\"option1\":\"$2.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $2.50\",\"public_title\":\"$2.50\",\"options\":[\"$2.50\"],\"price\":250,\"weight\":0,\"compare_at_price\":250,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710147241,\"title\":\"$2.75\",\"option1\":\"$2.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $2.75\",\"public_title\":\"$2.75\",\"options\":[\"$2.75\"],\"price\":275,\"weight\":0,\"compare_at_price\":275,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710180009,\"title\":\"$3.00\",\"option1\":\"$3.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $3.00\",\"public_title\":\"$3.00\",\"options\":[\"$3.00\"],\"price\":300,\"weight\":0,\"compare_at_price\":300,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710212777,\"title\":\"$3.25\",\"option1\":\"$3.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $3.25\",\"public_title\":\"$3.25\",\"options\":[\"$3.25\"],\"price\":325,\"weight\":0,\"compare_at_price\":325,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710245545,\"title\":\"$3.50\",\"option1\":\"$3.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $3.50\",\"public_title\":\"$3.50\",\"options\":[\"$3.50\"],\"price\":350,\"weight\":0,\"compare_at_price\":350,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710278313,\"title\":\"$3.75\",\"option1\":\"$3.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $3.75\",\"public_title\":\"$3.75\",\"options\":[\"$3.75\"],\"price\":375,\"weight\":0,\"compare_at_price\":375,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710311081,\"title\":\"$4.00\",\"option1\":\"$4.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $4.00\",\"public_title\":\"$4.00\",\"options\":[\"$4.00\"],\"price\":400,\"weight\":0,\"compare_at_price\":400,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710343849,\"title\":\"$4.25\",\"option1\":\"$4.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $4.25\",\"public_title\":\"$4.25\",\"options\":[\"$4.25\"],\"price\":425,\"weight\":0,\"compare_at_price\":425,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710376617,\"title\":\"$4.50\",\"option1\":\"$4.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $4.50\",\"public_title\":\"$4.50\",\"options\":[\"$4.50\"],\"price\":450,\"weight\":0,\"compare_at_price\":450,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710409385,\"title\":\"$4.75\",\"option1\":\"$4.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $4.75\",\"public_title\":\"$4.75\",\"options\":[\"$4.75\"],\"price\":475,\"weight\":0,\"compare_at_price\":475,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710442153,\"title\":\"$5.00\",\"option1\":\"$5.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $5.00\",\"public_title\":\"$5.00\",\"options\":[\"$5.00\"],\"price\":500,\"weight\":0,\"compare_at_price\":500,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710474921,\"title\":\"$5.25\",\"option1\":\"$5.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $5.25\",\"public_title\":\"$5.25\",\"options\":[\"$5.25\"],\"price\":525,\"weight\":0,\"compare_at_price\":525,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710507689,\"title\":\"$5.50\",\"option1\":\"$5.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $5.50\",\"public_title\":\"$5.50\",\"options\":[\"$5.50\"],\"price\":550,\"weight\":0,\"compare_at_price\":550,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710540457,\"title\":\"$5.75\",\"option1\":\"$5.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $5.75\",\"public_title\":\"$5.75\",\"options\":[\"$5.75\"],\"price\":575,\"weight\":0,\"compare_at_price\":575,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710573225,\"title\":\"$6.00\",\"option1\":\"$6.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $6.00\",\"public_title\":\"$6.00\",\"options\":[\"$6.00\"],\"price\":600,\"weight\":0,\"compare_at_price\":600,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710605993,\"title\":\"$6.25\",\"option1\":\"$6.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $6.25\",\"public_title\":\"$6.25\",\"options\":[\"$6.25\"],\"price\":625,\"weight\":0,\"compare_at_price\":625,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710638761,\"title\":\"$6.50\",\"option1\":\"$6.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $6.50\",\"public_title\":\"$6.50\",\"options\":[\"$6.50\"],\"price\":650,\"weight\":0,\"compare_at_price\":650,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710671529,\"title\":\"$6.75\",\"option1\":\"$6.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $6.75\",\"public_title\":\"$6.75\",\"options\":[\"$6.75\"],\"price\":675,\"weight\":0,\"compare_at_price\":675,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710704297,\"title\":\"$7.00\",\"option1\":\"$7.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $7.00\",\"public_title\":\"$7.00\",\"options\":[\"$7.00\"],\"price\":700,\"weight\":0,\"compare_at_price\":700,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710737065,\"title\":\"$7.25\",\"option1\":\"$7.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $7.25\",\"public_title\":\"$7.25\",\"options\":[\"$7.25\"],\"price\":725,\"weight\":0,\"compare_at_price\":725,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710769833,\"title\":\"$7.50\",\"option1\":\"$7.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $7.50\",\"public_title\":\"$7.50\",\"options\":[\"$7.50\"],\"price\":750,\"weight\":0,\"compare_at_price\":750,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710802601,\"title\":\"$7.75\",\"option1\":\"$7.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $7.75\",\"public_title\":\"$7.75\",\"options\":[\"$7.75\"],\"price\":775,\"weight\":0,\"compare_at_price\":775,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710835369,\"title\":\"$8.00\",\"option1\":\"$8.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $8.00\",\"public_title\":\"$8.00\",\"options\":[\"$8.00\"],\"price\":800,\"weight\":0,\"compare_at_price\":800,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710868137,\"title\":\"$8.25\",\"option1\":\"$8.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $8.25\",\"public_title\":\"$8.25\",\"options\":[\"$8.25\"],\"price\":825,\"weight\":0,\"compare_at_price\":825,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710900905,\"title\":\"$8.50\",\"option1\":\"$8.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $8.50\",\"public_title\":\"$8.50\",\"options\":[\"$8.50\"],\"price\":850,\"weight\":0,\"compare_at_price\":850,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710933673,\"title\":\"$8.75\",\"option1\":\"$8.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $8.75\",\"public_title\":\"$8.75\",\"options\":[\"$8.75\"],\"price\":875,\"weight\":0,\"compare_at_price\":875,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710966441,\"title\":\"$9.00\",\"option1\":\"$9.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $9.00\",\"public_title\":\"$9.00\",\"options\":[\"$9.00\"],\"price\":900,\"weight\":0,\"compare_at_price\":900,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538710999209,\"title\":\"$9.25\",\"option1\":\"$9.25\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $9.25\",\"public_title\":\"$9.25\",\"options\":[\"$9.25\"],\"price\":925,\"weight\":0,\"compare_at_price\":925,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538711031977,\"title\":\"$9.50\",\"option1\":\"$9.50\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $9.50\",\"public_title\":\"$9.50\",\"options\":[\"$9.50\"],\"price\":950,\"weight\":0,\"compare_at_price\":950,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538711064745,\"title\":\"$9.75\",\"option1\":\"$9.75\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $9.75\",\"public_title\":\"$9.75\",\"options\":[\"$9.75\"],\"price\":975,\"weight\":0,\"compare_at_price\":975,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":48538711097513,\"title\":\"$10.00\",\"option1\":\"$10.00\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Unlimited Return  + Package Protection Valid in US. - $10.00\",\"public_title\":\"$10.00\",\"options\":[\"$10.00\"],\"price\":1000,\"weight\":0,\"compare_at_price\":1000,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]}],\"images\":[\"//cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_fd85dd35-83b0-4612-bf74-1fc0b5cd3b9b.png?v=1789613737\"],\"featured_image\":\"//cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_fd85dd35-83b0-4612-bf74-1fc0b5cd3b9b.png?v=1789613737\",\"options\":[{\"name\":\"Price\",\"position\":1,\"values\":[\"$1.00\",\"$2.00\",\"$2.25\",\"$2.50\",\"$2.75\",\"$3.00\",\"$3.25\",\"$3.50\",\"$3.75\",\"$4.00\",\"$4.25\",\"$4.50\",\"$4.75\",\"$5.00\",\"$5.25\",\"$5.50\",\"$5.75\",\"$6.00\",\"$6.25\",\"$6.50\",\"$6.75\",\"$7.00\",\"$7.25\",\"$7.50\",\"$7.75\",\"$8.00\",\"$8.25\",\"$8.50\",\"$8.75\",\"$9.00\",\"$9.25\",\"$9.50\",\"$9.75\",\"$10.00\"]}],\"url\":\"/products/free-unlimited-return-package-protection-valid-in-us\",\"media\":[{\"alt\":\"Redo Product Image\",\"id\":36124032270505,\"position\":1,\"preview_image\":{\"aspect_ratio\":1,\"height\":682,\"width\":682,\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_fd85dd35-83b0-4612-bf74-1fc0b5cd3b9b.png?v=1789613737\"},\"aspect_ratio\":1,\"height\":682,\"media_type\":\"image\",\"src\":\"https://cdn.shopify.com/s/files/1/0671/4258/2441/files/package-icon_fd85dd35-83b0-4612-bf74-1fc0b5cd3b9b.png?v=1789613737\",\"width\":682}],\"requires_selling_plan\":false,\"selling_plan_groups\":[]}},\"currency\":\"USD\"}}"
+        },
+        {
+          "name": "mr_storefront_events",
+          "value": "{\"first_app_load\":true}"
+        },
+        {
+          "name": "amplitude_unsent_f24a385d8a24a6edbbbccef706d9644e_apt-placement",
+          "value": "[]"
+        },
+        {
+          "name": "Uxify:pv:1794252348550:4b311d95-f0ee-4c2d-9c3b-2802cce5868e",
+          "value": "__UXIFY_EXP_v1__:1794252468550;{\"id\":\"4b311d95-f0ee-4c2d-9c3b-2802cce5868e\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"targetUrl\":\"https://www.ergopouch.com/\",\"createdAt\":1794252348550,\"context\":{\"siteId\":\"cEIxaxvZfIXiCykm\",\"visitorId\":\"qQCBuE0ScqPHTdCQ\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"startedAt\":1794252344245},\"sourceUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"tabId\":\"ee0748a9-f4d1-4b24-9b61-3517e36dbc6a\",\"navAIAttribution\":{\"type\":\"prefetch\"}}"
+        },
+        {
+          "name": "Shoplift_Analytics",
+          "value": "{\"timestamp\":\"2026-11-09T19:25:48.427Z\",\"visitor\":null,\"queue\":[{\"timestamp\":\"2026-11-09T19:25:36.943Z\",\"type\":5,\"cart\":{\"token\":\"hWNIxUlrgiLQvJwvZwJgkXqN?key=8b34630c3b5536fc2c11647d2632a7b2\",\"total_price\":0,\"total_discount\":0,\"currency\":\"USD\",\"items_subtotal_price\":0,\"items\":[]}},{\"timestamp\":\"2026-11-09T19:25:46.304Z\",\"type\":5,\"cart\":{\"token\":\"hWNIxUlrgiLQvJwvZwJgkXqN?key=8b34630c3b5536fc2c11647d2632a7b2\",\"total_price\":0,\"total_discount\":0,\"currency\":\"USD\",\"items_subtotal_price\":0,\"items\":[]}}]}"
+        },
+        {
+          "name": "Uxify:personaSessionId",
+          "value": "NtOJt8dVcm3FHBKm"
+        },
+        {
+          "name": "redo.anonymous_shopify_session_id",
+          "value": "redo-886183f7-8aea-4b03-84a1-d1c72f20b358"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1794252354524"
+        },
+        {
+          "name": "Uxify:storage:last-cleanup",
+          "value": "1794252336910"
+        },
+        {
+          "name": "ssPageLoadId",
+          "value": "{\"value\":{\"href\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"value\":\"481defa6-8eea-48b0-aac5-b05a71b26439\",\"timestamp\":\"2026-11-09T19:25:48.962Z\"}}"
+        },
+        {
+          "name": "Uxify:pv:1794252348551:cb683553-fe69-435f-9c54-064557e8772a",
+          "value": "__UXIFY_EXP_v1__:1794252468551;{\"id\":\"cb683553-fe69-435f-9c54-064557e8772a\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"targetUrl\":\"https://www.ergopouch.com/collections/all\",\"createdAt\":1794252348551,\"context\":{\"siteId\":\"cEIxaxvZfIXiCykm\",\"visitorId\":\"qQCBuE0ScqPHTdCQ\",\"pvId\":\"9Q0CvETiieRvOFhq\",\"startedAt\":1794252344245},\"sourceUrl\":\"https://www.ergopouch.com/products/cocoon-swaddle-sack-1-0-tog-triangle-pops\",\"tabId\":\"ee0748a9-f4d1-4b24-9b61-3517e36dbc6a\",\"navAIAttribution\":{\"type\":\"prefetch\"}}"
+        }
+      ]
+    }
+  ]
+}

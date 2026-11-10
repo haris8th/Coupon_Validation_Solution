@@ -1,0 +1,787 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".bostonproper.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_client_id",
+      "value": "9ab2d861-9100-447d-a6a9-8b3c83b18ee1",
+      "domain": "www.bostonproper.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_vb",
+      "value": "ca40bac8-6840-44e6-b437-83a96cd11a4a",
+      "domain": "www.bostonproper.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1825704316.113103,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1802030716.113744,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG8w6ciAAEAURx-hcGsKxAetAVugvua1t5uokVqTWOXmbsDauDPfrCn_7GfU2ftvyjodkPXSgGEmN9rW0zgX_KKkfk:",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1825704300.217743,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaG8w6i3AAEAVpEdE5mydg-cq6d_PYgHeK3X1xiizIDCHpMpTRIA72QRLT83VnkTmfEreHTjwNM9Zy_Hc1KOcvHpWuQ:",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1825704300.217808,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaG8w6i4AAEALiPrPqcf_JiHoGiYiRCWBBI4V26TYIKez5MHYQF65XNjsobIZqoFWw-gjW-U7vcWJ9UiX5RgeIaPfwM:",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1825704300.21787,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ABTastySession",
+      "value": "mrasn=&lp=https%253A%252F%252Fwww.bostonproper.com%252F",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1794170104,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gbuuid",
+      "value": "2fb3a62a-7fcf-4ecd-a0d7-9bb91976a83e",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1828728307,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gtm_an_uuid",
+      "value": "3c98732c-7a86-4999-9bf6-47652660bc65",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1825704308,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1508909596.1794168309",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1801944308,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPC",
+      "value": "1cbc4b5f-fc1f-4a0d-ac31-07ad0c5699f6",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1794773108,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ABTasty",
+      "value": "uid=da1v65xbeg71g578&fst=1794168302181&pst=-1&cst=1794168302181&ns=1&pvt=2&pvis=2&th=1447465.1799746.1.1.1.1.1794168308908.1794168308908.0.1.-2.0_1694599.2116314.1.1.1.1.1794168308917.1794168308917.0.1.-2.0",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828296302,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_br_uid_2",
+      "value": "uid%3D1615855851320%3Av%3Dapp%3Ats%3D1794168308932%3Ahc%3D2",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728308.93831,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tfExperimentId",
+      "value": "t-09ded68161c34d6f8980d5fa88cc4dab",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728309.154441,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_nb_sp_ses.4209",
+      "value": "*",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1794170108,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_nb_sp_id.4209",
+      "value": "71c3cff3-f320-429b-87f7-0f9af0501183.1794168309.1.1794168309.1794168309.f0fed780-2d0a-4310-acac-0bb1a506238b",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1828728309.202581,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "styliticsWidgetSession",
+      "value": "b5f31df5-0a06-484c-8202-841e2985cc4f",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728313.353204,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_bcai_lpv",
+      "value": "1",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728309.760736,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_spv",
+      "value": "1",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1794170109,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_i",
+      "value": "O2HPtW2aEcnzpF_GZFyTc",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728309.767556,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1794168309838.8694606969915513.AQYCAQMC",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1801944309,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_v",
+      "value": "O2HPtW2aEcnzpF_GZFyTc",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728309.852136,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_vs",
+      "value": "COOKIE",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728309.85236,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_vn",
+      "value": "_bcai_i",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728309.852462,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1044654638.1794168310",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728311.198653,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "9ab2d861-9100-447d-a6a9-8b3c83b18ee1",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1825704309,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tf-version",
+      "value": "v2",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1825704310.399166,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "datagrail_consent_id",
+      "value": "e92d8a3b-8478-47e4-abfc-237ffbae3a50.33affb47-37bf-44ae-91a9-826ee3ac1364",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1825704310,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "datagrail_consent_version",
+      "value": "99276a86-8487-4007-b036-5095d6bbf6b2",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1825704310,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU1UWTBOV0U0WmpZdFpETXhOUzAwWm1JekxXSmtPVGd0TWpReVltWXpaVEpoTWpVMA",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1825704306,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scsrid_r",
+      "value": "",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828296310,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "1b842924-24f5-4f6e-8711-2e2dd005e31f",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1794258310,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__rtbh.uid",
+      "value": "%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22unknown%22%2C%22expiryDate%22%3A%222027-11-08T20%3A05%3A10.834Z%22%7D",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1825704310,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__rtbh.lid",
+      "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22ZxJEFrlg2ceC3lmOLB1h%22%2C%22expiryDate%22%3A%222027-11-08T20%3A05%3A10.835Z%22%7D",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1825704310,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIvCrrt1jj2LHYYMTcHKjL%3Fkey%3Df0291aa210bd57aa3aecf93a9337c21b",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1802030716.113334,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "HEKN3TdAqLaXN47JF62uvm75vdn90FPMeu3IQX5M_Tk-1794168311.6173506-1.0.1.1-7ENe5IInOv44R3PTwjGLY4zq4xV6CBJBStBdHddxUcIYJgmiIfMxt9MuWklpIbmRLyJGnOZay7RmaNMGGrzjYzo6_6TbYM9hBtsGaqYVOdwGO8bQbTl3xPwI9H37llpH",
+      "domain": ".www.bostonproper.com",
+      "path": "/",
+      "expires": 1794170111.014379,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://bostonproper.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "_scid",
+      "value": "shfw00fJP9tracJVEop62L4svGwAykKc",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828296310,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "shfw00fJP9tracJVEop62L4svGwAykKc",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828296310,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "osid",
+      "value": "78f696be-c1ab-4b7c-8795-264a6e8b93f5",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1825704311,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "value": "FPID2.2.ClIZxoA5SuOl7EOh9ZR%2FksrVsVZslwdj8xGeIUVKTmU%3D.1794168310",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728316.923875,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "value": "ghO28BAPml2p3XvJvM%2BJfEAG45%2FZgs3heTZgdJf84GNrd%2B8OL7TgI6JECSumbS4NzHKV1eP1mLnZ%2FcY4n%2BLnk8buCdDDepg7o0mpdjd%2FK%2FphXf1Tx7eSiRc7mlR93g%3D%3D",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1794240311.670011,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPAU",
+      "value": "1.1.1508909596.1794168309",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1801944307.670329,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPGSID",
+      "value": "1.1794168313.1794168313.G-GC5SX8YDEC.2vkWmWMWQ-hOIIbljoTocg",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1794170111.670432,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_nb_sp_ses.4725",
+      "value": "*",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1794170111,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_nb_sp_id.4725",
+      "value": "0054e70a-9f42-46ea-8f0a-b690e48758b9.1794168312.1.1794168312.1794168312.76afaf1d-6dd9-46f4-a4da-48af7e27b646",
+      "domain": "www.bostonproper.com",
+      "path": "/",
+      "expires": 1828728311.933246,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__exponea_etc__",
+      "value": "2883306d-63aa-4809-a661-33515b727101",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728312.258199,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_scida",
+      "value": "aNuasthhkQB8fQqpizyDsY7hVkuRYrSx",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828296311,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_axwrt",
+      "value": "9ab2d861-9100-447d-a6a9-8b3c83b18ee1",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1825704312,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.44bf",
+      "value": "3e418268268d6b0f.1794168313.1.1794168313.1794168313",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728312.794676,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.44bf",
+      "value": "*",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1794170112,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_h",
+      "value": "5050042a-2627-4724-9036-500fd710d5a1_84d3f0f0-3cfc-474b-90ac-8c9669efccdf_1794168313254",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728312.759805,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ax_last_event",
+      "value": "1794168312521",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1825704312,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ax_visitor",
+      "value": "%7B%22firstVisitTs%22%3A1794168312838%2C%22lastVisitTs%22%3Anull%2C%22currentVisitStartTs%22%3A1794168312838%2C%22ts%22%3A1794168312861%2C%22visitCount%22%3A1%7D",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1825704312,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__exponea_time2__",
+      "value": "1.775573968887329",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1794171912,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ax_session_data",
+      "value": "eyJpbnZpc2libGVUaW1lIjowLCJ0b3RhbFRpbWUiOjIwMTEsImxhc3RVcGRhdGUiOjE3OTQxNjgzMTM0NDl9",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1825704313,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_MZzDEzbARQ2rnnwkrNlTZg%231ac58c76-5100-43e4-8595-d11fcfdf8c9e-1794168305",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1825725916.112763,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_C0W88BGTF0",
+      "value": "GS2.1.s1794168310$o1$g0$t1794168316$j54$l0$h271261204",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728316.400145,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_GC5SX8YDEC",
+      "value": "GS2.1.s1794168311$o1$g0$t1794168316$j55$l0$h889632840",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728316.417842,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sgtm_fpid",
+      "value": "ClIZxoA5SuOl7EOh9ZR%252FksrVsVZslwdj8xGeIUVKTmU%253D.1794168310",
+      "domain": ".bostonproper.com",
+      "path": "/",
+      "expires": 1828728316.924169,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.bostonproper.com",
+      "localStorage": [
+        {
+          "name": "u_sclid",
+          "value": "7LGk4XkMeXDV27BEpiGZVBLFYHoyDYwxshfw00fJP9tracJVEop62L4svGwAykKc"
+        },
+        {
+          "name": "snowplowOutQueue__nb_sp_nb_post2.expires",
+          "value": "1857240308828"
+        },
+        {
+          "name": "eng_mt",
+          "value": "{\"ver\":36,\"sessionStartTime\":1794168310569,\"scrollDepth\":0,\"sessionDepth\":[\"1565960309\"],\"timeOnSite\":5930,\"crossSessionsData\":{\"sessionsHistory\":[1794168310569]},\"numOfTimesMetricsSent\":1}"
+        },
+        {
+          "name": "__exponea_last_session_ping_timestamp__",
+          "value": "1794168308946"
+        },
+        {
+          "name": "_oir_csc_dt",
+          "value": "YUUcd2l6XxwpcyxdWHQqNEUcdWFiSltheywERTF8YU0cKT07QxIxYWBKWTEydUMSMXxhWVl/bX0cBGgqdE5aMTJ6TEt2dXMSHHZwLARFMWlsV1oxMixubFxMW31qWkdAHENuJCxKV35tfUpffngsBA8kMToPCCs7PwwGIjBz"
+        },
+        {
+          "name": "_axwrt_backup",
+          "value": "{\"value\":\"9ab2d861-9100-447d-a6a9-8b3c83b18ee1\",\"setTs\":null,\"expiresAt\":1825704311453}"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1794168308677},\"expires\":1801944308677},\"gsid_dc\":{\"value\":{\"joinId\":\"SbEODsr1EIIYIFgiLeyMXoQHdVpSi_1NKg\",\"lastJoinedTimeMs\":1794168308696},\"expires\":1794168608696},\"gtg_load_status\":{\"status\":3,\"expires\":1794254709536}}"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU1UWTBOV0U0WmpZdFpETXhOUzAwWm1JekxXSmtPVGd0TWpReVltWXpaVEpoTWpVMA\",\"expires\":\"2027-11-08T20:05:06.254Z\"}"
+        },
+        {
+          "name": "bre_checkout_cookie",
+          "value": "2883306d-63aa-4809-a661-33515b727101"
+        },
+        {
+          "name": "__rtbh.uid",
+          "value": "{\"eventType\":\"uid\",\"id\":\"unknown\",\"expiryDate\":\"2027-11-08T20:05:10.834Z\"}"
+        },
+        {
+          "name": "taboola global:user-id",
+          "value": "7af4d423-431a-4cdb-b568-b13600adee95-tuct11ea5b78"
+        },
+        {
+          "name": "snowplowOutQueue__nb_sp_nb_post2",
+          "value": "[{\"evt\":{\"e\":\"pv\",\"url\":\"https://www.bostonproper.com/web-pixels@43600932w1bbca933p2f8a9c65m024fd2f2/custom/web-pixel-142573734@1/sandbox/modern/products/knit-tweed-wide-leg-pant-black-multi\",\"page\":\"Knit Tweed Wide Leg Pant Black Multi | Boston Proper\",\"tv\":\"js-2.15.0\",\"tna\":\"nb\",\"aid\":\"bad8c33b-2e51-4306-b610-a4bff168053e\",\"p\":\"web\",\"tz\":\"America/New_York\",\"lang\":\"en-US\",\"cs\":\"UTF-8\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"res\":\"1920x1080\",\"cd\":\"24\",\"cookie\":\"1\",\"eid\":\"beb2e90d-5326-4735-a774-8cc3707c51c6\",\"dtm\":\"1794168308822\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uZ29vZ2xlLmFuYWx5dGljcy9jb29raWVzL2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7fX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy93ZWJfcGFnZS9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJpZCI6ImMxM2U2N2Y0LTQ0ZmEtNDE4Ny05NmM0LTc0NGNiNDA2NDAyNyJ9fSx7InNjaGVtYSI6ImlnbHU6b3JnLnczL1BlcmZvcm1hbmNlVGltaW5nL2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7Im5hdmlnYXRpb25TdGFydCI6MTc5NDE2ODMwNTU5NCwidW5sb2FkRXZlbnRTdGFydCI6MCwidW5sb2FkRXZlbnRFbmQiOjAsInJlZGlyZWN0U3RhcnQiOjAsInJlZGlyZWN0RW5kIjowLCJmZXRjaFN0YXJ0IjoxNzk0MTY4MzA1NjI3LCJkb21haW5Mb29rdXBTdGFydCI6MTc5NDE2ODMwNTYyNywiZG9tYWluTG9va3VwRW5kIjoxNzk0MTY4MzA1NjI3LCJjb25uZWN0U3RhcnQiOjE3OTQxNjgzMDU2MjcsImNvbm5lY3RFbmQiOjE3OTQxNjgzMDU2MjcsInNlY3VyZUNvbm5lY3Rpb25TdGFydCI6MCwicmVxdWVzdFN0YXJ0IjoxNzk0MTY4MzA1Nzg1LCJyZXNwb25zZVN0YXJ0IjoxNzk0MTY4MzA2MDQwLCJyZXNwb25zZUVuZCI6MTc5NDE2ODMwNjA1NCwiZG9tTG9hZGluZyI6MTc5NDE2ODMwNjA5NywiZG9tSW50ZXJhY3RpdmUiOjE3OTQxNjgzMDYyNDUsImRvbUNvbnRlbnRMb2FkZWRFdmVudFN0YXJ0IjoxNzk0MTY4MzA2MjQ1LCJkb21Db250ZW50TG9hZGVkRXZlbnRFbmQiOjE3OTQxNjgzMDYyNDUsImRvbUNvbXBsZXRlIjoxNzk0MTY4MzA2MjQ1LCJsb2FkRXZlbnRTdGFydCI6MTc5NDE2ODMwNjI0NiwibG9hZEV2ZW50RW5kIjoxNzk0MTY4MzA2MjQ2fX0seyJzY2hlbWEiOiJpZ2x1Om9yZy5pZXRmL2h0dHBfY2xpZW50X2hpbnRzL2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7ImlzTW9iaWxlIjpmYWxzZSwiYnJhbmRzIjpbeyJicmFuZCI6Ik5vdDpBLUJyYW5kIiwidmVyc2lvbiI6IjgifSx7ImJyYW5kIjoiQ2hyb21pdW0iLCJ2ZXJzaW9uIjoiMTU2In0seyJicmFuZCI6Ikdvb2dsZSBDaHJvbWUiLCJ2ZXJzaW9uIjoiMTU2In1dfX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5nb29nbGUuYW5hbHl0aWNzLm1lYXN1cmVtZW50LXByb3RvY29sL2N1c3RvbV9kaW1lbnNpb24vanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaW5kZXgiOjEsInZhbHVlIjoiIn19LHsic2NoZW1hIjoiaWdsdTpjb20uZ29vZ2xlLmFuYWx5dGljcy5tZWFzdXJlbWVudC1wcm90b2NvbC9jdXN0b21fZGltZW5zaW9uL2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7ImluZGV4IjoyLCJ2YWx1ZSI6IiJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmdvb2dsZS5hbmFseXRpY3MubWVhc3VyZW1lbnQtcHJvdG9jb2wvY3VzdG9tX2RpbWVuc2lvbi9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJpbmRleCI6MywidmFsdWUiOiIifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5nb29nbGUuYW5hbHl0aWNzLm1lYXN1cmVtZW50LXByb3RvY29sL2N1c3RvbV9kaW1lbnNpb24vanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaW5kZXgiOjQsInZhbHVlIjoiIn19XX0\",\"vp\":\"0x0\",\"ds\":\"0x8\",\"vid\":\"1\",\"sid\":\"f0fed780-2d0a-4310-acac-0bb1a506238b\",\"duid\":\"71c3cff3-f320-429b-87f7-0f9af0501183\"},\"bytes\":2950}]"
+        },
+        {
+          "name": "swell-test-item",
+          "value": "true"
+        },
+        {
+          "name": "__uidcei",
+          "value": "78f696be-c1ab-4b7c-8795-264a6e8b93f5"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIvCrrt1jj2LHYYMTcHKjL\""
+        },
+        {
+          "name": "viewedProducts",
+          "value": "[\"15849675980966\"]"
+        },
+        {
+          "name": "_bcai_aid",
+          "value": "9ab2d861-9100-447d-a6a9-8b3c83b18ee1"
+        },
+        {
+          "name": "_oir_ost_ts",
+          "value": "agQCITc0Aw0rMjcNBCE="
+        },
+        {
+          "name": "StyliticsTestOverride",
+          "value": "{\"bostonproper\":{}}"
+        },
+        {
+          "name": "StyliticsExperienceConfig",
+          "value": "{\"client\":{\"bostonproper\":{\"experiences\":{},\"timestamp\":1794168309546}}}"
+        },
+        {
+          "name": "__rtbh.lid",
+          "value": "{\"eventType\":\"lid\",\"id\":\"ZxJEFrlg2ceC3lmOLB1h\",\"expiryDate\":\"2027-11-08T20:05:10.835Z\"}"
+        },
+        {
+          "name": "__slpv",
+          "value": "\"1794168307410\""
+        },
+        {
+          "name": "__exponea_last_session_start_timestamp__",
+          "value": "1794168308946"
+        },
+        {
+          "name": "StyliticsSessionID",
+          "value": "b5f31df5-0a06-484c-8202-841e2985cc4f"
+        },
+        {
+          "name": "__sstst",
+          "value": "\"1794168307409\""
+        },
+        {
+          "name": "__refp2oloirel",
+          "value": "{\"entries\":{\"_shopify_y\":{\"id\":\"_shopify_y\",\"value\":\"9ab2d861-9100-447d-a6a9-8b3c83b18ee1\",\"timestamp\":1794168307416},\"osid\":{\"id\":\"osid\",\"value\":\"78f696be-c1ab-4b7c-8795-264a6e8b93f5\",\"timestamp\":1794168311871},\"cart\":{\"id\":\"cart\",\"value\":\"hWNIvCrrt1jj2LHYYMTcHKjL?key=f0291aa210bd57aa3aecf93a9337c21b\",\"timestamp\":1794168311871}}}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "bre_checkout_domain_key",
+          "value": "bostonproper"
+        },
+        {
+          "name": "_bcai_cs",
+          "value": "{\"token\":\"hWNIvCrrt1jj2LHYYMTcHKjL?key=f0291aa210bd57aa3aecf93a9337c21b\",\"note\":\"\",\"attributes\":{\"_bcai\":\"eyJzaXRlX25hbWUiOiJib3N0b25wcm9wZXIiLCJpZHMiOlt7Im5hbWUiOiJhaWQiLCJ2YWx1ZSI6IjlhYjJkODYxLTkxMDAtNDQ3ZC1hNmE5LThiM2M4M2IxOGVlMSJ9LHsibmFtZSI6Il9iY2FpX2kiLCJ2YWx1ZSI6Ik8ySFB0VzJhRWNuenBGX0daRnlUYyJ9XSwidXNlcl9kYXRhIjp7ImZicCI6ImZiLjEuMTc5NDE2ODMwOTgzOC44Njk0NjA2OTY5OTE1NTEzLkFRWUNBUU1DIiwiYmN2aWQiOiJPMkhQdFcyYUVjbnpwRl9HWkZ5VGMifX0=\",\"_bcai_aid\":\"9ab2d861-9100-447d-a6a9-8b3c83b18ee1\"},\"original_total_price\":0,\"total_price\":0,\"total_discount\":0,\"total_weight\":0,\"item_count\":0,\"items\":[],\"requires_shipping\":false,\"currency\":\"USD\",\"items_subtotal_price\":0,\"cart_level_discount_applications\":[],\"discount_codes\":[]}"
+        },
+        {
+          "name": "bre_checkout_feature_flags",
+          "value": "{}"
+        },
+        {
+          "name": "bre_checkout_localization",
+          "value": "{\"country\":\"US\",\"language\":\"en\"}"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794427510687"
+        },
+        {
+          "name": "bre_checkout_discovery_config",
+          "value": "{\"test_data\":false,\"debug\":false}"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "7LGk4XkMeXDV27BEpiGZVBLFYHoyDYwxshfw00fJP9tracJVEop62L4svGwAykKc"
+        },
+        {
+          "name": "_applovin_pixel_version",
+          "value": "s/a/3.6.68"
+        },
+        {
+          "name": "StyliticsBrowsedItems",
+          "value": "{\"bostonproper\":[{\"browsed_at\":1794168313353,\"remote_id\":\"2DQ3590\"}]}"
+        },
+        {
+          "name": "__spvws",
+          "value": "\"1\""
+        },
+        {
+          "name": "ABTastyData",
+          "value": "{\"VisitedPages\":[{\"url\":\"https://www.bostonproper.com/\",\"visite\":1,\"time\":1794168302181,\"title\":\"Women's Clothing: Dresses, Tops, Pants, Shoes & Accessories | Boston Proper\"},{\"url\":\"https://www.bostonproper.com/products/knit-tweed-wide-leg-pant-black-multi\",\"visite\":1,\"time\":1794168304786,\"title\":\"Knit Tweed Wide Leg Pant Black Multi | Boston Proper\"}],\"ActionTracking\":[{\"name\":\"More than 5 seconds\",\"value\":0,\"time\":1794168314080},{\"name\":\"More than 5 seconds\",\"value\":0,\"time\":1794168314082}]}"
+        },
+        {
+          "name": "1601531:session-data",
+          "value": "v2_c6f0d498637296f65db0b01db3b9ec6c_7af4d423-431a-4cdb-b568-b13600adee95-tuct11ea5b78_1794168312_1794168312_CNawjgYQ-99hGJSWj-abNCABKAEwrQE4upcMQOGXEEjIzfEDUP___________wFYAGAAaMj9memQv9HG_wFwAYABAIgBAJABAJgBAA"
+        },
+        {
+          "name": "_oir_init_dt",
+          "value": "yu633MLR9LeCgZKt846ak/fwlcCU9PeVl8ei9pWbkqyglZGTofSOxp33rIvFkLe5mtfM+PDL18T45ZqZlKKsjJKTraaJkpaipMU="
+        },
+        {
+          "name": "bre_checkout_discovery_cookie",
+          "value": "uid=1615855851320:v=app:ts=1794168308932:hc=1"
+        }
+      ]
+    }
+  ]
+}

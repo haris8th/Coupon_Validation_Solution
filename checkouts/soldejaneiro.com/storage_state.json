@@ -1,0 +1,657 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".soldejaneiro.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utm_post",
+      "value": "false",
+      "domain": "soldejaneiro.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "soldejaneiro.com",
+      "path": "/",
+      "expires": 1825797237.749572,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "soldejaneiro.com",
+      "path": "/",
+      "expires": 1802123637.749966,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHCTUrMAAEAzX295h33NWy3aNYKdc5vlaJcYbLpDZD96iWtaTmKZwZq2Ae0grkqfWWtVnnwcsvf-4BdLddxXBTBkO4:",
+      "domain": "soldejaneiro.com",
+      "path": "/",
+      "expires": 1825797208.083518,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHCTUw1AAEADPc1CXZ06WYgHUhcrftF6BV2z2_NNQ2YiXLkB8GU50HIOVPFRVV5LUU-cZoc0SIRiPv2YBV2lwRAKQg:",
+      "domain": "soldejaneiro.com",
+      "path": "/",
+      "expires": 1825797208.083608,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "og_session_id",
+      "value": "0ff84be6c58511eca19d16023f049a7b.466793.1794261212",
+      "domain": "soldejaneiro.com",
+      "path": "/",
+      "expires": 1828821217.120258,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gbuuid",
+      "value": "7ac65752-0268-43bb-aee8-f95730f890f4",
+      "domain": "soldejaneiro.com",
+      "path": "/",
+      "expires": 1828821218,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1794261217962.e02d28bc-dc14-4000-8700-6e13c4458972",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1802037217,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "e4da23ef-9e99-4cb8-80bf-8fd2fcc1d193",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1794351219,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_c",
+      "value": "0",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1828425219,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_id",
+      "value": "25aef053-fa3d-acd5-f88c-bdb3d39e96fe.1794261219.1.1794261219.1794261219.1753821486.1828425219589.1.x",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1828425219,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_s",
+      "value": "1.5.U.9.1794263019945",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1794263019,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_s_ctx",
+      "value": "1tmw9ssxl7~usoldejaneiro.com%2Fproducts%2Fcheirosa-62-hair-body-fragrance-mist~R",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1794263020,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_twpid",
+      "value": "tw.1794261220283.90948404510724267",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1827957230.286904,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "addshoppers.com",
+      "value": "2%7C1%3A0%7C10%3A1794261221%7C15%3Aaddshoppers.com%7C44%3AYzgxYWQwZmVlNWJmNGRhMWIxZDU0OWExZmE0NTQ4NjQ%3D%7Ce56d5158f24aae65f12dd70e5f04d535594def57002f2358d1d34189f747f6c5",
+      "domain": "soldejaneiro.com",
+      "path": "/",
+      "expires": 1828821222.215561,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.8346",
+      "value": "799c967f7b518921.1794261223.1.1794261223.1794261223",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1828821222.869861,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.8346",
+      "value": "*",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1794263022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ABTastySession",
+      "value": "mrasn=&lp=https%253A%252F%252Fsoldejaneiro.com%252Fproducts%252Fcheirosa-62-hair-body-fragrance-mist",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1794263023,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ABTasty",
+      "value": "uid=p7xb1ed7hr732vkm&fst=1794261223082&pst=-1&cst=1794261223082&ns=1&pvt=1&pvis=1&th=",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1828389223,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scsrid_r",
+      "value": "",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1828389222,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPVpUazFNR1F6TUdJdFpUTXhNQzAwTnpVekxXRmlOV1V0WmpkaE9Ea3dPVGxsWXpOaQ",
+      "domain": "soldejaneiro.com",
+      "path": "/",
+      "expires": 1825797216,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "c76asVL-MADp7OejlWr58pDDVkohefka",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1828389223,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "c76asVL-MADp7OejlWr58pDDVkohefka",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1828389223,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "apt_pixel",
+      "value": "eyJkZXZpY2VJZCI6ImY0YWJhNTI1LWNkZGYtNDkyOS1hNmQ4LWE0NmU3MzBjMmRiZCIsInVzZXJJZCI6bnVsbCwiZXZlbnRJZCI6MiwibGFzdEV2ZW50VGltZSI6MTc5NDI2MTIyNDQwMywiY2hlY2tvdXQiOnsiYnJhbmQiOiJjYXNoYXBwYWZ0ZXJwYXkifX0=",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1825797224,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amp_f24a38",
+      "value": "rum_TObTcO_8Zu3X4LWkXR...1k714r2ve.1k714r2ve.0.0.0",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1825797224,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amp_f24a38_soldejaneiro.com",
+      "value": "rum_TObTcO_8Zu3X4LWkXR...1k714r2ve.1k714r2vs.0.0.0",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1825797224,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2026-11-09T21:53:45.797Z",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1825797225,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Mon+Nov+09+2026+16%3A53%3A46+GMT-0500+(Eastern+Standard+Time)&version=202603.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=092edd79-25e8-4134-982f-57063e475d48&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CBG18%3A0%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1794261226557",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1825797226,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3Amps._PKSD_f_f_JMC5oB2BTU6zo8TU*dYa1g_%7B%22onetrust.dsId%22%3A%22092edd79-25e8-4134-982f-57063e475d48%22%2C%22onetrust.datestamp%22%3A%222026-11-09T21%3A53%3A45.797Z%22%2C%22onetrust.groups%22%3A%22C0001%3A1%2CBG18%3A0%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%22%7D%23824d15e3-0da3-463f-9074-21f01b56ebfb-1794261212",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1825818845.803383,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lastRskxRun",
+      "value": "1794261226640",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1828821226.640777,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rskxRunCookie",
+      "value": "0",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1828821226.641397,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rCookie",
+      "value": "3f62m2i87s48ss29gup1remw9st30y",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1828821228.590009,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssCartProducts",
+      "value": "",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxjmtC4mbzDhsxneUe0m3%3Fkey%3D5a59eb6d8f4e9482c38a30be62da5e5c",
+      "domain": "soldejaneiro.com",
+      "path": "/",
+      "expires": 1802123637.749771,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=0fb5e067-2720-4595-802d-9c26e101ead7&logs=1&id=0d35c0a4-6254-42d2-98c3-fb6e1542cd16&created=1794261225700&expire=1794262128068",
+      "domain": "soldejaneiro.com",
+      "path": "/",
+      "expires": 1825797228,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_mpxl_guid",
+      "value": "0a63a015-dc88-11f1-a86f-395036611e82",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1825797229.484092,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssViewedProducts",
+      "value": "SJ99049300",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1828821229.867222,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssUserId",
+      "value": "4973ae38-aee7-4e95-af42-86aa0c794b5f",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1828821230.176119,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssSessionId",
+      "value": "25cf741c-2815-4608-9c40-c1ddc3abd2c6",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1794263030,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_twsid",
+      "value": "1794261220283-380954234.1.1794261230280",
+      "domain": ".soldejaneiro.com",
+      "path": "/",
+      "expires": 1827957230.284947,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://soldejaneiro.com",
+      "localStorage": [
+        {
+          "name": "ssViewedProducts",
+          "value": "{\"value\":[{\"sku\":\"SJ99049300\",\"parentId\":\"6562357117030\",\"uid\":\"39299178037350\"}]}"
+        },
+        {
+          "name": "__rmco",
+          "value": "{\"channelIds\":{\"attr_sid\":\"127596\",\"aff_mid\":\"54369\"},\"scope\":\"\",\"version\":\"2\",\"productConsents\":{\"ranTrkInt\":true,\"ranTrkExt\":true,\"ranAut\":true,\"ranCGE\":true,\"rtbRet\":true,\"rtbPro\":true,\"cadTrk\":true,\"dspTrk\":true,\"perMkt\":true,\"all\":true},\"execStatus\":1,\"consentSought\":false,\"sourceDomain\":\"soldejaneiro.com\",\"rmPurposeConsents\":[1],\"rmVendorConsents\":[],\"id\":\"4b635f63-1b50-4c4f-ac1e-8367d010f94f\",\"scnt\":0,\"maxAge\":1794263020368}"
+        },
+        {
+          "name": "gorgias.conversation-starters-timeout-cohort",
+          "value": "10000"
+        },
+        {
+          "name": "gorgias.guest-id",
+          "value": "8c2e4b36-a52a-4168-95d8-b2b4c2d22fe7"
+        },
+        {
+          "name": "rCookie",
+          "value": "{\"value\":\"3f62m2i87s48ss29gup1remw9st30y\",\"expiration_date\":\"Wed, 08 Nov 2028 21:53:48 GMT\"}"
+        },
+        {
+          "name": "2082051:session-data",
+          "value": "v2_26a18b17f3c7bfdff5e13aeae5bee09d_5e0f4cc1-8c98-4bde-8af5-0474b52a4e22-tuct11ebc66a_1794261227_1794261227_CNawjgYQg4p_GOCvtpKcNCABKAMwrQE4upcMQOGXEEjIzfEDUP___________wFYAGAAaMj9memQv9HG_wFwAYABAIgBAJABAJgBAA"
+        },
+        {
+          "name": "com.kochava.tracker.DeviceId",
+          "value": "KB1794261220T65b2f377239a4e5caf4a7ae2823f67e1"
+        },
+        {
+          "name": "sid",
+          "value": "08bd6950dc8811f1837fd34b556ffe31"
+        },
+        {
+          "name": "asPageViewHistory",
+          "value": "[1794261220508]"
+        },
+        {
+          "name": "asTimeOnSiteValue",
+          "value": "17014"
+        },
+        {
+          "name": "gorgias.visit-count",
+          "value": "{\"value\":1,\"expiry\":null}"
+        },
+        {
+          "name": "com.kochava.tracker.InstallSentDate",
+          "value": "1794261221645"
+        },
+        {
+          "name": "sidExpiry",
+          "value": "2026-11-10T21:53:44.549Z"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxjmtC4mbzDhsxneUe0m3\""
+        },
+        {
+          "name": "asTimeOnSiteSetTime",
+          "value": "1794261237526"
+        },
+        {
+          "name": "com.kochava.tracker.KvinitSentDate",
+          "value": "1794261220"
+        },
+        {
+          "name": "taboola:shopify:enable_debug_logging",
+          "value": "true"
+        },
+        {
+          "name": "asPageViews",
+          "value": "1"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "vid",
+          "value": "074e9710dc8811f1837fd34b556ffe31"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794520422106"
+        },
+        {
+          "name": "pixelLastLoadedDatetime",
+          "value": "1794279221882"
+        },
+        {
+          "name": "com.kochava.tracker.LastKvinit",
+          "value": "{\"config\":{\"init_token\":\"i1-kp0-sp1-ua9917010-0d99-41eb-847a-210b610d5cd3\"},\"general\":{\"servertime\":1794261221},\"privacy\":{\"allow_custom_ids\":[\"custom\",\"custom_id\",\"vida\",\"tifa\"]},\"success\":\"1\"}"
+        },
+        {
+          "name": "ABTastyShopify",
+          "value": "{\"identifier\":\"ab0cc74da019ba36151aecd2dbc4da57\",\"campaigns\":{},\"visitorId\":\"p7xb1ed7hr732vkm\",\"accountId\":52455,\"consent\":true}"
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":{\"activated\":\"idle\"},\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":true,\"chatTitle\":\"Sol de Janeiro\",\"isConnected\":false,\"isChatOnline\":true,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"optional\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":true,\"replyType\":\"reply-dynamic\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "com.kochava.tracker.SessionCount",
+          "value": "1"
+        },
+        {
+          "name": "com.kochava.tracker.IdLinkQueue",
+          "value": "[]"
+        },
+        {
+          "name": "gbFeaturesCache",
+          "value": "[[\"https://ship-cdn.domain-ship.prod20.narvar.com||sdk-bkc3sK8FD6SomgXe\",{\"data\":{\"status\":200,\"features\":{\"narvar-secure-qa-dp-cart-variant\":{\"defaultValue\":\"opt-out-link\"},\"narvar-secure-narvarshippingprotection-enabled\":{\"defaultValue\":true},\"narvar-secure-fentybeauty-cart-variant\":{\"defaultValue\":\"opt-in-button\",\"rules\":[{\"id\":\"fr_19g61umitpwdzh\",\"coverage\":1,\"hashAttribute\":\"userId\",\"seed\":\"6466957d-6106-4984-ae0e-872444a5327d\",\"hashVersion\":2,\"variations\":[\"opt-in-button\",\"opt-out-button\"],\"weights\":[0,1],\"key\":\"narvar-secure-fenty-beauty-optinoptout-button-2\",\"meta\":[{\"key\":\"0\",\"name\":\"opt-in\"},{\"key\":\"1\",\"name\":\"opt-out\"}],\"phase\":\"4\",\"name\":\"Narvar Secure Fenty-Beauty Optin/Optout button\"}]},\"narvar-secure-atmanthonythomasmelillo-content-checkout\":{\"defaultValue\":{\"widget\":\"\"}},\"narvar-secure-belk-fake-feature\":{\"defaultValue\":\"hide\",\"rules\":[{\"id\":\"fr_19g6mmspmwmhq\",\"coverage\":1,\"hashAttribute\":\"userId\",\"seed\":\"belk-dual-button-v2\",\"hashVersion\":2,\"variations\":[\"dual\",\"show-off\"],\"weights\":[0.5,0.5],\"key\":\"belk-dual-button-v2\",\"meta\":[{\"key\":\"show-off\",\"name\":\"show-off\"},{\"key\":\"dual\",\"name\":\"dual\"}],\"phase\":\"1\",\"name\":\"Belk Dual Button v2 \u2014 Visitor Conversion (DY id)\"}]},\"narvar-secure-narvarshippingprotection-content-cart\":{\"defaultValue\":{\"appSettings\":{\"showPriceInButton\":true}}},\"narvar-secure-outdoorresearch-show\":{\"defaultValue\":true},\"narvar-secure-narvarshippingprotection-content-title\":{\"defaultValue\":\"Delivery Protection\"},\"narvar-secure-sfccprodtest-cart-variant\":{\"defaultValue\":\"opt-out-button\",\"rules\":[{\"id\":\"fr_19g6rmrc9y616\",\"coverage\":1,\"hashAttribute\":\"userId\",\"seed\":\"502967de-4854-4d4b-b0c8-07f51a20b2fd\",\"hashVersion\":2,\"variations\":[\"opt-out-button\",\"checkbox\"],\"weights\":[0.5,0.5],\"key\":\"narvar-secure-sfccprodtest-cart-variant-cart-variant\",\"meta\":[{\"key\":\"opt-out-button\",\"name\":\"opt-out-button\"},{\"key\":\"checkbox\",\"name\":\"checkbox\"}],\"phase\":\"0\",\"name\":\"Narvar Secure sfccprodtest cart-variant cart-variant\"}]},\"narvar-secure-refarch-cart-variant\":{\"defaultValue\":\"opt-out-button\"},\"narvar-secure-foobar-content-title\":{\"defaultValue\":\"Worry-Free Purchase \"},\"narvar-secure-coopsleepgoods-enabled-cart\":{\"defaultValue\":true},\"jcpenney_fake_feature\":{\"defaultValue\":\"enableShippingProtection\",\"rules\":[{\"id\":\"fr_19g6nmsrk6ez5\",\"coverage\":1,\"hashAttribute\":\"userId\",\"seed\":\"53a4a6cd-0161-4798-a7c2-9fd38a7b6085\",\"hashVersion\":2,\"variations\":[\"enableShippingProtection\",\"enableShippingProtectionV1\",\"enableShippingProtectionV2\"],\"weights\":[0.8,0.1,0.1],\"key\":\"jcpenney-order-conversion\",\"meta\":[{\"key\":\"0\",\"name\":\"Control\"},{\"key\":\"1\",\"name\":\"enableShippingProtectionV1\"},{\"key\":\"2\",\"name\":\"enableShippingProtectionV2\"}],\"phase\":\"0\",\"name\":\"JCPenney Order Conversion\"}]}},\"dateUpdated\":\"2026-10-20T22:41:51.474Z\"},\"version\":\"2026-10-20T22:41:51.474Z\",\"staleAt\":\"2026-11-09T21:54:49.773Z\",\"sse\":true}]]"
+        },
+        {
+          "name": "u_sclid",
+          "value": "FXFogQL_nhkeErxWXXXjrT-FJBrRelcjc76asVL-MADp7OejlWr58pDDVkohefka"
+        },
+        {
+          "name": "com.kochava.tracker.Networking",
+          "value": "{\"general\":{},\"transactions\":{\"ip\":{},\"urls\":{\"hostCollection\":{\"config.sdk.kochava.com\":{\"identifier\":\"config.sdk.kochava.com\",\"did_succeed_last_ms\":1794261220984,\"did_fail_last_ms\":null},\"web-sdk.control.kochava.com\":{\"identifier\":\"web-sdk.control.kochava.com\",\"did_succeed_last_ms\":1794261221644,\"did_fail_last_ms\":null}}}}}"
+        },
+        {
+          "name": "eng_mt",
+          "value": "{\"ver\":36,\"sessionStartTime\":1794261227566,\"scrollDepth\":7,\"sessionDepth\":[\"-823530824\"],\"timeOnSite\":10832,\"crossSessionsData\":{\"sessionsHistory\":[1794261227566]},\"numOfTimesMetricsSent\":2}"
+        },
+        {
+          "name": "rskxRunCookie",
+          "value": "{\"value\":0,\"expiration_date\":\"Wed, 08 Nov 2028 21:53:46 GMT\"}"
+        },
+        {
+          "name": "lastRskxRun",
+          "value": "{\"value\":1794261226640,\"expiration_date\":\"Wed, 08 Nov 2028 21:53:46 GMT\"}"
+        },
+        {
+          "name": "amplitude_unsent_identify_f24a385d8a24a6edbbbccef706d9644e_apt-placement",
+          "value": "[]"
+        },
+        {
+          "name": "ssCartProducts",
+          "value": "{\"value\":[]}"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPVpUazFNR1F6TUdJdFpUTXhNQzAwTnpVekxXRmlOV1V0WmpkaE9Ea3dPVGxsWXpOaQ\",\"expires\":\"2027-11-09T21:53:36.806Z\"}"
+        },
+        {
+          "name": "ssUserId",
+          "value": "{\"value\":{\"value\":\"4973ae38-aee7-4e95-af42-86aa0c794b5f\",\"timestamp\":\"2026-11-09T21:53:50.173Z\"}}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxjmtC4mbzDhsxneUe0m3\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxjmtC4mbzDhsxneUe0m3\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "OG_STATE",
+          "value": "{\"sessionId\":\"0ff84be6c58511eca19d16023f049a7b.466793.1794261212\",\"optedin\":[],\"optedout\":[],\"productOffer\":{},\"firstOrderPlaceDate\":{},\"productToSubscribe\":{}}"
+        },
+        {
+          "name": "taboola global:user-id",
+          "value": "5e0f4cc1-8c98-4bde-8af5-0474b52a4e22-tuct11ebc66a"
+        },
+        {
+          "name": "ssSessionId",
+          "value": "{\"value\":{\"value\":\"25cf741c-2815-4608-9c40-c1ddc3abd2c6\",\"timestamp\":\"2026-11-09T21:53:50.178Z\"}}"
+        },
+        {
+          "name": "swell-test-item",
+          "value": "true"
+        },
+        {
+          "name": "com.kochava.tracker.EventQueue",
+          "value": "[]"
+        },
+        {
+          "name": "shopify-pixel-mode",
+          "value": "debug"
+        },
+        {
+          "name": "com.kochava.tracker.LastInstall",
+          "value": "{\"install_id\":\"KB1794261220T65b2f377239a4e5caf4a7ae2823f67e1\",\"kochava_app_id\":\"kosol-de-janiero-06cjg7\",\"sdk_version\":\"Web.Measurement 3.7.1\",\"time\":612,\"count\":1}"
+        },
+        {
+          "name": "vidExpiry",
+          "value": "2027-12-04T21:53:42.145Z"
+        },
+        {
+          "name": "__rmid",
+          "value": "8304c62a-eb83-4ae7-9244-2029d23187b6:1802037220435"
+        },
+        {
+          "name": "com.kochava.tracker.UpdateQueue",
+          "value": "[]"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "FXFogQL_nhkeErxWXXXjrT-FJBrRelcjc76asVL-MADp7OejlWr58pDDVkohefka"
+        },
+        {
+          "name": "amplitude_unsent_f24a385d8a24a6edbbbccef706d9644e_apt-placement",
+          "value": "[]"
+        },
+        {
+          "name": "taboola:shopify:pixel_allow_checkout_start",
+          "value": "true"
+        },
+        {
+          "name": "ABTastyData",
+          "value": "{\"VisitedPages\":[{\"url\":\"https://soldejaneiro.com/products/cheirosa-62-hair-body-fragrance-mist\",\"visite\":1,\"time\":1794261223082,\"title\":\"Cheirosa 62 Perfume Mist - Sol de Janeiro\"}]}"
+        },
+        {
+          "name": "com.kochava.tracker.InstallCount",
+          "value": "1"
+        },
+        {
+          "name": "_cs_cu",
+          "value": "https://soldejaneiro.com/products/cheirosa-62-hair-body-fragrance-mist"
+        },
+        {
+          "name": "com.kochava.tracker.FirstStartDate",
+          "value": "1794261220"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1794261238396"
+        },
+        {
+          "name": "ssPageLoadId",
+          "value": "{\"value\":{\"href\":\"https://soldejaneiro.com/products/cheirosa-62-hair-body-fragrance-mist\",\"value\":\"19bcfb3e-8233-4917-a2fc-8846371b44ab\",\"timestamp\":\"2026-11-09T21:53:42.100Z\"}}"
+        }
+      ]
+    }
+  ]
+}

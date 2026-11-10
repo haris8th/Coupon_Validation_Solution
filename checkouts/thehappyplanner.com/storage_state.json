@@ -1,0 +1,695 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".thehappyplanner.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "test",
+      "value": "test",
+      "domain": "thehappyplanner.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "",
+      "value": "test",
+      "domain": "thehappyplanner.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "thehappyplanner.com",
+      "path": "/",
+      "expires": 1825565189.792814,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "thehappyplanner.com",
+      "path": "/",
+      "expires": 1795238803.993038,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG0eO6sAAEA4Zf7n3osCy2NhKz1uZrj0OxLzUf7AZ9e6qbOxmgcwq1YrrzyZB6LIDRRLdHX2cp6j5U0fJOjYlRz1F8:",
+      "domain": "thehappyplanner.com",
+      "path": "/",
+      "expires": 1825565184.618644,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaG0eO_aAAEAWFpqpKZgN4HiOloo0Fry1buDVW2rlEs21BAmz3Jcs4SApviJUTvE7BdtU79556cf3N1CgRJ-xwvqhSQ:",
+      "domain": "thehappyplanner.com",
+      "path": "/",
+      "expires": 1825565184.618788,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaG0eO_aAAEA01I_F9wtKFQtO6uIqRygzV0H2T_cP2MtXWz-3LFUMzLhUpP7b7hFgGe-RqHYYnkCDRTMDnBPwi26weo:",
+      "domain": "thehappyplanner.com",
+      "path": "/",
+      "expires": 1825565184.618878,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "swym-session-id",
+      "value": "\"2iuybsl43syzuzyo8o0c9dcvjza2fnl88aczqg0qyqphhzodw0zyap1hkrvyi0zh\"",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1794031020,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-pid",
+      "value": "\"2hmk5Uf84LeaY5hXXDXiXTZ2kXo7Lm9Nc6WJGAwkHdA=\"",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1825565191,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://thehappyplanner.com",
+      "domain": "thehappyplanner.com",
+      "path": "/",
+      "expires": 1796621191,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "05dd45f0-d3ce-46ec-87ca-ef3ffddc7866",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1794119191,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "54dd71c0-4a4c-49d1-90b3-1fe0ece2f89e",
+      "domain": "thehappyplanner.com",
+      "path": "/",
+      "expires": 1825561591,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIrPv7MHJFzYDLCdumpBRb%3Fkey%3D31cd82396cd1b9b610b97a997db92dc7",
+      "domain": "thehappyplanner.com",
+      "path": "/",
+      "expires": 1801891600.10941,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attn_eat_id",
+      "value": "2edd09bff04946959631b68a55153e9e",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1827725191.040603,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://thehappyplanner.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "swym-v-ckd",
+      "value": "1",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1794030993,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-swymRegid",
+      "value": "\"iBWE9Q2yI0Wt-fC8JbXRyrePZz7RHbwZ9GkziM6SCiqcpBdLV5pBCKIf0DpDjOtUX_92z4x9-QiH1fF6-a2YCxASF6eFrGQPwykNbejenRNRhDmC46uVmlYzw4Hw7BLlTo2RiLsBhgKLiKv4NKg4a2Wh6I7hSU3s8GBOjbfKy6Q\"",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1825565196,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-email",
+      "value": "null",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1825565193,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU16QTNaalk0TXpRdE5tRTJOaTAwTkdJeExUazVabUV0TlRZeE16bGhPVE5sTlRKaw",
+      "domain": "thehappyplanner.com",
+      "path": "/",
+      "expires": 1825561590,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ama",
+      "value": "7e931748-38c7-4685-b33a-785214233cc9",
+      "domain": "thehappyplanner.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shd_s",
+      "value": "66fb0077-8a13-4f71-bf04-c011f7bf3f04",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1794031000.300831,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.2f9b",
+      "value": "*",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1794030995,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shd_y",
+      "value": "54dd71c0-4a4c-49d1-90b3-1fe0ece2f89e",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1825133200.314235,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.2f9b",
+      "value": "3405be5ed267040a.1794029194.1.1794029195.1794029194",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1828589195.173362,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "apt_pixel",
+      "value": "eyJkZXZpY2VJZCI6IjYxOWE4ZTBhLTdlNjItNGE0MC1hYWI3LTdjYzhkMjVlOTI2OCIsInVzZXJJZCI6bnVsbCwiZXZlbnRJZCI6MSwibGFzdEV2ZW50VGltZSI6MTc5NDAyOTE5NTIxNSwiY2hlY2tvdXQiOnsiYnJhbmQiOiJjYXNoYXBwYWZ0ZXJwYXkifX0=",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1825565195,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amp_f24a38",
+      "value": "w8UDwx02wmVapQkpGCz4ru...1k6q7i3v0.1k6q7i3v0.0.0.0",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1825565195,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_id",
+      "value": "51c27c7f6623490488194aa294d04286",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1827725196,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_session_id",
+      "value": "365c79aa88fd4cafb553bb892cc6d596",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1794031001,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzk0MDI5MTk2MDU3LFwidW9cIjoxNzk0MDI5MTk2MDU3LFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjUxYzI3YzdmNjYyMzQ5MDQ4ODE5NGFhMjk0ZDA0Mjg2XCJ9IiwiZWF0Ijoie1wiY29cIjoxNzk0MDI5MTk2MDM3LFwidW9cIjoxNzk0MDI5MTk2MDM3LFwibWFcIjozNjUwLFwiaW5cIjp0cnVlLFwidmFsXCI6XCJodHRwczovL2VvY2ZrLnRoZWhhcHB5cGxhbm5lci5jb21cIn0ifQ==",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1827725196,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1794029196066",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1827725196,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "thehappyplanner.com",
+      "path": "/",
+      "expires": 1796621195,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1794036396,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_bopd_",
+      "value": "browser",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1827725196,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "1",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1794030996,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "ORGANIC",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1794030997,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cjConsent",
+      "value": "MHxOfDB8Tnww",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1828157202,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cjUser",
+      "value": "16cd83b2-d4dc-43e4-827a-205cf55bbdee",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1828157202,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=d9a577a6-3c94-4589-adb8-ecc15b18686c&logs=1&id=8c59f7fa-8d64-446d-814f-0d0a12049640&created=1794029196428&expire=1794030105743",
+      "domain": "thehappyplanner.com",
+      "path": "/",
+      "expires": 1825565205,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_*Qy97qRbTEan0vvTqgXjjg%231d052a30-b92a-4b44-b9a0-b7b607d8bee7-1794029186",
+      "domain": ".thehappyplanner.com",
+      "path": "/",
+      "expires": 1825586827.110165,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://thehappyplanner.com",
+      "localStorage": [
+        {
+          "name": "tabId",
+          "value": "6d58d1ce-c88a-494d-bef7-7f7a030ecc1a"
+        },
+        {
+          "name": "nf_jsv",
+          "value": "449702"
+        },
+        {
+          "name": "swym-scheduledSFLAsk",
+          "value": "null"
+        },
+        {
+          "name": "et_nf_p_g8245656158270",
+          "value": "1794893193"
+        },
+        {
+          "name": "nf_g_3299",
+          "value": "s"
+        },
+        {
+          "name": "nf_bcr",
+          "value": "US10000"
+        },
+        {
+          "name": "nf_p_g8072683782206",
+          "value": "1"
+        },
+        {
+          "name": "gorgias.conversation-starters-timeout-cohort",
+          "value": "10000"
+        },
+        {
+          "name": "gorgias.guest-id",
+          "value": "54dd71c0-4a4c-49d1-90b3-1fe0ece2f89e"
+        },
+        {
+          "name": "et_nf_jsv",
+          "value": "1794115595"
+        },
+        {
+          "name": "et_nf_cart",
+          "value": "1794461204"
+        },
+        {
+          "name": "et_nf_c_product",
+          "value": "1794115601"
+        },
+        {
+          "name": "et_nf_g_3299",
+          "value": "1794893197"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-07T05:26:40.188Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-b479576c-681F-4F07-8CF4-4F68AE852032\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"mambi-shop.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-b479576c-681F-4F07-8CF4-4F68AE852032\",\"event_date_time\":\"2026-11-07T05:26:40.188Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"54dd71c0-4a4c-49d1-90b3-1fe0ece2f89e\",\"page_url\":\"https://thehappyplanner.com/products/disney-winnie-the-pooh-holiday-planning-bundle\",\"currency\":\"USD\",\"product\":{\"product_id\":\"8245656158270\",\"product_title\":\"Disney Winnie The Pooh - Holiday Planning Bundle\",\"variant_id\":\"43277862731838\",\"variant_title\":\"Disney Winnie The Pooh - Holiday Planning Bundle\",\"quantity\":1,\"variant_price\":39.99,\"product_vendor\":\"Happy Brands\"}}}}}]"
+        },
+        {
+          "name": "et_nf_plo",
+          "value": "1802669200"
+        },
+        {
+          "name": "nf_p_g8072683716670",
+          "value": "1"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIrPv7MHJFzYDLCdumpBRb\""
+        },
+        {
+          "name": "nf_p_g8245656158270",
+          "value": "1"
+        },
+        {
+          "name": "nf_sver",
+          "value": "1794027294"
+        },
+        {
+          "name": "nf_plo",
+          "value": "1"
+        },
+        {
+          "name": "swym-instrumentMap",
+          "value": "{\"iBWE9Q2yI0Wt-fC8JbXRyrePZz7RHbwZ9GkziM6SCiqcpBdLV5pBCKIf0DpDjOtUX_92z4x9-QiH1fF6-a2YCxASF6eFrGQPwykNbejenRNRhDmC46uVmlYzw4Hw7BLlTo2RiLsBhgKLiKv4NKg4a2Wh6I7hSU3s8GBOjbfKy6Q\":{\"2iuybsl43syzuzyo8o0c9dcvjza2fnl88aczqg0qyqphhzodw0zyap1hkrvyi0zh\":{\"https://thehappyplanner.com/products/disney-winnie-the-pooh-holiday-planning-bundle\":{\"1060\":[{\"epi\":43277862731838,\"empi\":8245656158270,\"ct\":\"hWNIrPv7MHJFzYDLCdumpBRb?key=31cd82396cd1b9b610b97a997db92dc7\",\"v3\":true,\"ts\":1794029200185}]}}}}"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://thehappyplanner.com/products/disney-winnie-the-pooh-holiday-planning-bundle\",\"exp\":1796621192182}"
+        },
+        {
+          "name": "storage-compatibility-test",
+          "value": "1"
+        },
+        {
+          "name": "swym-products_timestamp",
+          "value": "-10"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "et_nf_g_2199",
+          "value": "1794893197"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794288392108"
+        },
+        {
+          "name": "swym-fb-pixel-state-cache",
+          "value": "{\"observedPixelIds\":[\"985785821783533\"],\"observedPixelIdsHash\":\"985785821783533\",\"lastCheckedAt\":1794029196263,\"detectionStatus\":\"detected\",\"lastDetectedAt\":1794029196263,\"lastAddToWishlistAttemptAt\":null,\"lastAddToWishlistFiredAt\":null}"
+        },
+        {
+          "name": "nf_ses",
+          "value": "{\"i\":[{\"a\":1,\"o\":109488,\"n\":3}]}"
+        },
+        {
+          "name": "nf_cart",
+          "value": "{\"t\":\"hWNIrPv7MHJFzYDLCdumpBRb?key=31cd82396cd1b9b610b97a997db92dc7\",\"i\":[{\"p\":8245656158270,\"v\":43277862731838,\"q\":1}]}"
+        },
+        {
+          "name": "swym-products",
+          "value": "{\"all\":[]}"
+        },
+        {
+          "name": "et_nf_p_g8072683782206",
+          "value": "1794893197"
+        },
+        {
+          "name": "et_nf_bcr",
+          "value": "1802669193"
+        },
+        {
+          "name": "upcart-traffic-allocation-random",
+          "value": "90"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":{\"activated\":\"idle\"},\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":true,\"chatTitle\":\"Connect with Us\",\"isConnected\":false,\"isChatOnline\":false,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"always-required\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":true,\"replyType\":\"reply-dynamic\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "swym-authn_timestamp",
+          "value": "1794029193.162"
+        },
+        {
+          "name": "swym-devices",
+          "value": "{\"all\":{\"current-device-id\":\"f1635aa4-3f11-4c7a-b775-16b7ffd7424e\",\"bkt\":\"A\"}}"
+        },
+        {
+          "name": "recently-viewed",
+          "value": "[\"8245656158270\"]"
+        },
+        {
+          "name": "et_nf_ses",
+          "value": "1794215596"
+        },
+        {
+          "name": "also-bought-recently-viewed-products",
+          "value": "{\"value\":[8245656158270],\"expirationTimeMillis\":1796621191484}"
+        },
+        {
+          "name": "swym-sms-config",
+          "value": "{\"default-country-code\":null,\"supported-countries\":null,\"provider-type\":\"KLAVIYO_platform\"}"
+        },
+        {
+          "name": "amplitude_unsent_identify_f24a385d8a24a6edbbbccef706d9644e_apt-placement",
+          "value": "[]"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU16QTNaalk0TXpRdE5tRTJOaTAwTkdJeExUazVabUV0TlRZeE16bGhPVE5sTlRKaw\",\"expires\":\"2027-11-07T04:26:30.744Z\"}"
+        },
+        {
+          "name": "nf_c_product",
+          "value": "{\"i\":8245656158270,\"p\":39.99,\"pt\":\"Bundle\",\"ta\":\"_label_New, BFCM 11.27.26, BUNDLES + GIFTING, DISNEYSCRIPT, EMP_75, EXCLUSIVE BUNDLE, GIFTING, Guided Journaling, Happy Notes_Guided Journals, NOTEBOOKS + JOURNALS, NOV 1 2026, SCMAMBI, SEASONS, swym-disabled-addtocart-with-text, Theme_Disney, Yotpo-excluded\",\"v\":\"Happy Brands\",\"c\":[267222548542,219934425150,267419615294,294318178366,264328773694,260557045822,275177340990,219948679230,262705217598,157740007486,101229035582,263644151870,264416133182,262550978622,262275006526,266104864830],\"t\":\"Disney Winnie The Pooh - Holiday Planning Bundle\",\"o\":null}"
+        },
+        {
+          "name": "et_nf_p_g8072683716670",
+          "value": "1794893197"
+        },
+        {
+          "name": "nf_recent_v",
+          "value": "{\"i\":[{\"i\":8245656158270,\"h\":\"disney-winnie-the-pooh-holiday-planning-bundle\"}]}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIrPv7MHJFzYDLCdumpBRb\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIrPv7MHJFzYDLCdumpBRb\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "nf_g_3999",
+          "value": "s"
+        },
+        {
+          "name": "swym-rapps_cache",
+          "value": "[{\"app\":\"Wishlist\",\"is-paid\":true,\"enabled\":true,\"sfl-enabled\":true}]"
+        },
+        {
+          "name": "swym-authn",
+          "value": "{\"all\":{\"email\":null,\"regn\":{\"di\":\"f1635aa4-3f11-4c7a-b775-16b7ffd7424e\",\"pid\":\"2hmk5Uf84LeaY5hXXDXiXTZ2kXo7Lm9Nc6WJGAwkHdA=\",\"email\":\"\",\"authn?\":false},\"regid\":null,\"authn\":false}}"
+        },
+        {
+          "name": "swell-test-item",
+          "value": "true"
+        },
+        {
+          "name": "accessibly:storage",
+          "value": "{\"https://thehappyplanner.com/cdn/shop/files/12_CASPERBHB-L0410149-sq_200x.jpg\":{\"alt\":\"a group of notebooks and a notepad\",\"updatedAt\":\"2026-10-01T16:27:51.560Z\"}}"
+        },
+        {
+          "name": "et_nf_sver",
+          "value": "1794115595"
+        },
+        {
+          "name": "pap_unique_user_id",
+          "value": "45034842-e122-4735-996a-2948e06a36f2"
+        },
+        {
+          "name": "et_nf_prm",
+          "value": "1794893201"
+        },
+        {
+          "name": "_gAttributionWindow",
+          "value": "30"
+        },
+        {
+          "name": "et_nf_g_3999",
+          "value": "1794893193"
+        },
+        {
+          "name": "et_nf_recent_v",
+          "value": "1794115593"
+        },
+        {
+          "name": "nf_g_2199",
+          "value": "s"
+        },
+        {
+          "name": "swym-fb-pixel-retry-check",
+          "value": "1794029196266"
+        },
+        {
+          "name": "accessibly_vid",
+          "value": "2f115ea0-e2cf-3c8f-7021-b7ae81821608"
+        },
+        {
+          "name": "swym-wishlisthkey_timestamp",
+          "value": "0"
+        },
+        {
+          "name": "swym-rconfig_cache",
+          "value": "{\"v\":\"68-0\",\"settings\":{\"SA\":{\"Title\":\"Shopping Assistant\",\"Anchor\":{\"Placement\":\"bottom-right\"},\"Enabled\":false,\"Color\":\"#7E57C2\"},\"Integrations\":{\"Review\":\"none\"},\"General\":{\"EngageUI\":{\"Settings\":{\"IsPaid\":false,\"TrialExpiryDate\":\"2026-08-05\"},\"Enabled\":true},\"Currency\":\"$\",\"RESTAPI\":{\"RequestedEnabled\":true},\"HostedPages\":{\"SharedWishlist\":\"/apps/swymWishlist/shared/index.php\",\"Wishlist\":\"/pages/swym-wishlist\"},\"IgnoreCacheTS\":1792016454945,\"UseMoneyFormat\":true,\"BaseURL\":\"\",\"Enabled\":true,\"LogoutClean\":true,\"RetailerID\":\"\",\"JSAPI\":{\"RequestedEnabled\":true},\"MarketsEnabled\":false},\"Wishlist\":{\"AddedButtonColor\":\"#f858a2\",\"TagBasedActionEnabled\":true,\"AllowToggle\":false,\"FaveCountSelector\":\".swym-fave-count\",\"EnableCollections\":true,\"UseCustomButton\":true,\"ButtonColor\":\"#000\",\"CustomFavoriteButtonClass\":\"link-wishlist\",\"headerConfig\":{\"desktop\":{\"attachButtonSelector\":\"\",\"cloneAttachSelectorElement\":true,\"appendBefore\":true,\"iconConfig\":{\"iconText\":\"Wishlist\",\"headerCounter\":false,\"iconType\":\"icon\"},\"removeClasses\":[\"\"],\"Enabled\":false},\"mobile\":{\"attachButtonSelector\":\"\",\"cloneAttachSelectorElement\":true,\"appendBefore\":true,\"iconConfig\":{\"iconText\":\"Wishlist\",\"headerCounter\":false,\"iconType\":\"text\"},\"removeClasses\":[],\"Enabled\":false}},\"CreateCustomButton\":false,\"EnableFaveCount\":true,\"ButtonType\":\"icon\",\"MailingListCheckInPopup\":false,\"CustomFavoriteButtonSelector\":\"a.custom-wishlist\",\"ShowBadge\":true,\"Enabled\":true,\"ToggleSwitchState\":true,\"CreateCustomButtonBefore\":\"\",\"AllowSharing\":true,\"EnableSwymWishlist\":true,\"NoButtonInject\":true},\"Watchlist\":{\"Topics\":[\"backinstock\"],\"ISASubscriptionMessageColor\":\"#88877H\",\"ButtonType\":\"icontext\",\"ISASubscriptionMessageCTA\":\"Text me\",\"InlineForm\":true,\"ISAToggleMessageCTA\":\"SMS\",\"ISAToggleMessageColor\":\"#88877H\",\"NoButtonInject\":true,\"VariantSelectorInPopup\":false},\"Notification\":{\"EnableSanta\":false,\"Frequency\":300000,\"NTs\":{},\"MaxPerSession\":0,\"EnablePriceCheck\":false,\"EnableStockCheck\":false},\"Strings\":{\"WishlistTooltipBefore\":\"Add to wishlist\",\"WishlistTooltipAfter\":\"Added. <a class='swym-open-ui'>View Wishlist</a>\",\"AddToCartDisableCTA\":\"Coming Soon!\",\"WishlistAddedCTA\":\"Added to Wishlist\",\"WishlistAddCTA\":\"Add to Wishlist\"},\"Email\":{\"EnableEmailFriend\":true},\"StoreLogo\":\"https://swymv3pro-01.azureedge.net/retailerlogos/slogos/db587a73-f410-4b14-a6a5-a233930fef2d\",\"FeatureToggles\":{\"use_mongo_SwymEtCountStore\":true},\"SFL\":{\"TagBasedActionEnabled\":true,\"AddToSFLButton\":false,\"CartProductTileSelector\":\".cart-item\",\"PreviewSettings\":{\"PopUpSettings\":{\"ButtonText\":\"SAVE FOR LATER\",\"ButtonColor\":\"#000000\",\"Title\":\"Do you want to save this product for later?\",\"ShowAskMeAgainAfterCount\":2,\"MultipleProductsTitle\":\"Save all products for later to your Wishlist?\",\"PreviewDuration\":300000,\"SecondaryButtonText\":\"No, thanks!\",\"PopUpEnabled\":true,\"ButtonTextColor\":\"#FFFFFF\",\"AskMeAgainOption\":false,\"AskMeAgainLabel\":\"Don't ask me again\"}},\"EnableSFLViewOnWishlistUI\":true,\"CartPageContainerSelector\":\"#MainContent\",\"PopUpSettings\":{\"ButtonText\":\"SAVE FOR LATER\",\"ButtonColor\":\"#000000\",\"Title\":\"Do you want to save this product for later?\",\"ShowAskMeAgainAfterCount\":2,\"MultipleProductsTitle\":\"Save all products for later to your Wishlist?\",\"PreviewDuration\":300000,\"SecondaryButtonText\":\"No, thanks!\",\"PopUpEnabled\":true,\"ButtonTextColor\":\"#FFFFFF\",\"AskMeAgainOption\":false,\"AskMeAgainLabel\":\"Don't ask me again\"},\"AddToSFLBtnSelector\":\"cart-remove-button\",\"CartPageURL\":\"/cart\",\"SFLFeatureEnabled\":true},\"UI\":{\"HTCAddListAssistantNote\":true,\"CustomCSS\":\"\",\"EnableProductView\":true,\"NotificationOnly\":false,\"HTCAddListShopperNote\":true,\"HTCAssistantFilterOptions\":[{\"key\":\"date-descending\",\"default\":true,\"displayText\":\"Date - Newest First\"},{\"key\":\"date-ascending\",\"displayText\":\"Date - Oldest First\"},{\"key\":\"price-descending\",\"displayText\":\"Price - High to Low\"},{\"key\":\"price-ascending\",\"displayText\":\"Price - Low to High\"},{\"key\":\"hide-out-of-stock\",\"displayText\":\"Hide Out of Stock\"}],\"HeaderLauncher\":{\"Enabled\":true},\"Title\":\"My Wishlist\",\"LauncherLocation\":\"bottom-right\",\"LauncherType\":\"menu\",\"SimpleWishlistOnly\":true,\"HideAddtoCartTag\":\"swym-hide-addtocart \",\"HTCAddToListNoteInput\":true,\"CustomAnchorSelector\":\"\",\"HTCUserFilterOptions\":[{\"key\":\"date-descending\",\"default\":true,\"displayText\":\"Date - Newest First\"},{\"key\":\"date-ascending\",\"displayText\":\"Date - Oldest First\"},{\"key\":\"price-descending\",\"displayText\":\"Price - High to Low\"},{\"key\":\"price-ascending\",\"displayText\":\"Price - Low to High\"},{\"key\":\"hide-out-of-stock\",\"displayText\":\"Hide Out of Stock\"}],\"UseCustomLauncher\":false,\"DisallowedURLPatterns\":[\"checkout\"],\"LauncherOpenHosted\":\"popup\",\"HTCCustomerDetailsCustomDetailsEnabled\":true,\"Enabled\":false,\"AcceptMarketingRevampUI\":true,\"HTCCustomerDashboardEnabled\":true,\"ShareOptionOnTop\":true,\"Icon\":\"\",\"HideProductPriceTag\":\"swym-hide-productprice\",\"Color\":\"#FF4500\",\"HTCAssistantWishlistDragEnable\":true}}}"
+        },
+        {
+          "name": "amplitude_unsent_f24a385d8a24a6edbbbccef706d9644e_apt-placement",
+          "value": "[]"
+        },
+        {
+          "name": "__paypal-httpswwwpaypalcomsdkjscomponentsbuttonscommitfalsecurrencyUSDlocaleenUSclientidAbasDhzlU0HbpiStJiN1KRJcNJJ7xYBip7JJoMO0GQpLi8ePNgdbLXkC7KMeyTg8tnAKW4WKrh9qmfmerchantidQ5YTZYSJ6BULYintentauthorize_storage__",
+          "value": "{\"id\":\"uid_6a489f4c7c_mdu6mjy6mzc\",\"funding\":{},\"__session__\":{\"guid\":\"uid_4b6d0373c8_mdu6mjy6mzc\",\"created\":1794029197858}}"
+        },
+        {
+          "name": "swym-ab-test-config",
+          "value": "{}"
+        },
+        {
+          "name": "swym-devices_timestamp",
+          "value": "1794029193.158"
+        },
+        {
+          "name": "nf_cc",
+          "value": "PK"
+        },
+        {
+          "name": "nf_prm",
+          "value": "{\"i\":[{\"i\":0,\"dt\":0,\"dv\":null,\"b\":0,\"p\":8245656158270,\"v\":43277862731838,\"q\":1,\"c\":false,\"oi\":0,\"ot\":0,\"a\":0,\"g\":\"\"}]}"
+        },
+        {
+          "name": "et_nf_cc",
+          "value": "1794065195"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1794029197117"
+        }
+      ]
+    }
+  ]
+}

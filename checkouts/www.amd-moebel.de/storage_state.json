@@ -1,0 +1,127 @@
+{
+  "cookies": [
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGxnDjrAAEASQhceH1SFOk60RR8blC3OBeC-PkOmhVouAy2Z60uWKLiSOxcZz5DXxHIJM03QUcuu_VPnmTXsNMshjE:",
+      "domain": "amd-moebel.de",
+      "path": "/",
+      "expires": 1825517166.089595,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "DE",
+      "domain": "www.amd-moebel.de",
+      "path": "/",
+      "expires": 1825517173.796705,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "EUR",
+      "domain": "www.amd-moebel.de",
+      "path": "/",
+      "expires": 1795190774.326523,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGxnDp4AAEA7NAWY3UOZGQvxOsatXEvOSi6d1jkYugTaE3Ozhlf0KzvXKSZdnmiaT18tglKwhtFSZ4RXbLX5csIHJ8:",
+      "domain": "www.amd-moebel.de",
+      "path": "/",
+      "expires": 1825517166.542858,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGxnDqsAAEAmTSM3Z_3CPUwAtqFJNlWos8stSivungSKpgFJ2uOfh8VW_T6xx6dSX1UK0BYZf2OJld1JU_ana9mclg:",
+      "domain": "www.amd-moebel.de",
+      "path": "/",
+      "expires": 1825517166.542985,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGxnDqsAAEACIMQWSvl-kQ8kb6-Jcwm6MHMiYbt7No2S_NshrwUm0nXEESetyBrVknbODH8ZEcZdkseSPiQxsgPJH4:",
+      "domain": "www.amd-moebel.de",
+      "path": "/",
+      "expires": 1825517166.543089,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIq6or6xtBU8PTDTVPIhAB%3Fkey%3D585e652e3f4789c02425817cffb1c1ff",
+      "domain": "www.amd-moebel.de",
+      "path": "/",
+      "expires": 1801843571.820267,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_50-E9Nx5TfyTEBRC-IXl5w%23b7ae3bf7-1e38-4c38-8bdf-68051145adcb-1793981173",
+      "domain": ".amd-moebel.de",
+      "path": "/",
+      "expires": 1825538779.393346,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.amd-moebel.de",
+      "localStorage": [
+        {
+          "name": "PF_SHOP_DOMAIN",
+          "value": "undefined"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIq6or6xtBU8PTDTVPIhAB\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIq6or6xtBU8PTDTVPIhAB\",\"customerProfileId\":null,\"countryCode\":\"DE\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "PF_CUSTOMER_EVENTS_TRACKER",
+          "value": "[{\"eventType\":\"cart_viewed\",\"data\":{\"cart_items\":[{\"product_id\":15704951750921,\"variant_id\":57454179680521,\"quantity\":1,\"price\":579}],\"cart_total\":579,\"items_count\":1},\"createdAt\":\"2026-11-06T16:06:14.004Z\"},{\"eventType\":\"cta_click\",\"data\":{\"text\":\"\",\"href\":null,\"section_content\":{\"text_content\":\"\",\"headings\":[],\"prices\":[]}},\"createdAt\":\"2026-11-06T16:06:11.224Z\"}]"
+        },
+        {
+          "name": "pf_client_id",
+          "value": "44c785cd-e1b0-48b7-a899-46538c808c22"
+        },
+        {
+          "name": "theme:recently-viewed-products",
+          "value": "[15704951750921]"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1793981173838"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "loglevel",
+          "value": "ERROR"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIq6or6xtBU8PTDTVPIhAB\""
+        }
+      ]
+    }
+  ]
+}

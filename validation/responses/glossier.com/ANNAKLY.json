@@ -1,0 +1,1227 @@
+{
+  "errors": [
+    {
+      "message": "Variable `$merchandise` of type `MerchandiseTermInput` was provided invalid value for `merchandiseLines.0.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.2.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.lineComponents.0.merchandise.id` (Field `id` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.digest` (Field `digest` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.variantId` (Field `variantId` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.title` (Field `title` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.untranslatedTitle` (Field `untranslatedTitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.subtitle` (Field `subtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.untranslatedSubtitle` (Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.compareAtPrice` (Field `compareAtPrice` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.product` (Field `product` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.productUrl` (Field `productUrl` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.image` (Field `image` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.properties` (Field `properties` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.requiresShipping` (Field `requiresShipping` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.options` (Field `options` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.sellingPlan` (Field `sellingPlan` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.giftCard` (Field `giftCard` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.expectedTotalPrice` (Expected `MoneyConstraintInput!` value to not be `null`), `merchandiseLines.0.lineComponents.0.totalAmount` (Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.0.recurringTotal` (Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.0.lineAllocations` (Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.1.merchandise.id` (Field `id` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.digest` (Field `digest` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.variantId` (Field `variantId` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.title` (Field `title` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.untranslatedTitle` (Field `untranslatedTitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.subtitle` (Field `subtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.untranslatedSubtitle` (Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.compareAtPrice` (Field `compareAtPrice` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.product` (Field `product` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.productUrl` (Field `productUrl` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.image` (Field `image` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.properties` (Field `properties` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.requiresShipping` (Field `requiresShipping` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.options` (Field `options` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.sellingPlan` (Field `sellingPlan` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.giftCard` (Field `giftCard` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.expectedTotalPrice` (Expected `MoneyConstraintInput!` value to not be `null`), `merchandiseLines.0.lineComponents.1.totalAmount` (Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.1.recurringTotal` (Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.1.lineAllocations` (Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.2.merchandise.id` (Field `id` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.digest` (Field `digest` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.variantId` (Field `variantId` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.title` (Field `title` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.untranslatedTitle` (Field `untranslatedTitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.subtitle` (Field `subtitle` is not defined by type `MerchandiseInput`), Too many execution errors, max error limit reached. Results truncated",
+      "locations": [
+        {
+          "line": 1,
+          "column": 161
+        }
+      ],
+      "extensions": {
+        "code": "INVALID_VARIABLE",
+        "value": {
+          "merchandiseLines": [
+            {
+              "stableId": "d56af385-cd96-c19e-f3a0-dcb952555184",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/46731770429685",
+                  "variantId": "gid://shopify/ProductVariant/46731770429685",
+                  "properties": [
+                    {
+                      "name": "_setHashIdentifier",
+                      "value": {
+                        "string": "OTE1MTA1MDQ0OTE0MS02NzY2MjQ3Mjk3MDQ4NS02NzY2Mjg1NzE0MjUxNy00NjczMTU2NTg5MTgyOS00MzAwMjg1ODc2NjU4MQ=="
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_setPrice",
+                      "value": {
+                        "string": "1370000"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_setCurrency",
+                      "value": {
+                        "string": "PKR"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "17300.00",
+                  "currencyCode": "PKR"
+                }
+              },
+              "lineComponentsSource": "BUNDLES_DYNAMIC_MERGE",
+              "lineComponents": [
+                {
+                  "stableId": "65c6c9cd-23fc-467d-9ad9-c7b689d69a8e",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/43002858766581",
+                    "digest": "2729ec086abf89d8c44d3ab89778efe4",
+                    "variantId": "gid://shopify/ProductVariant/43002858766581",
+                    "title": "G Cookie Cutter",
+                    "untranslatedTitle": "G Cookie Cutter",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/7774946820341",
+                      "vendor": "Glossier",
+                      "productType": "Merch",
+                      "disclosures": []
+                    },
+                    "productUrl": "/en-pk/products/g-cookie-cutter",
+                    "image": {
+                      "altText": "default | cookie cutter",
+                      "url": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-cookie-cutter-carousel-01.png?v=1762199574",
+                      "one": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-cookie-cutter-carousel-01_64x64.png?v=1762199574",
+                      "two": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-cookie-cutter-carousel-01_128x128.png?v=1762199574",
+                      "four": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-cookie-cutter-carousel-01_256x256.png?v=1762199574"
+                    },
+                    "properties": [
+                      {
+                        "name": "_setCurrency",
+                        "value": {
+                          "string": "PKR"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setPrice",
+                        "value": {
+                          "string": "1370000"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setComparePrice",
+                        "value": {
+                          "string": "1730000"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setHandle",
+                        "value": {
+                          "string": "balm-dotcom-trio"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setHashIdentifier",
+                        "value": {
+                          "string": "OTE1MTA1MDQ0OTE0MS02NzY2MjQ3Mjk3MDQ4NS02NzY2Mjg1NzE0MjUxNy00NjczMTU2NTg5MTgyOS00MzAwMjg1ODc2NjU4MQ=="
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setName",
+                        "value": {
+                          "string": "Balm Dotcom Trio"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setImageUrl",
+                        "value": {
+                          "string": "//www.glossier.com/cdn/shop/files/glossier-holiday-1010-26-bdc-holiday-trio-pdp-carousel-1.png?v=1791641636"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setImageAlt",
+                        "value": {
+                          "string": "default  |"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setProductId",
+                        "value": {
+                          "string": "9151050449141"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setProductVariantId",
+                        "value": {
+                          "string": "46731770429685"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setItemIndex",
+                        "value": {
+                          "int": "3"
+                        },
+                        "visible": false
+                      }
+                    ],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "1700.0",
+                      "currencyCode": "PKR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "dbd4ccce1bc54eaca7810fbe505cf24c",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "1700.0",
+                        "currencyCode": "PKR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "1700.0",
+                        "currencyCode": "PKR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "1700.0",
+                        "currencyCode": "PKR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "1700.0",
+                        "currencyCode": "PKR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "1700.0",
+                        "currencyCode": "PKR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "1493fcb5-f3d3-40ff-ba93-db0545ae6002",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/46731565891829",
+                    "digest": "093cd3eec7478314a66d4be3a6ae887f",
+                    "variantId": "gid://shopify/ProductVariant/46731565891829",
+                    "title": "Balm Dotcom",
+                    "untranslatedTitle": "Balm Dotcom",
+                    "subtitle": "Birthday",
+                    "untranslatedSubtitle": "Birthday",
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/9150866882805",
+                      "vendor": "Glossier",
+                      "productType": "Balms",
+                      "disclosures": []
+                    },
+                    "productUrl": "/en-pk/products/balm-dotcom",
+                    "image": {
+                      "altText": "birthday | balm dotcom",
+                      "url": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-bdc-birthday-carousel-1.png?v=1744899495",
+                      "one": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-bdc-birthday-carousel-1_64x64.png?v=1744899495",
+                      "two": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-bdc-birthday-carousel-1_128x128.png?v=1744899495",
+                      "four": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-bdc-birthday-carousel-1_256x256.png?v=1744899495"
+                    },
+                    "properties": [
+                      {
+                        "name": "_setCurrency",
+                        "value": {
+                          "string": "PKR"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setPrice",
+                        "value": {
+                          "string": "1370000"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setComparePrice",
+                        "value": {
+                          "string": "1730000"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setHandle",
+                        "value": {
+                          "string": "balm-dotcom-trio"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setHashIdentifier",
+                        "value": {
+                          "string": "OTE1MTA1MDQ0OTE0MS02NzY2MjQ3Mjk3MDQ4NS02NzY2Mjg1NzE0MjUxNy00NjczMTU2NTg5MTgyOS00MzAwMjg1ODc2NjU4MQ=="
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setName",
+                        "value": {
+                          "string": "Balm Dotcom Trio"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setImageUrl",
+                        "value": {
+                          "string": "//www.glossier.com/cdn/shop/files/glossier-holiday-1010-26-bdc-holiday-trio-pdp-carousel-1.png?v=1791641636"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setImageAlt",
+                        "value": {
+                          "string": "default  |"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setProductId",
+                        "value": {
+                          "string": "9151050449141"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setProductVariantId",
+                        "value": {
+                          "string": "46731770429685"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setItemIndex",
+                        "value": {
+                          "int": "2"
+                        },
+                        "visible": false
+                      }
+                    ],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Flavor",
+                        "value": "Birthday"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "5200.0",
+                      "currencyCode": "PKR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "354bcec63e3c30ed9a519efa4b77e55b",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "4209a4d8-a8f0-49d0-b176-512ed7516be5",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/67662857142517",
+                    "digest": "9aa7df1653325ca8ec8206a207a330c9",
+                    "variantId": "gid://shopify/ProductVariant/67662857142517",
+                    "title": "Balm Dotcom",
+                    "untranslatedTitle": "Balm Dotcom",
+                    "subtitle": "Toasty Nuts",
+                    "untranslatedSubtitle": "Toasty Nuts",
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/9150866882805",
+                      "vendor": "Glossier",
+                      "productType": "Balms",
+                      "disclosures": []
+                    },
+                    "productUrl": "/en-pk/products/balm-dotcom",
+                    "image": {
+                      "altText": "toasty nuts |",
+                      "url": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-holiday-26-bdc-toasty-nuts-pdp-carousel-1.png?v=1791570057",
+                      "one": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-holiday-26-bdc-toasty-nuts-pdp-carousel-1_64x64.png?v=1791570057",
+                      "two": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-holiday-26-bdc-toasty-nuts-pdp-carousel-1_128x128.png?v=1791570057",
+                      "four": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-holiday-26-bdc-toasty-nuts-pdp-carousel-1_256x256.png?v=1791570057"
+                    },
+                    "properties": [
+                      {
+                        "name": "_setCurrency",
+                        "value": {
+                          "string": "PKR"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setPrice",
+                        "value": {
+                          "string": "1370000"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setComparePrice",
+                        "value": {
+                          "string": "1730000"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setHandle",
+                        "value": {
+                          "string": "balm-dotcom-trio"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setHashIdentifier",
+                        "value": {
+                          "string": "OTE1MTA1MDQ0OTE0MS02NzY2MjQ3Mjk3MDQ4NS02NzY2Mjg1NzE0MjUxNy00NjczMTU2NTg5MTgyOS00MzAwMjg1ODc2NjU4MQ=="
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setName",
+                        "value": {
+                          "string": "Balm Dotcom Trio"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setImageUrl",
+                        "value": {
+                          "string": "//www.glossier.com/cdn/shop/files/glossier-holiday-1010-26-bdc-holiday-trio-pdp-carousel-1.png?v=1791641636"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setImageAlt",
+                        "value": {
+                          "string": "default  |"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setProductId",
+                        "value": {
+                          "string": "9151050449141"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setProductVariantId",
+                        "value": {
+                          "string": "46731770429685"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setItemIndex",
+                        "value": {
+                          "int": "1"
+                        },
+                        "visible": false
+                      }
+                    ],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Flavor",
+                        "value": "Toasty Nuts"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "5200.0",
+                      "currencyCode": "PKR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "e8a728610cdb733e089d304c14f761d4",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "234968ce-fd19-48ee-affa-3a7c83548f7d",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/67662472970485",
+                    "digest": "c9215cb62cf9f0bec19f429ec3d487cd",
+                    "variantId": "gid://shopify/ProductVariant/67662472970485",
+                    "title": "Balm Dotcom",
+                    "untranslatedTitle": "Balm Dotcom",
+                    "subtitle": "Just Baked",
+                    "untranslatedSubtitle": "Just Baked",
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/9150866882805",
+                      "vendor": "Glossier",
+                      "productType": "Balms",
+                      "disclosures": []
+                    },
+                    "productUrl": "/en-pk/products/balm-dotcom",
+                    "image": {
+                      "altText": "just baked |",
+                      "url": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-holiday-26-bdc-just-baked-pdp-carousel-1.png?v=1791570041",
+                      "one": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-holiday-26-bdc-just-baked-pdp-carousel-1_64x64.png?v=1791570041",
+                      "two": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-holiday-26-bdc-just-baked-pdp-carousel-1_128x128.png?v=1791570041",
+                      "four": "https://cdn.shopify.com/s/files/1/0627/9164/7477/files/glossier-holiday-26-bdc-just-baked-pdp-carousel-1_256x256.png?v=1791570041"
+                    },
+                    "properties": [
+                      {
+                        "name": "_setCurrency",
+                        "value": {
+                          "string": "PKR"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setPrice",
+                        "value": {
+                          "string": "1370000"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setComparePrice",
+                        "value": {
+                          "string": "1730000"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setHandle",
+                        "value": {
+                          "string": "balm-dotcom-trio"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setHashIdentifier",
+                        "value": {
+                          "string": "OTE1MTA1MDQ0OTE0MS02NzY2MjQ3Mjk3MDQ4NS02NzY2Mjg1NzE0MjUxNy00NjczMTU2NTg5MTgyOS00MzAwMjg1ODc2NjU4MQ=="
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setName",
+                        "value": {
+                          "string": "Balm Dotcom Trio"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setImageUrl",
+                        "value": {
+                          "string": "//www.glossier.com/cdn/shop/files/glossier-holiday-1010-26-bdc-holiday-trio-pdp-carousel-1.png?v=1791641636"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setImageAlt",
+                        "value": {
+                          "string": "default  |"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setProductId",
+                        "value": {
+                          "string": "9151050449141"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setProductVariantId",
+                        "value": {
+                          "string": "46731770429685"
+                        },
+                        "visible": false
+                      },
+                      {
+                        "name": "_setItemIndex",
+                        "value": {
+                          "int": "0"
+                        },
+                        "visible": false
+                      }
+                    ],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Flavor",
+                        "value": "Just Baked"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "5200.0",
+                      "currencyCode": "PKR"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "7e16cd999f9543163b53ec533b48274e",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "5200.0",
+                        "currencyCode": "PKR"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "problems": [
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "id"
+            ],
+            "explanation": "Field `id` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "digest"
+            ],
+            "explanation": "Field `digest` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "variantId"
+            ],
+            "explanation": "Field `variantId` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "title"
+            ],
+            "explanation": "Field `title` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "untranslatedTitle"
+            ],
+            "explanation": "Field `untranslatedTitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "subtitle"
+            ],
+            "explanation": "Field `subtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "untranslatedSubtitle"
+            ],
+            "explanation": "Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "compareAtPrice"
+            ],
+            "explanation": "Field `compareAtPrice` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "product"
+            ],
+            "explanation": "Field `product` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "productUrl"
+            ],
+            "explanation": "Field `productUrl` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "image"
+            ],
+            "explanation": "Field `image` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "properties"
+            ],
+            "explanation": "Field `properties` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "requiresShipping"
+            ],
+            "explanation": "Field `requiresShipping` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "options"
+            ],
+            "explanation": "Field `options` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "sellingPlan"
+            ],
+            "explanation": "Field `sellingPlan` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "giftCard"
+            ],
+            "explanation": "Field `giftCard` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "expectedTotalPrice"
+            ],
+            "explanation": "Expected `MoneyConstraintInput!` value to not be `null`"
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "totalAmount"
+            ],
+            "explanation": "Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "recurringTotal"
+            ],
+            "explanation": "Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "lineAllocations"
+            ],
+            "explanation": "Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "id"
+            ],
+            "explanation": "Field `id` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "digest"
+            ],
+            "explanation": "Field `digest` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "variantId"
+            ],
+            "explanation": "Field `variantId` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "title"
+            ],
+            "explanation": "Field `title` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "untranslatedTitle"
+            ],
+            "explanation": "Field `untranslatedTitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "subtitle"
+            ],
+            "explanation": "Field `subtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "untranslatedSubtitle"
+            ],
+            "explanation": "Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "compareAtPrice"
+            ],
+            "explanation": "Field `compareAtPrice` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "product"
+            ],
+            "explanation": "Field `product` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "productUrl"
+            ],
+            "explanation": "Field `productUrl` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "image"
+            ],
+            "explanation": "Field `image` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "properties"
+            ],
+            "explanation": "Field `properties` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "requiresShipping"
+            ],
+            "explanation": "Field `requiresShipping` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "options"
+            ],
+            "explanation": "Field `options` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "sellingPlan"
+            ],
+            "explanation": "Field `sellingPlan` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "giftCard"
+            ],
+            "explanation": "Field `giftCard` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "expectedTotalPrice"
+            ],
+            "explanation": "Expected `MoneyConstraintInput!` value to not be `null`"
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "totalAmount"
+            ],
+            "explanation": "Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "recurringTotal"
+            ],
+            "explanation": "Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "lineAllocations"
+            ],
+            "explanation": "Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "id"
+            ],
+            "explanation": "Field `id` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "digest"
+            ],
+            "explanation": "Field `digest` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "variantId"
+            ],
+            "explanation": "Field `variantId` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "title"
+            ],
+            "explanation": "Field `title` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "untranslatedTitle"
+            ],
+            "explanation": "Field `untranslatedTitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "subtitle"
+            ],
+            "explanation": "Field `subtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [],
+            "explanation": "Too many execution errors, max error limit reached. Results truncated"
+          }
+        ]
+      }
+    }
+  ]
+}

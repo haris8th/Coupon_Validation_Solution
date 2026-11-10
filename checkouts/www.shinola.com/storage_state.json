@@ -1,0 +1,471 @@
+{
+  "cookies": [
+    {
+      "name": "GlobalE_Analytics",
+      "value": "{\"merchantId\":\"60000306\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://web.global-e.com/\",\"clientId\":\"6fcc10f7-c817-4eba-a448-7a581256324f\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794192786115}",
+      "domain": "www.shinola.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "juOrcY0TXR2U1eoU9or6wW5IngRwcb41VQrxG_zdB3I-1794192779.6052866-1.0.1.1-Di6TlScP4he5YqcBYOt.8x69B5nNwgjS1mCmkiqfj09qsSWe.Dkg8BaSSLFoTddqdE_bmK6cNBqof60ERNKB8yOZtmqBFrDAcIb2JA8.zGVj9v2RXak8d68jMUeJ7wQg",
+      "domain": ".www.shinola.com",
+      "path": "/",
+      "expires": 1794194577.691662,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "PK",
+      "domain": "www.shinola.com",
+      "path": "/",
+      "expires": 1825728783.25635,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "PKR",
+      "domain": "www.shinola.com",
+      "path": "/",
+      "expires": 1795402405.569615,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG-OSoLAAEAbv0sSQJzB0n1gF_6bs-zVMchDnAR3KmcfsH-WsAQAUIXx8u69anuRe-rnAsTy1MhtuVztyT8uR-qKhE:",
+      "domain": "www.shinola.com",
+      "path": "/",
+      "expires": 1825728778.048614,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaG-OSpdAAEA62fpY428QwboROAR8nmk-TrNkUZQfdmytrh8w97q9rq5fQqAe68sIcTkur03-Aw8Saa_Jg5cIaRvBOw:",
+      "domain": "www.shinola.com",
+      "path": "/",
+      "expires": 1825728778.048669,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaG-OSpdAAEAFF6Qi1BgJqgHRtByRt5ub37q0n4BzxQBgA7NTVHSu-OhUl9jGXam2tx-GXfA5W_MZPCzVfwxj9a7GW8:",
+      "domain": "www.shinola.com",
+      "path": "/",
+      "expires": 1825728778.048714,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__eventn_id",
+      "value": "osp5x8ykmv.1794192780",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": 1828752780.403223,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mkt_session_id",
+      "value": "0b85b069-2c68-43b3-b03c-fe28b9ae5328",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": 1794194582,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mkt_session_timestamp",
+      "value": "1794192782072",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": 1794194582,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mkt_referrer",
+      "value": "direct",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": 1794194582,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mkt_fbp",
+      "value": "fb.1.1794192782075.15260297112669085696",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": 1828752782,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mkt_anonymous_id",
+      "value": "a82da900-1934-42af-9d05-b663bbab5917",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": 1828752782,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://www.shinola.com",
+      "domain": "www.shinola.com",
+      "path": "/",
+      "expires": 1796784785,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "a82da900-1934-42af-9d05-b663bbab5917",
+      "domain": "www.shinola.com",
+      "path": "/",
+      "expires": 1825728782,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_zitok",
+      "value": "134bf6209379a70124321794192784",
+      "domain": ".www.shinola.com",
+      "path": "/",
+      "expires": 1825728786,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "none",
+      "domain": "www.shinola.com",
+      "path": "/",
+      "expires": 1796784786,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "athosViewedProducts",
+      "value": "S0630100129-1-WhiteOak-OS-CHN",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": 1828752786.368927,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bts",
+      "value": "2247569a-b63c-4b40-f386-ead9cad3b9f6",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": 1794196386,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Consent",
+      "value": "%7B%22required%22%3Afalse%2C%22groups%22%3A%7B%221%22%3A1%2C%222%22%3A1%2C%223%22%3A1%7D%7D",
+      "domain": ".www.shinola.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_AY8xL-r1S3y4TM-3IZ0QsA%23284fa1cc-6236-4c1a-80f2-d208f2b9ee3a-1794192784",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": 1825750411.109467,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIvsChKItzTvTEimYRwc3H%3Fkey%3D81dd008fb6df9b4683e6cd3fc82fff04",
+      "domain": "www.shinola.com",
+      "path": "/",
+      "expires": 1802055193.233781,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bti",
+      "value": "%7B%22app_id%22%3A%22shinola%22%2C%22bsin%22%3A%22KAXlIOEpE5pcbtLdS6oimnwoz9VJv7bIL%2BkxmQYm2rrIFK7wCs7j9IHsHzY1ZHLXI8AJ7ePbpeGDx3kW1JvTtw%3D%3D%22%2C%22external_ids%22%3A%7B%22zync%22%3A%22ee1f6f19-90e0-4b92-9e32-83d72d51abf6%3A1794192785.0706062%22%7D%2C%22is_identified%22%3Afalse%2C%22known_to_zeta%22%3Afalse%7D",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": 1825728787,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GLBE_SESS_ID",
+      "value": "%7B%22sid%22%3A%22576896489.774015341.60000306%22%2C%22expiry%22%3A%222026-11-09T03%3A23%3A07.363Z%22%7D",
+      "domain": ".www.shinola.com",
+      "path": "/",
+      "expires": 1828752787.363568,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "athosCartProducts",
+      "value": "S0630100129-1-WhiteOak-OS-CHN",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "athosUserId",
+      "value": "b7ef5511-a8bd-4724-9adb-ffae04ecae91",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": 1828752787.943702,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "athosSessionId",
+      "value": "a737c78d-033f-4102-84de-55d7c430c839",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": 1794194588,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "forterToken",
+      "value": "0a6d112f82cf4d00bd4ba35e0d89eeec_1794192787375__UDF43-m4_32ck_",
+      "domain": ".shinola.com",
+      "path": "/",
+      "expires": 1828752791,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "Fo21Cfs_5Zv9BiU._29P2d9JqfBHSrvSiGlHa19v3no-1794192795.4234467-1.0.1.1-oLhGRjS7TsbjL1bMJ6eisoCpjYL.sB0Zd.7cQFl1i4z7KlD8WBx71MmOj24APRyAa1oJCKj6ARxsYkbWLgsYIMvm26DjdZK.URPoUyAi3Af2BpOJCdgj4AEhjTGzqBDi",
+      "domain": ".www.shinola.com",
+      "path": "/",
+      "expires": 1794194594.233973,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://shinola.com",
+      "_crHasCrossSiteAncestor": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.shinola.com",
+      "localStorage": [
+        {
+          "name": "vsly_audiences",
+          "value": "[\"n\",\"d\"]"
+        },
+        {
+          "name": "countryCode",
+          "value": "PK"
+        },
+        {
+          "name": "__$intcm",
+          "value": "{\"emptyBuffersSent\":2,\"totalBuffersSent\":3,\"firstRecordedAt\":1794192797302}"
+        },
+        {
+          "name": "loomi_session_products",
+          "value": "[{\"productId\":9308412182666,\"variantId\":50231118332042,\"ts\":\"2026-11-09T02:53:05.000Z\",\"handle\":\"shinola-chess-set\"}]"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "a82da900-1934-42af-9d05-b663bbab5917"
+        },
+        {
+          "name": "f3b83c8e592aef14c2204ee437d40785",
+          "value": "prrr98q0r53no4qo00q4sp28s211q6n0"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1794192782588"
+        },
+        {
+          "name": "a7f3c9e2b18d4056",
+          "value": "{\"v\":1,\"t\":\"prrr98q0r53no4qo00q4sp28s211q6n0\",\"d\":false,\"f\":3}"
+        },
+        {
+          "name": "mkt_e_d1fc5f09-0599-46ba-9e67-3faf7a3ff599",
+          "value": "{\"id\":\"d1fc5f09-0599-46ba-9e67-3faf7a3ff599\",\"completed\":true}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cart",
+          "value": "[{\"id\":\"S0630100129-1-WhiteOak-OS-CHN\",\"name\":\"Shinola Chess Set\",\"brand\":\"Shinola\",\"category\":\"\",\"position\":0,\"price\":\"388000.00\",\"quantity\":\"1\",\"productId\":\"9308412182666\",\"variantId\":\"50231118332042\",\"url\":\"/products/shinola-chess-set?variant=50231118332042\",\"list\":\"\",\"variant\":\"White Oak\",\"image\":\"https://cdn.shopify.com/s/files/1/0656/1231/6810/files/104c16d1725baac577226a923485fb0ebd82f6c84967a712a8bead712424da35.png?v=1791987581\"}]"
+        },
+        {
+          "name": "loomi-cart",
+          "value": "{\"token\":\"hWNIvsChKItzTvTEimYRwc3H?key=81dd008fb6df9b4683e6cd3fc82fff04\",\"note\":\"\",\"attributes\":{\"GE_isApplePay\":\"false\",\"GE_consentPrefs\":\"{\\\"marketing\\\":\\\"\\\",\\\"analytics\\\":\\\"\\\",\\\"preferences\\\":\\\"\\\",\\\"sale_of_data\\\":\\\"\\\"}\",\"GE_utmParams\":\"utm_source=direct&utm_medium=(none)&utm_campaign=(not-set)\",\"GE_clientId\":\"6fcc10f7-c817-4eba-a448-7a581256324f\",\"ftkn\":\"0a6d112f82cf4d00bd4ba35e0d89eeec_1794192787375__UDF43_32ck\",\"GLBE_SESS_ID\":\"576896489.774015341.60000306\",\"GE_frtToken\":\"0a6d112f82cf4d00bd4ba35e0d89eeec_1794192787375__UDF43_32ck__tt\",\"cartToken\":\"hWNIvsChKItzTvTEimYRwc3H?key=81dd008fb6df9b4683e6cd3fc82fff04\",\"vslyCT\":\"vslyCT_hWNIvsChKItzTvTEimYRwc3H?key=81dd008fb6df9b4683e6cd3fc82fff04\",\"vslySUBS\":\"0\",\"vslyUID\":\"osp5x8ykmv\",\"vslySID\":\"7832796477135108\"},\"original_total_price\":38800000,\"total_price\":38800000,\"total_discount\":0,\"total_weight\":0,\"item_count\":1,\"items\":[{\"id\":50231118332042,\"properties\":{},\"quantity\":1,\"variant_id\":50231118332042,\"key\":\"50231118332042:494a2e090080e3ee9cee879eb4b1b0ea\",\"title\":\"Shinola Chess Set - White Oak\",\"price\":38800000,\"original_price\":38800000,\"presentment_price\":388000,\"discounted_price\":38800000,\"line_price\":38800000,\"original_line_price\":38800000,\"total_discount\":0,\"discounts\":[],\"sku\":\"S0630100129-1-WhiteOak-OS-CHN\",\"grams\":0,\"vendor\":\"Shinola\",\"taxable\":true,\"product_id\":9308412182666,\"product_has_only_default_variant\":false,\"gift_card\":false,\"final_price\":38800000,\"final_line_price\":38800000,\"url\":\"/products/shinola-chess-set?variant=50231118332042\",\"featured_image\":{\"aspect_ratio\":1,\"alt\":\"Shinola Chess Set\",\"height\":2050,\"url\":\"https://cdn.shopify.com/s/files/1/0656/1231/6810/files/104c16d1725baac577226a923485fb0ebd82f6c84967a712a8bead712424da35.png?v=1791987581\",\"width\":2050},\"image\":\"https://cdn.shopify.com/s/files/1/0656/1231/6810/files/104c16d1725baac577226a923485fb0ebd82f6c84967a712a8bead712424da35.png?v=1791987581\",\"handle\":\"shinola-chess-set\",\"requires_shipping\":true,\"product_type\":\"\",\"product_title\":\"Shinola Chess Set\",\"product_description\":\"Check and mate. Thirty-two custom chess pieces, cut from white oak and black lacquered white oak and weighted with a steel core, rest inside a leather-lined cabinet built into the board itself. The aluminum playing top will hold its own on display just as well as during play.\",\"variant_title\":\"White Oak\",\"variant_options\":[\"White Oak\"],\"options_with_values\":[{\"name\":\"Color\",\"value\":\"White Oak\"}],\"line_level_discount_allocations\":[],\"line_level_total_discount\":0,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"has_components\":false}],\"requires_shipping\":true,\"currency\":\"PKR\",\"items_subtotal_price\":38800000,\"cart_level_discount_applications\":[],\"discount_codes\":[]}"
+        },
+        {
+          "name": "vsly-last-atc-sid",
+          "value": "7832796477135108"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIvsChKItzTvTEimYRwc3H\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIvsChKItzTvTEimYRwc3H\",\"customerProfileId\":null,\"countryCode\":\"PK\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "forterToken",
+          "value": "0a6d112f82cf4d00bd4ba35e0d89eeec,1794192791031"
+        },
+        {
+          "name": "sid",
+          "value": "ae5508a0dbe811f1ad86634210640c13"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-09T02:53:07.448Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-be395a24-AC18-4833-20F5-C849F8040879\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"18bc9f-c1.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-be395a24-AC18-4833-20F5-C849F8040879\",\"event_date_time\":\"2026-11-09T02:53:07.448Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"a82da900-1934-42af-9d05-b663bbab5917\",\"page_url\":\"https://www.shinola.com/products/shinola-chess-set\",\"currency\":\"PKR\",\"product\":{\"product_id\":\"9308412182666\",\"product_title\":\"Shinola Chess Set\",\"variant_id\":\"50231118332042\",\"variant_title\":\"White Oak\",\"quantity\":1,\"variant_price\":388000,\"product_vendor\":\"Shinola\"}}}}}]"
+        },
+        {
+          "name": "ftr__gf",
+          "value": "{\"et\":1794192790235,\"us\":\"\\u000bMn.iWoK\\nKH\\u000bs]\\u0005MPGF,4i\\u00001M\\u000f\\u0004\\u0001]>0\\u0005\"}"
+        },
+        {
+          "name": "sidExpiry",
+          "value": "2026-11-10T02:53:05.931Z"
+        },
+        {
+          "name": "lmi_utm_data",
+          "value": "[]"
+        },
+        {
+          "name": "athosCartProducts",
+          "value": "{\"value\":[{\"parentId\":\"9308412182666\",\"uid\":\"50231118332042\",\"sku\":\"S0630100129-1-WhiteOak-OS-CHN\",\"qty\":1,\"price\":388000}]}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIvsChKItzTvTEimYRwc3H\""
+        },
+        {
+          "name": "pst",
+          "value": "1794192791754"
+        },
+        {
+          "name": "athosUserId",
+          "value": "{\"value\":{\"value\":\"b7ef5511-a8bd-4724-9adb-ffae04ecae91\",\"timestamp\":\"2026-11-09T02:53:07.919Z\"}}"
+        },
+        {
+          "name": "GlobalE_Analytics",
+          "value": "{\"merchantId\":\"60000306\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://web.global-e.com/\",\"clientId\":\"6fcc10f7-c817-4eba-a448-7a581256324f\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794192786115}"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://www.shinola.com/\",\"exp\":1796784782787}"
+        },
+        {
+          "name": "vsly_session",
+          "value": "{\"id\":\"7832796477135108\",\"utm_campaign\":\"\",\"last_interaction\":\"2026-11-09T02:53:16.577Z\",\"landing_page\":\"https://www.shinola.com/\",\"start_at\":\"2026-11-09T02:53:00.400Z\"}"
+        },
+        {
+          "name": "vsly_visited_pages",
+          "value": "[{\"ts\":\"2026-11-09T02:53:03.000Z\",\"name\":\"https://www.shinola.com/products/shinola-chess-set\"},{\"ts\":\"2026-11-09T02:53:00.000Z\",\"name\":\"https://www.shinola.com/\"}]"
+        },
+        {
+          "name": "athosSessionId",
+          "value": "{\"value\":{\"value\":\"a737c78d-033f-4102-84de-55d7c430c839\",\"timestamp\":\"2026-11-09T02:53:07.946Z\"}}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "vidExpiry",
+          "value": "2027-12-04T02:53:05.890Z"
+        },
+        {
+          "name": "vid",
+          "value": "ae455130dbe811f1ad86634210640c13"
+        },
+        {
+          "name": "loomi-cart-history",
+          "value": "[{\"price\":38800000,\"variant_id\":\"50231118332042\",\"product_id\":\"9308412182666\",\"sid\":\"7832796477135108\",\"quantity\":1,\"timestamp\":\"2026-11-09T02:53:07.000Z\"}]"
+        },
+        {
+          "name": "athosPageLoadId",
+          "value": "{\"value\":{\"href\":\"https://www.shinola.com/products/shinola-chess-set\",\"value\":\"7b69f4bf-cb40-4dd7-8142-57f31a873728\",\"timestamp\":\"2026-11-09T02:53:05.850Z\"}}"
+        },
+        {
+          "name": "loomi-flags",
+          "value": "{\"backend-track-redirect\":true,\"sdk-hydration-support\":true,\"sdk-reinit-on-cache-v2\":true,\"allocate-checkout-extensibility\":true,\"block-do-not-track\":false,\"sdk-force-apply-after-revert\":true,\"sidv2\":true,\"currency-aware-client-targeting\":true,\"sdk-enable-cart-enrichment\":false,\"opt-img\":true,\"theme-testing\":true,\"coalesce-alloc\":true,\"force-mobile-by-width\":true,\"micro-batching\":true,\"utm-decode\":true,\"op-focus-trap-removal\":true,\"force-refresh-cart\":true,\"pixel-atc\":true,\"persist-purchases\":true,\"sdk-auto-clean\":true,\"checkout-live-prices\":true,\"alloc-client-side-formula\":true,\"svc-stats\":true,\"keep-redirect-sid\":true,\"sec-dim-image\":true,\"beacon\":true,\"reload-on-device-changed\":true,\"live-prices\":true,\"fb-locale-currency\":true,\"subscriptions_v1\":true,\"resolve-used-fonts-new-logic\":true,\"atc-alignment\":true,\"checkout-reporting-ignore-mp\":true,\"fb-recs-cache\":true,\"op-locale-currency-no-round\":true,\"bunny-cdn\":true,\"cache-nav-clear\":true,\"coalesce-recs\":true,\"sdk-reconcile\":true,\"experience-applied-callback\":true}"
+        },
+        {
+          "name": "gladlyChat_bedrockmfg.com-shinola.com_client_id",
+          "value": "1921a5d33ee8460495b136cfde1b4b55"
+        },
+        {
+          "name": "regionCode",
+          "value": "PB"
+        },
+        {
+          "name": "_replo_sid",
+          "value": "{\"sessionId\":\"c3ff0003-46cb-4f0e-9e83-3663b311172c\",\"reploId\":\"1ddc5cc4-ad59-41e2-8b97-90e2f970e461\",\"createdAt\":1794192782736,\"expiresAt\":1794194590400,\"conversionsCounter\":0,\"isEntryPage\":false}"
+        },
+        {
+          "name": "__$intc",
+          "value": "{\"startTime\":1794192807330,\"lastPersistTime\":1794192807330,\"counts\":{},\"nonTrustedLog\":[]}"
+        },
+        {
+          "name": "__eventn_id",
+          "value": "osp5x8ykmv.1794192780"
+        },
+        {
+          "name": "recentlyViewedProducts",
+          "value": "[{\"id\":9308412182666,\"handle\":\"shinola-chess-set\"}]"
+        },
+        {
+          "name": "psc",
+          "value": "4"
+        },
+        {
+          "name": "athosViewedProducts",
+          "value": "{\"value\":[{\"sku\":\"S0630100129-1-WhiteOak-OS-CHN\",\"parentId\":\"9308412182666\",\"uid\":\"50231118332042\"}]}"
+        }
+      ]
+    }
+  ]
+}

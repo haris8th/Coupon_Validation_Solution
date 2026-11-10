@@ -1,0 +1,47 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBuGetMSSeJjX20iRs2jPypiHwuox2LJ2BtbEwrXFOsjlFvdqmlJ8N8a_bDPlUO7QYJib9fGjzzDrlIfLqjXhiGLdfNaPxIWpbQfnelN1kX6hE-XFZ96umbIEhBbmM1yPq2O_NFEAylFRLm2Oy3TdfGZ5p8dz4UX5Oj-ndGCAEaw4dsFMzI9bzLd0s4vL55e0d1IxxkpFdJlqzNq1lIIBmOnLnapHZJoRUMQ"
+    },
+    "queueToken": "A31Xt9d5gCHerRaN1iG2VtCBvrMFEwkRLlfUrkC2oA56pPoA9AD9vf6XoOAiin8MStY7RVs316DUZCc3exZR_0XAwYlMnnBTBM-HSpuvg2oRYyZOWMIUnNq3LqEwtILz-Q==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "0dd318da-aee3-4c30-a028-5a483f59a321",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/43644661628970",
+              "variantId": "gid://shopify/ProductVariant/43644661628970",
+              "properties": [
+                {
+                  "name": "__kaching_bundles",
+                  "value": {
+                    "string": "{\"deal\":\"8Gw5\",\"pp\":7415458234410,\"main\":true,\"v\":\"f6b6a8a2-4ca5-42a1-bff8-5b8dac034f74\",\"bid\":\"8baa94b1-4cb7-433f-a38b-52bb6d0b0dde\"}"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "59.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

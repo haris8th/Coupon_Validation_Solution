@@ -1,0 +1,39 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEB1aQXImlN2c8oaFUf6qwl08WecgdTNrkd8OmNyjBwbkQEsAnveRxrNVoFuMDNPDA30Ds894wjd_GSPjVJLf1zdiQEQJwR8aVdack1z6zWqGTyIWMwTizTZNiL0j2VRAar-gMAlqIFloKwGDOkZ525qbHJCPyLRCQ50pvH3XngVxAMnPMivZ0-m7uDdmHwsleDxDS9B8yoLHm9qdTvB_qNAnqpIb2l"
+    },
+    "queueToken": "A3mC14ZZGTw2KQxQ-lbKtFFMEnzh0lVS5zX3QSvip7UNFq1NqjqtPXQ32PyC_nTetIpWRBxr-MiKKNRLzFMrfAzU9oDfW-GNbY94V5oOmrto89RgHgv7mkLU_Pqnxq4MrQ==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "3f0f99c5-1ecf-4fc7-a9a7-cb958e5da770",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/54166693937489",
+              "variantId": "gid://shopify/ProductVariant/54166693937489",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "179.00",
+              "currencyCode": "EUR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

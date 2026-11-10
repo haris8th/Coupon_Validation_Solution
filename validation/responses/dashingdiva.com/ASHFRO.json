@@ -1,0 +1,124 @@
+{
+  "errors": [
+    {
+      "message": "Variable `$merchandise` of type `MerchandiseTermInput` was provided invalid value for `merchandiseLines.0.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.2.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.3.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`)",
+      "locations": [
+        {
+          "line": 1,
+          "column": 161
+        }
+      ],
+      "extensions": {
+        "code": "INVALID_VARIABLE",
+        "value": {
+          "merchandiseLines": [
+            {
+              "stableId": "ba458e0e-5666-4364-82ba-631b0c74f101",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/47902003888265",
+                  "variantId": "gid://shopify/ProductVariant/47902003888265",
+                  "properties": [
+                    {
+                      "name": "_collections",
+                      "value": {
+                        "string": "all-product-lines-nails,all-products,holiday-2026,shop-all-gel-strips,gifts-under-10,gifts-under-20,gifts-under-30,gloss-color,gloss-color-art,shop-all-gloss,holiday-gloss-strips,holiday-gel-polish-kits,holiday-nail-strips,holiday-polish-strips,gel-nail-strips-collection-copy,new-arrivals,new-nail-strips,new-polish-strips,red-carpet-looks,red-nail-strips,red,red-polish-strips,all,shop-all-manicures,shop-all-manis"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_product_title",
+                      "value": {
+                        "string": "Frosted & Festive"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_product_type",
+                      "value": {
+                        "string": "Gloss Color + Art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_product_tags",
+                      "value": {
+                        "string": "2026 Limited,Accent: Christmas Tree,Accent: Snowflake,Category: Manicure,Collection: Gloss Color,Collection: Gloss Color + Art,Color: Red,color_red,Finish: Glossy,Gifts: 10 & Under,Gifts: 20 & Under,Gifts: 30 & Under,gloss,Gloss Manicure,Holiday 2026,Manicure,New Arrivals,Product Line: Gloss Color + Art,product type: gloss color,Product Type: Gloss Color + Art"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "8.00",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            }
+          ]
+        },
+        "problems": [
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              3,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          }
+        ]
+      }
+    }
+  ]
+}

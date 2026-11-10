@@ -1,0 +1,72 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBw08igAAM8dmF9fvBDQCOvBSAn-xvhrUXdWQvhI_yfjE9MYVrY8xbqoGDDW57gxACHCtJ76mb0KR2oql2mgzT21PvwCWziJOvVrxN7ShYywZ5Nc8q1LSWRMAGpEnzY_eQmOwgFPa3-Zv6UzKrgWQ4bWWMXYg9fzWq9m2lEAPLML9_t0UmXbyVLm3m6FJ2ok2TpmS2pJKoI2TjTGvtQ_TeADjBjql3ZcZdyIzb-w"
+    },
+    "queueToken": "A8JOSK_BuTKiEmPu80CNKyoR3e6KsISZqmyIuC4azwlG26daAS4l7RaHJxW9-kIImz8xx1Eb3d0VKNfrlEA-z8yVgzGYQaw29dmMaiOdhZBTB_2VT9Md0Ql4mfLCVvdl14elIEQ4A34=",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "e8c49b3c-f9f4-4c21-9167-00212d8d46ad",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/42881544028227",
+              "variantId": "gid://shopify/ProductVariant/42881544028227",
+              "properties": [
+                {
+                  "name": "_mode",
+                  "value": {
+                    "string": "returnCoverage"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "3.50",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "854d01aa-112b-412b-a970-ac9c503b5bcd",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/43599645147203",
+              "variantId": "gid://shopify/ProductVariant/43599645147203",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "45.99",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

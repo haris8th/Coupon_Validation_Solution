@@ -1,0 +1,61 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEB3BNxjr7sxhHVlZovVNTt5G0bCPZtTGkyi-3Pw6_k7Nzw62L5nTiNCOGDj28BAEJXeJAuqCdGolcImFympPMqrX9lITAxJauI6Aao-NdCXPMJK_prapzhgxz-SYRjMppaFleDQFF2Sagoj0Iqq29Jmwk42F_uE9p89ekowmoYcLVmAM7aZ02s8H7EUOiFfVhGZUJfP-z9XWp9IWftJbvwUn1c0dPrOcU7oOc"
+    },
+    "queueToken": "A2zkABGS88NTdzmGUnkkTVcUfdKMPuBVmm6IL9Z7VcMnsLIMWP8zFKdB1Z2cwGfajtHSsUx23vQZB0Yas5dZHvDihhYVnESHfs8ui0ND_nx56sOGAep-U74KSQ==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "88d55a3b-e4be-49bf-bd22-81567e6ca5b7",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/964699717",
+              "variantId": "gid://shopify/ProductVariant/964699717",
+              "properties": [
+                {
+                  "name": "Engraving",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "_Monogrammed",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_Event ID",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "299.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

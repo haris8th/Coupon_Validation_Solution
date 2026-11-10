@@ -1,0 +1,575 @@
+{
+  "cookies": [
+    {
+      "name": "_shopify_client_id",
+      "value": "7dd4c4bc-79dd-4f1e-a9d9-40da94fbb067",
+      "domain": "feature.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Analytics",
+      "value": "{\"merchantId\":\"30000995\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://webservices.global-e.com/\",\"clientId\":\"7b6cb4fb-64c8-4892-83ee-e53b2797a703\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794252715416}",
+      "domain": "feature.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "PK",
+      "domain": "feature.com",
+      "path": "/",
+      "expires": 1825788718.036985,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "PKR",
+      "domain": "feature.com",
+      "path": "/",
+      "expires": 1795462319.616543,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHBy4-fAAEAni_9HdhSuHuRmLhbcsiDNU_ISTB_ew7umA-K_Op7UCUT4sXhayK_O57R-5UG1NG7br-7z5-T66_mZ28:",
+      "domain": "feature.com",
+      "path": "/",
+      "expires": 1825788705.833736,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHBy5AHAAEAOogiOMma8jBJce2cVySf-MLaCYg2omcaQqRXXQgqq2Ce9N8MBaO6YqGOmXSi0MRePzwsGN-ne0CsqCo:",
+      "domain": "feature.com",
+      "path": "/",
+      "expires": 1825788705.833842,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHBy5AHAAEAw_wWAk5k1IaRz4NLxtO0di43G4ZL2bThe717UGkZR5S96QWAAYpyHJhjGP6HmBvoBE9J-Jfb5mQB5zg:",
+      "domain": "feature.com",
+      "path": "/",
+      "expires": 1825788705.833929,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "us_privacy",
+      "value": "1---",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1796844707,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "athosCartProducts",
+      "value": "",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attn_eat_id",
+      "value": "fe8c70014a3d414f990c69122ca1ca8f",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1827948710.363236,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://feature.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "polaris_consent_settings",
+      "value": "{\"clientId\":\"b5912a26-3ac1-4090-d457-5e3a063c0a31\",\"implicit\":true,\"analyticsPermitted\":true,\"personalizationPermitted\":true,\"adsPermitted\":true,\"notOptedOut\":true,\"essentialPermitted\":true}",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1809804712,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_id",
+      "value": "2d8c79abb96f4b27a75bf6b80dab01e7",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1827948713,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_session_id",
+      "value": "46cc86a5989b44e4a92bd411e484e9e6",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1794254513,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzk0MjUyNzEzMzE5LFwidW9cIjoxNzk0MjUyNzEzMzE5LFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjJkOGM3OWFiYjk2ZjRiMjdhNzViZjZiODBkYWIwMWU3XCJ9IiwiZWF0Ijoie1wiY29cIjoxNzk0MjUyNzEzMjYyLFwidW9cIjoxNzk0MjUyNzEzMjYyLFwibWFcIjozNjUwLFwiaW5cIjp0cnVlLFwidmFsXCI6XCJodHRwczovL2ppaHpuLmZlYXR1cmUuY29tXCJ9In0=",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1827948713,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1794252713331",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1827948713,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://feature.com",
+      "domain": "feature.com",
+      "path": "/",
+      "expires": 1796844713,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "baMet_visit",
+      "value": "5777035bc9d849a8ae3359e39bb8bb7c1794252713449",
+      "domain": "feature.com",
+      "path": "/",
+      "expires": 1794254513,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_bopd_",
+      "value": "browser",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1827948713,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1794259913,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "feature.com",
+      "path": "/",
+      "expires": 1796844713,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "1",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1794254513,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "ORGANIC",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1794254513,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "osid",
+      "value": "4e424749-6cae-4593-a1a4-8dcb0ac51f32",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1825788714,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scsrid_r",
+      "value": "",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1828380715,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "19WFZBjcuV8vIshiNgm4U-XqQf3m1byk",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1828380715,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "19WFZBjcuV8vIshiNgm4U-XqQf3m1byk",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1828380715,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scida",
+      "value": "01F91MS8ed0YHj3ZQNqU-7BnOW2StXLY",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1828380715,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "athosViewedProducts",
+      "value": "FEA112221X01-XS",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1828812717.094674,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "athosUserId",
+      "value": "66fba138-131c-4bcf-bff3-cec2c61c25c7",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1828812717.878001,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "athosSessionId",
+      "value": "c036e98e-6d59-4577-a824-1be9b41876a4",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1794254517,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3AMPS._PKSD_f_f_7IIFPs7ARb6vdzq2FxXbKA%23d33c9141-88f3-4af8-be17-fe7d6ac41f8f-1794252707",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1825810318.036733,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxVPsiOQRXhMU5z2FvvYx%3Fkey%3Dcf3556871795185b2573610153466d92",
+      "domain": "feature.com",
+      "path": "/",
+      "expires": 1802115118.03714,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "forterToken",
+      "value": "225583e7fbaf4e8c8b7824920bb47ec1_1794252719191___32ck",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": 1828812719,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Consent",
+      "value": "%7B%22required%22%3Afalse%2C%22groups%22%3A%7B%221%22%3A1%2C%222%22%3A1%2C%223%22%3A1%7D%7D",
+      "domain": ".feature.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "2c.cId",
+      "value": "6af21faf5edc882aa62fe9b1",
+      "domain": "feature.com",
+      "path": "/",
+      "expires": 1828812719.98515,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://feature.com",
+      "localStorage": [
+        {
+          "name": "ls-locale",
+          "value": "en"
+        },
+        {
+          "name": "u_sclid",
+          "value": "mjOwaZmZpAsdGmokCdbRyJ9HfPJnkqdQ19WFZBjcuV8vIshiNgm4U-XqQf3m1byk"
+        },
+        {
+          "name": "_oir_csc_dt",
+          "value": "+9+G7fPgxYaz6emIhv37+cHX/fP51Iazo6OdkLunppOVvKCindk="
+        },
+        {
+          "name": "ls-currency",
+          "value": "usd"
+        },
+        {
+          "name": "uw-uid",
+          "value": "f19a0cf2-142a-4d8f-9cc6-04354208aef7"
+        },
+        {
+          "name": "ls-default-locale",
+          "value": "en"
+        },
+        {
+          "name": "n_platform",
+          "value": "1"
+        },
+        {
+          "name": "n_stored_page_visit",
+          "value": "{\"pageVisitFrags\":[{\"events\":[{\"type\":\"wv\",\"occ_at\":\"2026-11-09T19:31:59.885Z\",\"wv\":{\"name\":\"LCP\",\"value\":\"2328\",\"rating\":\"good\",\"attribution\":\"{\\\"element\\\":\\\"div.ui-tabs>div.ui-tabs-panels>div.ui-tabs-panel>div>p\\\",\\\"timeToFirstByte\\\":603.3000000119209,\\\"resourceLoadDelay\\\":0,\\\"resourceLoadDuration\\\":0,\\\"elementRenderDelay\\\":1724.699999988079,\\\"navigationEntry\\\":{\\\"name\\\":\\\"https://feature.com/products/feature-mystery-box\\\",\\\"entryType\\\":\\\"navigation\\\",\\\"startTime\\\":0,\\\"duration\\\":10231.600000023842,\\\"navigationId\\\":1019,\\\"initiatorType\\\":\\\"navigation\\\",\\\"deliveryType\\\":\\\"\\\",\\\"nextHopProtocol\\\":\\\"h3\\\",\\\"renderBlockingStatus\\\":\\\"non-blocking\\\",\\\"contentType\\\":\\\"text/html\\\",\\\"contentEncoding\\\":\\\"br\\\",\\\"workerStart\\\":0,\\\"workerRouterEvaluationStart\\\":0,\\\"workerCacheLookupStart\\\":0,\\\"workerMatchedSourceType\\\":\\\"\\\",\\\"workerFinalSourceType\\\":\\\"\\\",\\\"redirectStart\\\":0,\\\"redirectEnd\\\":0,\\\"fetchStart\\\":1.5,\\\"domainLookupStart\\\":1.5,\\\"domainLookupEnd\\\":1.5,\\\"connectStart\\\":1.5,\\\"secureConnectionStart\\\":1.5,\\\"connectEnd\\\":1.5,\\\"requestStart\\\":49.5,\\\"responseStart\\\":603.3000000119209,\\\"firstInterimResponseStart\\\":0,\\\"finalResponseHeadersStart\\\":603.3000000119209,\\\"responseEnd\\\":769.5,\\\"transferSize\\\":126185,\\\"encodedBodySize\\\":125885,\\\"decodedBodySize\\\":871001,\\\"responseStatus\\\":200,\\\"serverTiming\\\":[{\\\"name\\\":\\\"processing\\\",\\\"duration\\\":319,\\\"description\\\":\\\"gc:17\\\"},{\\\"name\\\":\\\"streaming\\\",\\\"duration\\\":0,\\\"description\\\":\\\"\\\"},{\\\"name\\\":\\\"db\\\",\\\"duration\\\":33,\\\"description\\\":\\\"\\\"},{\\\"name\\\":\\\"db_async\\\",\\\"duration\\\":135.255,\\\"description\\\":\\\"\\\"},{\\\"name\\\":\\\"asn\\\",\\\"duration\\\":0,\\\"description\\\":\\\"9541\\\"},{\\\"name\\\":\\\"edge\\\",\\\"duration\\\":0,\\\"description\\\":\\\"KHI\\\"},{\\\"name\\\":\\\"country\\\",\\\"duration\\\":0,\\\"description\\\":\\\"PK\\\"},{\\\"name\\\":\\\"theme\\\",\\\"duration\\\":0,\\\"description\\\":\\\"161109770311\\\"},{\\\"name\\\":\\\"pageType\\\",\\\"duration\\\":0,\\\"description\\\":\\\"product\\\"},{\\\"name\\\":\\\"servedBy\\\",\\\"duration\\\":0,\\\"description\\\":\\\"b6wz\\\"},{\\\"name\\\":\\\"requestID\\\",\\\"duration\\\":0,\\\"description\\\":\\\"d33c9141-88f3-4af8-be17-fe7d6ac41f8f-1794252707\\\"},{\\\"name\\\":\\\"_y\\\",\\\"duration\\\":0,\\\"description\\\":\\\"7dd4c4bc-79dd-4f1e-a9d9-40da94fbb067\\\"},{\\\"name\\\":\\\"_s\\\",\\\"duration\\\":0,\\\"description\\\":\\\"bb4b33d0-7ebc-4cd0-b6a8-e90a8f6d2aec\\\"},{\\\"name\\\":\\\"_cmp\\\",\\\"duration\\\":0,\\\"description\\\":\\\"3.AMPS_PKSD_f_f_7IIFPs7ARb6vdzq2FxXbKA_%7B%7D\\\"},{\\\"name\\\":\\\"_ye\\\",\\\"duration\\\":0,\\\"description\\\":\\\"1825810308\\\"},{\\\"name\\\":\\\"_se\\\",\\\"duration\\\":0,\\\"description\\\":\\\"1794254508\\\"},{\\\"name\\\":\\\"cfExtPri\\\",\\\"duration\\\":0,\\\"description\\\":\\\"\\\"}],\\\"unloadEventStart\\\":928.3000000119209,\\\"unloadEventEnd\\\":928.3000000119209,\\\"domInteractive\\\":2060.199999988079,\\\"domContentLoadedEventStart\\\":4942.699999988079,\\\"domContentLoadedEventEnd\\\":4974.100000023842,\\\"domComplete\\\":10203.5,\\\"loadEventStart\\\":10205.400000035763,\\\"loadEventEnd\\\":10231.600000023842,\\\"type\\\":\\\"navigate\\\",\\\"redirectCount\\\":0,\\\"activationStart\\\":0,\\\"criticalCHRestart\\\":0,\\\"notRestoredReasons\\\":null,\\\"confidence\\\":{\\\"randomizedTriggerRate\\\":0.4994798,\\\"value\\\":\\\"high\\\"}},\\\"lcpEntry\\\":{\\\"name\\\":\\\"\\\",\\\"entryType\\\":\\\"largest-contentful-paint\\\",\\\"startTime\\\":2328,\\\"duration\\\":0,\\\"navigationId\\\":1019,\\\"paintTime\\\":2313.199999988079,\\\"presentationTime\\\":2328,\\\"size\\\":55632,\\\"renderTime\\\":2328,\\\"loadTime\\\":0,\\\"id\\\":\\\"\\\",\\\"url\\\":\\\"\\\"},\\\"njsSessionStartTime\\\":11134.5,\\\"rrwebRecorder\\\":false}\"}}],\"pc\":8,\"end_at\":\"2026-11-09T19:31:59.887Z\",\"seq_num\":9},{\"events\":[{\"type\":\"wv\",\"occ_at\":\"2026-11-09T19:31:59.887Z\",\"wv\":{\"name\":\"CLS\",\"value\":\"0.026582991892628083\",\"rating\":\"good\",\"attribution\":\"{\\\"largestShiftTarget\\\":\\\"#shopify-section-template--23565796671559__main\\\",\\\"largestShiftTime\\\":7157.699999988079,\\\"largestShiftValue\\\":0.0201239822353812,\\\"largestShiftSource\\\":{\\\"previousRect\\\":{\\\"x\\\":0,\\\"y\\\":72,\\\"width\\\":1351,\\\"height\\\":696,\\\"top\\\":72,\\\"right\\\":1351,\\\"bottom\\\":768,\\\"left\\\":0},\\\"currentRect\\\":{\\\"x\\\":0,\\\"y\\\":102,\\\"width\\\":1351,\\\"height\\\":666,\\\"top\\\":102,\\\"right\\\":1351,\\\"bottom\\\":768,\\\"left\\\":0}},\\\"largestShiftEntry\\\":{\\\"name\\\":\\\"\\\",\\\"entryType\\\":\\\"layout-shift\\\",\\\"startTime\\\":7157.699999988079,\\\"duration\\\":0,\\\"navigationId\\\":1019,\\\"value\\\":0.0201239822353812,\\\"hadRecentInput\\\":false,\\\"lastInputTime\\\":0,\\\"sources\\\":[{\\\"previousRect\\\":{\\\"x\\\":0,\\\"y\\\":72,\\\"width\\\":1351,\\\"height\\\":696,\\\"top\\\":72,\\\"right\\\":1351,\\\"bottom\\\":768,\\\"left\\\":0},\\\"currentRect\\\":{\\\"x\\\":0,\\\"y\\\":102,\\\"width\\\":1351,\\\"height\\\":666,\\\"top\\\":102,\\\"right\\\":1351,\\\"bottom\\\":768,\\\"left\\\":0}}]},\\\"loadState\\\":\\\"dom-content-loaded\\\",\\\"njsSessionStartTime\\\":11134.5,\\\"rrwebRecorder\\\":false}\"}}],\"pc\":9,\"end_at\":\"2026-11-09T19:31:59.888Z\",\"seq_num\":10}],\"pageVisitInfo\":{\"br_id\":\"b7266d3a-f895-40a3-acc9-779f285f0623\",\"pv_id\":\"7cb0feff-225d-42b7-b2fd-dec82821eabe\",\"v\":5,\"seq\":0,\"on_url\":\"https://feature.com/products/feature-mystery-box\",\"page_title\":\"Mystery Box \u2013 Feature\",\"page_groups\":[\"Product\"],\"ref_url\":\"\",\"ref_page_groups\":[],\"start_at\":\"2026-11-09T19:31:58.723Z\",\"conc\":1,\"cv\":2,\"last\":false,\"script_id\":\"1.214.0\",\"script_inst_id\":\"6f92d3f1-4651-440d-9b03-744160d1bdcf\",\"mp_sock_inst_id\":\"5198794d-0250-4d76-9b89-cf647a138628\",\"sock_inst_id\":\"e98b58d9-ae51-4be2-81a9-ccfc82c15dce\",\"video_recorder\":\"RRWeb\",\"lang\":\"en-us\",\"session_token\":\"01a1c1cb-c529-7091-ba94-1fbc5f82ccc5:1800:1794252719:c62a75f55f2d6f5c53a422dc4a63327a527d7ad78348e40c4bb556f7fc9583cf\"},\"timestamp\":\"2026-11-09T19:31:59.887Z\"}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxVPsiOQRXhMU5z2FvvYx\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxVPsiOQRXhMU5z2FvvYx\",\"customerProfileId\":null,\"countryCode\":\"PK\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "seel_user_id",
+          "value": "dac8d0ef-8e1a-4dab-a1f1-33bdc85df94f"
+        },
+        {
+          "name": "rivo_recently_viewed_product_ids",
+          "value": "[6608629104711]"
+        },
+        {
+          "name": "sid",
+          "value": "37e704c0dc7411f1a6d3d914cfdd9e5b"
+        },
+        {
+          "name": "ba_msg_active",
+          "value": "1794252718070"
+        },
+        {
+          "name": "sidExpiry",
+          "value": "2026-11-10T19:31:54.782Z"
+        },
+        {
+          "name": "athosCartProducts",
+          "value": "{\"value\":[]}"
+        },
+        {
+          "name": "athos-history-at15zb",
+          "value": "{}"
+        },
+        {
+          "name": "__uidcei",
+          "value": "4e424749-6cae-4593-a1a4-8dcb0ac51f32"
+        },
+        {
+          "name": "uw-tunings-checksum",
+          "value": "5770e76dd635021bac0bc15e516c251239d59fa2607948bb49150bd39af281b7"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxVPsiOQRXhMU5z2FvvYx\""
+        },
+        {
+          "name": "rmz._vd",
+          "value": "{\"first_seen\":\"2026-11-09T19:31:57.414Z\",\"ts\":1794252717415,\"cts\":[],\"visits\":1}"
+        },
+        {
+          "name": "_oir_ost_ts",
+          "value": "Qy0rCB4eKS4GGxkuKwE="
+        },
+        {
+          "name": "uw-icon-locales",
+          "value": "{\"version\":\"2026-11-04-11-38-25\",\"en-US\":{\"widget\":{\"html_lst_title\":\"Translations Menu\",\"html_title\":\"Accessibility Menu\",\"text_icon_small\":\"Accessibility\",\"text_icon_large\":\"Accessibility</br>Menu\",\"new_tab\":\"opens in a new tab\",\"new_tab_substring\":\"new tab\",\"new_window_substring\":\"new window\",\"broken_links\":{\"target_site_not_available\":\"target website may not be available\"}},\"skip_links\":{\"open_accessibility_nav\":\"Open the Accessible Navigation Menu\",\"open_accessibility_menu\":\"Open the accessibility menu\",\"skip\":\"Skip to main content\",\"enable_visually_impaired\":\"Enable accessibility for low vision\",\"disable_visually_impaired\":\"Disable accessibility for low vision\",\"title\":\"Quick Accessibility Options\"}}}"
+        },
+        {
+          "name": "athosUserId",
+          "value": "{\"value\":{\"value\":\"66fba138-131c-4bcf-bff3-cec2c61c25c7\",\"timestamp\":\"2026-11-09T19:31:57.696Z\"}}"
+        },
+        {
+          "name": "__slpv",
+          "value": "\"1794252710950\""
+        },
+        {
+          "name": "rivo_completed_preference_ids",
+          "value": "[]"
+        },
+        {
+          "name": "GlobalE_Analytics",
+          "value": "{\"merchantId\":\"30000995\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://webservices.global-e.com/\",\"clientId\":\"7b6cb4fb-64c8-4892-83ee-e53b2797a703\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794252715416}"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://feature.com/products/feature-mystery-box\",\"exp\":1796844713440}"
+        },
+        {
+          "name": "__sstst",
+          "value": "\"1794252710950\""
+        },
+        {
+          "name": "__refp2oloirel",
+          "value": "{\"entries\":{\"_shopify_y\":{\"id\":\"_shopify_y\",\"value\":\"7dd4c4bc-79dd-4f1e-a9d9-40da94fbb067\",\"timestamp\":1794252710956},\"osid\":{\"id\":\"osid\",\"value\":\"4e424749-6cae-4593-a1a4-8dcb0ac51f32\",\"timestamp\":1794252714798}}}"
+        },
+        {
+          "name": "athosSessionId",
+          "value": "{\"value\":{\"value\":\"c036e98e-6d59-4577-a824-1be9b41876a4\",\"timestamp\":\"2026-11-09T19:31:57.883Z\"}}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "vidExpiry",
+          "value": "2027-12-04T19:31:53.967Z"
+        },
+        {
+          "name": "rmz.messagePrompts.state",
+          "value": "{}"
+        },
+        {
+          "name": "athos-history-atrng8",
+          "value": "{}"
+        },
+        {
+          "name": "athos-history-atk2w4",
+          "value": "{}"
+        },
+        {
+          "name": "athosPageLoadId",
+          "value": "{\"value\":{\"href\":\"https://feature.com/products/feature-mystery-box\",\"value\":\"9b8a91c5-8ee5-4556-b183-08283068233a\",\"timestamp\":\"2026-11-09T19:31:52.332Z\"}}"
+        },
+        {
+          "name": "vid",
+          "value": "37c35020dc7411f1a6d3d914cfdd9e5b"
+        },
+        {
+          "name": "rmz.account",
+          "value": "feature"
+        },
+        {
+          "name": "rivo_recently_viewed_collections",
+          "value": "[]"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794511911300"
+        },
+        {
+          "name": "n_session_id",
+          "value": "{\"value\":\"01a1c1cb-c529-7091-ba94-1fbc5f82ccc5:1800:1794252719:c62a75f55f2d6f5c53a422dc4a63327a527d7ad78348e40c4bb556f7fc9583cf\",\"expiry\":1794254519510}"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "mjOwaZmZpAsdGmokCdbRyJ9HfPJnkqdQ19WFZBjcuV8vIshiNgm4U-XqQf3m1byk"
+        },
+        {
+          "name": "__spvws",
+          "value": "\"1\""
+        },
+        {
+          "name": "uw-tunings",
+          "value": "{\"tunings\":{\"widget_language\":null,\"widget_icon_size\":\"small\",\"widget_icon_type\":\"4\",\"widget_position\":\"5\",\"widget_position_nudge\":\"{\\\"moveY\\\":0,\\\"moveX\\\":0}\",\"widget_position_mobile\":\"5\",\"widget_position_nudge_mobile\":\"{\\\"moveY\\\":0,\\\"moveX\\\":0}\",\"widget_color\":\"#060606\",\"widget_color_gradient\":\"off\",\"widget_custom_trigger_enabled\":true,\"widget_custom_trigger\":\"accessibilityWidget\",\"screenReaderVersion\":\"v2\",\"site_name\":\"feature.com\",\"isLAUser\":false,\"widget_no_report\":true,\"new_art_pages_widget_manage\":true,\"dynamic_alpine_images_processing\":true,\"new_login\":true,\"new_manage\":true},\"services\":{\"siteId\":1482158,\"userId\":119399,\"noManage\":false,\"noLogo\":false,\"VOICE_NAVIGATION\":{\"is_enabled\":true,\"shortcuts\":[]},\"paidAi\":true},\"remediation\":{},\"remediationV2\":{\"strategy\":\"AUTO\",\"consolidated\":\"https://cdn.userway.org/remediations/consolidated/1482158/BlnL0iALEIzxT77V.json\",\"version\":0,\"contrast\":{\"enabled\":true,\"config\":{\"path\":null,\"autofix\":false}},\"skipLinks\":{\"enabled\":true,\"config\":{\"anchorSelector\":null}}},\"imageAlt\":{\"version\":\"ALTS_V2\",\"resourceHash\":\"t18szTkTxgkfKc6E\",\"tier\":\"PAID_QUOTA_TIER\",\"quota\":5000,\"usage\":5000,\"state\":\"ALTS_ON\",\"missingAlts\":[]},\"widgetCustomLanguages\":[],\"invalidAccountId\":false,\"existingWidgetType\":\"free\"}"
+        },
+        {
+          "name": "rmz.chat.minimized",
+          "value": "1"
+        },
+        {
+          "name": "n_browser_data",
+          "value": "{\"BrowserId\":\"b7266d3a-f895-40a3-acc9-779f285f0623\",\"CurrentPageVisitCount\":1,\"DisabledStatus\":false,\"LastActive\":\"2026-11-09T19:31:58.719Z\",\"ClientUnlockTime\":null}"
+        },
+        {
+          "name": "rmz.routeParams",
+          "value": "{}"
+        },
+        {
+          "name": "baMet_visitor",
+          "value": "fe6a7f2205234b548d83beb7486706fc1794252713467"
+        },
+        {
+          "name": "TV_IP_LOCATION_FETCH_EXPIRATION",
+          "value": "1794281507500"
+        },
+        {
+          "name": "athos-track",
+          "value": "{\"siteId\":\"atk2w4\"}"
+        },
+        {
+          "name": "_oir_init_dt",
+          "value": "TWkwW0VWczAFBhZ3Jg0QFSYrEhJBc3cSEBcrIRJFE3MmEhxGcXAPRUEnI1kXEDA+HVBLf3dMUEN/Yh0eEyUrCxYXICUOEBEgI0I="
+        },
+        {
+          "name": "TV_IP_LOCATION_FETCH_PAYLOAD",
+          "value": "{\"country\":\"PK\",\"region\":\"SD\"}"
+        },
+        {
+          "name": "athosViewedProducts",
+          "value": "{\"value\":[{\"sku\":\"FEA112221X01-XS\",\"parentId\":\"6608629104711\",\"uid\":\"41333935439943\"}]}"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1164 @@
+{
+  "errors": [
+    {
+      "message": "Variable `$merchandise` of type `MerchandiseTermInput` was provided invalid value for `merchandiseLines.0.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.2.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.3.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.4.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.5.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.6.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.7.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.8.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.9.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.10.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.11.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.2.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.3.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.4.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.5.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.6.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.7.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.8.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.9.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.10.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.11.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.2.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.3.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.4.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.5.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.6.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.7.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.8.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.9.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.10.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.11.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.3.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.3.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.3.merchandise.productVariantReference.properties.2.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.3.merchandise.productVariantReference.properties.3.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.3.merchandise.productVariantReference.properties.4.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.3.merchandise.productVariantReference.properties.5.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.3.merchandise.productVariantReference.properties.6.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.3.merchandise.productVariantReference.properties.7.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.3.merchandise.productVariantReference.properties.8.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.3.merchandise.productVariantReference.properties.9.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.3.merchandise.productVariantReference.properties.10.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.3.merchandise.productVariantReference.properties.11.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.4.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), Too many execution errors, max error limit reached. Results truncated",
+      "locations": [
+        {
+          "line": 1,
+          "column": 161
+        }
+      ],
+      "extensions": {
+        "code": "INVALID_VARIABLE",
+        "value": {
+          "merchandiseLines": [
+            {
+              "stableId": "83f71d09-9072-47fc-a673-bb513bd36b03",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/40827205156947",
+                  "variantId": "gid://shopify/ProductVariant/40827205156947",
+                  "properties": [
+                    {
+                      "name": "Frame Style",
+                      "value": {
+                        "string": "Floating"
+                      },
+                      "visible": true
+                    },
+                    {
+                      "name": "Frame Color",
+                      "value": {
+                        "string": "Black"
+                      },
+                      "visible": true
+                    },
+                    {
+                      "name": "_id",
+                      "value": {
+                        "string": "7885866172499"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_pixelId",
+                      "value": {
+                        "string": "7885866172499_3932257189971"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gadsId",
+                      "value": {
+                        "string": "W8K-ART-6UK-Framed Canvas-wall-art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sku",
+                      "value": {
+                        "string": "W8K-ART-6UK"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_title",
+                      "value": {
+                        "string": "The Road Wall Art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_url",
+                      "value": {
+                        "string": "https://www.elephantstock.com/products/the-road-by-edgar-degas"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_staticImage",
+                      "value": {
+                        "string": "https://cdn.shopify.com/s/files/1/1568/8443/files/w8k-art-6uk_layout-floating-horizontal_the-road-wall-art-framed-wall-art.webp?v=1771065168"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_type",
+                      "value": {
+                        "string": "Art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_vendor",
+                      "value": {
+                        "string": "ElephantStock"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_image",
+                      "value": {
+                        "string": "https://cdn.shopify.com/s/files/1/1568/8443/files/product-4_88202daa-1c1e-4ea9-a986-7c624c7b9392.jpg?v=1790177370"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "66.95",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "7cec736d-1002-433b-b483-872d2f0378ef",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/40827204665427",
+                  "variantId": "gid://shopify/ProductVariant/40827204665427",
+                  "properties": [
+                    {
+                      "name": "Frame Style",
+                      "value": {
+                        "string": "Floating"
+                      },
+                      "visible": true
+                    },
+                    {
+                      "name": "Frame Color",
+                      "value": {
+                        "string": "Black"
+                      },
+                      "visible": true
+                    },
+                    {
+                      "name": "_id",
+                      "value": {
+                        "string": "6864656498771"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_pixelId",
+                      "value": {
+                        "string": "6864656498771_4264546041939"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gadsId",
+                      "value": {
+                        "string": "KJL-ART-32Z-Framed Canvas-wall-art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sku",
+                      "value": {
+                        "string": "KJL-ART-32Z"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_title",
+                      "value": {
+                        "string": "Crow On Snowy Tree Branch II Wall Art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_url",
+                      "value": {
+                        "string": "https://www.elephantstock.com/products/crow-on-snowy-tree-branch-ii-by-ohara-koson"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_staticImage",
+                      "value": {
+                        "string": "https://cdn.shopify.com/s/files/1/1568/8443/files/kjl-art-32z_layout-floating-vertical-wide_crow-on-snowy-tree-branch-ii-wall-art-framed-wall-art.webp?v=1716447862"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_type",
+                      "value": {
+                        "string": "Art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_vendor",
+                      "value": {
+                        "string": "ElephantStock"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_image",
+                      "value": {
+                        "string": "https://cdn.shopify.com/s/files/1/1568/8443/files/product-3_d71a367b-02ec-40f9-9570-f7dce26355ce.jpg?v=1790177367"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "66.95",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "cc348f7b-c38a-4c29-bd9d-b0c9675527f1",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/40827204665427",
+                  "variantId": "gid://shopify/ProductVariant/40827204665427",
+                  "properties": [
+                    {
+                      "name": "Frame Style",
+                      "value": {
+                        "string": "Floating"
+                      },
+                      "visible": true
+                    },
+                    {
+                      "name": "Frame Color",
+                      "value": {
+                        "string": "Black"
+                      },
+                      "visible": true
+                    },
+                    {
+                      "name": "_id",
+                      "value": {
+                        "string": "7415459381331"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_pixelId",
+                      "value": {
+                        "string": "7415459381331_4264546041939"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gadsId",
+                      "value": {
+                        "string": "CX8-ART-6HW-Framed Canvas-wall-art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sku",
+                      "value": {
+                        "string": "CX8-ART-6HW"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_title",
+                      "value": {
+                        "string": "Black And Gold In Abstract Wall Art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_url",
+                      "value": {
+                        "string": "https://www.elephantstock.com/products/black-and-gold-in-abstract-by-alyson-storms"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_staticImage",
+                      "value": {
+                        "string": "https://cdn.shopify.com/s/files/1/1568/8443/files/cx8-art-6hw_layout-floating-vertical-wide_black-and-gold-in-abstract-wall-art-framed-wall-art.webp?v=1722094986"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_type",
+                      "value": {
+                        "string": "Art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_vendor",
+                      "value": {
+                        "string": "ElephantStock"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_image",
+                      "value": {
+                        "string": "https://cdn.shopify.com/s/files/1/1568/8443/files/product-2_cd0c4493-1f30-4871-9bdc-2fc2c2068c56.jpg?v=1790177363"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "66.95",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "6a46657c-9e64-46cd-88e0-f2cf29f4d04e",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/40827205156947",
+                  "variantId": "gid://shopify/ProductVariant/40827205156947",
+                  "properties": [
+                    {
+                      "name": "Frame Style",
+                      "value": {
+                        "string": "Floating"
+                      },
+                      "visible": true
+                    },
+                    {
+                      "name": "Frame Color",
+                      "value": {
+                        "string": "Black"
+                      },
+                      "visible": true
+                    },
+                    {
+                      "name": "_id",
+                      "value": {
+                        "string": "7596781469779"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_pixelId",
+                      "value": {
+                        "string": "7596781469779_3932257189971"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gadsId",
+                      "value": {
+                        "string": "5Z4-ES-978-Framed Canvas-wall-art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sku",
+                      "value": {
+                        "string": "5Z4-ES-978"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_title",
+                      "value": {
+                        "string": "Soaring Flock Of Birds Wall Art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_url",
+                      "value": {
+                        "string": "https://www.elephantstock.com/products/soaring-flock-of-birds"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_staticImage",
+                      "value": {
+                        "string": "https://cdn.shopify.com/s/files/1/1568/8443/files/5z4-es-978_layout-floating-horizontal_soaring-flock-of-birds-wall-art-framed-wall-art.webp?v=1746997234"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_type",
+                      "value": {
+                        "string": "Art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_vendor",
+                      "value": {
+                        "string": "ElephantStock"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_image",
+                      "value": {
+                        "string": "https://cdn.shopify.com/s/files/1/1568/8443/files/product-1_4d13632f-4cc1-44c4-8153-a19377385ae4.jpg?v=1790177361"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "66.95",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "8cf6cd25-b10f-4e63-a94b-f59c0470963c",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/30859303518291",
+                  "variantId": "gid://shopify/ProductVariant/30859303518291",
+                  "properties": [
+                    {
+                      "name": "Frame Style",
+                      "value": {
+                        "string": "Floating"
+                      },
+                      "visible": true
+                    },
+                    {
+                      "name": "Frame Color",
+                      "value": {
+                        "string": "Black"
+                      },
+                      "visible": true
+                    },
+                    {
+                      "name": "_id",
+                      "value": {
+                        "string": "6760790982739"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_pixelId",
+                      "value": {
+                        "string": "6760790982739_4264546041939"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gadsId",
+                      "value": {
+                        "string": "GK1-ART-AQB-Framed Canvas-wall-art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sku",
+                      "value": {
+                        "string": "GK1-ART-AQB"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_title",
+                      "value": {
+                        "string": "Frigate Penguin Wall Art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_url",
+                      "value": {
+                        "string": "https://www.elephantstock.com/products/frigate-penguin-by-john-james-audubon"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_staticImage",
+                      "value": {
+                        "string": "https://cdn.shopify.com/s/files/1/1568/8443/files/gk1-art-aqb_layout-floating-vertical-wide_frigate-penguin-wall-art-framed-wall-art.webp?v=1716448411"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_type",
+                      "value": {
+                        "string": "Art"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_vendor",
+                      "value": {
+                        "string": "ElephantStock"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_image",
+                      "value": {
+                        "string": "https://cdn.shopify.com/s/files/1/1568/8443/files/product-0_2beef835-c5a5-40a5-8199-a233f9abcc91.jpg?v=1790177358"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "169.95",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            }
+          ]
+        },
+        "problems": [
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              3,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              4,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              5,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              6,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              7,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              8,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              9,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              10,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              11,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              3,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              4,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              5,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              6,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              7,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              8,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              9,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              10,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              11,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              3,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              4,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              5,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              6,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              7,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              8,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              9,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              10,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              11,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              3,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              3,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              3,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              3,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              3,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              3,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              4,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              3,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              5,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              3,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              6,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              3,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              7,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              3,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              8,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              3,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              9,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              3,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              10,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              3,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              11,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              4,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [],
+            "explanation": "Too many execution errors, max error limit reached. Results truncated"
+          }
+        ]
+      }
+    }
+  ]
+}

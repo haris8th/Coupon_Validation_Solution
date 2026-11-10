@@ -1,0 +1,54 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEB--5Yc9QsMTO-zBJaYK9v2keBsReAovns5CJOUCUR81qCAWLBfaSPRYqIcLL253x_AiIS7QlYdw5MAA91quxULGwt3pF42TW722Ry9c9QKPi6C5HnyoauduaF7RbtSOd4YR4IXmsyiEoaYUDTQdNAKhzBzTefIm_9LkZYRyExku9PfvwsnfelkThl319-ccK0YhcFRdxdT3T1IFxXLPYJYwwyCABrL4dbMJ25"
+    },
+    "queueToken": "A5MIOPcsNh4V5blrnHNxwfgisYLsuuuFDrr8yWI6UF9L1D-kgpKvphiaMMTzCmjPQEpbWaAGcMfBzOXpGl3n5gSlGpehnw97QJv0KBjb_LpoLINJfCnxxwlAory_",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "3ccdc557-ef87-4fae-86ad-d0e520e850af",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/40652884607036",
+              "variantId": "gid://shopify/ProductVariant/40652884607036",
+              "properties": [
+                {
+                  "name": "_igTestGroup",
+                  "value": {
+                    "string": "5704e0df-f7b4-407a-9248-512160137bac"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_igTestGroups",
+                  "value": {
+                    "string": "512160137bac"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "101000.00",
+              "currencyCode": "PKR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

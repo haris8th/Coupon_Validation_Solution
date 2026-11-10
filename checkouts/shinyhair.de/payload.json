@@ -1,0 +1,72 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBn46MIO8ZSoDsVnMSMcg8IUwrw866PIFp3kf1NLi1rtSTksg6vZ4rpF5Qf9ClcJ4TWVvCQkCMQ_31CQn-tYbdUFq9p8tMA27zGWvKdXBEJBb_8nGQpmAYGOKL1QUY3EYYS92dEj6GcnEoi9uHln_uB2cE1SjyHYM7ZgPS-clWdvkxarUE7bj7by9snSXeXmqWxB9UKd6zYlB7qxz4Fbf0mvZ-re3KKw"
+    },
+    "queueToken": "A5lV758SzOHUQ-Ep12su8utosOsLca0Tc0yrQV-5fpzw6Qy9a6IDT76-rcNavyEjxynCqAv185ILjognrMCFvZM3j0KZOXeBPrwZK05xBGalp2OQrxU2K_gR-yHPeUnpBCh04qpgF0M=",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "749c4d85-ca87-46cc-bb23-d2ddb34d274d",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/51924858568970",
+              "variantId": "gid://shopify/ProductVariant/51924858568970",
+              "properties": [
+                {
+                  "name": "_FREE_GIFT",
+                  "value": {
+                    "string": "true"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "0.00",
+              "currencyCode": "PKR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "45803826-3ee9-4394-b84a-7176140cf97a",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/52019346637066",
+              "variantId": "gid://shopify/ProductVariant/52019346637066",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "23300.00",
+              "currencyCode": "PKR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

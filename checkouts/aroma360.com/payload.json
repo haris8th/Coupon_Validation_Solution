@@ -1,0 +1,101 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBB7B7KquxT-m8jvXp3_d_WQa0PsleTRR4CWiO4E8ObXuJlkRQhXik-92ZVzSTKbfVCpcYVgEBh45vopKMMYN3WtpR3uxXeCaObzDZyLXceXkecXy9vGnOKxfCubPY9VLnO583JxcnN7gWhQPBgVZBzlTZTVOFBAK9bi1giRm22el7XsxsNJ87mOMbx3T0xaybQOGBmMl0Pg-zVDIz6GNs2DQ1PGlpGA"
+    },
+    "queueToken": "AxlZA0LV6XcYXBJjvbjSP1Ae6jcGBdY7xeZ8aBinYMTr1X0ItpHWBO_Abrh9RsVBt4aDnsKZ_B5ST6B0EHnagLfTZ6JPOod8eCFWDGNPMxxlS6yJHCXrzEYo8I9LVt7WOMqS9EUyc-w=",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "5a539744-5577-44fa-8490-5b0780f1d578",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/43486591647938",
+              "variantId": "gid://shopify/ProductVariant/43486591647938",
+              "properties": [
+                {
+                  "name": "_compare_at_price",
+                  "value": {
+                    "string": "0"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_compare_at_price_discount",
+                  "value": {
+                    "string": "0"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_notes",
+                  "value": {
+                    "string": "Initial Subscription Order"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": "gid://shopify/SellingPlan/6356533442",
+              "sellingPlanDigest": "9eded4b1bba1ffd4e875ceff38f93ac3"
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "15500.00",
+              "currencyCode": "PKR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "e1de8db7-1a24-4243-a0d2-5de18ec18150",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/44536639946946",
+              "variantId": "gid://shopify/ProductVariant/44536639946946",
+              "properties": [
+                {
+                  "name": "_compare_at_price",
+                  "value": {
+                    "string": "5620000"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_compare_at_price_discount",
+                  "value": {
+                    "string": "70"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "16900.00",
+              "currencyCode": "PKR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

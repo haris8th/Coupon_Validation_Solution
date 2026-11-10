@@ -1,0 +1,47 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBdB0HIo0djilyu1heUzsxrhDby8cM6k8PJYKhm9wvbr9_UeRGwy8C2p9AFcKgCShlUV7QccccNX7Exl7bY9Amc-iBmSD9j1ENwppHZoWmkeXFAWrZnfPOVm2AHecojqUAnDY1QCCqj1dhX2GROq-54l2f0EQH8v2vNL6ysjz7_cHhymd9nCP6mUduQDB97SNyLO-JT2_PJyCOPYDg4jHYa6Qt702ggEmq"
+    },
+    "queueToken": "A55A_zNqrZ8nTByfa5qk7OmROOKNZG4XXbhCpZASxpFCjCaBDQXz8yt888fsQAKisg4_Sqen5iyZLXwa1U22JvIAiYN8PdkIOsIu-Xbsp0Vu6LODm1rQ8r1ZiGkO1g==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "04458eb8-ff93-4a47-bdd3-2e7433b43975",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/40850469748809",
+              "variantId": "gid://shopify/ProductVariant/40850469748809",
+              "properties": [
+                {
+                  "name": "_NetWeight",
+                  "value": {
+                    "string": "1 fl. oz."
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "39.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

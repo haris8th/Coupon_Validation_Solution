@@ -1,0 +1,111 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "DE",
+      "domain": "checkout.bluettipower.eu",
+      "path": "/",
+      "expires": 1825527266.671018,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "EUR",
+      "domain": "checkout.bluettipower.eu",
+      "path": "/",
+      "expires": 1801853683.837095,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGyNlfAAAEAbtvkudTZl65KzRBNzWwPgca7SvibAiwvUn0rm_szBPhueegd3RGAIuKCJ0Khnow68BAqFtgUpTKggdQ:",
+      "domain": "checkout.bluettipower.eu",
+      "path": "/",
+      "expires": 1825527266.252157,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGyNlfdAAEAGZRKXhjw6J8fBCu5n3O4-MkBSspkSmho-Z2ujCQGC8Pid_ce-bHZExwQae4pfym3rDI4YC1GoJP1bIA:",
+      "domain": "checkout.bluettipower.eu",
+      "path": "/",
+      "expires": 1825527266.25221,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGyNlfeAAEA_vCMMymsm6dOuarhCWP2yCGfl24WN2zg7WoZREwso5LmxJ_x7EhfLPtmAN3oZuBkzo5wrAWJzkknOEg:",
+      "domain": "checkout.bluettipower.eu",
+      "path": "/",
+      "expires": 1825527266.252259,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pt_41uba92r",
+      "value": "deviceId%3D9081657b-87a8-4e10-9be6-cb38bfd00cac%26sessionId%3D1fbf2038-fc8b-4f32-933d-b8fc0cef1510%26accountId%3D%26vn%3D1%26pvn%3D1%26lastActionTime%3D1793991280799%26",
+      "domain": ".bluettipower.eu",
+      "path": "/",
+      "expires": 1825527281,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_JIYVGU37Tu6DLg7aLpqGcg%233cdacc1b-235b-486c-8c2c-be8defe9d149-1793991268",
+      "domain": ".bluettipower.eu",
+      "path": "/",
+      "expires": 1825548888.368712,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIqNtp5dwK2t5wCOOLuY7v%3Fkey%3D7cb0eabc5169a5cae8e7d99f544a272b",
+      "domain": "checkout.bluettipower.eu",
+      "path": "/",
+      "expires": 1801853683.836958,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "VxnB6n3TwvKbgLroMY9Kopm7CYsln1vntLXsveBtKTo-1793991290.2862048-1.0.1.1-EftMOfNm8oIEtiFfvFhGcY9IAw3GmL1YhW5.O20vlr6GroOWMRWHhywABvns79fnMP0f3vcl70nAIr06ODcXUvoebv7a3jydTHJPl5LzUDb1QdljkUlD.UgMktid7T.Y",
+      "domain": ".checkout.bluettipower.eu",
+      "path": "/",
+      "expires": 1793993088.347293,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://bluettipower.eu",
+      "_crHasCrossSiteAncestor": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://checkout.bluettipower.eu",
+      "localStorage": [
+        {
+          "name": "cartToken",
+          "value": "\"hWNIqNtp5dwK2t5wCOOLuY7v\""
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIqNtp5dwK2t5wCOOLuY7v\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIqNtp5dwK2t5wCOOLuY7v\",\"customerProfileId\":null,\"countryCode\":\"DE\"},{\"metafields\":[]}]]"
+        }
+      ]
+    }
+  ]
+}

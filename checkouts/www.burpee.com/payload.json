@@ -1,0 +1,61 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBv7_hdcaa0Qy6VpnfqqChLfSWlVCLHLmT1gVssVUHu-LdL3aB86q3ZTWyR2E7nm8_7Tz9en0cY01PYgRvVS-pC0CQiuQ6sKl7Tc4S1PDATilR2BZxnCicaU8xkUrjmGu3H0bxWi36EPNdnaE_yEsH1dBJBTW8Rq2aaI0LW8LnZHl34BrmWdS4YpBQSPDhSHTxnX1I_wg54ut_rF5etJvLA2HRBnzaDKdc"
+    },
+    "queueToken": "A6Kb5bhzakbPkLOncOuualMl3Ngu1SAq8tMU6TkE5ndv04XsUkTyoSEd77K6rACmH1AM1AxVLKtNMOfNTQsBItkxsgEtKqKnFY2BR1N7uiM9-mDummntLHJQX9lDxWIlQg==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "f8b3402c-ef43-4504-b19d-88a6a0b819a2",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/69189508366370",
+              "variantId": "gid://shopify/ProductVariant/69189508366370",
+              "properties": [
+                {
+                  "name": "Ships",
+                  "value": {
+                    "string": "3 - 5 Business Days"
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "_shipping_set",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_shipping_date",
+                  "value": {
+                    "string": "2027-03-22"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "4.95",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

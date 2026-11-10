@@ -1,0 +1,61 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBTaeEG6inSnahowxM2WyL_J2lDK1nTCNMYuHmGf86aIdAwCwQz-PHS_IxWkNbhx67rZU0mICj4eAV4BRFRUBJqm2n1iclLq7fBOdZOSkYguMEsrK7ojDAY8vT-6crwn8HoF5Ee2DBBu5cobL4QFkVvEJveoTBIDIhYVIhOs1fj9Iq96kFumwMl0YFZ4ssnntdRzD99gL9z8QoNOnGVi8kFZj9TYBJPJC0P9DS"
+    },
+    "queueToken": "A_AYn0fRdwh_0IwXe65vqGTmsWE4nJfyq5dtMfMb3IMlH75F0IBRWWgN1NDBZVzz9Tfbu0uBMgCgYru50S1jo44WYhrDqKGVNRS96bSVYOZTDjCOTx0viCBJdKRPLAnnng==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "6d62310c-b600-4d99-a325-a75cbf2f080e",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/68433299341563",
+              "variantId": "gid://shopify/ProductVariant/68433299341563",
+              "properties": [
+                {
+                  "name": "_custom_price",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_custom_quantity_rule",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_slpt",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "80.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

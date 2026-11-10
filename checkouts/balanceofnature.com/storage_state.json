@@ -1,0 +1,773 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".balanceofnature.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1825702149.381542,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1795375751.055442,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG8oqr1AAEAtPBMJ8rQN2Je1SeNDK6ErtL8d2Ap6ivYFmna19bhsst0UEjkjRWkYUBddSoq_j3vzFHB6lgAkLfkv5Q:",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1825702138.276272,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaG8oqu5AAEAq1_AWWZ7-hdajR2HgTRL0W7ayqMNtabrTMkqTG8X_5Ooi4ybyNrqIlOlC6Jt_FjGI1lbVqktjDb9oLY:",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1825702138.276359,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaG8oqu5AAEAbdEP1BCzr4gYTGGLDJloTwDcd7bNug8QGjgC9fnPacHB_p82twqgRWkuG665e9anOxi2ZzmgNKH4qL4:",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1825702138.276429,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shg_ab_visitor_id",
+      "value": "b7693ca3-c1f7-4678-92e8-9c2aeeed9a84",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1825702145.789706,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shg_ab_session_id",
+      "value": "2e665248-f936-40e9-8e2a-5d40eb130b95",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1794167945.136328,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shg_px_visitor_id",
+      "value": "24531732-d0ad-49d2-b037-f6db6c87428c",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1825702140,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shg_px_session_id",
+      "value": "96a22fae-c6fd-47c5-84a2-82e4eb5e9738",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1794167944.327173,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shg_ab_traffic_source",
+      "value": "direct",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1794167945.138777,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shg_px_traffic_source",
+      "value": "direct",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1794167944.328369,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-location",
+      "value": "{\"country\":\"PK\",\"city\":\"Karachi\",\"continent\":\"AS\",\"latitude\":\"24.86\",\"longitude\":\"67.01\",\"region\":\"Sindh\",\"regionCode\":\"SD\"}",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1794169741.16,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ig-id",
+      "value": "ig_1ac7a0c943f2cb94dead81ddbcaa6f5412a8",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702141,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-fv",
+      "value": "1794166141169",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702141,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-pv",
+      "value": "1",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702141,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-vars",
+      "value": "{%22redirectedFrom%22:%22%22}",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702141,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ubid_ovr",
+      "value": "16df6388-5f41-4409-b56b-8220f444c3c0",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1825702142,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_heatVid_4074",
+      "value": "611081429032910087",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1794252543,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_heatIdvUpdated_4074",
+      "value": "1794166143292",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1794252543,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hm_source",
+      "value": "unknown",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1794252543,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vUUID_4074",
+      "value": "fe1b63ef-d6fc-4477-832a-b1d6d07d0a82",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1794252543,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ps_r",
+      "value": "_",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702143,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_sr",
+      "value": "_",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1794167943,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_lu",
+      "value": "https://balanceofnature.com/products/whole-health-system",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702143,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_slu",
+      "value": "https://balanceofnature.com/products/whole-health-system",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1794167943,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_did",
+      "value": "pscrb_88dd3ebb-52ed-429d-b7bb-16584912b2a3",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702143,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_fva",
+      "value": "1794166143343",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702143,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pk_id.4074.YmFsYW5j",
+      "value": "aa6ae26aeiquy26a.1794166144.",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1794295744,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIv9D3t2sggDUpQiVVkiB9%3Fkey%3D461e7a70a4c3140dec5b591d45920aa7",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1802028550.093941,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "f5eb459f-4d1c-4ff7-8013-9672c12d3dd1",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1825702144,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "d3f4b584-b632-461f-a5bf-49a035dccf03",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1794256145,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://balanceofnature.com",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1796758145,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_twpid",
+      "value": "tw.1794166145394.57952699811135445",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1827862145.849885,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ps_slu",
+      "value": "https://balanceofnature.com/products/whole-health-system",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1795966145.97106,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ps_sr",
+      "value": "_",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1795966146.061009,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__adroll_fpc",
+      "value": "a7bb1f8c7b53f8091690c73d0ab10d3b-1794166146432",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825723746,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ar_v4",
+      "value": "%7CZPIERSU6IJAVRKOUXKVAEA%3A20261108%3A1%7C4G6Q57LBCJAZJIDQG5A7KT%3A20261108%3A1",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702146,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_axwrt",
+      "value": "f5eb459f-4d1c-4ff7-8013-9672c12d3dd1",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702146,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1796758146,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=9b2a0564-2044-418c-8c94-37c0cdb3128f&logs=1&id=7b630c52-f3c7-48d0-8ba1-a2a6746b593d&created=1794166146963&expire=1794167046963",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1825702146,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1794166146872.21406125-65ea-4f42-8cc7-7a511f0b05be",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1801942146,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1794166147161.9661183230",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1801942147,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_Elevar-apex",
+      "value": "[1%2C%22f5eb459f-4d1c-4ff7-8013-9672c12d3dd1%22%2C%221794166147%22%2C%221%22%2C%221794166147%22%2C{%22market_id%22:%2210798203123%22%2C%22locale_country_code%22:%22US%22}%2C[]%2C%22{%5C%22_axwrt%5C%22:%5C%22f5eb459f-4d1c-4ff7-8013-9672c12d3dd1%5C%22%2C%5C%22_rdt_uuid%5C%22:%5C%221794166146872.21406125-65ea-4f42-8cc7-7a511f0b05be%5C%22%2C%5C%22_fbp%5C%22:%5C%22fb.1.1794166147161.9661183230%5C%22}%22%2C0]",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702149,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_sp_ses.fb96",
+      "value": "*",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1794167947,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.fb96",
+      "value": "7791f45baea28779.1794166147.1.1794166148.1794166147",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1828726147.951224,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ax_last_event",
+      "value": "1794166145193",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702148,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ax_visitor",
+      "value": "%7B%22firstVisitTs%22%3A1794166147450%2C%22lastVisitTs%22%3Anull%2C%22currentVisitStartTs%22%3A1794166147450%2C%22ts%22%3A1794166148185%2C%22visitCount%22%3A1%7D",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702148,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "addshoppers.com",
+      "value": "2%7C1%3A0%7C10%3A1794166149%7C15%3Aaddshoppers.com%7C44%3ANjRjOWYxOTUzNzA1NGQ3MWE3OTdiMWU3Nzc3OTM2ZDI%3D%7C5a6bb3e4e54f4b8d36c3320df1b705a0102a9ea31591561577e76761888656a9",
+      "domain": "balanceofnature.com",
+      "path": "/",
+      "expires": 1828726148.328709,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_twsid",
+      "value": "1794166145395-459801470.1.1794166149395",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1827862149.397658,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_mpxl_guid",
+      "value": "abef83c2-dbaa-11f1-b45b-59b6ef66b2e4",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702149.441099,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ax_session_data",
+      "value": "eyJpbnZpc2libGVUaW1lIjowLCJ0b3RhbFRpbWUiOjIwMDcsImxhc3RVcGRhdGUiOjE3OTQxNjYxNDk5NTN9",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825702149,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_HJjb*vBjQ0iIcstDgRTzVQ_%7B%7D%23b3da5073-db53-4b8a-b984-5f026cea5cd6-1794166140",
+      "domain": ".balanceofnature.com",
+      "path": "/",
+      "expires": 1825723749.381954,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://balanceofnature.com",
+      "localStorage": [
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionCount",
+          "value": "1"
+        },
+        {
+          "name": "ig-fv",
+          "value": "1794166141169"
+        },
+        {
+          "name": "_heatCartSyncedVid",
+          "value": "611081429032910087"
+        },
+        {
+          "name": "_axwrt_backup",
+          "value": "{\"value\":\"f5eb459f-4d1c-4ff7-8013-9672c12d3dd1\",\"setTs\":null,\"expiresAt\":1825702146066}"
+        },
+        {
+          "name": "gorgias.conversation-starters-timeout-cohort",
+          "value": "5000"
+        },
+        {
+          "name": "gorgias.guest-id",
+          "value": "f5eb459f-4d1c-4ff7-8013-9672c12d3dd1"
+        },
+        {
+          "name": "vUUID",
+          "value": "fe1b63ef-d6fc-4477-832a-b1d6d07d0a82"
+        },
+        {
+          "name": "asProductViewHistory",
+          "value": "[{\"time\":1794166148723,\"product\":{\"product_name\":\"Whole Health System\u2122\",\"image\":\"https://balanceofnature.com/cdn/shop/files/whs.webp\",\"quantity\":1,\"sku\":\"https://balanceofnature.com/products/whole-health-system\"}}]"
+        },
+        {
+          "name": "_mr_vid",
+          "value": "aa6ae26aeiquy26a"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionId",
+          "value": "1794166147"
+        },
+        {
+          "name": "asTimeOnSiteValue",
+          "value": "3008"
+        },
+        {
+          "name": "gorgias.visit-count",
+          "value": "{\"value\":1,\"expiry\":null}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--lastDlPushTimestamp",
+          "value": "1794166147"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIv9D3t2sggDUpQiVVkiB9\""
+        },
+        {
+          "name": "id_tag_session_id",
+          "value": "f6899c2b-e9d7-4f35-81af-a6973275a930"
+        },
+        {
+          "name": "_entryExPage",
+          "value": "https://balanceofnature.com/products/whole-health-system"
+        },
+        {
+          "name": "asTimeOnSiteSetTime",
+          "value": "1794166150545"
+        },
+        {
+          "name": "_heatDeviceType",
+          "value": "2"
+        },
+        {
+          "name": "AS_DATA_PRIVACY_DATA_REGULATED",
+          "value": "false"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://balanceofnature.com/products/whole-health-system\",\"exp\":1796758145787}"
+        },
+        {
+          "name": "asPageViews",
+          "value": "1"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794425344348"
+        },
+        {
+          "name": "_entryEnPage",
+          "value": "https://balanceofnature.com/products/whole-health-system"
+        },
+        {
+          "name": "pixelLastLoadedDatetime",
+          "value": "1794184149191"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":{\"activated\":\"idle\"},\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":true,\"chatTitle\":\"Balance of Nature Support\",\"isConnected\":false,\"isChatOnline\":false,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"optional\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":true,\"replyType\":\"reply-dynamic\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "heatmapHsrVid",
+          "value": "611081429032910087"
+        },
+        {
+          "name": "ig-id",
+          "value": "ig_1ac7a0c943f2cb94dead81ddbcaa6f5412a8"
+        },
+        {
+          "name": "__hmVisitHistory_4074",
+          "value": "{\"v\":1,\"first\":1794166143,\"seq\":1,\"prevIdv\":\"\",\"prevT\":0,\"lastCart\":0,\"lastCheckout\":0,\"lastPurchase\":0,\"purchases\":0,\"recent\":[],\"cur\":{\"idv\":\"611081429032910087\",\"t\":1794166143,\"te\":1794166151,\"pg\":{\"p611081429032850002\":{\"h\":14535083,\"c\":0,\"s\":0,\"d\":7764,\"p\":1}},\"hs\":[14535083],\"pp\":[14535083],\"ev\":0,\"rv\":0,\"orders\":[],\"cartAt\":0,\"checkoutAt\":0,\"purchaseAt\":0},\"snap\":{\"idv\":\"611081429032910087\",\"tags\":{\"hmh_v\":\"1\",\"hmh_seq\":\"1\",\"hmh_t\":\"1794166143\",\"hmh_first\":\"1794166143\",\"hmh_lc\":\"0\",\"hmh_lk\":\"0\",\"hmh_lp\":\"0\",\"hmh_np\":\"0\"},\"delivered\":false}}"
+        },
+        {
+          "name": "hutk_data",
+          "value": "{}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "f5eb459f-4d1c-4ff7-8013-9672c12d3dd1"
+        },
+        {
+          "name": "_heatmapConfigs",
+          "value": "{\"_heatIdVisit\":{\"idVisit\":\"611081429032910087\",\"_heatIdvUpdated\":1794166143292},\"_userJourney\":null,\"leadConvCount\":0,\"_heatEventsCount\":0,\"window.isReturningUser\":0,\"heatmapTracking\":{\"events\":{\"track\":true,\"rate\":100},\"record\":{\"track\":true,\"rate\":100},\"checkoutLinkRules\":[{\"match\":\"hoshart.com\",\"selector\":\".cart-summary-aside a\"},{\"match\":\"haushaltsmagazin\",\"selector\":\"a.based_on_country\"},{\"match\":[\"thecatvetreport\",\"catproductinsider\"],\"selector\":\"a[href*='trypurestream']\"},{\"match\":\"hautgesundheit-aktuell.com\",\"selector\":\"a[href*='hautliebe.de']\"},{\"match\":\"pawstested.com\",\"selector\":\"a[href*='thetenace.com']\"},{\"match\":\"thetenace.com\",\"selector\":\"a[href*='pawstested.com']\"},{\"match\":\"myhealthstandard.com\",\"selector\":\"a[data-id^='fkt-button-']\"},{\"match\":\"vahrelo.com\",\"selector\":\"a[href*='grillgearinsider.com']\"},{\"match\":\"grillgearinsider.com\",\"selector\":\"a[href*='vahrelo.com']\"},{\"match\":\"rejuvacare.com\",\"selector\":\"a[href*='smarthealthpractices.com']\"},{\"match\":\"smarthealthpractices.com\",\"selector\":\"a[href*='rejuvacare.com']\"},{\"match\":\"myhealthyshape.com\",\"selector\":\"a.btn.btn-v2[href*='pdp-glp1-patches-v1'], a.btn.btn-v2[href*='pages/pdp-big4'], a.btn.btn-v2[href*='top5-glp-1-patches']\"},{\"match\":\"pawstested.com\",\"selector\":\"a[href*='catvetinsider.com']\"},{\"match\":\"catvetinsider.com\",\"selector\":\"a[href*='pawstested.com']\"},{\"match\":\"catvetinsider.com\",\"selector\":\"a[href*='thetenace.com']\"},{\"match\":\"catvetinsider.com\",\"selector\":\"a[href*='pawstested.com']\"},{\"match\":\"wellness-informed.co.uk\",\"selector\":\"a[href*='optimiise.com']\"},{\"match\":\"optimiise.com\",\"selector\":\"a[href*='wellness-informed.co.uk']\"},{\"match\":\"uromend.com\",\"selector\":\"a[href*='prostatehealthreport.com']\"},{\"match\":\"prostatehealthreport.com\",\"selector\":\"a[href*='uromend.com']\"},{\"match\":\"obseu.yougreencolumn.com\",\"selector\":\"a[href*='us.loopearplugs.com']\"},{\"match\":\"us.loopearplugs.com\",\"selector\":\"a[href*='obseu.yougreencolumn.com']\"},{\"match\":\"tryheatmap.ai\",\"selector\":\"a[href*='heatmap.com']\"},{\"match\":\"heatmap.com\",\"selector\":\"a[href*='tryheatmap.ai']\"},{\"match\":\"heatmapcore.com\",\"selector\":\"a[href*='heatmap.com']\"},{\"match\":\"heatmap.com\",\"selector\":\"a[href*='heatmapcore.com']\"}],\"elTagging\":[],\"survey\":{\"4074\":true},\"unique_ids\":{\"3708\":true}},\"_heatMapEnvRecord\":{\"PROXYURL\":\"https://proxy.heatmap.com\",\"HEATMAPURL\":\"https://dashboard.heatmap.com\",\"S3URL\":\"https://heatmap-project-2022.s3.us-west-2.amazonaws.com/\",\"CONFIGURL\":\"https://cfg.heatmap.com/root/\",\"KINESISGATEWAY\":\"https://kinesis.heatmap.com/data\",\"RECORDINGGATEWAY\":\"https://8a33wzsc7i.execute-api.us-west-2.amazonaws.com/PutRecord/live\",\"KINESISSTREAM\":\"kinesisForProduction\",\"VISITGATEWAY\":\"https://zix4loorx2.execute-api.us-west-2.amazonaws.com/Prod/sttracker\",\"WEBSOCKET\":\"wss://vst.heatmap.com\",\"CIP\":\"44.239.174.175\",\"HEATMAPS\":[],\"ISOLATEDSITES\":[],\"IDSITE\":4074,\"FRONTEND_DEBUG\":0},\"_heatmapConfigUrl\":\"https://cfg.heatmap.com/root/\"}"
+        },
+        {
+          "name": "heatmap_page_count_611081429032910087",
+          "value": "1"
+        },
+        {
+          "name": "id_tag_session_last_activity",
+          "value": "1794166143232"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cart",
+          "value": "[]"
+        },
+        {
+          "name": "_heatHsr",
+          "value": "14535083"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageUrl",
+          "value": "https://balanceofnature.com/products/whole-health-system"
+        },
+        {
+          "name": "_heatidL",
+          "value": "611081429032850002"
+        },
+        {
+          "name": "heatmapDebugger",
+          "value": "{\"heatmapDCPageLoadTime\":0,\"heatmapDCVisit\":0,\"heatmapDCLogHSR\":0,\"preprocessorLT\":\"1014.3000000119209ms\"}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIv9D3t2sggDUpQiVVkiB9\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIv9D3t2sggDUpQiVVkiB9\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--params",
+          "value": "{\"market_id\":\"10798203123\",\"locale_country_code\":\"US\",\"user_id\":\"f5eb459f-4d1c-4ff7-8013-9672c12d3dd1\",\"session_id\":\"1794166147\",\"session_count\":\"1\",\"session_landing_page_url\":\"https://balanceofnature.com/products/whole-health-system\",\"session_landing_page_title\":\"Whole Health System\u2122 \u2013 Balance of Nature\"}"
+        },
+        {
+          "name": "_user_agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "heatmap_id_site",
+          "value": "4074"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageTitle",
+          "value": "Whole Health System\u2122 \u2013 Balance of Nature"
+        },
+        {
+          "name": "_shg_ab_visitor_details",
+          "value": "{\"first_visit_timestamp\":1794166138471}"
+        },
+        {
+          "name": "_applovin_pixel_version",
+          "value": "s/a/3.6.68"
+        },
+        {
+          "name": "ig-vars",
+          "value": "{\"redirectedFrom\":\"\"}"
+        },
+        {
+          "name": "_heatVid",
+          "value": "611081429032910087"
+        },
+        {
+          "name": "enHsr",
+          "value": "14535083"
+        },
+        {
+          "name": "_shg_px_session",
+          "value": "{\"session_id\":\"96a22fae-c6fd-47c5-84a2-82e4eb5e9738\",\"traffic_source\":null,\"visitor_type\":null,\"landing\":null,\"exposures\":{}}"
+        },
+        {
+          "name": "heatmap_recording_auth",
+          "value": "{\"shouldRecord\":false,\"groupRecordingId\":null,\"idVisit\":\"611081429032910087\",\"timestamp\":1794166148064,\"expiryHours\":24}"
+        },
+        {
+          "name": "product_viewed",
+          "value": "true"
+        },
+        {
+          "name": "_shg_ab_session",
+          "value": "{\"session_id\":\"2e665248-f936-40e9-8e2a-5d40eb130b95\",\"traffic_source\":\"direct\",\"visitor_type\":\"new\",\"landing\":{\"url\":\"https://balanceofnature.com/products/whole-health-system\",\"referrer\":null},\"exposures\":{}}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cookies",
+          "value": "{\"_axwrt\":\"f5eb459f-4d1c-4ff7-8013-9672c12d3dd1\",\"_rdt_uuid\":\"1794166146872.21406125-65ea-4f42-8cc7-7a511f0b05be\",\"_fbp\":\"fb.1.1794166147161.9661183230\"}"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1794166151048"
+        },
+        {
+          "name": "asHasViewedProductPage",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}

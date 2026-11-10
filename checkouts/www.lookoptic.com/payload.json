@@ -1,0 +1,61 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBCbh_BsNd2WNs5j6oqNc2qDOYizvENKjeO4O6XNXoknq6hnKK9l2Sxn4q005ngXBFjRaJNHshNJtLApG79B31eP0RxDG_cEP2t0sJV6JE5TlsaKPZOA9YTfYmhYiXqkFMw2buvtfVzvxfqnfU9byLQ4qhx4MzEZMvQ1sIIHARyNwTyJK94Ojwt26I5UogCJ4SAoozbaV41RIlQoC_Vsh-QVbRlXZw3QU"
+    },
+    "queueToken": "A_wcxHQcjVlUiHfHOEyDyPDh4hiW9Z_wLBmQE_ghiIGHZZ6qdRVof2u20JR90EmZ4iIxS2VqcMCsKGhDqRVgHOs5GHk6eP3gSB0zGwd3jtyX8Q2NjJrChIHgajqn",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "fd7861f1-cc3f-44b0-b577-068fe8660d15",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/43994477002811",
+              "variantId": "gid://shopify/ProductVariant/43994477002811",
+              "properties": [
+                {
+                  "name": "_variantIndex",
+                  "value": {
+                    "string": "2817"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_igTestGroup",
+                  "value": {
+                    "string": "69e8022b-0af0-44e9-be05-be993c631c80"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_igTestGroups",
+                  "value": {
+                    "string": "be993c631c80,e9233f8967b2,d53df24944f4"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "68.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

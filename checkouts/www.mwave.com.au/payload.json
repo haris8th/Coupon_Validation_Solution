@@ -1,0 +1,64 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBg-U2D918A0bDmMelyPYh-YkDex1TJVngwQcJw42jY0JOY9jlNcM2zwz1iVus5mkltkWFTGUSxDWpl1RtKyRsV66VWgtyfXehuHraWtrcmk2a5ydv-Fw9NgBwYhAf9RhxdcXMnsGYOZ9iK3gp2-jkabhAE6pbVf2Iy1KzhgDzI7tA1TEZ73sQ7Hyq9GnwbtvYkMPUSGcJ1Yeh-OEbN7L7QtFQGR64GwXUyA"
+    },
+    "queueToken": "A8uvRa4fwspyVEQfT9UZybBMWhaICzswZ_m3ozN6_bywXZ1pP7Ftj8R5wKsbhJjcJSuEe16yLlPZtOkoufMSCAvzgKbIIma42ezYtMY6_m8pGkSna7fCVFm3ad7ek4f8tsrEzpr2Dbc=",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "a391adb5-95c5-4f36-bba7-af5502779e12",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/48209383850115",
+              "variantId": "gid://shopify/ProductVariant/48209383850115",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "3.00",
+              "currencyCode": "AUD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "bc9e4b1c-1861-4ec4-88c5-3efaa8204de6",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/47995351924867",
+              "variantId": "gid://shopify/ProductVariant/47995351924867",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 2
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "398.00",
+              "currencyCode": "AUD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

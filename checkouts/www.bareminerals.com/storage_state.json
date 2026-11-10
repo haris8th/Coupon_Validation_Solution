@@ -1,0 +1,721 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".bareminerals.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Analytics",
+      "value": "{\"merchantId\":\"30000719\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://web-she.global-e.com/\",\"clientId\":\"f8df95ed-80a4-45e6-964f-08a054e7d742\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794249909884}",
+      "domain": "www.bareminerals.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHBoF0MAAEAs3Pyg9tkwafnLTrKmliAPnBUfZ9xjVZldDfAedOgrGuw3lEvR9X6o0I2cekadFQ0xMh13Y0jZIL7DVQ:",
+      "domain": "bareminerals.com",
+      "path": "/",
+      "expires": 1825785874.776203,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1825785937.761613,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1802112337.761974,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHBoF5IAAEAzSIggKw_uMRiF-7irY1uRsAd89emS2KOWi1atKmT1NIGi09GzAsOh1dxn9UmdEWiKSh5xF4WNkjF7j8:",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1825785875.719765,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHBoGDBAAEAKHL4opCT9iIL3tBZJs7SptULDkUGZNbgk1gCfac4XX0gyoZqob2XNYuZRM6WA8lTcPwd_mS6WfH1a2E:",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1825785875.719866,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHBoGDCAAEAY17hK3heAu3E0BKKrR8oZYgiKQt2u6h-yGn990En9DYkSZIqqvH0gFMUPKwiB0c-WMi9i2l7bxY1lO0:",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1825785875.719963,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__eventn_id",
+      "value": "i7uecxkima.1794249875",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1828809875.831786,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rrssts",
+      "value": "1794249880151",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1825785880,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rrv2ses.7e21",
+      "value": "*",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1794251710,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rrpvc",
+      "value": "2",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1825785885,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxQdPa7VIj6l7yq0hYzlD%3Fkey%3D6758c0221ec25b3abf7ffc78e6974d46",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1802112337.761783,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mp_38715f97a0d9cbc1787b44ffc8695840_mixpanel",
+      "value": "%7B%22distinct_id%22%3A%20%22%24device%3A1a1c1a0928d2144-04e144e339d306-26011851-100200-1a1c1a0928d2144%22%2C%22%24device_id%22%3A%20%221a1c1a0928d2144-04e144e339d306-26011851-100200-1a1c1a0928d2144%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1825785910,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.331410360.1794249891",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1828809892.93234,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "2c.cId",
+      "value": "6af214a0af77dc17079ccf9e",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1828809891.163461,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "value": "FPID2.2.0Z58DuHiqyJOZd22fFW0mm5vINVUlUNBeutaUS%2Ftbgs%3D.1794249891",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1828809939.449759,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "value": "rmMxaWLWEk08gmo1p48PXSO%2BYaAFytvy6ZdBbdOChuo4rg8wJmFfYnbeUvfQqCo%2BrLVtMbMXSoK2cOmoJIHEzTapMEmyq1AbZDD1RyfKtYk07J0%2BtTSyev9RHEpUPg%3D%3D",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1794321891.403849,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1872895796.1794249892.-.-.1794249891.2119280689.1794249892.1794249891",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1802025892,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mdApp_cookieModalTime",
+      "value": "true",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1794854691.933374,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "5112bba8-0a96-49d8-b54a-73b16d38f07e",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1794339894,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__obref",
+      "value": "03727268-0ced-413d-b89a-29fca20fa5c5",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1825785897.306237,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "dfeb4c0d-d4bb-44e3-b726-b51912e9244e",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1825785896,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lantern",
+      "value": "ee0f06d5-3a34-4062-9e96-852bd1db584a",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1796841898,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tolstoy-anonymousId",
+      "value": "50cb24e0-3792-4ada-b72d-f86eee475d61",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1796841908,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "apt_pixel",
+      "value": "eyJkZXZpY2VJZCI6ImNjYzE2OTkwLTVlYWEtNGI5MS1iMzA3LWNmNjZjNDZlMGM0NiIsInVzZXJJZCI6bnVsbCwiZXZlbnRJZCI6MSwibGFzdEV2ZW50VGltZSI6MTc5NDI0OTkwMDk2MCwiY2hlY2tvdXQiOnsiYnJhbmQiOiJjYXNoYXBwYWZ0ZXJwYXkifX0=",
+      "domain": ".www.bareminerals.com",
+      "path": "/",
+      "expires": 1825785900,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amp_f24a38",
+      "value": "78uMCfzReNE9DpvFUV-QNu...1k70q1gtt.1k70q1gtt.0.0.0",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1825785900,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Mon+Nov+09+2026+13%3A45%3A01+GMT-0500+(Eastern+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.bareminerals.com%2Fproducts%2Foriginal-mineral-veil-daily-dose-loose-setting-powder&groups=C0001%3A1%2CC0005%3A1%2CC0003%3A1%2CC0004%3A1%2CC0002%3A1",
+      "domain": ".www.bareminerals.com",
+      "path": "/",
+      "expires": 1825785901,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.7e21",
+      "value": "*",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1794251708,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.7e21",
+      "value": "5284a5ebd315c900.1794249908.1.1794249909.1794249908",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1828809908.951392,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ppid",
+      "value": "e5147b7d-a17b-4a5d-8c9b-7055a27a7632",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1794836708,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rrv2id.7e21",
+      "value": "110d1916-9dcc-4465-b557-d1f0b269097e.1794249881.1.1794249911.1794249881.73776735-c071-4bda-85bc-a2085ca5ce1a",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1828809910.817033,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3AMPS._PKSD_f_f_*ypGvghZTzWD542ZwxWXwg%23e100ec7b-71ea-459e-9666-7a4c066ac483-1794249879",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1825807537.761342,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rsession",
+      "value": "5feab219cb5b6ebf",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1794251718,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ruid",
+      "value": "eyJ1dWlkIjoiNmRmNDU4NGMtNmIyZC00MjAwLWI5ZGEtNTNmNjlkNWIzMjZkIn0%3D",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1828809916.593798,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Consent",
+      "value": "%7B%22required%22%3Afalse%2C%22groups%22%3A%7B%221%22%3A1%2C%222%22%3A1%2C%223%22%3A1%7D%7D",
+      "domain": ".www.bareminerals.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GLBE_SESS_ID",
+      "value": "%7B%22sid%22%3A%22118880080.295433591.30000719%22%2C%22expiry%22%3A%222026-11-09T19%3A15%3A18.964Z%22%7D",
+      "domain": ".www.bareminerals.com",
+      "path": "/",
+      "expires": 1828809918.964457,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=e5e3b04d-cb8b-4224-9acf-d2c4b309db4a&logs=1&id=d79ca594-1331-41e3-af86-259ce85bc9d3&created=1794249909026&expire=1794250820568",
+      "domain": "www.bareminerals.com",
+      "path": "/",
+      "expires": 1825785920,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "tY37swgbFIHOK1XYmzbzMFmM5mQ5xWqPwS28j26GKXw-1794249920.8407624-1.0.1.1-xErrgzWEYaibPl57uo5N9xmXBNA5tc1sPbgKggaUExUHAyijYB9cuXWmFPApilU_lQYIPcOvcnbBULsV.IgylR77lj8bocX3DiSvHhS1lEEChHoozx_t9QsNhGeGdGt_",
+      "domain": ".www.bareminerals.com",
+      "path": "/",
+      "expires": 1794251721.366753,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://bareminerals.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "forterToken",
+      "value": "f01be71c46b74b5baa62497a29d4e9b7_1794249916072__UDF43-mnf-anf-dnf-nnf_32ck_",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1828809934,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_LV31RDQLDF",
+      "value": "GS2.1.s1794249890$o1$g1$t1794249938$j12$l0$h1298778346",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1828809938.828266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_YPVY4Y13Y1",
+      "value": "GS2.1.s1794249892$o1$g1$t1794249938$j14$l0$h0",
+      "domain": ".bareminerals.com",
+      "path": "/",
+      "expires": 1828809938.854077,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.bareminerals.com",
+      "localStorage": [
+        {
+          "name": "__$intcm",
+          "value": "{\"emptyBuffersSent\":2,\"totalBuffersSent\":3,\"firstRecordedAt\":1794249925609}"
+        },
+        {
+          "name": "nosto:visit",
+          "value": "6af214a0af77dc17079ccf9f"
+        },
+        {
+          "name": "__mpq_38715f97a0d9cbc1787b44ffc8695840_ev",
+          "value": "[]"
+        },
+        {
+          "name": "f3b83c8e592aef14c2204ee437d40785",
+          "value": "7o9r4q92n79426nno5o47o64p17ro10s"
+        },
+        {
+          "name": "_yo_aat",
+          "value": "{\"publicToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfaWQiOiI3N2IzOTVlNy0zYzEzLTQxMjEtOTg5NC1mOGQyMWUzZTU5N2YiLCJqdGkiOiJiOWQwYTRlMy0zYjFlLTQ4NmUtYWYzNi0zOTc2ODBmMmNiNzYiLCJ0eXBlIjoxfQ.eWklHuUxRlqOYK8PFB8LlMA_omB2aDgiiA0LolW4A9k\",\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbiI6IllvZmkgRGVmYXVsdCBBcHAiLCJhcHBfaWQiOiI3N2IzOTVlNy0zYzEzLTQxMjEtOTg5NC1mOGQyMWUzZTU5N2YiLCJjZCI6ImJhcmVtaW5lcmFscy1wcm9kLm15c2hvcGlmeS5jb20iLCJjaWQiOiJjaWQtNzdiMzk1ZTctM2MxMy00MTIxLTk4OTQtZjhkMjFlM2U1OTdmLTFkZTAxMDA2LWMyMDUtNDAwZS1iMzQwLTcwZjc1NjRjM2MzMS1iM2IxNjc1MC1kYzZkLTExZjEtOTczZC1mZjAyMWZjZDM4YzkiLCJleHAiOjE3OTQyNTcxMTYsImppZCI6ImppZC04MzZjZGM4ZS00OGZiLTUxMDQtOWJkNy1mYjJlY2EzOTAwYTUiLCJvaWQiOiIwNmU1OWFjZC0wMDA2LTQxYTMtOWYwMS03MDg2YzIyOTE5ZGEiLCJvbiI6IllvZmkifQ.LqDvX9AZpnrQfW2vj8KIF0z3jXp1TBlmH3hqC1h072o\"}"
+        },
+        {
+          "name": "sessionIdSelector",
+          "value": "c29c7e37-0c16-436a-b61f-5f2b448fafdd"
+        },
+        {
+          "name": "klv_user_klevu-167227719048815427_sessionId",
+          "value": "7cd1f044-f04c-4371-a569-bbde0304d787"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":2,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1794249938840},\"expires\":1802025938840},\"gsid_dc\":{\"value\":{\"joinId\":\"0ZFFJNIFeQJQbx7Sob5w7Stu3pMp9vl7Yw\",\"lastJoinedTimeMs\":1794249891626},\"expires\":1794250191626}}"
+        },
+        {
+          "name": "ppid",
+          "value": "e5147b7d-a17b-4a5d-8c9b-7055a27a7632"
+        },
+        {
+          "name": "gorgias.conversation-starters-timeout-cohort",
+          "value": "10000"
+        },
+        {
+          "name": "loomi-cart",
+          "value": "{\"token\":\"hWNIxQdPa7VIj6l7yq0hYzlD?key=6758c0221ec25b3abf7ffc78e6974d46\",\"note\":\"\",\"attributes\":{\"vslyCT\":\"vslyCT_hWNIxQdPa7VIj6l7yq0hYzlD?key=6758c0221ec25b3abf7ffc78e6974d46\",\"vslySUBS\":\"0\",\"vslyUID\":\"i7uecxkima\",\"vslySID\":\"5083953888224156\",\"journey_id\":\"jid-836cdc8e-48fb-5104-9bd7-fb2eca3900a5\",\"GE_isApplePay\":\"false\",\"GE_consentPrefs\":\"{\\\"marketing\\\":\\\"yes\\\",\\\"analytics\\\":\\\"yes\\\",\\\"preferences\\\":\\\"yes\\\",\\\"sale_of_data\\\":\\\"yes\\\"}\",\"GE_utmParams\":\"utm_source=direct&utm_medium=(none)&utm_campaign=(not-set)\",\"GE_clientId\":\"f8df95ed-80a4-45e6-964f-08a054e7d742\",\"cartToken\":\"hWNIxQdPa7VIj6l7yq0hYzlD?key=6758c0221ec25b3abf7ffc78e6974d46\",\"gorgias.guest_id\":\"dfeb4c0d-d4bb-44e3-b726-b51912e9244e\",\"gorgias.session_id\":\"e11a9763-533a-46aa-ba67-a5f7f6ec81f2\",\"GE_frtToken\":\"f01be71c46b74b5baa62497a29d4e9b7_1794249916072___32ck_tt\",\"GLBE_SESS_ID\":\"118880080.295433591.30000719\"},\"original_total_price\":0,\"total_price\":0,\"total_discount\":0,\"total_weight\":0,\"item_count\":0,\"items\":[],\"requires_shipping\":false,\"currency\":\"USD\",\"items_subtotal_price\":0,\"cart_level_discount_applications\":[],\"discount_codes\":[]}"
+        },
+        {
+          "name": "gorgias.guest-id",
+          "value": "dfeb4c0d-d4bb-44e3-b726-b51912e9244e"
+        },
+        {
+          "name": "forterToken",
+          "value": "f01be71c46b74b5baa62497a29d4e9b7,1794249934418"
+        },
+        {
+          "name": "klv_user_klevu-167227719048815427_lastSend",
+          "value": "1794253191"
+        },
+        {
+          "name": "ftr__gf",
+          "value": "{\"et\":1794249918574,\"us\":\"]\\u001ci(=QlN\\u0006OIZs[\\u0000\\u001fSBD|ac\\u00025ORX\\f]b7Q\"}"
+        },
+        {
+          "name": "gorgias.visit-count",
+          "value": "{\"value\":1,\"expiry\":null}"
+        },
+        {
+          "name": "gadget_klaviyo_pixel_session_v1",
+          "value": "{\"sessionId\":\"d3c8395e-f792-4a68-96ce-4f8d79684997\",\"startedAt\":\"2026-11-09T18:44:56.615Z\",\"lastActivityAt\":\"2026-11-09T18:45:08.155Z\",\"pageCount\":1,\"entryUrl\":\"https://www.bareminerals.com/products/original-mineral-veil-daily-dose-loose-setting-powder\",\"exitUrl\":\"https://www.bareminerals.com/products/original-mineral-veil-daily-dose-loose-setting-powder\",\"referrer\":\"\",\"deviceType\":\"desktop\",\"hasAddToCart\":false,\"addedVariants\":[],\"visitedPathKeys\":{\"/products/original-mineral-veil-daily-dose-loose-setting-powder\":true},\"firstAddToCartAt\":null,\"userInteracted\":true,\"lastProgressSentAt\":\"2026-11-09T18:44:56.615Z\"}"
+        },
+        {
+          "name": "lmi_utm_data",
+          "value": "[]"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxQdPa7VIj6l7yq0hYzlD\""
+        },
+        {
+          "name": "statsig.stable_id.2988606838",
+          "value": "\"1d7d0470-5aa8-4f3a-8cdf-c1edb844f0ff\""
+        },
+        {
+          "name": "pst",
+          "value": "1794249920274"
+        },
+        {
+          "name": "statsig.last_modified_time.evaluations",
+          "value": "{\"statsig.cached.evaluations.3576085457\":1794249899227}"
+        },
+        {
+          "name": "klv_user_klevu-167227719048815427_segments",
+          "value": "[]"
+        },
+        {
+          "name": "sessionIdTimestamp",
+          "value": "1794249894894"
+        },
+        {
+          "name": "vsly_visited_pages",
+          "value": "[{\"ts\":\"2026-11-09T18:44:41.000Z\",\"name\":\"https://www.bareminerals.com/products/original-mineral-veil-daily-dose-loose-setting-powder\"},{\"ts\":\"2026-11-09T18:44:35.000Z\",\"name\":\"https://www.bareminerals.com/\"}]"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "loomi-flags",
+          "value": "{\"pixel-atc\":true,\"cache-nav-clear\":true,\"sdk-reinit-on-cache-v2\":true,\"op-focus-trap-removal\":true,\"beacon\":true,\"resolve-used-fonts-new-logic\":true,\"sdk-reconcile\":true,\"experience-applied-callback\":true,\"micro-batching\":true,\"bunny-cdn\":true,\"sdk-force-apply-after-revert\":true,\"backend-track-redirect\":true,\"subscriptions_v1\":true,\"atc-alignment\":true,\"force-refresh-cart\":true,\"alloc-client-side-formula\":true,\"allocate-checkout-extensibility\":true,\"block-do-not-track\":false,\"sdk-auto-clean\":true,\"checkout-live-prices\":true,\"keep-redirect-sid\":true,\"utm-decode\":true,\"fb-locale-currency\":true,\"fb-recs-cache\":true,\"coalesce-recs\":true,\"svc-stats\":true,\"persist-purchases\":true,\"live-prices\":true,\"checkout-reporting-ignore-mp\":true,\"currency-aware-client-targeting\":true,\"reload-on-device-changed\":true,\"opt-img\":true,\"theme-testing\":true,\"coalesce-alloc\":true,\"force-mobile-by-width\":true,\"sdk-hydration-support\":true,\"sec-dim-image\":true,\"sdk-enable-cart-enrichment\":false}"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "klv_user_klevu-167227719048815427_uuid",
+          "value": "false"
+        },
+        {
+          "name": "os_did",
+          "value": "dfeb4c0d-d4bb-44e3-b726-b51912e9244e"
+        },
+        {
+          "name": "__$intc",
+          "value": "{\"startTime\":1794249935627,\"lastPersistTime\":1794249938674,\"counts\":{\"focusout\":1},\"nonTrustedLog\":[]}"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":{\"activated\":\"idle\"},\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":true,\"chatTitle\":\"bareMinerals - Live Chat\",\"isConnected\":false,\"isChatOnline\":true,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"always-required\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":true,\"replyType\":\"reply-in-minutes\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "delivery_promise_default_address",
+          "value": "{\"zip\":\"74600\",\"timezone\":\"Asia/Karachi\"}"
+        },
+        {
+          "name": "klv_kmcData_klevu-167227719048815427",
+          "value": "{\"timeOfLoad\":1794249881}"
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "__eventn_id",
+          "value": "i7uecxkima.1794249875"
+        },
+        {
+          "name": "vsly_audiences",
+          "value": "[\"n\",\"d\"]"
+        },
+        {
+          "name": "loomi_session_products",
+          "value": "[{\"productId\":7428578771029,\"variantId\":42581664923733,\"ts\":\"2026-11-09T18:44:44.000Z\",\"handle\":\"original-mineral-veil-daily-dose-loose-setting-powder\"}]"
+        },
+        {
+          "name": "__MAG__LOCAL__STORAGE__ID__",
+          "value": "88b6326c-9dd3-4862-a695-f209dcbc05cc"
+        },
+        {
+          "name": "klv_user_klevu-167227719048815427_sessionInfo",
+          "value": "{}"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1794249878284"
+        },
+        {
+          "name": "a7f3c9e2b18d4056",
+          "value": "{\"v\":1,\"t\":\"7o9r4q92n79426nno5o47o64p17ro10s\",\"d\":false,\"f\":3}"
+        },
+        {
+          "name": "amplitude_unsent_identify_f24a385d8a24a6edbbbccef706d9644e_apt-placement",
+          "value": "[]"
+        },
+        {
+          "name": "_rsession",
+          "value": "tPLTEEYbCwF3QxTxGieDWMP3AEyfgsmV50722vdjpPDsC4QAVpRabA3VEaceDhMzmabwceyI1ZmVhYjIxOWNiNWI2ZWJmIjp7ImlkIjoiNWZlYWIyMTljYjViNmViZiIsImZpcnN0X2FjdGl2ZSI6MTc5NDI0OTkxNjU3MCwibGFzdF9hY3RpdmUiOjE3OTQyNDk5MTY1NzAsImdlb2xvY2F0aW9uIjp7ImNpdHlfbmFtZSI6IkthcmFjaGkiLCJjb250aW5lbnRfY29kZSI6IkFTIiwiY29udGluZW50X25hbWUiOiJBc2lhIiwiY291bnRyeV9jb2RlIjoiUEsiLCJjb3VudHJ5X25hbWUiOiJQYWtpc3RhbiIsImxhdGl0dWRlIjoyNC44NjA4LCJsb25naXR1ZGUiOjY3LjAxMDQsInBvc3RhbF9jb2RlIjoiNzQwMDAiLCJwcm92aW5jZV9jb2RlIjoiU0QiLCJwcm92aW5jZV9uYW1lIjoiU2luZGgifX19"
+        },
+        {
+          "name": "_cordial_cart_items",
+          "value": "{}"
+        },
+        {
+          "name": "__mp_opt_in_out_38715f97a0d9cbc1787b44ffc8695840",
+          "value": "1"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxQdPa7VIj6l7yq0hYzlD\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxQdPa7VIj6l7yq0hYzlD\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "_yo_jid",
+          "value": "{\"journeyId\":\"jid-836cdc8e-48fb-5104-9bd7-fb2eca3900a5\",\"forceExpireAt\":1794293114947,\"expireAt\":1794251715948}"
+        },
+        {
+          "name": "statsig.cached.evaluations.3576085457",
+          "value": "{\"source\":\"Network\",\"data\":\"{\\\"feature_gates\\\":{\\\"412166056\\\":{\\\"name\\\":\\\"412166056\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"1431894819\\\":{\\\"name\\\":\\\"1431894819\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"1459646870\\\":{\\\"name\\\":\\\"1459646870\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"3gNxHLJJehxjGFb3PdPfTk:100.00:1\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]}},\\\"dynamic_configs\\\":{\\\"30952478\\\":{\\\"name\\\":\\\"30952478\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"TenantID\\\",\\\"secondary_exposures\\\":[]},\\\"2517356131\\\":{\\\"name\\\":\\\"2517356131\\\",\\\"value\\\":{\\\"data\\\":[]},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"TenantID\\\",\\\"secondary_exposures\\\":[]}},\\\"layer_configs\\\":{\\\"2063419236\\\":{\\\"name\\\":\\\"2063419236\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"explicit_parameters\\\":[],\\\"id_type\\\":\\\"productID\\\",\\\"secondary_exposures\\\":[],\\\"undelegated_secondary_exposures\\\":[]}},\\\"sdkParams\\\":{},\\\"has_updates\\\":true,\\\"generator\\\":\\\"scrapi-nest\\\",\\\"time\\\":1794239841869,\\\"company_lcut\\\":1794239841869,\\\"evaluated_keys\\\":{\\\"userID\\\":\\\"$device:1a1c1a0928d2144-04e144e339d306-26011851-100200-1a1c1a0928d2144\\\",\\\"stableID\\\":\\\"1d7d0470-5aa8-4f3a-8cdf-c1edb844f0ff\\\",\\\"customIDs\\\":{\\\"TenantID\\\":\\\"https://www.bareminerals.com\\\",\\\"productID\\\":\\\"7428578771029\\\"}},\\\"hash_used\\\":\\\"djb2\\\",\\\"derived_fields\\\":{\\\"ip\\\":\\\"202.47.43.137\\\",\\\"country\\\":\\\"PK\\\",\\\"browserName\\\":\\\"Chrome\\\",\\\"browserVersion\\\":\\\"131.0.0\\\",\\\"osName\\\":\\\"Windows\\\",\\\"osVersion\\\":\\\"10.0.0\\\",\\\"browser_name\\\":\\\"Chrome\\\",\\\"browser_version\\\":\\\"131.0.0\\\",\\\"os_name\\\":\\\"Windows\\\",\\\"os_version\\\":\\\"10.0.0\\\"},\\\"hashed_sdk_key_used\\\":\\\"991248903\\\",\\\"can_record_session\\\":true,\\\"recording_blocked\\\":false,\\\"session_recording_rate\\\":1,\\\"target_app_used\\\":\\\"hua-app\\\",\\\"full_checksum\\\":\\\"3175659703\\\"}\",\"receivedAt\":1794249899226,\"stableID\":\"1d7d0470-5aa8-4f3a-8cdf-c1edb844f0ff\",\"fullUserHash\":\"3945642117\"}"
+        },
+        {
+          "name": "swell-test-item",
+          "value": "true"
+        },
+        {
+          "name": "hue_customer_id",
+          "value": "$device:1a1c1a0928d2144-04e144e339d306-26011851-100200-1a1c1a0928d2144"
+        },
+        {
+          "name": "klv_consent_useConsent",
+          "value": "true"
+        },
+        {
+          "name": "statsig.session_id.2988606838",
+          "value": "{\"sessionID\":\"5a89b23f-e550-4e68-8641-535db747a700\",\"startTime\":1794249891081,\"lastUpdate\":1794249907090}"
+        },
+        {
+          "name": "snowplowOutQueue_snowplow_revroll_post2.expires",
+          "value": "1857321912759"
+        },
+        {
+          "name": "klv_user_klevu-167227719048815427_ipv6",
+          "value": "false"
+        },
+        {
+          "name": "GlobalE_Analytics",
+          "value": "{\"merchantId\":\"30000719\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://web-she.global-e.com/\",\"clientId\":\"f8df95ed-80a4-45e6-964f-08a054e7d742\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794249909884}"
+        },
+        {
+          "name": "vsly_session",
+          "value": "{\"id\":\"5083953888224156\",\"utm_campaign\":\"\",\"last_interaction\":\"2026-11-09T18:45:15.998Z\",\"landing_page\":\"https://www.bareminerals.com/\",\"start_at\":\"2026-11-09T18:44:35.826Z\"}"
+        },
+        {
+          "name": "tolstoy_browsing_trail_bareminerals-prod.myshopify.com",
+          "value": "[{\"type\":\"product_view\",\"handle\":\"original-mineral-veil-daily-dose-loose-setting-powder\",\"title\":\"ORIGINAL Mineral Veil\u00ae Daily Dose Loose Setting Powder | bareMinerals\",\"url\":\"https://www.bareminerals.com/products/original-mineral-veil-daily-dose-loose-setting-powder\",\"ts\":1794249909713}]"
+        },
+        {
+          "name": "tolstoy-anonymousId",
+          "value": "50cb24e0-3792-4ada-b72d-f86eee475d61"
+        },
+        {
+          "name": "loomi-cart-history",
+          "value": "[]"
+        },
+        {
+          "name": "klv_consent_consentState",
+          "value": "true"
+        },
+        {
+          "name": "klv_user_klevu-167227719048815427_connectorInfo",
+          "value": "{}"
+        },
+        {
+          "name": "amplitude_unsent_f24a385d8a24a6edbbbccef706d9644e_apt-placement",
+          "value": "[]"
+        },
+        {
+          "name": "snowplowOutQueue_snowplow_revroll_post2",
+          "value": "[]"
+        },
+        {
+          "name": "klv_user_klevu-167227719048815427_ipv4",
+          "value": "false"
+        },
+        {
+          "name": "klv_user_klevu-167227719048815427_klvDataProtected",
+          "value": "true"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1794249938864"
+        },
+        {
+          "name": "klv_user_klevu-167227719048815427_segmentInfo",
+          "value": "{\"segments\":[],\"ttl\":3600}"
+        },
+        {
+          "name": "_ruid",
+          "value": "tPLTEEYbCwF3QxTxGieDWMP3AEyfgsmV50722vdjpPDsC4QAVpRabA3VEaceDhMzmabwceyJ1dWlkIjoiNmRmNDU4NGMtNmIyZC00MjAwLWI5ZGEtNTNmNjlkNWIzMjZkIiwic2Vzc2lvbiI6eyJpZCI6IjVmZWFiMjE5Y2I1YjZlYmYiLCJmaXJzdF9hY3RpdmUiOjE3OTQyNDk5MTY1NzAsImxhc3RfYWN0aXZlIjoxNzk0MjQ5OTE2NTcwfSwiZmlyc3RfYWN0aXZlIjp7InVybCI6Imh0dHBzOi8vd3d3LmJhcmVtaW5lcmFscy5jb20vcHJvZHVjdHMvb3JpZ2luYWwtbWluZXJhbC12ZWlsLWRhaWx5LWRvc2UtbG9vc2Utc2V0dGluZy1wb3dkZXIiLCJ0aW1lc3RhbXAiOjE3OTQyNDk5MTY1OTIsInJlZmVycmVyIjoiIn0sImxhc3RfYWN0aXZlIjp7InVybCI6Imh0dHBzOi8vd3d3LmJhcmVtaW5lcmFscy5jb20vcHJvZHVjdHMvb3JpZ2luYWwtbWluZXJhbC12ZWlsLWRhaWx5LWRvc2UtbG9vc2Utc2V0dGluZy1wb3dkZXIiLCJ0aW1lc3RhbXAiOjE3OTQyNDk5MTY1OTIsInJlZmVycmVyIjoiIn19"
+        },
+        {
+          "name": "klv_user_klevu-167227719048815427_lastSendIp",
+          "value": "1794249881"
+        },
+        {
+          "name": "psc",
+          "value": "4"
+        },
+        {
+          "name": "_yo_iid",
+          "value": "cid-77b395e7-3c13-4121-9894-f8d21e3e597f-1de01006-c205-400e-b340-70f7564c3c31-b3b16750-dc6d-11f1-973d-ff021fcd38c9"
+        }
+      ]
+    }
+  ]
+}

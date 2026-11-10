@@ -1,0 +1,489 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "joyrideharness.com",
+      "path": "/",
+      "expires": 1825791482.535228,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "joyrideharness.com",
+      "path": "/",
+      "expires": 1795465083.413771,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHB9c_QAAEAv_pHg_HqVQoFyte2o9wcmJ3f30P5QpTHr6U2Q-cTaCrQkvuk4iPx6rUKnxn0KxI7nqFKIeEVCseIsjY:",
+      "domain": "joyrideharness.com",
+      "path": "/",
+      "expires": 1825791474.858864,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHB9dB2AAEAehRqrBaY1cOv9-el2Ra5v9c8mNkdwBhM1kU-vQGnAq5RbdtvLaWUlGseWRZIK018Cb75BWlf2zPm1jo:",
+      "domain": "joyrideharness.com",
+      "path": "/",
+      "expires": 1825791474.858951,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHB9dB2AAEA306RE41xTZsTNcNVysgjCPdnr5wub4ZVFjMeKOfv06yir_YXbnkiADaabOC0OH8QLkIHTF6Aay3WJc4:",
+      "domain": "joyrideharness.com",
+      "path": "/",
+      "expires": 1825791474.859029,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__blockify::first-access-url",
+      "value": "%7B%22url%22%3A%22https%3A%2F%2Fjoyrideharness.com%2F%22%7D",
+      "domain": "joyrideharness.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxa4ZYboeC55xgtzx1K7v%3Fkey%3D12fd675b44c9a5f41aab6c4218e8504d",
+      "domain": "joyrideharness.com",
+      "path": "/",
+      "expires": 1802117881.553118,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ugc_vid_c5257fd9-1622-41c8-b359-27e6c54c820e",
+      "value": "6aae3b39-8b7a-49d7-8c2c-166c569e799b",
+      "domain": "joyrideharness.com",
+      "path": "/",
+      "expires": 1825791476,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "cbc0a105-ce14-4204-95df-f4d643b2a140",
+      "domain": "joyrideharness.com",
+      "path": "/",
+      "expires": 1825791477,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__blockify::analyzer",
+      "value": "%7B%22startTime%22%3A1794255476354%2C%22sessionId%22%3A%229154f9c5-2577-48d1-90e8-8076bff34b0b%22%7D",
+      "domain": "joyrideharness.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU1UWXdNemMwTkdNdFlUQmhNeTAwTVRVM0xXSTNNamd0TURGak5XUXhaVGM1TWpRMQ",
+      "domain": "joyrideharness.com",
+      "path": "/",
+      "expires": 1825791495,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1794255480736.47465973-b840-4798-b785-cdbc7034484d",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1802031480,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_reidsn",
+      "value": "i_1.12",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1794341881.404489,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gecntaos",
+      "value": "1",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1825791481.562172,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "Shoplift_Essential",
+      "value": "{\"timestamp\":\"2026-11-09T20:18:01.947Z\",\"consentApproved\":true,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T20:17:54.920Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\"},\"visitorTests\":[],\"isMerchant\":false,\"isFirstLoad\":false}",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1825791481,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "Shoplift_Analytics",
+      "value": "{\"timestamp\":\"2026-11-09T20:18:01.947Z\",\"visitor\":null,\"queue\":[{\"timestamp\":\"2026-11-09T20:17:57.793Z\",\"type\":5,\"cart\":{\"token\":\"hWNIxa4ZYboeC55xgtzx1K7v?key=12fd675b44c9a5f41aab6c4218e8504d\",\"note\":\"\",\"attributes\":{},\"original_total_price\":0,\"total_price\":0,\"total_discount\":0,\"total_weight\":0,\"item_count\":0,\"items\":[],\"requires_shipping\":false,\"currency\":\"USD\",\"items_subtotal_price\":0,\"cart_level_discount_applications\":[],\"discount_codes\":[]}}]}",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1825791481,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_uetsid",
+      "value": "a9f105a0dc7a11f1b7aa4581b011569f",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1794341882,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "a9f18460dc7a11f19c15ab62887f875c",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1827951482,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gegeo",
+      "value": "JTdCJTIyc3RhdHVzJTIyJTNBJTIyc3VjY2VzcyUyMiUyQyUyMmNvdW50cnklMjIlM0ElMjJQYWtpc3RhbiUyMiUyQyUyMmNvdW50cnlDb2RlJTIyJTNBJTIyUEslMjIlMkMlMjJtb2JpbGUlMjIlM0FmYWxzZSUyQyUyMnByb3h5JTIyJTNBZmFsc2UlMkMlMjJob3N0aW5nJTIyJTNBZmFsc2UlN0Q=",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1794341882.381908,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geffran",
+      "value": "1",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1794341882.383476,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geffresponse",
+      "value": "1",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1794860282.383836,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geuid",
+      "value": "5e7c10fa-7998-464e-b960-8323005e8077-1794255482386",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1825359482.386444,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geran",
+      "value": "1",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1794428282.387825,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_li_dcdm_c",
+      "value": ".joyrideharness.com",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi",
+      "value": "cef3b9b90d8a--01m70zbw8tvr6sds2xbrhtnede",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1828815483.164201,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi_js",
+      "value": "cef3b9b90d8a--01m70zbw8tvr6sds2xbrhtnede",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_getdran",
+      "value": "1",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1794428283.462829,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "d0UWU7Q4afrQ9d08McMMDzocNfCdcO3g5DA0L8IgK8U-1794255482.0896735-1.0.1.1-qjuf40dpQiSwBUMPcUhjxU_8RjgdnqH.9SDT6lxb5WPSH09q4xUYJ9GoK37T3LLpMnSTLskysbi2kBo8usPkGVSv4rPTqcI8DyoCLWPM0upGKBQ2JjRMMCvqQkYI0wBe",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1794257283.605842,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://joyrideharness.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_X2pzHp3nTXydnIjzaa467w%2352b42b94-ca70-4082-8ac7-028f4c0b62d9-1794255476",
+      "domain": ".joyrideharness.com",
+      "path": "/",
+      "expires": 1825813090.859141,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-Http-shop_binding",
+      "value": "e9195b7319c1afd75e7d3011015c26536085f87b3f6fc467e8d77493f125c85d",
+      "domain": "joyrideharness.com",
+      "path": "/",
+      "expires": 1794266293.790903,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://joyrideharness.com",
+      "localStorage": [
+        {
+          "name": "trackedCompleteOrderSourceId",
+          "value": "null"
+        },
+        {
+          "name": "snize-cart-changed",
+          "value": "\"N\""
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Sat, 04 Dec 2027 20:18:02 GMT"
+        },
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "_geuid",
+          "value": "5e7c10fa-7998-464e-b960-8323005e8077-1794255482386"
+        },
+        {
+          "name": "SeStatisticSession",
+          "value": "{\"session_id\":\"eb88247c-9035-4a7f-9006-fa58ece4afbd\",\"started\":1794255482,\"updated\":1794255482,\"expires\":1794259082,\"state\":\"new\",\"times_updated\":0,\"end_point_reached\":false}"
+        },
+        {
+          "name": "lastSeenErrorReceiptId",
+          "value": "undefined"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1794255476994"
+        },
+        {
+          "name": "snize-recommendations-clicks",
+          "value": "[]"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,{nW4:22)t40jNsrS6+.mEByB$p5V-#Pk&;F61V 9<Mfq3nh=5,vq\u007frx.&!_w>|ol>A4{s?:`E3O>O1~M{-q<w_q;a_\\,3I|"
+        },
+        {
+          "name": "snize-recommendation-created-at",
+          "value": "1794255482216"
+        },
+        {
+          "name": "trackedSourceId",
+          "value": "\"hWNIxa4ZYboeC55xgtzx1K7v\""
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU1UWXdNemMwTkdNdFlUQmhNeTAwTVRVM0xXSTNNamd0TURGak5XUXhaVGM1TWpRMQ\",\"expires\":\"2027-11-09T20:17:58.828Z\"}"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,@!6_U|8?C0fxYoi(o[!] aTP<aa{Z.ahOg@|>XL/)az\\P-G0S1rd6!rVGfva$rX[Vx"
+        },
+        {
+          "name": "gorgias.conversation-starters-timeout-cohort",
+          "value": "5000"
+        },
+        {
+          "name": "Personalization",
+          "value": "{\"recentlyViewedProducts\":[8498999525572],\"recentlyPurchasedProducts\":[],\"recentlyAddedToCartProducts\":[],\"recentlyViewedTimeLimit\":1794255482154}"
+        },
+        {
+          "name": "di_pmt_wt",
+          "value": "mw9pduu6_0.sjqtexqzcja"
+        },
+        {
+          "name": "_li_duid",
+          "value": "cef3b9b90d8a--01m70zbw8tvr6sds2xbrhtnede"
+        },
+        {
+          "name": "RecentlyViewedRecommendations",
+          "value": "{\"productsIds\":[8498999525572],\"recentlyViewedTimeLimit\":1794255482117}"
+        },
+        {
+          "name": "se_session_id",
+          "value": "\"f3d6a496-323e-425d-a21e-aa95cea51431\""
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxa4ZYboeC55xgtzx1K7v\"},{\"postPurchaseInquiryStatus\":\"timeout\",\"shopPayArtifact\":{\"optIn\":{\"vaultEmail\":\"\",\"vaultPhone\":\"\",\"optInSource\":\"REMEMBER_ME\",\"isAutoOptIn\":true}}}],[{\"id\":\"hWNIxa4ZYboeC55xgtzx1K7v\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}],[{\"id\":\"hWNIxa4ZYboeC55xgtzx1K7v\",\"checkoutSessionIdentifier\":\"bc941d9990966d5a77b5fad77d8fa19a\"},{}]]"
+        },
+        {
+          "name": "_uetvid",
+          "value": "a9f18460dc7a11f19c15ab62887f875c"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-09T20:18:02.054Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-c1f602a1-9677-4EB5-1007-876EDAC2D116\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"puglifeharness.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-c1f602a1-9677-4EB5-1007-876EDAC2D116\",\"event_date_time\":\"2026-11-09T20:18:02.054Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"cbc0a105-ce14-4204-95df-f4d643b2a140\",\"page_url\":\"https://joyrideharness.com/products/custom-name-tag\",\"currency\":\"USD\",\"product\":{\"product_id\":\"8498999525572\",\"product_title\":\"Exclusive Custom Name Tag\",\"variant_id\":\"45784443158724\",\"variant_title\":\"Red / XS\",\"quantity\":1,\"variant_price\":12.95,\"product_vendor\":\"Joyride Dogs\"}}}}}]"
+        },
+        {
+          "name": "txtcart:signup:v1:probe",
+          "value": "1"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxa4ZYboeC55xgtzx1K7v\""
+        },
+        {
+          "name": "txtcart_page_viewed_at",
+          "value": "1794255480422"
+        },
+        {
+          "name": "ClicksQueue",
+          "value": "[]"
+        },
+        {
+          "name": "snize-current-product-id",
+          "value": "8498999525572"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,C#U/Nt-&^4QSC8n4Z0k^kWX&&!',lv*9l;zJ,WzWV*^7eEOBHEztbR0{@4f;,O],1~Ae>Ca~;u5+,Qq$&a"
+        },
+        {
+          "name": "_uetsid",
+          "value": "a9f105a0dc7a11f1b7aa4581b011569f"
+        },
+        {
+          "name": "snize-recommendation",
+          "value": "\"98bifq0b6kg\""
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,BZiTV~Q?bVJECD#w#*j;7O2$`%K[S_\u007f<?0]V<SyX~~5sPWs9vel+%-1Lz.;VB~6Z];}RG|N!e82QdcAICp"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "txtcart:signup:v1:alive",
+          "value": "1794255481940"
+        },
+        {
+          "name": "Shoplift_Analytics",
+          "value": "{\"timestamp\":\"2026-11-09T20:18:01.947Z\",\"visitor\":null,\"queue\":[{\"timestamp\":\"2026-11-09T20:17:57.793Z\",\"type\":5,\"cart\":{\"token\":\"hWNIxa4ZYboeC55xgtzx1K7v?key=12fd675b44c9a5f41aab6c4218e8504d\",\"note\":\"\",\"attributes\":{},\"original_total_price\":0,\"total_price\":0,\"total_discount\":0,\"total_weight\":0,\"item_count\":0,\"items\":[],\"requires_shipping\":false,\"currency\":\"USD\",\"items_subtotal_price\":0,\"cart_level_discount_applications\":[],\"discount_codes\":[]}}]}"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Tue, 10 Nov 2026 20:18:02 GMT"
+        },
+        {
+          "name": "ProductsSearch",
+          "value": "[]"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,u8DzH#!|[>]{)(wD{AkmV}:8t2oa&>Ew?iFKs}M+xjVq&0q}Sm!_om'(ybAB?YkO5*BoZ6{~(TbBO=~3zo,{lHoqG T>&#Z?GWhPSQv4Y+G*vV}M>=!Uvltio#xvbA0O5#;cZrEA|B&4)^v*"
+        },
+        {
+          "name": "Shoplift_Essential",
+          "value": "{\"timestamp\":\"2026-11-09T20:18:01.947Z\",\"consentApproved\":true,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T20:17:54.920Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\"},\"visitorTests\":[],\"isMerchant\":false,\"isFirstLoad\":false}"
+        },
+        {
+          "name": "se_session_started_at",
+          "value": "1794255482144"
+        },
+        {
+          "name": "snize-recommendations-added",
+          "value": "[]"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":\"deactivated\",\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":false,\"chatTitle\":\"Joyride Harness\",\"isConnected\":false,\"isChatOnline\":true,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"optional\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":true,\"replyType\":\"reply-dynamic\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1794255483332"
+        }
+      ]
+    }
+  ]
+}

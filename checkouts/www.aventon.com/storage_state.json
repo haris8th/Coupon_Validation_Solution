@@ -1,0 +1,437 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "www.aventon.com",
+      "path": "/",
+      "expires": 1825785729.258448,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "www.aventon.com",
+      "path": "/",
+      "expires": 1795459329.258753,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHBndzqAAEAd8BZBQhAUMJ5OYSSHZQy7oAO90vvaU866ZraeP5QW1BDCNLR1GoI88DUu68TTciH-sJGjI-hHofpBlM:",
+      "domain": "www.aventon.com",
+      "path": "/",
+      "expires": 1825785711.27521,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHBnd5oAAEAgmo6f0SYKeOxeqtttPD0VNSOTspFzbm3C2BxUtCwZv0Vk7xp5QIF2uQHfU3wczFgfJsyat3T5ILXDEI:",
+      "domain": "www.aventon.com",
+      "path": "/",
+      "expires": 1825785711.275327,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHBnd5pAAEA4zHwGUg3OUtI-j9WPTHShlah-fAg343p_P2hwxj9xfkZw701FRFI2DfH_4vs_0GHnqDRk-KndGVtYHw:",
+      "domain": "www.aventon.com",
+      "path": "/",
+      "expires": 1825785711.275448,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Shoplift_Session",
+      "value": "{\"isMerchant\":false,\"timestamp\":\"2026-11-09T18:41:51.391Z\",\"entryPage\":\"https://www.aventon.com/\",\"lastSeen\":1794249711391}",
+      "domain": ".www.aventon.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxQLEX9tydL9SaUb67QVH%3Fkey%3D154819ec54032d7e49a19c72ebe5d0b6",
+      "domain": "www.aventon.com",
+      "path": "/",
+      "expires": 1802112127.913266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Shoplift_Essential",
+      "value": "{\"timestamp\":\"2026-11-09T18:41:55.321Z\",\"consentApproved\":false,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T18:41:51.386Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}",
+      "domain": ".www.aventon.com",
+      "path": "/",
+      "expires": 1825785715,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_shg_session_id",
+      "value": "11c6a3e9-7eae-4755-9784-7da465f7d2b8",
+      "domain": "www.aventon.com",
+      "path": "/",
+      "expires": 1794251517,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shg_user_id",
+      "value": "fdb7dc6d-5d6f-4024-9bde-404fe4b1a9c0",
+      "domain": "www.aventon.com",
+      "path": "/",
+      "expires": 1828809717.572504,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attn_eat_id",
+      "value": "58453d28ba1a4ac38360756d8fcc3a25",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1827945717.67321,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://aventon.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__attentive_id",
+      "value": "120e29e3e0984d428dcc3b1344912113",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1827945722,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_session_id",
+      "value": "ca9d48c2faf04650876d1976fd56079b",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1794251529,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzk0MjQ5NzIyMDIxLFwidW9cIjoxNzk0MjQ5NzIyMDIxLFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjEyMGUyOWUzZTA5ODRkNDI4ZGNjM2IxMzQ0OTEyMTEzXCJ9IiwiZWF0Ijoie1wiY29cIjoxNzk0MjQ5NzIyMDAwLFwidW9cIjoxNzk0MjQ5NzIyMDAwLFwibWFcIjozNjUwLFwiaW5cIjp0cnVlLFwidmFsXCI6XCJodHRwczovL2hrbGJqLmF2ZW50b24uY29tXCJ9IiwicGVhdCI6IntcImNvXCI6MTc5NDI0OTcyMjAwMCxcInVvXCI6MTc5NDI0OTcyMjAwMCxcIm1hXCI6MzY1MCxcImluXCI6dHJ1ZSxcInZhbFwiOlwiaHR0cHM6Ly9oa2xiai5hdmVudG9uLmNvbVwifSJ9",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1827945722,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1794249722027",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1827945722,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "checkout_continuity_service",
+      "value": "06d37e3d-14ec-406c-af9a-551184bce875",
+      "domain": "www.aventon.com",
+      "path": "/",
+      "expires": 1828809722.376541,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1794256922,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_bopd_",
+      "value": "browser",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1827945722,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "1",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1794251523,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "ORGANIC",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1794251523,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU1EZGxPVFUwTnpFdE4yRTRZaTAwTmpJMExUazBZelV0WXpJM01XWmxaREl5TkRkaw",
+      "domain": "www.aventon.com",
+      "path": "/",
+      "expires": 1825785720,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ppid",
+      "value": "749cb2cf-f853-4fbe-a90d-921c38dc17d8",
+      "domain": "www.aventon.com",
+      "path": "/",
+      "expires": 1794836523,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "avmws",
+      "value": "1.06751175836af213fc15673170183311.45975893.1794249724.1794249724.1.3778795021",
+      "domain": "www.aventon.com",
+      "path": "/",
+      "expires": 1828809724.556887,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_axwrt",
+      "value": "6ec42349-f8a7-4e06-aeae-df0c7ee993c0",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1825785724,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ax_session_data",
+      "value": "eyJpbnZpc2libGVUaW1lIjowLCJ0b3RhbFRpbWUiOjIwMTIsImxhc3RVcGRhdGUiOjE3OTQyNDk3MjY5MDR9",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1825785728,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "_CC33WOx_cl9vWQw1oqI4OLETMaVKjeS45GZPgA5RSU-1794249727.1196363-1.0.1.1-3mOuYWewSXPhYYlPwVKL9.AI0l4v5Bp99yaXywQKYMMbWMgc2Kz20eW6njOssTLB4eXSgUvW7rsm12YC3ObJHkodKw0TuO4M3uN0hpNX6JtKgXusRoCWnDwDTmkiXHp2",
+      "domain": ".www.aventon.com",
+      "path": "/",
+      "expires": 1794251527.914248,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://aventon.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "_ax_last_event",
+      "value": "1794249728184",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1825785728,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ax_visitor",
+      "value": "%7B%22firstVisitTs%22%3A1794249725676%2C%22lastVisitTs%22%3Anull%2C%22currentVisitStartTs%22%3A1794249725676%2C%22ts%22%3A1794249728825%2C%22visitCount%22%3A1%7D",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1825785728,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_evu3QrIwS*GlnRVx-sJKiA_%7B%7D%23e55c0c5e-505f-40d0-a9de-1cbb113d341b-1794249714",
+      "domain": ".aventon.com",
+      "path": "/",
+      "expires": 1825807329.258969,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.aventon.com",
+      "localStorage": [
+        {
+          "name": "statsig.cached.evaluations.3749119518",
+          "value": "{\"source\":\"Network\",\"data\":\"{\\\"feature_gates\\\":{\\\"70009104\\\":{\\\"name\\\":\\\"70009104\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"1579767121\\\":{\\\"name\\\":\\\"1579767121\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"1991306400\\\":{\\\"name\\\":\\\"1991306400\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"2441149960\\\":{\\\"name\\\":\\\"2441149960\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"2499364797\\\":{\\\"name\\\":\\\"2499364797\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"2WhNDXAoF9iXTDporlaZ0q:100.00:10\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"2843591856\\\":{\\\"name\\\":\\\"2843591856\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"3090634860\\\":{\\\"name\\\":\\\"3090634860\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"3269982013\\\":{\\\"name\\\":\\\"3269982013\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"3279196256\\\":{\\\"name\\\":\\\"3279196256\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"4017451054\\\":{\\\"name\\\":\\\"4017451054\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"1EvbhpRJ18Usxn4TapDNdg:100.00:1\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"4139716291\\\":{\\\"name\\\":\\\"4139716291\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"4279199542\\\":{\\\"name\\\":\\\"4279199542\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]}},\\\"dynamic_configs\\\":{\\\"367862564\\\":{\\\"name\\\":\\\"367862564\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"prestart\\\",\\\"group\\\":\\\"prestart\\\",\\\"is_device_based\\\":true,\\\"id_type\\\":\\\"stableID\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[]},\\\"470561494\\\":{\\\"name\\\":\\\"470561494\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"inlineTargetingRules\\\",\\\"group\\\":\\\"inlineTargetingRules\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":true,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"3269982013\\\",\\\"gateValue\\\":\\\"false\\\",\\\"ruleID\\\":\\\"default\\\"}]},\\\"1070341002\\\":{\\\"name\\\":\\\"1070341002\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"inlineTargetingRules\\\",\\\"group\\\":\\\"inlineTargetingRules\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":true,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"3279196256\\\",\\\"gateValue\\\":\\\"false\\\",\\\"ruleID\\\":\\\"default\\\"}]},\\\"1087607236\\\":{\\\"name\\\":\\\"1087607236\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":true,\\\"passed\\\":false,\\\"id_type\\\":\\\"stableID\\\",\\\"secondary_exposures\\\":[]},\\\"1984400002\\\":{\\\"name\\\":\\\"1984400002\\\",\\\"value\\\":{\\\"alaViewportImpressionSampleRate\\\":1},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"generic_ari\\\",\\\"secondary_exposures\\\":[]},\\\"2042103365\\\":{\\\"name\\\":\\\"2042103365\\\",\\\"value\\\":{\\\"variant\\\":\\\"control\\\"},\\\"rule_id\\\":\\\"73YXx6m7FsD3kil9Md0cNJ\\\",\\\"group\\\":\\\"73YXx6m7FsD3kil9Md0cNJ\\\",\\\"group_name\\\":\\\"control\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":true,\\\"is_user_in_experiment\\\":true,\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"4017451054\\\",\\\"gateValue\\\":\\\"true\\\",\\\"ruleID\\\":\\\"1EvbhpRJ18Usxn4TapDNdg:100.00:1\\\"}]},\\\"2060916554\\\":{\\\"name\\\":\\\"2060916554\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"inlineTargetingRules\\\",\\\"group\\\":\\\"inlineTargetingRules\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":true,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"1991306400\\\",\\\"gateValue\\\":\\\"false\\\",\\\"ruleID\\\":\\\"default\\\"}]},\\\"2123354126\\\":{\\\"name\\\":\\\"2123354126\\\",\\\"value\\\":{\\\"names\\\":[\\\"afjs_popup_enable\\\",\\\"checkout_locale_in_url\\\",\\\"checkout_locale_in_url_v2\\\",\\\"dynamic_optimization_device_id_q2_2026\\\",\\\"afjs_instant_checkout_loader_enable\\\",\\\"pricing_experiment_lower_rep_apr_upfunnel\\\",\\\"afjs_instant_checkout_loader_express_enable\\\",\\\"afjs_ala_below_cart_interest_free\\\",\\\"afjs_ala_below_cart_ib_installment\\\",\\\"afjs_ala_interactive_render\\\"]},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"generic_ari\\\",\\\"secondary_exposures\\\":[]},\\\"2493480461\\\":{\\\"name\\\":\\\"2493480461\\\",\\\"value\\\":{\\\"Variant\\\":\\\"enabled\\\"},\\\"rule_id\\\":\\\"launchedGroup\\\",\\\"group\\\":\\\"launchedGroup\\\",\\\"group_name\\\":\\\"enabled\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"2499364797\\\",\\\"gateValue\\\":\\\"true\\\",\\\"ruleID\\\":\\\"2WhNDXAoF9iXTDporlaZ0q:100.00:10\\\"}]},\\\"2893580290\\\":{\\\"name\\\":\\\"2893580290\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"prestart\\\",\\\"group\\\":\\\"prestart\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[]},\\\"2946869560\\\":{\\\"name\\\":\\\"2946869560\\\",\\\"value\\\":{\\\"publicApiKeys\\\":[\\\"DGTIN84KO51T736G\\\",\\\"BU9X6NJSAEDHZHHN\\\",\\\"X48LJJN2T95ALUXJ\\\",\\\"YLGY3FDPTVVUOZKY\\\",\\\"LB3SI2PJYQLWFKDL\\\"]},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"generic_ari\\\",\\\"secondary_exposures\\\":[]},\\\"3148455142\\\":{\\\"name\\\":\\\"3148455142\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"prestart\\\",\\\"group\\\":\\\"prestart\\\",\\\"is_device_based\\\":true,\\\"id_type\\\":\\\"stableID\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[]},\\\"3446633318\\\":{\\\"name\\\":\\\"3446633318\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"prestart\\\",\\\"group\\\":\\\"prestart\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[]},\\\"3569783987\\\":{\\\"name\\\":\\\"3569783987\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"inlineTargetingRules\\\",\\\"group\\\":\\\"inlineTargetingRules\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":true,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"4139716291\\\",\\\"gateValue\\\":\\\"false\\\",\\\"ruleID\\\":\\\"default\\\"}]},\\\"3716627837\\\":{\\\"name\\\":\\\"3716627837\\\",\\\"value\\\":{\\\"publicApiKeys\\\":[\\\"PCEH8L7P35BM1ER1\\\",\\\"X48LJJN2T95ALUXJ\\\",\\\"B0TLCOA43RTMSI5Z\\\",\\\"YLGY3FDPTVVUOZKY\\\",\\\"LB3SI2PJYQLWFKDL\\\"]},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"generic_ari\\\",\\\"secondary_exposures\\\":[]}},\\\"layer_configs\\\":{},\\\"sdkParams\\\":{},\\\"has_updates\\\":true,\\\"generator\\\":\\\"scrapi-nest\\\",\\\"time\\\":1794249663628,\\\"company_lcut\\\":1794249663628,\\\"evaluated_keys\\\":{\\\"stableID\\\":\\\"2e2524ae-97a8-4ff2-ab3f-6b73db518878\\\",\\\"customIDs\\\":{\\\"device_id\\\":\\\"06d37e3d-14ec-406c-af9a-551184bce875\\\",\\\"generic_ari\\\":\\\"71ILHAPWEL8346Q6\\\"}},\\\"hash_used\\\":\\\"djb2\\\",\\\"derived_fields\\\":{\\\"ip\\\":\\\"202.47.43.137\\\",\\\"country\\\":\\\"PK\\\",\\\"browserName\\\":\\\"Chrome\\\",\\\"browserVersion\\\":\\\"131.0.0\\\",\\\"osName\\\":\\\"Windows\\\",\\\"osVersion\\\":\\\"10.0.0\\\",\\\"browser_name\\\":\\\"Chrome\\\",\\\"browser_version\\\":\\\"131.0.0\\\",\\\"os_name\\\":\\\"Windows\\\",\\\"os_version\\\":\\\"10.0.0\\\"},\\\"hashed_sdk_key_used\\\":\\\"3841296201\\\",\\\"can_record_session\\\":true,\\\"recording_blocked\\\":false,\\\"session_recording_rate\\\":1,\\\"param_stores\\\":{},\\\"target_app_used\\\":\\\"afjs\\\",\\\"full_checksum\\\":\\\"3421195577\\\"}\",\"receivedAt\":1794249724521,\"stableID\":\"2e2524ae-97a8-4ff2-ab3f-6b73db518878\",\"fullUserHash\":\"1536322492\"}"
+        },
+        {
+          "name": "avmws",
+          "value": "1.06751175836af213fc15673170183311.45975893.1794249724.1794249724.1.3778795021"
+        },
+        {
+          "name": "trackedCompleteOrderSourceId",
+          "value": "null"
+        },
+        {
+          "name": "_shg_visitor_details",
+          "value": "{\"first_visit_timestamp\":1794249717572,\"last_visit_timestamp\":1794249717572}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "6ec42349-f8a7-4e06-aeae-df0c7ee993c0"
+        },
+        {
+          "name": "forms_visit_count",
+          "value": "1"
+        },
+        {
+          "name": "_axwrt_backup",
+          "value": "{\"value\":\"6ec42349-f8a7-4e06-aeae-df0c7ee993c0\",\"setTs\":null,\"expiresAt\":1825785724563}"
+        },
+        {
+          "name": "lastSeenErrorReceiptId",
+          "value": "undefined"
+        },
+        {
+          "name": "forms_previous_session_id",
+          "value": "713b643e-7754-45b0-be18-ff319188ef6a"
+        },
+        {
+          "name": "trackedSourceId",
+          "value": "\"hWNIxQLEX9tydL9SaUb67QVH\""
+        },
+        {
+          "name": "Shoplift_ClientId",
+          "value": "6ec42349-f8a7-4e06-aeae-df0c7ee993c0"
+        },
+        {
+          "name": "ppid",
+          "value": "749cb2cf-f853-4fbe-a90d-921c38dc17d8"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cart",
+          "value": "[{\"id\":\"31720-0000002\",\"name\":\"Aventon Foldable Lock\",\"brand\":\"Aventon Bikes\",\"category\":\"Accessories\",\"variant\":\"Default Title\",\"position\":0,\"price\":\"64.99\",\"quantity\":\"1\",\"productId\":\"7601802150083\",\"variantId\":\"42466713338051\",\"image\":\"https://cdn.shopify.com/s/files/1/1520/2468/files/Aventon-foldable-lock-03.png?v=1687819525\",\"url\":\"/products/aventon-foldable-lock?variant=42466713338051\",\"list\":\"\"},{\"id\":\"30571-0272028\",\"name\":\"Aventon Suspension Seatpost\",\"brand\":\"Aventon Bikes\",\"category\":\"Components\",\"variant\":\"Glide\",\"position\":1,\"price\":\"114.99\",\"quantity\":\"1\",\"productId\":\"7621104140483\",\"variantId\":\"43252633927875\",\"image\":\"https://cdn.shopify.com/s/files/1/1520/2468/files/product-image-template_75b65f40-ce29-4829-8fc4-a9155bd39e7c.png?v=1693414686\",\"url\":\"/products/aventon-glide-seatpost?variant=43252633927875\",\"list\":\"\"},{\"id\":\"Environmental Recycling Fee\",\"name\":\"Environmental Recycling Fee\",\"brand\":\"Aventon Bikes\",\"category\":\"\",\"variant\":\"Funds safe and compliant battery recycling\",\"position\":2,\"price\":\"15.00\",\"quantity\":\"1\",\"productId\":\"8233341321411\",\"variantId\":\"45012371538115\",\"image\":\"https://cdn.shopify.com/s/files/1/1520/2468/files/Batteryrecyclingfee.jpg?v=1767074877\",\"url\":\"/products/environmental-recycling-fee?variant=45012371538115\",\"list\":\"\"},{\"id\":\"1E037-0084402\",\"name\":\"Aventure 3 Ebike\",\"brand\":\"Aventon\",\"category\":\"Electric Bicycles\",\"variant\":\"Regular / Stealth\",\"position\":3,\"price\":\"1799.00\",\"quantity\":\"1\",\"productId\":\"8135325221059\",\"variantId\":\"44285586997443\",\"image\":\"https://cdn.shopify.com/s/files/1/1520/2468/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478\",\"url\":\"/products/aventure-3-ebike?variant=44285586997443\",\"list\":\"\"}]"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU1EZGxPVFUwTnpFdE4yRTRZaTAwTmpJMExUazBZelV0WXpJM01XWmxaREl5TkRkaw\",\"expires\":\"2027-11-09T18:42:00.048Z\"}"
+        },
+        {
+          "name": "fedexPde",
+          "value": "{\"customerId\":\"\",\"destinationZipcode\":\"\",\"timestamp\":1794249713928,\"skus\":{},\"estimatedDeliveryDates\":{}}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxQLEX9tydL9SaUb67QVH\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxQLEX9tydL9SaUb67QVH\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "statsig.session_id.1543686840",
+          "value": "{\"sessionID\":\"1bcfc5fc-ab1b-479d-bba1-071ad0de263d\",\"startTime\":1794249722388,\"lastUpdate\":1794249729341}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxQLEX9tydL9SaUb67QVH\""
+        },
+        {
+          "name": "statsig.last_modified_time.evaluations",
+          "value": "{\"statsig.cached.evaluations.3749119518\":1794249724522}"
+        },
+        {
+          "name": "shoplift_last_pageview",
+          "value": "{\"at\":1794249718105,\"loc\":\"/products/aventure-3-ebike?variant=44285586997443\"}"
+        },
+        {
+          "name": "_applovin_pixel_version",
+          "value": "s/a/3.6.68"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "aventon-country-code",
+          "value": "US"
+        },
+        {
+          "name": "_x_quizData",
+          "value": "{}"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794508921952"
+        },
+        {
+          "name": "shoplift_last_pageview_at",
+          "value": "1794249718105"
+        },
+        {
+          "name": "forms_session_id",
+          "value": "713b643e-7754-45b0-be18-ff319188ef6a"
+        },
+        {
+          "name": "forms_session_expires_at",
+          "value": "1794251524863"
+        },
+        {
+          "name": "statsig.stable_id.1543686840",
+          "value": "\"2e2524ae-97a8-4ff2-ab3f-6b73db518878\""
+        },
+        {
+          "name": "Shoplift_Essential",
+          "value": "{\"timestamp\":\"2026-11-09T18:41:55.321Z\",\"consentApproved\":false,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T18:41:51.386Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}"
+        },
+        {
+          "name": "recentViews",
+          "value": "[{\"handle\":\"aventure-3-ebike\",\"html\":\"<div\\n        class=\\\"swiper-slide rv-slide\\\"\\n        data-recently-viewed-handle=\\\"aventure-3-ebike\\\">\\n        \\n<!-- snippets/universal-product-card.liquid -->\\n\\n\\n<li\\n    x-data\\n    class='product-card group--electric-bicycles tw-rounded tw-border tw-border-grey-200 tw-list-none tw-overflow-visible tw-pb-4 tw-flex tw-flex-col tw-justify-between'\\n    data-tags='20 MPH,26 Inch Tires,28 MPH,400lb Capacity,750 Watt,__aventure,__aventure3,__ebike_sale,__fat_tire,_collection_innovation,all_collection,all_products_collection,aventure ebike,beeline,beeline-electric,best_selling_collection,Black,black_friday_sale,Class 2,ebike,ebike collection,ebike with tracker,ebike_collection,ebike_sale,ebikes,Electric Bicycles,enable_pre_order,Fat Tire,fat tire off road,fat_tire_ebike_collection,filter__750w,filter__black,filter__ca_price_2000_to_3000,filter__capacity_400_lbs,filter__ecu,filter__fat_tire,filter__green,filter__max_speed_28_mph,filter__range_60_to_69_miles,filter__rear_hub_drive,filter__us_price_1500_to_2000,For Camping,For Golfing,For Hunting,For Men,For Police,For Winter,Green,Has Fenders,Has Rear Rack,Has Torque,homepage best sellers,homepage_new_arrivals_collection,Long Range,memorial_day_sale,new,New Ebike,new_collection,off_road_ebike_collection,Pedal Assist,Rear Hub,refund_fee:12500,Removable Battery,road_ebike_collection,Step Over,Tall Riders,Throttle'\\n    >\\n    <div>\\n        <a href='/products/aventure-3-ebike' class='tw-relative tw-block'>\\n            <div\\n                class='productCard__lifestyle-image-spinner tw-absolute tw-z-10 tw-w-full tw-h-full'\\n                style='display: none; justify-content: center; align-items: center;'>\\n                <div class='lds-ripple'>\\n                    <div></div>\\n                    <div></div>\\n                </div>\\n            </div>\\n            <div\\n                class='productCard__lifestyle-image tw-absolute tw-z-10 tw-w-full tw-h-full tw-bg-cover tw-bg-center'\\n                style='transition: opacity .2s; opacity: 0; background-image: none;'\\n                data-lifestyle-image='aventure3-traditional-lifestyle-hover.jpg'></div>\\n\\n            \\n            \\n\\n<!-- variant image -->\\n                    <div\\n                        data-product-swatch-image='0'\\n                        >\\n\\n\\n\\n\\n\\n    <picture\\n        id='image5553'\\n        class='lazyImage  image--portrait '\\n        style='--maxw: 800px;--maxh: 2026px;--responsive-aspect-ratio:var(--ov-aspect-ratio, .6764);--image-fit:cover;;'\\n        data-loaded='false'><source\\n                \\n                    data-srcset='https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=100 100w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=116 116w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=134 134w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=156 156w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=182 182w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=210 210w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=244 244w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=282 282w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=328 328w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=380 380w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=442 442w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=512 512w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=594 594w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=688 688w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=798 798w,https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=800&q=25 800w'sizes=''\\n                aria-hidden='true'><img\\n                class='lazyImage__elem'\\n                src='https://aventon-images.imgix.net/files/01_Aventure-3_Stealth_Side_1.jpg?v=1746639478&auto=compress,format&w=10&blur=10'\\n                alt='Stealth - SKUs: 1E037-0084402, 1E037-0085002'\\n                width='800'\\n                height='2026'></picture><script>\\n            {const lazyImages = window.lazyImages = window.lazyImages || []\\n                const el = document.querySelector(\\\"#image5553\\\")\\n                if(el && window.lazyImageFn) window.lazyImageFn(el);\\n                else if(el) lazyImages.push(el)\\n            }\\n        </script>\\n</div>\\n\\n                    <!-- variant tag --><div\\n                            data-product-swatch-tag='0'\\n\\n                            class='\\n                                                            \\n                                tw-absolute tw-top-0 tw-right-0\\n                                tw-font-sans tw-font-bold tw-text-xs tw-leading-[21px]\\n                                tw-px-2 tw-rounded-md tw-z-10\\n                                tw-bg-teal-100 tw-text-teal-800\\n                                tw-bg-opacity-70 tw-border tw-border-teal-100 tw-border-opacity-80\\n                                tw-min-h-[23px]\\n                                tw-mr-4 tw-mt-3\\n                                tw-max-w-[58%]\\n                                tw-whitespace-normal\\n                                tw-break-words\\n                                tw-text-right\\n                            '>\\n                            $200 Off\\n                        </div>\\n\\n<!-- variant image -->\\n                    <div\\n                        data-product-swatch-image='1'\\n                        \\n                            class='tw-hidden'\\n                        >\\n\\n\\n\\n\\n\\n    <picture\\n        id='image636'\\n        class='lazyImage  image--portrait '\\n        style='--maxw: 800px;--maxh: 2025px;--responsive-aspect-ratio:var(--ov-aspect-ratio, .6764);--image-fit:cover;;'\\n        data-loaded='false'><source\\n                \\n                    data-srcset='https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=100 100w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=116 116w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=134 134w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=156 156w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=182 182w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=210 210w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=244 244w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=282 282w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=328 328w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=380 380w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=442 442w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=512 512w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=594 594w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=688 688w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=798 798w,https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=800&q=25 800w'sizes=''\\n                aria-hidden='true'><img\\n                class='lazyImage__elem'\\n                src='https://aventon-images.imgix.net/files/01_Aventure-3_Matcha_Side_1.jpg?v=1746639285&auto=compress,format&w=10&blur=10'\\n                alt='Matcha - SKUs: 1E037-0084401, 1E037-0085001'\\n                width='800'\\n                height='2025'></picture><script>\\n            {const lazyImages = window.lazyImages = window.lazyImages || []\\n                const el = document.querySelector(\\\"#image636\\\")\\n                if(el && window.lazyImageFn) window.lazyImageFn(el);\\n                else if(el) lazyImages.push(el)\\n            }\\n        </script>\\n</div>\\n\\n                    <!-- variant tag --><div\\n                            data-product-swatch-tag='1'\\n\\n                            class='\\n                                                            tw-hidden\\n                                tw-absolute tw-top-0 tw-right-0\\n                                tw-font-sans tw-font-bold tw-text-xs tw-leading-[21px]\\n                                tw-px-2 tw-rounded-md tw-z-10\\n                                tw-bg-teal-100 tw-text-teal-800\\n                                tw-bg-opacity-70 tw-border tw-border-teal-100 tw-border-opacity-80\\n                                tw-min-h-[23px]\\n                                tw-mr-4 tw-mt-3\\n                                tw-max-w-[58%]\\n                                tw-whitespace-normal\\n                                tw-break-words\\n                                tw-text-right\\n                            '>\\n                            $200 Off\\n                        </div>\\n            \\n\\n            \\n<!-- product tag --><div\\n                    class='\\n                        product-card__tag universal-product-card__product-tag\\n                        tw-absolute tw-top-0 tw-left-0 tw-font-sans tw-font-semibold\\n                        tw-text-xs tw-leading-[21px] tw-px-2 tw-rounded tw-z-10\\n                        tw-ml-4 tw-mt-3 tw-border tw-border-[var(--tag-bg-hover)]\\n                        tw-bg-[var(--tag-bg)]\\n                        hover:tw-bg-[var(--tag-bg-hover)]\\n                    '\\n                    style='\\n                        --tag-bg: #FFFCDDCC;\\n                        --tag-bg-hover: #FFFCDD;\\n                    '>\\n                    NEW\\n                </div></a>\\n\\n        <!-- color swatches --><div class='collection_swatches universal-product-card__color-swatches tw-flex tw-gap-5 tw-mt-3 md:tw-mt-4 tw-mx-4 md:tw-mx-5'><button\\n                                type='button'\\n                                data-product-swatch-index='0'\\n                                class='\\n                                    tw-w-[22px] tw-h-[22px] tw-rounded-full tw-p-[2px] tw-border\\n                                    \\n                                        tw-border-grey-900\\n                                    \\n                                '\\n                                aria-label='Stealth'>\\n                                <div\\n                                    class='tw-w-full tw-h-full tw-rounded-full'\\n                                    style='background-color: #414141'></div>\\n                            </button><button\\n                                type='button'\\n                                data-product-swatch-index='1'\\n                                class='\\n                                    tw-w-[22px] tw-h-[22px] tw-rounded-full tw-p-[2px] tw-border\\n                                    \\n                                        tw-border-gray-300\\n                                    \\n                                '\\n                                aria-label='Matcha'>\\n                                <div\\n                                    class='tw-w-full tw-h-full tw-rounded-full'\\n                                    style='background-color: #909076'></div>\\n                            </button>\\n</div><a href='/products/aventure-3-ebike'>\\n            <!-- title -->\\n            <div class='tw-font-semibold tw-text-gray-900 tw-mt-3 tw-mx-4 md:tw-mx-5'>Aventure 3 Ebike</div>\\n\\n            <!-- short description --><div class='universal-product-card__short-desc tw-text-xs tw-mx-4 md:tw-mx-5'>Embrace the All-Terrain</div><!-- judgeme widget --><div class='universal-product-card__judgeme-widget tw-text-xs tw-mt-1 tw-mx-4 md:tw-mx-5'>\\n                    \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n    <div\\n        style=''\\n        class='jdgm-widget jdgm-preview-badge'\\n        data-id='8135325221059'\\n        data-template='product.pdp-aventure-3'\\n        data-auto-install='false'\\n    >\\n        <div style='display:none' class='jdgm-prev-badge' data-average-rating='4.76' data-number-of-reviews='5565' data-number-of-questions='0'> <span class='jdgm-prev-badge__stars' data-score='4.76' tabindex='0' aria-label='4.76 stars' role='button'> <span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span> </span> <span class='jdgm-prev-badge__text'> (4.76) 5565 </span> </div>\\n    </div>\\n\\n\\n\\n\\n                </div><!-- trustpilot widget --><!-- product highlights --></a>\\n    </div>\\n\\n    <div>\\n        <!-- EU delivery options (Premium delivery options in Munich) -->\\n        \\n\\n        <!-- price --><div class='universal-product-card__price tw-flex tw-items-end tw-mt-2 tw-mx-4 md:tw-mx-5'><span class='product-price tw-font-sans tw-text-red-500 tw-text-base tw-font-semibold'>$1,799</span>\\n                    <span class='product-card__price tw-text-xs tw-leading-[18px] tw-text-gray-600 tw-line-through tw-mr-2 tw-ml-2'>$1,999</span></div><!-- affirm --><div\\n                class='universal-product-card__affirm affirm-as-low-as affirm-text tw-mt-2 tw-mx-4 md:tw-mx-5'\\n                data-promo-id='promo_set_avant'\\n                data-amount='179900'\\n                data-learnmore-show='false'></div><!-- compare button --></div>\\n</li>\\n\\n    </div>\"}]"
+        },
+        {
+          "name": "MOE_DATA",
+          "value": "{\"INIT_DATA\":{\"debugLevel\":0,\"sdkEnvironment\":\"LIVE\",\"logLevel\":0,\"cluster\":\"DC_4\",\"environment\":\"sdk-04.moengage.com\",\"baseDomainName\":\"https://sdk-04.moengage.com/\",\"inapp\":null,\"customSoftAsk\":{\"mainClass\":null,\"allowClass\":null,\"dismissClass\":null},\"nativeMethodsUsed\":false,\"appId\":\"QQYTJ1B8LDZ2MW5B1OYKMFPH\",\"forceSwUpdate\":null,\"swPath\":\"/tools/moengage/sw.js\",\"swScope\":\"/tools/moengage/\",\"integrationType\":\"Shopify\",\"integrationVersion\":null},\"WEB_SETTINGS\":{\"isDomainLevelStorage\":false,\"configs\":{\"isBeaconDisabled\":false,\"isCardsModuleEnabled\":false,\"isWebPersonalizationModuleEnabled\":false,\"isCacheEnabledForWebPSelfHandle\":true,\"eventBatchCount\":15,\"logLevel\":null,\"periodicFlushTime\":30,\"isBatchingEnabled\":false,\"sessionInactiveDuration\":1800,\"isRemoteLoggingEnabled\":false,\"sourceExtraParams\":[],\"whitelistedEvents\":[],\"blacklistedEvents\":[],\"blacklistedPortfolioUserAttributes\":[],\"isAppActive\":false,\"remoteLogTracking\":false,\"subscriberBasedBillingAttributes\":[],\"isMultiIdEnabled\":false,\"userAttributeCacheTime\":43200,\"portfolioUserAttributeCacheTime\":43200,\"identityAttributes\":[],\"landingPageTracking\":false,\"isTelemetryEnabled\":false,\"telemetryFlushInterval\":86400,\"telemetryBatchSize\":100,\"telemetrySessionDuration\":86400,\"telemetryEventCount\":1,\"telemetryFailureCount\":1},\"settingsVersion\":\"V2\",\"toShowOverlay\":false,\"loadTime\":0,\"promptAgain\":0,\"optInType\":\"self-handled\",\"isWebPushEnabled\":false,\"optInPreview\":{\"mobile\":{\"nudge\":{\"title\":{\"textColor\":\"#FFFFFF\",\"text\":\"This website would like to send you awesome updates and offers!\"},\"backgroundColor\":\"#000000\",\"icon\":\"https://www.moengage.com/wp-content/uploads/2019/07/moengage-logo.png\",\"altText\":\"\"},\"allowButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Allow\",\"backgroundColor\":\"#000000\"},\"dismissButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Don't Allow\",\"backgroundColor\":\"#000000\"},\"logo\":{\"logoUrl\":\"https://app-cdn.moengage.com/images/brand/logo_full_white.png\",\"logoColor\":\"#FFFFFF\",\"altText\":\"Powered By MoEngage\"}},\"web\":{\"banner\":{\"title\":{\"textColor\":\"#FFFFFF\",\"text\":\"This website would like to send you awesome updates and offers!\"},\"body\":{\"textColor\":\"#FFFFFF\",\"text\":\"Notifications can be turned off anytime from browser settings\"},\"backgroundColor\":\"#000000\",\"icon\":\"https://www.moengage.com/wp-content/uploads/2019/07/moengage-logo.png\",\"altText\":\"\"},\"allowButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Allow\",\"backgroundColor\":\"#000000\"},\"dismissButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Don't Allow\",\"backgroundColor\":\"#000000\"},\"logo\":{\"logoUrl\":\"https://app-cdn.moengage.com/images/brand/logo_full_white.png\",\"logoColor\":\"#FFFFFF\",\"altText\":\"Powered By MoEngage\"}}},\"overlay\":{\"opera\":{\"mobile\":{\"title\":\"Opera Mobile Preview\",\"text\":\"Tap on Allow button to receive notifications\"},\"desktop\":{\"title\":\"Opera Desktop Preview\",\"text\":\"Click on Allow button to receive notifications\"}},\"chrome\":{\"mobile\":{\"title\":\"Chrome Mobile Preview\",\"text\":\"Tap on Allow button to receive notifications\"},\"desktop\":{\"title\":\"Chrome Desktop Preview\",\"text\":\"Click on Allow button to receive notifications\"}},\"firefox\":{\"mobile\":{\"title\":\"Firefox Mobile Preview\",\"text\":\"Tap on Always button to receive Notifications\"},\"desktop\":{\"title\":\"Firefox Desktop Preview\",\"text\":\"Click on Allow button to receive Notifications\"}}},\"webPushPlatformData\":{\"chrome\":{\"subscriptionMode\":\"vapid\",\"vapidPublicKey\":\"BLj4lMTCwkFgqMPjLWJbz6YXMzD5hEl1XpVq3jCd0CA05P5szk-p2sX4IhDUq5FIplUxw1puiPK4b7-jTNBHcno\"},\"firefox\":{\"subscriptionMode\":\"vapid\",\"vapidPublicKey\":\"BLj4lMTCwkFgqMPjLWJbz6YXMzD5hEl1XpVq3jCd0CA05P5szk-p2sX4IhDUq5FIplUxw1puiPK4b7-jTNBHcno\"}},\"isPushSubBilling\":true,\"isBrandingHidden\":false},\"SETUP_TIME\":1794249726526,\"SDK_VERSION\":\"2.81.01\",\"TELEMETRY\":{\"lastSyncTs\":0,\"sessionState\":{\"windowStart\":0,\"perOp\":{}},\"pendingFailures\":[{\"op_id\":\"config_fetch\",\"span_id\":\"fdf36aba-a1a3-4b69-a050-39ebe8444f83\",\"start_ts\":1794249725370,\"duration\":1158,\"result\":\"failure\",\"checkpoints\":[{\"name\":\"network_call\",\"t\":1155},{\"name\":\"payload_process\",\"t\":1158}],\"meta\":{\"source\":\"core/api.ts\",\"failure_reason\":\"app_blocked\"}},{\"op_id\":\"init\",\"span_id\":\"517dbd46-2020-4d8b-8b3b-16c051991750\",\"start_ts\":1794249721365,\"duration\":5175,\"result\":\"failure\",\"checkpoints\":[{\"name\":\"init_data_saved\",\"t\":4},{\"name\":\"module_manager_ready\",\"t\":4000}],\"meta\":{\"source\":\"core/index.ts\",\"pre_init_ms\":7608,\"failure_reason\":\"config_fetch_failed\"}}]},\"SHOPIFY\":{\"isOrderPlacedEnabled\":true,\"isUserLoginsEnabled\":true,\"isEmailTrackingEnabled\":true,\"isMobileTrackingEnabled\":true,\"isShipmentMobileEnabled\":true,\"userIdentifier\":\"email\"}}"
+        },
+        {
+          "name": "loyaltylion_persistent_data",
+          "value": "{\"referrer\":{\"domain\":\"$direct\",\"searchEngine\":\"\",\"url\":\"$direct\"},\"visitorId\":\"40c66067-e897-46cf-aa39-f5e992abb5e5\"}"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBod9HpMSw4ADY_2Q4wYPE8rG6r3fZ53X1_og89ft284XJGgCLBfSxbyjQkJ978pGF1WMucPUPjj_zMZiJ-dMFkrPGShST6aWKVmy03D27RML-gcm5IRvKqfOkXbS8gblhGK9iFOEsyez6dapSOa6J0z0NUcfixBpTG-lS8g-VPpmW9C-exuQcufORqE6v5lHeaQy0HzXS2IFXQ10MoM9c54fIQKI"
+    },
+    "queueToken": "AwsiLR7C0DWEEbk6kk2ZsgRk3sIokrtpKe2EVN9c43ZjaNglcLepmQmadMuVY-Iexc-LI7XPm-1pNcIgueVl9LNk1QNkdhBuE8w2Ym1W0c7rsHYNuFMlmBToSBbkFjmPIQ==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "7bccb8b3-fc63-4a6c-8a7f-c0e4d70d99ea",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/43357729685679",
+              "variantId": "gid://shopify/ProductVariant/43357729685679",
+              "properties": [
+                {
+                  "name": "Plus",
+                  "value": {
+                    "string": "FREE Yoga Mat Bag Included"
+                  },
+                  "visible": true
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "120.00",
+              "currencyCode": "GBP"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

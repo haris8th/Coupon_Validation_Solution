@@ -1,0 +1,72 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBS9QpunrIFYZJhOadWNP1fSZQYdmeRJr7z24b5-MYJcEK7vLAnNvHKuImeC-q3Wqbuvir_142uKO0CqD1eh9nQhvz51p0US_k_-5x4wAnlZzUZxMP-6TuZozN42_ZC1nS0EZSGJmwKOS6wYuJYWP8-IpBAh4-Fgi_gxCoZKOXuH6u1Ss6LRsUdiXBNkGHc2KxfTlKgSgxvRDPscSfoXA58GHQD3-X"
+    },
+    "queueToken": "A74nSoD7dXYf6ihITIZH_Mp8Zs5p8NMPQGhUzV4g3g23-xAcV6Z-Xw830AmNHPqkP7-wZVjo3DclptQRpkvlClRARVs2zGeeZsxuk03y0xNG-4nNpE6xDB7ERWT3jfW5Ab-ctBPVLA==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "1cc1e3a5-5381-4e8e-9dbf-0695704ee728",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/31726504935476",
+              "variantId": "gid://shopify/ProductVariant/31726504935476",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "449.00",
+              "currencyCode": "AUD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "102e76ed-0521-41f5-94e0-4bee1416274b",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/46044447604980",
+              "variantId": "gid://shopify/ProductVariant/46044447604980",
+              "properties": [
+                {
+                  "name": "_Gifted",
+                  "value": {
+                    "string": "Free Aero Slim when customer purchase Airam"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "129.00",
+              "currencyCode": "AUD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

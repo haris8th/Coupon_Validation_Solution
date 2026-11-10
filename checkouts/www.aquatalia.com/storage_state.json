@@ -1,0 +1,373 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "www.aquatalia.com",
+      "path": "/",
+      "expires": 1825785406.278496,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "www.aquatalia.com",
+      "path": "/",
+      "expires": 1795459006.904636,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHBmP1BAAEAY2QkgfYfesdfEJxbLxSgKHnwg-4OILgJv4hn9Hzf_KReL-b1x6OyJh68WI0jv02bt0ciBphexmyzO5o:",
+      "domain": "www.aquatalia.com",
+      "path": "/",
+      "expires": 1825785391.54326,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHBmP1yAAEA5U0OstRh7cDTUnb6BiOjBKHIyIJgewsMvkzeQ9XlAYp8Bga_tjDYnK6aQZp3ew_scVB7IpcgDBMr9LM:",
+      "domain": "www.aquatalia.com",
+      "path": "/",
+      "expires": 1825785391.543329,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHBmP1yAAEABCxyKltlTootmnfTvQne05qnWvKbjDVwkCRECm5Pg4sok--U9x3Mmeaoq7CISJv7pRP5LikxiRZRrdc:",
+      "domain": "www.aquatalia.com",
+      "path": "/",
+      "expires": 1825785391.543394,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_c",
+      "value": "0",
+      "domain": ".aquatalia.com",
+      "path": "/",
+      "expires": 1828413393,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_id",
+      "value": "7948e1d8-fa3d-aa6e-b136-b692f16cf50d.1794249393.1.1794249395.1794249393.1.1828413393111.1.x",
+      "domain": ".aquatalia.com",
+      "path": "/",
+      "expires": 1828413393,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://www.aquatalia.com",
+      "domain": "www.aquatalia.com",
+      "path": "/",
+      "expires": 1796841396,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "www.aquatalia.com",
+      "path": "/",
+      "expires": 1796841396,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPVpqRXhOakl3T1RRdFpEZG1aaTAwTkRSbUxUazNNak10WkdJMU9ESXpPR0ZoTldOaw",
+      "domain": "www.aquatalia.com",
+      "path": "/",
+      "expires": 1825785396,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attn_eat_id",
+      "value": "ceb48c1fd28346a3b150c86e6cc3f80f",
+      "domain": ".aquatalia.com",
+      "path": "/",
+      "expires": 1827945395.793118,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://aquatalia.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "_cs_s",
+      "value": "2.5.U.9.1794251198025",
+      "domain": ".aquatalia.com",
+      "path": "/",
+      "expires": 1794251198,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_id",
+      "value": "72786cf9befb4174ae08c1e4562a4455",
+      "domain": ".aquatalia.com",
+      "path": "/",
+      "expires": 1827945398,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_session_id",
+      "value": "926f5f98e78e4daa98a403a7adf6849e",
+      "domain": ".aquatalia.com",
+      "path": "/",
+      "expires": 1794251205,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzk0MjQ5Mzk4NzE1LFwidW9cIjoxNzk0MjQ5Mzk4NzE1LFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjcyNzg2Y2Y5YmVmYjQxNzRhZTA4YzFlNDU2MmE0NDU1XCJ9IiwiZWF0Ijoie1wiY29cIjoxNzk0MjQ5Mzk4Njc0LFwidW9cIjoxNzk0MjQ5Mzk4Njc0LFwibWFcIjozNjUwLFwiaW5cIjp0cnVlLFwidmFsXCI6XCJodHRwczovL3JlY2lkLmFxdWF0YWxpYS5jb21cIn0ifQ==",
+      "domain": ".aquatalia.com",
+      "path": "/",
+      "expires": 1827945398,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1794249398724",
+      "domain": ".aquatalia.com",
+      "path": "/",
+      "expires": 1827945398,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_bopd_",
+      "value": "browser",
+      "domain": ".aquatalia.com",
+      "path": "/",
+      "expires": 1827945399,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".aquatalia.com",
+      "path": "/",
+      "expires": 1794256599,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "1",
+      "domain": ".aquatalia.com",
+      "path": "/",
+      "expires": 1794251199,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "ORGANIC",
+      "domain": ".aquatalia.com",
+      "path": "/",
+      "expires": 1794251199,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxPoraMnbwtaPBGlyXN1H%3Fkey%3Df487c5ac69c5cff334829931934af44c",
+      "domain": "www.aquatalia.com",
+      "path": "/",
+      "expires": 1802111804.755663,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_8iHNxvGTTp6iGtXbt1Z65Q%23c78cdded-162e-49e9-8a39-77d0e36b592d-1794249393",
+      "domain": ".aquatalia.com",
+      "path": "/",
+      "expires": 1825807030.174807,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "cx_t9WsxpV8jm8A7FcS5ApGCcTSCF6xtFPYIFD_vSFs-1794249430.0065725-1.0.1.1-AQedMoZcpFPpLyz1rb82P2Efs1wQAGKsaVe2vUkWV5zeljxLIIBDs967aygVKIspATXsj8vPXmSMiLGTCr9TA.aGtCyABhBN7Pl6kwLFXveJvUw1jz5B.ao48c3Mh73T",
+      "domain": ".www.aquatalia.com",
+      "path": "/",
+      "expires": 1794251230.279879,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://aquatalia.com",
+      "_crHasCrossSiteAncestor": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.aquatalia.com",
+      "localStorage": [
+        {
+          "name": "isp_session_1",
+          "value": "{\"start\":1794249402,\"last_active\":1794249407}"
+        },
+        {
+          "name": "nvdVariant",
+          "value": "40477358719048"
+        },
+        {
+          "name": "isp_token_1",
+          "value": "g01M70SJD4C4D246B39YCF1ZT9Y"
+        },
+        {
+          "name": "FS_TAG_MANAGER_PROVIDER",
+          "value": "0"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1794249393709"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPVpqRXhOakl3T1RRdFpEZG1aaTAwTkRSbUxUazNNak10WkdJMU9ESXpPR0ZoTldOaw\",\"expires\":\"2027-11-09T18:36:36.027Z\"}"
+        },
+        {
+          "name": "star_color",
+          "value": "#000000"
+        },
+        {
+          "name": "gorgias.conversation-starters-timeout-cohort",
+          "value": "10000"
+        },
+        {
+          "name": "__rmco",
+          "value": "{\"channelIds\":{\"attr_sid\":\"124442\",\"aff_mid\":\"53480\"},\"scope\":\"\",\"version\":\"2\",\"productConsents\":{\"ranTrkInt\":true,\"ranTrkExt\":true,\"ranAut\":true,\"ranCGE\":true,\"rtbRet\":true,\"rtbPro\":true,\"cadTrk\":true,\"dspTrk\":true},\"execStatus\":1,\"consentSought\":false,\"sourceDomain\":\"www.aquatalia.com\",\"rmPurposeConsents\":[],\"rmVendorConsents\":[],\"id\":\"53a1d984-d14c-4c00-a74a-67e8d9593970\",\"scnt\":0,\"maxAge\":1794251203122}"
+        },
+        {
+          "name": "__isp_cdn_cache_key_1",
+          "value": "1794249221"
+        },
+        {
+          "name": "fast-session-token",
+          "value": "{\"start\":1794249402,\"lastActive\":1794249407}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxPoraMnbwtaPBGlyXN1H\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxPoraMnbwtaPBGlyXN1H\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "nvd_running",
+          "value": "false"
+        },
+        {
+          "name": "FS_ANALYTICS_products_added_to_cart",
+          "value": "[{\"productId\":\"7035927429192\",\"cartLineCost\":450,\"timestampMs\":1794249404814,\"timestamp\":\"2026-11-09T18:36:44.814Z\",\"variantId\":\"41053580787784\"}]"
+        },
+        {
+          "name": "ISP_PRODUCTS_VIEWED_SESSION_2",
+          "value": "[[\"7035927429192\",1794249405,null]]"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxPoraMnbwtaPBGlyXN1H\""
+        },
+        {
+          "name": "fast_swatch_switch",
+          "value": "{\"enabled\":true,\"selectors\":[\":is(.product__info,.product-single__meta,.product__details,.product-detail,.product-details,.product-info,.pdp__copy,[class*=\\\"product-form\\\"],[class*=\\\"product__info\\\"],[class*=\\\"product-single__meta\\\"]) :is([class*=\\\"swatch\\\"],[class*=\\\"sibling\\\"],[class*=\\\"color-option\\\"],[class*=\\\"colour-option\\\"],[class*=\\\"product-family\\\"]):not([class*=\\\"modal\\\" i],[class*=\\\"popup\\\" i],[class*=\\\"quickview\\\" i],[class*=\\\"quick-view\\\" i],[class*=\\\"quickadd\\\" i],[class*=\\\"quick-add\\\" i])\",\":is(.product__info,.product-single__meta,.product__details,.product-detail,.product-details,.product-info,.pdp__copy,[class*=\\\"product-form\\\"],[class*=\\\"product__info\\\"],[class*=\\\"product-single__meta\\\"]) :is([class*=\\\"color\\\" i],[class*=\\\"colour\\\" i]) a[href*=\\\"/products/\\\"]:not([class*=\\\"modal\\\" i],[class*=\\\"popup\\\" i],[class*=\\\"quickview\\\" i],[class*=\\\"quick-view\\\" i],[class*=\\\"quickadd\\\" i],[class*=\\\"quick-add\\\" i])\",\":is(.product__info,.product-single__meta,.product__details,.product-detail,.product-details,.product-info,.pdp__copy,[class*=\\\"product-form\\\"],[class*=\\\"product__info\\\"],[class*=\\\"product-single__meta\\\"]) a:is([class*=\\\"color\\\" i],[class*=\\\"colour\\\" i])[href*=\\\"/products/\\\"]:not([class*=\\\"modal\\\" i],[class*=\\\"popup\\\" i],[class*=\\\"quickview\\\" i],[class*=\\\"quick-view\\\" i],[class*=\\\"quickadd\\\" i],[class*=\\\"quick-add\\\" i])\",\".color-swatch-wrapper .color-swatch-ele\",\"[js-dropdown-menu-related-colors] a\",\".jmmProductSwatchesDiv a\",\".product__siblings_swatch\",\".product-form__sibling-option\",\".color-swatch-custom__item\",\":is(.Product__Info,.Product__InfoWrapper,.ProductForm) .ColorSwatchList .ColorSwatch:not([class*=\\\"modal\\\" i],[class*=\\\"popup\\\" i],[class*=\\\"quickview\\\" i],[class*=\\\"quick-view\\\" i],[class*=\\\"quickadd\\\" i],[class*=\\\"quick-add\\\" i])\"]}"
+        },
+        {
+          "name": "fs-autocomplete-new-settings-cache-939552c4-4d88-4145-beba-ce407b70fc04-6185320512",
+          "value": "{\"suspended\":false,\"language\":\"en\",\"platform\":\"Shopify\",\"site_url\":\"www.aquatalia.com\",\"cdn_cache_key\":1794249221,\"categories_count\":3,\"turbolinks_count\":3,\"popular_searches_count\":4,\"recent_count\":0,\"product_count\":4,\"articles_count\":5,\"show_description\":false,\"theme\":\"list\",\"show_price\":true,\"display_popular_on_focus\":false,\"order\":[\"recent-searches\",\"products\",\"popular-searches\",\"categories\",\"turbolinks\"],\"css\":\"div#fast-autocomplete-1234{\\n  width: 100vw !important;\\n}\\n\\n.fast-autocomplete-input::selection {\\n  background: #3390ff !important;\\n  color: #fff !important;\\n}\\n\\n.fast-autocomplete-input::-moz-selection {\\n  background: #3390ff !important;\\n  color: #fff !important;\\n}\\n#Search-In-Modal.fast-autocomplete-input::selection {\\n  background-color: #3390ff !important;\\n  color: #ffffff !important;\\n}\\n\\n#Search-In-Modal.fast-autocomplete-input::-moz-selection {\\n  background-color: #3390ff !important;\\n  color: #ffffff !important;\\n}\\n\\n.fast-simon-autocomplete.wide .fs-product .fs-product-image {\\n  min-height: fit-content !important;\\n}\",\"is_mobile_optimized\":false,\"customization\":{\"text\":{\"color\":\"#666\",\"colorHover\":\"#333\"},\"background\":{\"hoverGradientBottom\":\"#f2f2f2\",\"hoverGradientTop\":\"#f2f2f2\"},\"border\":{\"color\":\"#ccc\",\"radius\":1,\"width\":1},\"dropdown\":{\"backgroundColor\":\"#fff\",\"width\":0},\"headers\":{\"backgroundColor\":\"#fff\",\"textColor\":\"#9b9b9b\"},\"shadow\":{\"color\":\"#666\",\"blur\":0,\"horizontal\":0,\"vertical\":0}},\"is_category_thumbnail\":false,\"serp\":true,\"price_format\":\"from_min\",\"renames\":null,\"is_v1_fetch_required\":false,\"serp_version\":2,\"avoid_decimal_price\":false,\"currency_position\":\"before\",\"is_attentive_recommendations\":false,\"is_round_up_converted_price\":false,\"total_product_count\":531,\"custom_html_bottom\":null,\"autocomplete_settings\":{\"desktopSettings\":{\"layout\":\"vertical\",\"order\":[{\"type\":\"recent-searches\",\"name\":\"recent-searches\",\"count\":5,\"visible\":true},{\"type\":\"products\",\"name\":\"products\",\"count\":4},{\"type\":\"popular-searches\",\"name\":\"popular-searches\",\"count\":4},{\"type\":\"categories\",\"name\":\"categories\",\"count\":3,\"visible\":true},{\"type\":\"turbolinks\",\"name\":\"turbolinks\",\"count\":3,\"visible\":true}]},\"tabletSettings\":{\"layout\":\"vertical\",\"order\":[{\"type\":\"recent-searches\",\"name\":\"recent-searches\",\"count\":5,\"visible\":true},{\"type\":\"products\",\"name\":\"products\",\"count\":4},{\"type\":\"popular-searches\",\"name\":\"popular-searches\",\"count\":4},{\"type\":\"categories\",\"name\":\"categories\",\"count\":3,\"visible\":true},{\"type\":\"turbolinks\",\"name\":\"turbolinks\",\"count\":3,\"visible\":true}]},\"mobileSettings\":{\"layout\":\"vertical\",\"order\":[{\"type\":\"recent-searches\",\"name\":\"recent-searches\",\"count\":5,\"visible\":true},{\"type\":\"products\",\"name\":\"products\",\"count\":4},{\"type\":\"popular-searches\",\"name\":\"popular-searches\",\"count\":4},{\"type\":\"categories\",\"name\":\"categories\",\"count\":3,\"visible\":true},{\"type\":\"turbolinks\",\"name\":\"turbolinks\",\"count\":3,\"visible\":true}]}},\"isContent\":false,\"isSPA\":false,\"isNoCodeActive\":true,\"takeoverCategoriesNavigation\":true,\"isAvoidPriceForNonLogin\":false,\"isAvoidCompareAtPrice\":false,\"editor_settings\":{\"style\":{\"font\":{\"font\":\"Arial\",\"fontSize\":\"14px\",\"fontWeight\":\"700\",\"letterSpacing\":\"0.25px\",\"lineHeight\":\"auto\",\"textAlign\":\"left\"},\"dropdownBackgroundColor\":\"#fff\",\"border\":\"1px solid #ccc\",\"borderRadius\":1,\"dropdownWidth\":\"0\",\"shadow\":\"0px 0px 0px 0px #666\",\"padding\":{\"0\":\"0\",\"1\":\"p\",\"2\":\"x\",\"desktop\":\"0px\",\"mobile\":\"0px\",\"tablet\":\"0px\"},\"isDimOnFocus\":false,\"headerTextColor\":\"#000000\",\"headerBackgroundColor\":\"#fff\",\"subItemColor\":\"#000000\",\"subItemColorOnHover\":\"#333\",\"subItemBackgroundColor\":\"#ffffff\",\"subItemBackgroundColorOnHover\":\"#f2f2f2\",\"subItemBorder\":\"unset\",\"subItemBorderRadius\":\"unset\",\"headerTextColorOnHover\":\"#333\",\"textColorOnHover\":\"#333\"},\"layout\":{\"layout\":{\"desktop\":\"wide\",\"tablet\":\"wide\",\"mobile\":\"vertical\"},\"isOptimizedOnMobileSearch\":{\"desktop\":false,\"tablet\":false,\"mobile\":false},\"isThumbnailsOnMobile\":false,\"isPopularProductOnFocus\":false,\"customHtmlBottom\":\"\",\"order\":{\"desktop\":[{\"count\":4,\"name\":\"Products\",\"type\":\"products\",\"visible\":true},{\"count\":4,\"name\":\"Popular searches\",\"type\":\"popular-searches\",\"visible\":true},{\"count\":3,\"name\":\"Collections\",\"type\":\"categories\",\"visible\":true},{\"count\":5,\"name\":\"Recent searches\",\"type\":\"recent-searches\",\"visible\":true},{\"count\":3,\"name\":\"Quick links\",\"type\":\"turbolinks\",\"visible\":true},{\"count\":5,\"name\":\"Articles\",\"type\":\"articles\",\"visible\":true}],\"tablet\":[{\"count\":4,\"name\":\"Recent searches\",\"type\":\"recent-searches\",\"visible\":true},{\"count\":2,\"name\":\"Products\",\"type\":\"products\",\"visible\":true},{\"count\":4,\"name\":\"Popular searches\",\"type\":\"popular-searches\",\"visible\":true},{\"count\":3,\"name\":\"Collections\",\"type\":\"categories\",\"visible\":false},{\"count\":3,\"name\":\"Quick links\",\"type\":\"turbolinks\",\"visible\":true},{\"count\":5,\"name\":\"Articles\",\"type\":\"articles\",\"visible\":true}],\"mobile\":[{\"count\":4,\"name\":\"Popular searches\",\"type\":\"popular-searches\",\"visible\":true},{\"count\":4,\"name\":\"Products\",\"type\":\"products\",\"visible\":true},{\"count\":3,\"name\":\"Collections\",\"type\":\"categories\",\"visible\":true},{\"count\":5,\"name\":\"Recent searches\",\"type\":\"recent-searches\",\"visible\":true},{\"count\":3,\"name\":\"Quick links\",\"type\":\"turbolinks\",\"visible\":true},{\"count\":5,\"name\":\"Articles\",\"type\":\"articles\",\"visible\":true}]},\"isRecentlyViewedProductOnFocus\":false},\"product\":{\"backgroundColor\":\"unset\",\"border\":\"unset\",\"borderRadius\":\"unset\",\"showBgColorOnHover\":true,\"hoverBackgroundColor\":\"#FFFFFF\",\"compare\":{\"color\":\"#000000\",\"dimensions\":{\"height\":\"auto\",\"width\":\"auto\",\"x\":\"0\",\"y\":\"0\"},\"font\":{\"font\":\"Arial\",\"fontSize\":\"14px\",\"fontWeight\":\"400\",\"letterSpacing\":\"0.25px\",\"lineHeight\":\"auto\",\"textAlign\":\"left\"},\"gridPosition\":{\"areaName\":\"compare\",\"numOfCols\":1,\"row\":2},\"isActive\":false,\"margin\":\"unset\",\"shadow\":\"unset\"},\"dimensions\":{\"height\":\"auto\",\"width\":\"auto\",\"x\":\"0\",\"y\":\"0\"},\"imageRatio\":{\"imageRatio\":1,\"imageFit\":\"contain\"},\"padding\":\"3px\",\"info\":{\"grid\":{\"gridAreas\":\"\\\"title title title title\\\" \\\"price price price price\\\" \",\"gridAreasObj\":[{\"h\":1,\"i\":\"title\",\"maxH\":1,\"maxW\":4,\"w\":4,\"x\":0,\"y\":0},{\"h\":1,\"i\":\"price\",\"maxH\":1,\"maxW\":4,\"w\":4,\"x\":0,\"y\":1}]},\"padding\":\"0px\"},\"price\":{\"currency\":\"auto\",\"alignIfCompare\":\"left\",\"color\":\"#000000\",\"colorIfCompareEnable\":\"#C90404\",\"dimensions\":{\"height\":\"auto\",\"width\":\"auto\",\"x\":\"0\",\"y\":\"0\"},\"font\":{\"font\":\"Arial\",\"fontSize\":\"14px\",\"fontWeight\":\"400\",\"letterSpacing\":\"0.25px\",\"lineHeight\":\"auto\",\"textAlign\":\"left\"},\"gridPosition\":{\"areaName\":\"price\",\"numOfCols\":1,\"row\":2},\"isActive\":false,\"margin\":\"unset\",\"shadow\":\"unset\"},\"shadow\":\"unset\",\"showBorderOnHover\":false,\"title\":{\"color\":\"#666\",\"dimensions\":{\"height\":\"auto\",\"width\":\"auto\",\"x\":\"0\",\"y\":\"0\"},\"font\":{\"font\":\"Arial\",\"fontSize\":\"14px\",\"fontWeight\":\"400\",\"letterSpacing\":\"0.25px\",\"lineHeight\":\"1.5\",\"textAlign\":\"left\"},\"gridPosition\":{\"areaName\":\"title\",\"numOfCols\":3,\"row\":1},\"isActive\":true,\"margin\":\"unset\",\"numberOfLines\":\"3\",\"saveSpaceForLineClamp\":true},\"sku\":{\"color\":\"#000000\",\"dimensions\":{\"height\":\"auto\",\"width\":\"auto\",\"x\":\"0\",\"y\":\"0\"},\"font\":{\"font\":\"Arial\",\"fontSize\":\"14px\",\"fontWeight\":\"400\",\"letterSpacing\":\"0.25px\",\"lineHeight\":\"auto\",\"textAlign\":\"left\"},\"gridPosition\":{\"areaName\":\"description\",\"numOfCols\":3,\"row\":4},\"isActive\":false,\"margin\":\"unset\",\"shadow\":\"unset\"},\"description\":{\"color\":\"#000000\",\"dimensions\":{\"height\":\"auto\",\"width\":\"auto\",\"x\":\"0\",\"y\":\"0\"},\"font\":{\"font\":\"Arial\",\"fontSize\":\"14px\",\"fontWeight\":\"400\",\"letterSpacing\":\"0.25px\",\"lineHeight\":\"auto\",\"textAlign\":\"left\"},\"gridPosition\":{\"areaName\":\"description\",\"numOfCols\":3,\"row\":4},\"isActive\":false,\"margin\":\"unset\",\"numberOfLines\":\"3\",\"shadow\":\"unset\",\"maxDescriptionCharacters\":0}}},\"v1_load\":null,\"swatch_switch\":{\"enabled\":true,\"selectors\":[\":is(.product__info,.product-single__meta,.product__details,.product-detail,.product-details,.product-info,.pdp__copy,[class*=\\\"product-form\\\"],[class*=\\\"product__info\\\"],[class*=\\\"product-single__meta\\\"]) :is([class*=\\\"swatch\\\"],[class*=\\\"sibling\\\"],[class*=\\\"color-option\\\"],[class*=\\\"colour-option\\\"],[class*=\\\"product-family\\\"]):not([class*=\\\"modal\\\" i],[class*=\\\"popup\\\" i],[class*=\\\"quickview\\\" i],[class*=\\\"quick-view\\\" i],[class*=\\\"quickadd\\\" i],[class*=\\\"quick-add\\\" i])\",\":is(.product__info,.product-single__meta,.product__details,.product-detail,.product-details,.product-info,.pdp__copy,[class*=\\\"product-form\\\"],[class*=\\\"product__info\\\"],[class*=\\\"product-single__meta\\\"]) :is([class*=\\\"color\\\" i],[class*=\\\"colour\\\" i]) a[href*=\\\"/products/\\\"]:not([class*=\\\"modal\\\" i],[class*=\\\"popup\\\" i],[class*=\\\"quickview\\\" i],[class*=\\\"quick-view\\\" i],[class*=\\\"quickadd\\\" i],[class*=\\\"quick-add\\\" i])\",\":is(.product__info,.product-single__meta,.product__details,.product-detail,.product-details,.product-info,.pdp__copy,[class*=\\\"product-form\\\"],[class*=\\\"product__info\\\"],[class*=\\\"product-single__meta\\\"]) a:is([class*=\\\"color\\\" i],[class*=\\\"colour\\\" i])[href*=\\\"/products/\\\"]:not([class*=\\\"modal\\\" i],[class*=\\\"popup\\\" i],[class*=\\\"quickview\\\" i],[class*=\\\"quick-view\\\" i],[class*=\\\"quickadd\\\" i],[class*=\\\"quick-add\\\" i])\",\".color-swatch-wrapper .color-swatch-ele\",\"[js-dropdown-menu-related-colors] a\",\".jmmProductSwatchesDiv a\",\".product__siblings_swatch\",\".product-form__sibling-option\",\".color-swatch-custom__item\",\":is(.Product__Info,.Product__InfoWrapper,.ProductForm) .ColorSwatchList .ColorSwatch:not([class*=\\\"modal\\\" i],[class*=\\\"popup\\\" i],[class*=\\\"quickview\\\" i],[class*=\\\"quick-view\\\" i],[class*=\\\"quickadd\\\" i],[class*=\\\"quick-add\\\" i])\"]},\"has_bloomreach\":false,\"has_dotdigital\":false,\"smart_navigation_version\":2,\"has_shopify_markets\":false,\"is_categories_turbolinks_enabled\":false,\"use_singular_plural_broad_match\":true,\"is_categories_turbolinks_broad_match_enabled\":false,\"tag_manager_provider\":0,\"translation_provider\":\"\",\"referrer_query_serving\":false,\"ask_ai_enabled\":false,\"ask_ai_config\":{\"thumbnail\":\"\",\"title\":\"Aquatalia\u00ae Assistant\",\"subtitle\":\"\",\"primaryColor\":\"#000000\",\"customTexts\":{\"quickAdd\":\"Add to Cart\",\"assistantMessageHeader\":\"AI Assistant\",\"userMessageHeader\":\"You\",\"moreLikeThis\":\"More like this\",\"inputPlaceholder\":\"Send a message...\"},\"standaloneWidgetEnabled\":true,\"primaryExperience\":\"overlay_widget\",\"entryPoints\":{\"primaryExperience\":\"overlay_widget\",\"widgetLayout\":\"floating_overlay\",\"floatingButton\":{\"enabled\":true,\"placement\":\"bottom-right\"},\"headerIcon\":{\"enabled\":false,\"label\":\"Ask AI\",\"icon\":\"chat\"}},\"gorgiasHandoffEnabled\":false,\"questionExamples\":true,\"homeCapabilities\":[{\"id\":\"photo\",\"action\":\"photo\"}],\"contextCapabilities\":[{\"id\":\"similar\",\"action\":\"prompt\"}],\"template\":\"classic\",\"templateConfig\":{\"capabilities\":[{\"id\":\"photo\",\"action\":\"photo\"}],\"contextCapabilities\":[{\"id\":\"similar\",\"action\":\"prompt\"}]}}}"
+        },
+        {
+          "name": "isp-session-token",
+          "value": "{\"start\":1794249402,\"lastActive\":1794249407}"
+        },
+        {
+          "name": "__isp_cdn_cache_key_expiration",
+          "value": "1794253001971"
+        },
+        {
+          "name": "fs_reporting_dedup",
+          "value": "[{\"key\":\"566030171\",\"timestamp\":1794249405781}]"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://www.aquatalia.com/products/ari-espresso\",\"exp\":1796841396462}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "__rmid",
+          "value": "4634f112-09ae-4b76-bc4f-18bca5e507ea:1802025403141"
+        },
+        {
+          "name": "fs_avoid_inject_on_interaction",
+          "value": "true"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "isp-user-session-token",
+          "value": "g01M70SJD4C4D246B39YCF1ZT9Y"
+        },
+        {
+          "name": "nvdCart",
+          "value": "{\"token\":\"hWNIxPoraMnbwtaPBGlyXN1H?key=f487c5ac69c5cff334829931934af44c\",\"note\":\"\",\"attributes\":{},\"original_total_price\":45000,\"total_price\":45000,\"total_discount\":0,\"total_weight\":0,\"item_count\":1,\"items\":[{\"id\":41053580787784,\"properties\":{},\"quantity\":1,\"variant_id\":41053580787784,\"key\":\"41053580787784:e6fcddbb4b885abe804407613eed525d\",\"title\":\"ARI TOTE - Espresso\",\"price\":45000,\"original_price\":45000,\"presentment_price\":450,\"discounted_price\":45000,\"line_price\":45000,\"original_line_price\":45000,\"total_discount\":0,\"discounts\":[],\"sku\":\"TWB6ARTC1OSLP\",\"grams\":0,\"vendor\":\"Aquatalia\u00ae\",\"taxable\":true,\"product_id\":7035927429192,\"product_has_only_default_variant\":false,\"gift_card\":false,\"final_price\":45000,\"final_line_price\":45000,\"url\":\"/products/ari-espresso?variant=41053580787784\",\"featured_image\":{\"aspect_ratio\":1,\"alt\":\"ARI TOTE\",\"height\":1400,\"url\":\"https://cdn.shopify.com/s/files/1/0061/8532/0512/files/AQUABAG1_030525_1.jpg?v=1773064479\",\"width\":1400},\"image\":\"https://cdn.shopify.com/s/files/1/0061/8532/0512/files/AQUABAG1_030525_1.jpg?v=1773064479\",\"handle\":\"ari-espresso\",\"requires_shipping\":true,\"product_type\":\"ACCESSORIES\",\"product_title\":\"ARI TOTE\",\"product_description\":\"The ARI Tote by Aquatalia captures effortless sophistication with its clean lines and timeless silhouette. Crafted in luxurious Italian suede, the tote features a softly structured shape that offers both form and flexibility, making it ideal for everyday use.\\n\\n\\nMaterial: Premium Italian suede\\n\\n\\nDesign: Spacious, unlined body with a subtly sculpted profile\\n\\n\\nHandles: Smooth leather shoulder straps for contrast and durability\\n\\n\\nInterior: Open compartment with ample room for daily essentials, including laptop or tablet\\n\\n\\nStyle: A modern classic that balances practicality with understated luxury\\n\\n\",\"variant_title\":\"Espresso\",\"variant_options\":[\"Espresso\"],\"options_with_values\":[{\"name\":\"Color\",\"value\":\"Espresso\"}],\"line_level_discount_allocations\":[],\"line_level_total_discount\":0,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"has_components\":false}],\"requires_shipping\":true,\"currency\":\"USD\",\"items_subtotal_price\":45000,\"cart_level_discount_applications\":[],\"discount_codes\":[]}"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":\"deactivated\",\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":false,\"chatTitle\":\"Aquatalia Support\",\"isConnected\":false,\"isChatOnline\":true,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"always-required\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":true,\"replyType\":\"reply-dynamic\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "nvdProtectionPrice",
+          "value": "900"
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1794249399895"
+        }
+      ]
+    }
+  ]
+}

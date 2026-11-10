@@ -1,0 +1,64 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBOGetqyBkP-SF2HFfv4ekPJ5Otw6simo_4ou15lQvqt8iN5wxejIPstL2QtHMEv2gZBGo3bksqcQMpL4Sm17W6VUXywzxxsYscYydorl2yEL0yO3hmT9FNbDfZlGFnA12MfqrVtGH_-FcFi-QtEA_gjCLDGJCta7p5mbEp-5bdq1iZSzk-ylPSKBdoL8S7a4-XWGNOGbGT1Gebd1ptFZ6VbiesjOukQ4e"
+    },
+    "queueToken": "A-vH4n-4DS5plwM28EZckSf_Xvxp6dI7N782wfBbsSeGvfK-bNtUXRiapdnZ94wvlS5PSjH2YRp4C86srueIXbCYeX_YTRnnX70BvIvWH9ekJ2KCrsAhK9Bcmq0XlDa6FhcWxPd57mI=",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "e960465e-7def-42b7-9b5e-4d34d9a3a618",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/67841122140529",
+              "variantId": "gid://shopify/ProductVariant/67841122140529",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "0.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "ce3a9d3d-2646-4be7-8520-2a02db23cb9b",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/64517034312049",
+              "variantId": "gid://shopify/ProductVariant/64517034312049",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "35.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

@@ -1,0 +1,68 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBUu3IIZvIu8oRYAYhROvhoFBO1qgETxLpo5BIvmRA2IrmD3zT2I3kpZrZEHaJtqgqqtKSJHDktcL5OVN906_lGmfsDoLYld_5K9K7H7LkZP8fqibV_ktuK2zCr84TzxanfFCCi4Hn3JpJsgnhr_TwUom00ZFxGqMVLIptuTJjxMYUu9iH_blAkOnfM0_30Rph87mg_0gtzGuHPIP_jd95b-dJmz4j"
+    },
+    "queueToken": "A1rAL5hYisruPraIes8j_NOdOSHnEIbArtE83LwIqiJp7qe-AhPKo4BOQG4DhsejQn5_1YsThTL7CThKqQEC0hFJsoPiQ5B2pl7LRNi73DcvVbfjjBtiO-9xEjjpxlym",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "d399df2e-39d7-4af5-b55a-fe66eee8cc9f",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/46108506587205",
+              "variantId": "gid://shopify/ProductVariant/46108506587205",
+              "properties": [
+                {
+                  "name": "Shipping",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "_essential_preorder_campaign_id",
+                  "value": {
+                    "string": "2a17153c-4ded-4913-ae7b-e60e992e784e"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "Note",
+                  "value": {
+                    "string": "Delayed Shipment"
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "_essential_preorder_props",
+                  "value": {
+                    "string": "Note"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": "gid://shopify/SellingPlan/3005120581",
+              "sellingPlanDigest": "36c1746dc2c81dfaf223108e8bad4a5e"
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "64300.00",
+              "currencyCode": "PKR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

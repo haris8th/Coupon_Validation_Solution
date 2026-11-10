@@ -1,0 +1,47 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBfLAJSsv5gzsf5plXovFCMvAYhQ5hsHHMCE2vxjJTJP045Q3S6bh-FTZV_BdQBUt4Uo0tRy-CQLgkofrJXaNe5PTrAYx0cUPI2HBHNhVeZr6l-TkWdiy3DI39GhpyJMoC_CZedqHUdxUtvsfoEmD_HCeqHzc3TqSDZW-lkT-VHxxz2BVGDl574_BVUKAmchgNBxiUvPB9bx4I1acy8V8pKxGvxeGP9jLITw"
+    },
+    "queueToken": "Ax0OC9EKv4f2uJtQG2Gt8AqBFijcXDyVy2qaVoyPHtie0wg3nnBdcJFnvOJ2091-Zn6Uxopv95-4mFv2gfB5vVfcMO5-DLjzQVrhLbJeDM6vdkNGM6jqch1PH4DUlg==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "f5813c94-56ec-4342-83aa-ed6fa184f5c2",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/45784443158724",
+              "variantId": "gid://shopify/ProductVariant/45784443158724",
+              "properties": [
+                {
+                  "name": "Pet Name",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": true
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "12.95",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

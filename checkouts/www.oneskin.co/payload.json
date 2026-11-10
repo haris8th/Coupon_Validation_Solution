@@ -1,0 +1,72 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBASa_a-AL1_QjOEpMgQBiiVvOP6-MxqzYDxv7yPeGGe1GMIcWSIb7AiHB1YouosjkUJn9ablFXrnKCoY-7q-cGbk6B2r4ahWM0wsoZAAn1RqXNK3I5JRPktlMegC_zNL41vubvk34AdHu7Ei_srdbNVazRfctwnO2twaRZXJuqd0zZlW03dPHV-NjBLfuk18V2Q4WcBBfEYoma5XS-6OQbbgsvEvBsg"
+    },
+    "queueToken": "A2UqnQ5VA7rGWAdYvkc0mHR6YqXTNnIEOEWlAzoVgyuX6sXLGodMHc6EldCJ2I3kd4WWFXspUWVAu7zXH7LfOEaS2nq66Tsi3fqZXgFfVXAH0He7ziMPJA-2heiXmaJhAR4PvS2i28Y=",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "283864b5-66af-4495-bb47-ef6583e89537",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/49635295625475",
+              "variantId": "gid://shopify/ProductVariant/49635295625475",
+              "properties": [
+                {
+                  "name": "_NSHC_GIFT",
+                  "value": {
+                    "boolean": true
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "0.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "911b9ed9-e07d-470e-b44b-b06f882e50fc",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/49627350434051",
+              "variantId": "gid://shopify/ProductVariant/49627350434051",
+              "properties": [],
+              "sellingPlanId": "gid://shopify/SellingPlan/9871032579",
+              "sellingPlanDigest": "a6ef76bb1f662f27497f353ae4a454f3"
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "166.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

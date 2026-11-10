@@ -1,0 +1,64 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEB6MJNy9I6hGCnj8deJALXVF5kSka-QHYQZc6Z5SnX68z6nXHZ5qQjmP3NTclOsH-ooZOL9K2Oqt2ZphFRN8bFRYrj5BcM4GuiF3emXNNmTzx0RoGuf2fqgt3OfHOpeEVzgCnhjUSoXBkdQxXuDF8--Z7WS1Fxg6X-NeahsKAnRsGy-wyP3lKtuexfGOR5nBKu43-2C_4AvVfK8gf3fBoD5QM13Hix"
+    },
+    "queueToken": "A-HWoGV2flo2ymcLCNhUa75N34jiPdYdrjjn86i4OhLYUa1-edARmboO9l7TY-xsiEyJWnGYJUeup6r5lY1QKZF8TYV-RpsqleRCB9QPGQ_mdAfsbRyNyP2xdNsY8lNweX3g6VXKSSI=",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "76402bf9-fa75-430e-b9ea-c0ad34ca5d06",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/46702160609562",
+              "variantId": "gid://shopify/ProductVariant/46702160609562",
+              "properties": [],
+              "sellingPlanId": "gid://shopify/SellingPlan/10468524314",
+              "sellingPlanDigest": "8102567c6d40d9ef99240b9317896f0e"
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "0.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "ca9eeeb9-7134-464b-9d74-86862aabfba9",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/53384375501082",
+              "variantId": "gid://shopify/ProductVariant/53384375501082",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "40.99",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

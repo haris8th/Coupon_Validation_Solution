@@ -1,0 +1,601 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".boody.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "nostoSearchSessionParams",
+      "value": "%7B%22segments%22%3A%5B%225a497a000000000000000001%22%2C%2261c26a800000000000000002%22%2C%22613aa0000000000000000002%22%5D%2C%22products%22%3A%7B%22personalizationBoost%22%3A%5B%5D%7D%7D",
+      "domain": "boody.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "loop_cid_e032980a-0b58-49fe-a233-a89117164754",
+      "value": "b16bec31-c879-4f39-80f2-5c699e809eeb",
+      "domain": "boody.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1825704166.435606,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1802030566.435873,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG8wVtfAAEAtMYG9Iro72FFw5ziKUkA-XFlgWUsMCoJFa03DOs0hjIHsaKf8yS12rMWPh279sZcn61dX7Iz55pEsSs:",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1825704149.950914,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaG8wV3VAAEABVGBu9u1Z2FWqVRZdB6-GLea7_08Py57UmMUiAlkZbVZRjxiruWvYuBlQ5DkXU_yUGgRpspkLyTugOQ:",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1825704149.95098,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaG8wV3VAAEAbDngYReiwspS0X30JrX4hVwVe0CDK5C8MccoZE7swPP2eUnskkOu_rwRJ1q8rT-NxaCBO-m5Ohb82is:",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1825704149.951035,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-location",
+      "value": "{\"country\":\"PK\",\"city\":\"Karachi\",\"continent\":\"AS\",\"latitude\":\"24.86\",\"longitude\":\"67.01\",\"region\":\"Sindh\",\"regionCode\":\"SD\"}",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1794171754.366859,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ig-id",
+      "value": "ig_46d994beabe1fc6f8a22cc175922d11e24f5",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1825704154,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-fv",
+      "value": "1794168154416",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1825704156,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-vars",
+      "value": "{%22redirectedFrom%22:%22%22}",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1825704156,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shg_session_id",
+      "value": "89991de6-bed2-4c94-945d-62403b6d79dc",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1794169958,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shg_user_id",
+      "value": "174480da-b51c-4347-ae6e-9d9935a3ac4b",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1828728154.998605,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-pv",
+      "value": "2",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1825704156,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "recently_viewed",
+      "value": "15423453200520",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Sun+Nov+08+2026+15%3A02%3A38+GMT-0500+(Eastern+Standard+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0004%3A0%2CC0003%3A0%2CC0002%3A0",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1825704158,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_axwrt",
+      "value": "e032980a-0b58-49fe-a233-a89117164754",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1825704158,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "baMet_visit",
+      "value": "7f1cbcd01ad9440fa7e251ffb7dec55e1794168160538",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1794169960,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIvCc6sCF8Pj02u14odAbz%3Fkey%3D868e025a488a597ea96a9a56134dba6a",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1802030566.435736,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ax_last_event",
+      "value": "1794168158883",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1825704162,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://boody.com",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1796760160,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "loop_sid_b16bec31-c879-4f39-80f2-5c699e809eeb",
+      "value": "1",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1794169966,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "e032980a-0b58-49fe-a233-a89117164754",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1825704161,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "23a863d1-b5e8-4786-b37e-1a6357d86bce",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1794258161,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "2c.cId",
+      "value": "6af0d5623a3c570995e3a2f9",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1828728162.053151,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storeSwitcherCookie",
+      "value": "1",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1794254562,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "loop_cid_e032980a-0b58-49fe-a233-a89117164754",
+      "value": "b16bec31-c879-4f39-80f2-5c699e809eeb",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1825704166,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU5HWmtOVFEyWmpBdE5HUmtZUzAwWkRnM0xUZzBNbU10TjJObU1UbG1ZVEkzTW1ZMg",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1825704159,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scsrid_r",
+      "value": "",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1828296162,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "loop_pvhb_e032980a-0b58-49fe-a233-a89117164754",
+      "value": "1",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1794169962,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ax_visitor",
+      "value": "%7B%22firstVisitTs%22%3A1794168160515%2C%22lastVisitTs%22%3Anull%2C%22currentVisitStartTs%22%3A1794168160515%2C%22ts%22%3A1794168162298%2C%22visitCount%22%3A1%7D",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1825704162,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "ZYSZTOf4SRh1f9Zm0cehYHKZVdWg9x0E",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1828296162,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "ZYSZTOf4SRh1f9Zm0cehYHKZVdWg9x0E",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1828296162,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scida",
+      "value": "DE7gMpgKC1jy_pAzqJEXFkdUrMtRCdjW",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1828296162,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1796760162,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tolstoy-anonymousId",
+      "value": "a4fa6127-27cf-4b76-a373-cf31462339ca",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1796760163,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=5dd01185-b690-4d3a-8feb-b53cf9a65726&logs=1&id=fd52fa2c-bb01-462b-942d-9844cf3b5aff&created=1794168163514&expire=1794169063515",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1825704163,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_aTWNAJAsRqiIL*yXUJmepQ%238f201ac4-3619-4908-bc6b-78f9f35ddf8d-1794168156",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1825725766.435345,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":0,\"i_ll\":1794168163887,\"i_b\":\"iQ8tVsIXZtZRAD/ArnQq+sJLqEYMGJQqwn3CMPMLjTs\",\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1794168163887}",
+      "domain": "boody.com",
+      "path": "/",
+      "expires": 1809720163,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ax_session_data",
+      "value": "eyJpbnZpc2libGVUaW1lIjowLCJ0b3RhbFRpbWUiOjIwMDMsImxhc3RVcGRhdGUiOjE3OTQxNjgxNjM4NzB9",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1825704163,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.7540",
+      "value": "*",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1794169964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.7540",
+      "value": "8e9df341d4b06fb2.1794168164.1.1794168165.1794168164",
+      "domain": ".boody.com",
+      "path": "/",
+      "expires": 1828728164.720129,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://boody.com",
+      "localStorage": [
+        {
+          "name": "u_sclid",
+          "value": "Z_AdbkLfXaSireqZ9HPz0WoE2fcL3iGQZYSZTOf4SRh1f9Zm0cehYHKZVdWg9x0E"
+        },
+        {
+          "name": "ig-fv",
+          "value": "1794168154416"
+        },
+        {
+          "name": "baMet_latest_cart",
+          "value": "{\"token\":\"hWNIvCc6sCF8Pj02u14odAbz?key=868e025a488a597ea96a9a56134dba6a\",\"total_price\":0,\"items\":[],\"currency\":\"USD\"}"
+        },
+        {
+          "name": "_shg_visitor_details",
+          "value": "{\"first_visit_timestamp\":1794168154998,\"last_visit_timestamp\":1794168158913}"
+        },
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "nosto:visit",
+          "value": "6af0d5623a3c570995e3a2fa"
+        },
+        {
+          "name": "_axwrt_backup",
+          "value": "{\"value\":\"e032980a-0b58-49fe-a233-a89117164754\",\"setTs\":null,\"expiresAt\":1825704158906}"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1794168151902"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,L[3;4O8aGe#(` MqQkNvpincrV<CX`wZe55qA9<MS9`Y\u007fSu>vLAp}vDxJ_KW[NA3,g2_BhfaUcZfTa{*#xA}rvY.[b9Acqy"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU5HWmtOVFEyWmpBdE5HUmtZUzAwWkRnM0xUZzBNbU10TjJObU1UbG1ZVEkzTW1ZMg\",\"expires\":\"2027-11-08T20:02:39.544Z\"}"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,CV}CIf\u007fp1()>y-_)ee@'b\u007f.bO+9& <uNS!DZ8;T\"i~XwRvoRq:l+?OkA)]5LWm%j*y"
+        },
+        {
+          "name": "gorgias.conversation-starters-timeout-cohort",
+          "value": "5000"
+        },
+        {
+          "name": "gorgias.guest-id",
+          "value": "e032980a-0b58-49fe-a233-a89117164754"
+        },
+        {
+          "name": "rivo_recently_viewed_product_ids",
+          "value": "[15423453200520]"
+        },
+        {
+          "name": "sid",
+          "value": "5b68ca70dbaf11f19985d315bcde907f"
+        },
+        {
+          "name": "swell-test-item",
+          "value": "true"
+        },
+        {
+          "name": "sidExpiry",
+          "value": "2026-11-09T20:02:42.455Z"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIvCc6sCF8Pj02u14odAbz\""
+        },
+        {
+          "name": "rivo_completed_preference_ids",
+          "value": "[]"
+        },
+        {
+          "name": "_lrcos",
+          "value": "unknown"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://boody.com/products/wireless-t-shirt-bra-periwinkle\",\"exp\":1796760161553}"
+        },
+        {
+          "name": "_applovin_pixel_version",
+          "value": "s/a/3.6.68"
+        },
+        {
+          "name": "ig-vars",
+          "value": "{\"redirectedFrom\":\"\"}"
+        },
+        {
+          "name": "tolstoy-anonymousId",
+          "value": "a4fa6127-27cf-4b76-a373-cf31462339ca"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "vidExpiry",
+          "value": "2027-12-03T20:02:41.485Z"
+        },
+        {
+          "name": "vid",
+          "value": "5ad4c7d0dbaf11f19985d315bcde907f"
+        },
+        {
+          "name": "rivo_recently_viewed_collections",
+          "value": "[]"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,* GPO0?gNCy/46\u007fa\u007f,B||@l{*<QlhIX*c-g-IC@kpq~.)|ot%!I~-X7AswF:b_vn'P>z>;-PP#L@Leb7.;"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,fQB0f7T;jRlVC_=%^=i9(@s|/nj/+:&4TuDn<\\)3GyeqR4x2s8cqT%4iVrZ\\aPd\u007fPWF6!]>HuS(x8vS8X_"
+        },
+        {
+          "name": "epb_render_beaconed",
+          "value": "1795377754598"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "Z_AdbkLfXaSireqZ9HPz0WoE2fcL3iGQZYSZTOf4SRh1f9Zm0cehYHKZVdWg9x0E"
+        },
+        {
+          "name": "os_did",
+          "value": "e032980a-0b58-49fe-a233-a89117164754"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,M3BB8S@up-Y8IO#@~IGk~b\\\"zu`~~%YQU\u007f^D+Q]37NuPq;\"0NA0nyL=T;7e'.&%x9=5$0yU/Y$uM7Ft|mI']?>r^6,,7p+0HmW93q,lP.+x"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":{\"activated\":\"idle\"},\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":true,\"chatTitle\":\"Boody North America Community Happiness Team\",\"isConnected\":false,\"isChatOnline\":false,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"always-required\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":false,\"replyType\":\"reply-dynamic\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "baMet_visitor",
+          "value": "a7a2a5637c64451396719a48e5b9fcc41794168160540"
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1794168163952"
+        },
+        {
+          "name": "ig-id",
+          "value": "ig_46d994beabe1fc6f8a22cc175922d11e24f5"
+        }
+      ]
+    }
+  ]
+}

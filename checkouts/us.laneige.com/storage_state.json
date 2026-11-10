@@ -1,0 +1,695 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".laneige.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utm_post",
+      "value": "false",
+      "domain": "us.laneige.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "us.laneige.com",
+      "path": "/",
+      "expires": 1825542547.985722,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "us.laneige.com",
+      "path": "/",
+      "expires": 1801872548.986082,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGzVh5KAAEAkovbEtC7NbHAX8iHAiVZCN5J7-9VE_IErgyRR-04jZ3oUQePZaiKjwv_m_Me0Nq5XM6z18gCakbhCqg:",
+      "domain": "us.laneige.com",
+      "path": "/",
+      "expires": 1825546126.119328,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGzVh_nAAEABFmnU7pjtQg8lcjv9e3lmHxvyBoXs5wa2oaU8-IRwJMs1z-Nvetbb3-znmlZFcSPZ_TQS7TXphZ2_a4:",
+      "domain": "us.laneige.com",
+      "path": "/",
+      "expires": 1825546126.119451,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGzVh_oAAEAB9XNVOjTsd8JNQszK2zPY_1ydGt1NgJmmX7key9-YM2Yoi8Ip2sQXZerWr8C3dXUIEtltQ8W3LAxTwU:",
+      "domain": "us.laneige.com",
+      "path": "/",
+      "expires": 1825546126.119559,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__eventn_id",
+      "value": "2fs4ns310c.1794010126",
+      "domain": ".us.laneige.com",
+      "path": "/",
+      "expires": 1828570126.207,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://us.laneige.com",
+      "domain": "us.laneige.com",
+      "path": "/",
+      "expires": 1796602131,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attn_eat_id",
+      "value": "6d9680079a3b4dc99a989928109c4ebc",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1827706129.085124,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://laneige.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__oaiq_consent",
+      "value": "true",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1796602137.299384,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__obref",
+      "value": "6083c811-4527-4afe-af38-f952b92d11c1",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1825546132.808865,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "shd_s",
+      "value": "0b770862-7f2f-4382-8895-cbd2799e483d",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1794011934.662201,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_id",
+      "value": "bc1a2bffcbbc46aa91a989c6255f47fc",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1827706132,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_session_id",
+      "value": "161ccc163c214c54a4234488a9126f30",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1794011938,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzk0MDEwMTMyOTAyLFwidW9cIjoxNzk0MDEwMTMyOTAyLFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcImJjMWEyYmZmY2JiYzQ2YWE5MWE5ODljNjI1NWY0N2ZjXCJ9IiwiZWF0Ijoie1wiY29cIjoxNzk0MDEwMTMyODkwLFwidW9cIjoxNzk0MDEwMTMyODkwLFwibWFcIjozNjUwLFwiaW5cIjp0cnVlLFwidmFsXCI6XCJodHRwczovL2p2enNuLmxhbmVpZ2UuY29tXCJ9In0=",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1827706132,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1794010132906",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1827706132,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "8dba3755-fd7a-497a-a02c-61bbb662d812",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1794100132,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ama",
+      "value": "d4f6d2fc-f7aa-47e0-a3e5-61f6ffe5733f",
+      "domain": "us.laneige.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU9ERmtOVGM1TkdRdE5UWTFaaTAwWWpnd0xUazBOVEl0TkRrMk4ySmhZakUyTnpBMw",
+      "domain": "us.laneige.com",
+      "path": "/",
+      "expires": 1825542531,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shd_y",
+      "value": "a12b5cbc-cd09-4b4f-831f-90378ba59592",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1825114134.840379,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "swym-session-id",
+      "value": "\"eonmry9yqqi806n9i4v1lp6nbx3gyxwvjhwbwt2bvfgu0k78sb5mxojidtnjynim\"",
+      "domain": ".us.laneige.com",
+      "path": "/",
+      "expires": 1794011948,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-pid",
+      "value": "\"9VNvS7LFcI/eBJKd9cywmcvaFHxyLUZSCdROaTs7AZU=\"",
+      "domain": ".us.laneige.com",
+      "path": "/",
+      "expires": 1825546133,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_attn_bopd_",
+      "value": "browser",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1827706133,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1794017333,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scsrid_r",
+      "value": "",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1828138133,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "1",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1794011933,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "ORGANIC",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1794011933,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "8bJqT155KcMbFdtwtZ8cYSfHJtgeDZq-",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1828138133,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "8bJqT155KcMbFdtwtZ8cYSfHJtgeDZq-",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1828138133,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "us.laneige.com",
+      "path": "/",
+      "expires": 1796602133,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.cbb9",
+      "value": "*",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1794011936,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIqtjVWYtWMHVINwWnGimZ%3Fkey%3D55aac3eccc7a0a9fc0aaa048ba29a2e0",
+      "domain": "us.laneige.com",
+      "path": "/",
+      "expires": 1801872548.985899,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "addshoppers.com",
+      "value": "2%7C1%3A0%7C10%3A1794010135%7C15%3Aaddshoppers.com%7C44%3AYjU2YjU2MjYwNDM3NDllMWIzZmM4MTZhMmVmMzgwNmQ%3D%7C314247a0663690d2e7921657b0c830602fe2b5bdf3bb7f3f2c06facd4df6f57c",
+      "domain": "us.laneige.com",
+      "path": "/",
+      "expires": 1828570134.188515,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "apt_pixel",
+      "value": "eyJkZXZpY2VJZCI6ImZjY2YwNGRjLWI4YTgtNDhmZi1hOGNiLWNkMzE2YTZlODM0YiIsInVzZXJJZCI6bnVsbCwiZXZlbnRJZCI6MSwibGFzdEV2ZW50VGltZSI6MTc5NDAxMDEzNDYzMSwiY2hlY2tvdXQiOnsiYnJhbmQiOiJjYXNoYXBwYWZ0ZXJwYXkifX0=",
+      "domain": ".us.laneige.com",
+      "path": "/",
+      "expires": 1825546134,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amp_e133e6",
+      "value": "NNWHqmtD9Xz1KKHlvwflRI...1k6plce3n.1k6plce3n.0.0.0",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1825546134,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scida",
+      "value": "goyhK1y8zQlFT10fkDeLpZWSbbQcQEYe",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1828138134,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "swym-v-ckd",
+      "value": "1",
+      "domain": ".us.laneige.com",
+      "path": "/",
+      "expires": 1794011934,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-swymRegid",
+      "value": "\"bc_UmXCenGjKQ_nqQq9b9LJdxoFvlwx2IJPK20A4XvMKyxbHlH0DWRUIronT8Lp6OwfCG7sEfXa6FxDIV0uVYjNop4lPorNuqGMoM4tiFYSDmGnDUuFGGjAi5k6E_QNcEYFlsJ9UKlHSBkal_LDC4a3U1U7x9KNIdtGdxpsGH2w\"",
+      "domain": ".us.laneige.com",
+      "path": "/",
+      "expires": 1825546135,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-email",
+      "value": "null",
+      "domain": ".us.laneige.com",
+      "path": "/",
+      "expires": 1825546134,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ometria",
+      "value": "2_cid%3DUF2A46pNg0AAYgAr%26nses%3D1%26osts%3D1794010134%26sid%3Df2ef56156Zz0degaA6n9G%26npv%3D1%26tids%3D%26slt%3D1794010134%26bskt%3D0%257C0%26shopify_bskt_url%3Dhttps%253A%252F%252Fus.laneige.com%252Fproducts%252Flip-sleeping-mask%253Fvariant%253D50569510125620",
+      "domain": ".us.laneige.com",
+      "path": "/",
+      "expires": 1825542534,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2026-11-07T00:08:56.806Z",
+      "domain": ".us.laneige.com",
+      "path": "/",
+      "expires": 1825546136,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Fri+Nov+06+2026+19%3A08%3A56+GMT-0500+(Eastern+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+      "domain": ".us.laneige.com",
+      "path": "/",
+      "expires": 1825546136,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.cbb9",
+      "value": "336d4c0abcf0592b.1794010134.1.1794010137.1794010134",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1828570136.850013,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3AMP.S_PKSD_f_f_y21VMgWLQNqFw*VkhimSMQ%23a62ac7e2-3652-48b2-a8ee-0e84e1fef501-1794010130",
+      "domain": ".laneige.com",
+      "path": "/",
+      "expires": 1825567747.98546,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "v9.OrSspq5BLyCHfd8fsQlSwGI7rRaie2yBxb1IpP7I-1794010148.6999013-1.0.1.1-Q7.ZR0u.yDHUFFXU9gaGOB6VT3rvWXuajU3pVoq5L_GkLDUgBKd082XkMCHIrpV4RICcQoG5odWcxicQAZ2nMUkZ6jSSllcWkzWt.6Ug5tS6g8NnCk_wM3DqwvpC1rXH",
+      "domain": ".us.laneige.com",
+      "path": "/",
+      "expires": 1794011946.830745,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://laneige.com",
+      "_crHasCrossSiteAncestor": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://us.laneige.com",
+      "localStorage": [
+        {
+          "name": "oaiq_consent",
+          "value": "true"
+        },
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "asCartContents",
+          "value": "{\"contents\":[],\"timestamp\":1794010134721}"
+        },
+        {
+          "name": "swym-scheduledSFLAsk",
+          "value": "null"
+        },
+        {
+          "name": "_yo_aat",
+          "value": "{\"publicToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfaWQiOiI3N2IzOTVlNy0zYzEzLTQxMjEtOTg5NC1mOGQyMWUzZTU5N2YiLCJqdGkiOiJiOWQwYTRlMy0zYjFlLTQ4NmUtYWYzNi0zOTc2ODBmMmNiNzYiLCJ0eXBlIjoxfQ.eWklHuUxRlqOYK8PFB8LlMA_omB2aDgiiA0LolW4A9k\",\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbiI6IllvZmkgRGVmYXVsdCBBcHAiLCJhcHBfaWQiOiI3N2IzOTVlNy0zYzEzLTQxMjEtOTg5NC1mOGQyMWUzZTU5N2YiLCJjZCI6ImFwdXMtbGFuZWlnZS5teXNob3BpZnkuY29tIiwiY2lkIjoiY2lkLTc3YjM5NWU3LTNjMTMtNDEyMS05ODk0LWY4ZDIxZTNlNTk3Zi0yOWNjYmMxYy1jMjM2LTQ4NGQtOTFjOC1kMmQzODM5YzE3ODktNmM3NmRkMDAtZGEzZi0xMWYxLTlhNjEtODkyYWEwNzZhODUyIiwiZXhwIjoxNzk0MDE3MzM5LCJqaWQiOiJqaWQtYzU5YzgwMmUtY2YzMi01M2Q5LTgyMDctOTJlOTg3YzlmZDI3Iiwib2lkIjoiMDZlNTlhY2QtMDAwNi00MWEzLTlmMDEtNzA4NmMyMjkxOWRhIiwib24iOiJZb2ZpIn0.ZEdxggWyj7GhP879SCmfPRTL4M2mrH8GtmPMSCxJF60\"}"
+        },
+        {
+          "name": "__rmco",
+          "value": "{\"channelIds\":{\"attr_sid\":\"115531\",\"aff_mid\":\"42483\"},\"scope\":\"\",\"version\":\"2\",\"productConsents\":{\"ranTrkInt\":true,\"ranTrkExt\":true,\"ranAut\":true,\"ranCGE\":true,\"rtbRet\":true,\"rtbPro\":true,\"cadTrk\":true,\"dspTrk\":true},\"execStatus\":1,\"consentSought\":false,\"sourceDomain\":\"us.laneige.com\",\"rmPurposeConsents\":[],\"rmVendorConsents\":[],\"id\":\"0f0587d5-eb6b-46c4-b35b-3f464779abc5\",\"scnt\":0,\"maxAge\":1794011936897}"
+        },
+        {
+          "name": "loomi-cart",
+          "value": "{\"token\":\"hWNIqtjVWYtWMHVINwWnGimZ?key=55aac3eccc7a0a9fc0aaa048ba29a2e0\",\"note\":\"\",\"attributes\":{\"vslyCT\":\"vslyCT_hWNIqtjVWYtWMHVINwWnGimZ?key=55aac3eccc7a0a9fc0aaa048ba29a2e0\",\"vslySUBS\":\"0\",\"vslyUID\":\"2fs4ns310c\",\"vslySID\":\"7489673190086990\",\"journey_id\":\"jid-c59c802e-cf32-53d9-8207-92e987c9fd27\"},\"original_total_price\":0,\"total_price\":0,\"total_discount\":0,\"total_weight\":0,\"item_count\":0,\"items\":[],\"requires_shipping\":false,\"currency\":\"USD\",\"items_subtotal_price\":0,\"cart_level_discount_applications\":[],\"discount_codes\":[]}"
+        },
+        {
+          "name": "asProductViewHistory",
+          "value": "[{\"time\":1794010134086,\"product\":{\"product_name\":\"Lip Sleeping Mask\",\"image\":\"https://us.laneige.com/cdn/shop/files/LSM_Gingerbread_PDPCrops_2000x2000_02_1_1.jpg\",\"quantity\":1,\"sku\":\"https://us.laneige.com/products/lip-sleeping-mask\"}}]"
+        },
+        {
+          "name": "asTimeOnSiteValue",
+          "value": "16006"
+        },
+        {
+          "name": "lmi_utm_data",
+          "value": "[]"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIqtjVWYtWMHVINwWnGimZ\""
+        },
+        {
+          "name": "recently_viewed_products",
+          "value": "[\"lip-sleeping-mask\"]"
+        },
+        {
+          "name": "asTimeOnSiteSetTime",
+          "value": "1794010149012"
+        },
+        {
+          "name": "swym-instrumentMap",
+          "value": "{}"
+        },
+        {
+          "name": "AS_DATA_PRIVACY_DATA_REGULATED",
+          "value": "false"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://us.laneige.com/products/lip-sleeping-mask\",\"exp\":1796602132087}"
+        },
+        {
+          "name": "swym-products_timestamp",
+          "value": "0"
+        },
+        {
+          "name": "vsly_visited_pages",
+          "value": "[{\"ts\":\"2026-11-07T00:08:48.000Z\",\"name\":\"https://us.laneige.com/products/lip-sleeping-mask\"},{\"ts\":\"2026-11-07T00:08:46.000Z\",\"name\":\"https://us.laneige.com/\"}]"
+        },
+        {
+          "name": "asPageViews",
+          "value": "1"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "amplitude_unsent_e133e6d57506af75a9f19a5a467a377e_apt-placement",
+          "value": "[]"
+        },
+        {
+          "name": "loomi-flags",
+          "value": "{\"backend-track-redirect\":true,\"utm-decode\":true,\"fb-locale-currency\":true,\"op-focus-trap-removal\":true,\"force-refresh-cart\":true,\"sdk-enable-cart-enrichment\":false,\"svc-stats\":true,\"currency-aware-client-targeting\":true,\"bunny-cdn\":true,\"pixel-atc\":true,\"opt-img\":true,\"cache-nav-clear\":true,\"micro-batching\":true,\"sdk-force-apply-after-revert\":true,\"sdk-reinit-on-cache-v2\":true,\"sec-dim-image\":true,\"reload-on-device-changed\":true,\"persist-purchases\":true,\"force-mobile-by-width\":true,\"beacon\":true,\"resolve-used-fonts-new-logic\":true,\"sdk-hydration-support\":true,\"checkout-live-prices\":true,\"fb-recs-cache\":true,\"coalesce-alloc\":true,\"live-prices\":true,\"sdk-auto-clean\":true,\"sdk-reconcile\":true,\"alloc-client-side-formula\":true,\"subscriptions_v1\":true,\"allocate-checkout-extensibility\":true,\"theme-testing\":true,\"coalesce-recs\":true,\"block-do-not-track\":false,\"experience-applied-callback\":true,\"keep-redirect-sid\":true,\"checkout-reporting-ignore-mp\":true,\"atc-alignment\":true}"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794269333526"
+        },
+        {
+          "name": "swym-fb-pixel-state-cache",
+          "value": "{\"observedPixelIds\":[\"857666537705009\"],\"observedPixelIdsHash\":\"857666537705009\",\"lastCheckedAt\":1794010135507,\"detectionStatus\":\"detected\",\"lastDetectedAt\":1794010135507,\"lastAddToWishlistAttemptAt\":null,\"lastAddToWishlistFiredAt\":null}"
+        },
+        {
+          "name": "pixelLastLoadedDatetime",
+          "value": "1794028134454"
+        },
+        {
+          "name": "swym-products",
+          "value": "{\"all\":[]}"
+        },
+        {
+          "name": "__eventn_id",
+          "value": "2fs4ns310c.1794010126"
+        },
+        {
+          "name": "swym-authn_timestamp",
+          "value": "1794010134.788"
+        },
+        {
+          "name": "vsly_audiences",
+          "value": "[\"n\",\"d\"]"
+        },
+        {
+          "name": "swym-devices",
+          "value": "{\"all\":{\"current-device-id\":\"1503ca7a-c52d-40c2-8da8-28d50e2fa05f\",\"bkt\":\"A\"}}"
+        },
+        {
+          "name": "u_sclid",
+          "value": "tR3aQnTKZkkuL1jyRj-ejMYhlts0Xtc08bJqT155KcMbFdtwtZ8cYSfHJtgeDZq-"
+        },
+        {
+          "name": "loomi_session_products",
+          "value": "[{\"productId\":4492152537140,\"variantId\":50569510125620,\"ts\":\"2026-11-07T00:08:50.000Z\",\"handle\":\"lip-sleeping-mask\"}]"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,H('\u007fz9&FoVg?yHeVp>KQFq2)F /|!A4hw&(8=v.Dp}5$Qt\\dyW+eJCQ3(ZuPu9OY!)}>M|oY:Z$HuY_J]vZIpY;TS.qPT:9"
+        },
+        {
+          "name": "amplitude_unsent_identify_e133e6d57506af75a9f19a5a467a377e_apt-placement",
+          "value": "[]"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU9ERmtOVGM1TkdRdE5UWTFaaTAwWWpnd0xUazBOVEl0TkRrMk4ySmhZakUyTnpBMw\",\"expires\":\"2027-11-06T23:08:51.046Z\"}"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,'l')V,.f%G&\"Y>fq?DuO\\i\u007f@+>-n'd'z1pI{+kbn!z%$vc*\\R.Iu,Pv~&.;C8p)ie$"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIqtjVWYtWMHVINwWnGimZ\"},{\"postPurchaseInquiryStatus\":\"disabled\"}]]"
+        },
+        {
+          "name": "_yo_jid",
+          "value": "{\"journeyId\":\"jid-c59c802e-cf32-53d9-8207-92e987c9fd27\",\"forceExpireAt\":1794053336271,\"expireAt\":1794011936800}"
+        },
+        {
+          "name": "swym-rapps_cache",
+          "value": "[{\"app\":\"Wishlist\",\"is-paid\":true,\"enabled\":true,\"sfl-enabled\":true},{\"app\":\"Watchlist\",\"is-paid\":true,\"enabled\":true}]"
+        },
+        {
+          "name": "swym-authn",
+          "value": "{\"all\":{\"email\":null,\"regn\":{\"di\":\"1503ca7a-c52d-40c2-8da8-28d50e2fa05f\",\"pid\":\"9VNvS7LFcI/eBJKd9cywmcvaFHxyLUZSCdROaTs7AZU=\",\"email\":\"\",\"authn?\":false},\"regid\":null,\"authn\":false}}"
+        },
+        {
+          "name": "swell-test-item",
+          "value": "true"
+        },
+        {
+          "name": "vsly_session",
+          "value": "{\"id\":\"7489673190086990\",\"utm_campaign\":\"\",\"last_interaction\":\"2026-11-07T00:09:01.384Z\",\"landing_page\":\"https://us.laneige.com/\",\"start_at\":\"2026-11-07T00:08:46.201Z\"}"
+        },
+        {
+          "name": "__rmid",
+          "value": "db208701-9e94-4d84-92eb-ba9d0f08252e:1801786136908"
+        },
+        {
+          "name": "loomi-cart-history",
+          "value": "[]"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,09Gub[eBPy(x\"QOYd_&$JDdEh1Z0{dC15wB.Uo_jY!J!'.PeHt'C\u007f(TO^Y%y)\u007f8yy4)E4z{(1UXBU]8,^R"
+        },
+        {
+          "name": "swym-fb-pixel-retry-check",
+          "value": "1794010135509"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,HG\u007f 'VKT0eIck5v\u007f3fU4O %C^HBBf/~ zQUgC]9}z<~5uc~[rn \\J;x^hQ^M_o^kTD0r[[H%J:LRk;BdUw"
+        },
+        {
+          "name": "swym-wishlisthkey_timestamp",
+          "value": "0"
+        },
+        {
+          "name": "swym-rconfig_cache",
+          "value": "{\"v\":\"192-0\",\"settings\":{\"SA\":{\"Title\":\"Shopping Assistant\",\"Anchor\":{\"Placement\":\"bottom-right\"},\"Enabled\":false,\"Color\":\"#7E57C2\"},\"Integrations\":{\"Review\":\"none\"},\"General\":{\"Currency\":\"$\",\"HostedPages\":{\"SharedWishlist\":\"/pages/swym-share-wishlist\",\"Wishlist\":\"/pages/swym-wishlist\"},\"IgnoreCacheTS\":1784575705087,\"UseMoneyFormat\":true,\"BaseURL\":\"\",\"Enabled\":true,\"RetailerID\":\"\",\"MarketsEnabled\":false,\"MailingListCheck\":true},\"Wishlist\":{\"AddedButtonColor\":\"#03000C\",\"AllowToggle\":true,\"FaveCountSelector\":\".swym-fave-count\",\"AddToWishlistNudge\":{\"ShowHeartIcon\":true,\"NudgeClosedRepeatInterval\":86400000,\"NudgeFrequencyInterval\":0,\"Enabled\":false,\"NudgeButtonCTAColor\":\"#FF4500\",\"NudgeDelay\":15000},\"UseCustomButton\":\"\",\"ButtonColor\":\"#03000C\",\"CustomIcon\":\"\",\"LauncherIcon\":\"heart\",\"ButtonIcon\":\"heart\",\"Screen\":{\"PrimaryButtonConfig\":{\"BorderRadius\":\"5px\",\"TextColor\":\"#FFFFFF\",\"BackgroundColor\":\"#03000C\"},\"ProductCardConfig\":{\"Border\":\"none\"},\"TextColor\":\"#03000C\",\"BackgroundColor\":\"#FFFFFF\"},\"CustomFavoriteButtonClass\":\"link-wishlist\",\"headerConfig\":{\"desktop\":{\"attachButtonSelector\":\"\",\"cloneAttachSelectorElement\":true,\"appendBefore\":true,\"iconConfig\":{\"iconText\":\"Wishlist\",\"headerCounter\":false,\"iconType\":\"icon\"},\"removeClasses\":[\"\"],\"Enabled\":false},\"mobile\":{\"attachButtonSelector\":\"\",\"cloneAttachSelectorElement\":true,\"appendBefore\":false,\"iconConfig\":{\"iconText\":\"Wishlist\",\"headerCounter\":false,\"iconType\":\"icon\"},\"removeClasses\":[],\"Enabled\":false}},\"CreateCustomButton\":false,\"EnableFaveCount\":false,\"ButtonType\":\"icontext\",\"AttachButtonSelector\":\".product .product__main .product__info .product__pricing .pricing\",\"IsAppEmbed\":true,\"CustomFavoriteButtonSelector\":\"a.custom-wishlist\",\"ShowBadge\":true,\"Enabled\":true,\"ToggleSwitchState\":true,\"CreateCustomButtonBefore\":\"\",\"AllowSharing\":true,\"EnableSwymWishlist\":true,\"NoButtonInject\":\"\"},\"Watchlist\":{\"PrivacyPolicyLink\":\"https://privacypolicy.co\",\"Topics\":[\"backinstock\"],\"CTATextColor\":\"#FFFFFF\",\"UsesAppEmbedBlock\":true,\"SubscribeCTAColor\":\"#406AC0\",\"ISASubscriptionMessageColor\":\"#88877H\",\"ComingSoonFeatureEnabled\":true,\"ButtonType\":\"text\",\"param\":true,\"ISASubscriptionMessageCTA\":\"Text Me\",\"SuccessBannerTextColor\":\"#406AC0\",\"MailingListCheckInPopup\":true,\"InlineForm\":false,\"ISAToggleMessageCTA\":\"SMS\",\"Enabled\":true,\"UIVersion\":2,\"ISAToggleMessageColor\":\"#88877H\",\"SuccessBannerColor\":\"#ffffff\",\"CreateCustomButtonBefore\":\"\",\"Position\":\"default\",\"TermsofServiceLink\":\"https://tandc.co\",\"Color\":\"#406AC0\"},\"Notification\":{\"Frequency\":300000,\"NTs\":{},\"MaxPerSession\":0,\"EnablePriceCheck\":false,\"EnableStockCheck\":false},\"Strings\":{\"WatchlistFormTitle\":\"Notify me when this is available\",\"ISAPrivacy\":\"We will send you an alert once the product becomes available. Your email will not be shared with anyone else.\",\"WatchlistSuccessMsg\":\"Awesome! We will send you an alert once the product becomes available for purchase\",\"ThemeAppStorefrontLayoutTitle\":\"My Wishlist\",\"EmailSwitchLabel\":\"Email\",\"WishlistTooltipBefore\":\"Add to wishlist\",\"EnterContactPlaceholder\":\"Enter your phone number\",\"AddToWishlistNudgeMsg\":\"Not sure about buying? Add this product to wishlist and buy later.\",\"AddToCartCTAAlreadyAdded\":\"Added To Cart\",\"WatchlistSmsDesc\":\"Get notified via SMS when this product is back in stock\",\"SMSSwitchLabel\":\"SMS\",\"EmailMeCTA\":\"SUBMIT\",\"EnterEmailPlaceholder\":\"Enter your email address\",\"ISAPrivacyGeneric\":\"We will send you an alert once the product becomes available. Your email will not be shared with anyone else.\",\"MsgInvalidContactNo\":\"Please enter a valid phone number\",\"ISABISOnlyDesc\":\"Get notified via email when this product is in stock\",\"WishlistTooltipAfter\":\"Added. <a class='swym-open-ui'>View Wishlist</a>\",\"AddToCartCTACanAdd\":\"Add To Cart\",\"WishlistAddedCTA\":\"Added To Wishlist\",\"WatchlistAddCTA\":\"NOTIFY ME WHEN AVAILABLE\",\"SMSPreferencesSubscribeSuccessMsg\":\"Awesome! We will send you an alert once the product becomes available for purchase\",\"ISAMsgDefaultSuccess\":\"Awesome! We will send you an alert once the product becomes available for purchase\",\"AddToWishlistNudgeCTA\":\"Add to Wishlist\",\"WishlistAddCTA\":\"Add To Wishlist\",\"SMSCTA\":\"Text Me\"},\"Email\":{\"EnableEmailFriend\":true},\"StoreLogo\":\"\",\"FeatureToggles\":{\"use_mongo_SwymEtCountStore\":true},\"SFL\":{\"AddToSFLButton\":false,\"CartProductTileSelector\":\".cart-item\",\"PreviewSettings\":{\"PopUpSettings\":{\"ButtonText\":\"SAVE FOR LATER\",\"ButtonColor\":\"#1F2021\",\"Title\":\"Do you want to save this product for later?\",\"ShowAskMeAgainAfterCount\":2,\"MultipleProductsTitle\":\"Save all products for later to your Wishlist?\",\"PreviewDuration\":300000,\"SecondaryButtonText\":\"No, thanks!\",\"PopUpEnabled\":true,\"ButtonTextColor\":\"#ffffff\",\"AskMeAgainOption\":false,\"AskMeAgainLabel\":\"Don't ask me again\"}},\"EnableSFLViewOnWishlistUI\":true,\"CartPageContainerSelector\":\"#MainContent\",\"EnableSFLViewOnCart\":false,\"PopUpSettings\":{\"ButtonText\":\"SAVE FOR LATER\",\"ButtonColor\":\"#406AC0\",\"Title\":\"Do you want to save this product for later?\",\"ShowAskMeAgainAfterCount\":2,\"MultipleProductsTitle\":\"Save all products for later to your Wishlist?\",\"PreviewDuration\":300000,\"SecondaryButtonText\":\"No, thanks!\",\"PopUpEnabled\":true,\"ButtonTextColor\":\"#ffffff\",\"AskMeAgainOption\":false,\"AskMeAgainLabel\":\"Don't ask me again\"},\"AddToSFLBtnSelector\":\"cart-remove-button\",\"CartPageURL\":\"/cart\",\"SFLFeatureEnabled\":true},\"UI\":{\"buttonTextColor\":\"#FFFFFF\",\"CustomCSS\":\"#swym-remind-email-auth-button {background-color: #406AC0;} .swym-button.swym-add-to-watchlist {background-color: #406AC0; font-size: 14px !important; color: #FFFFFF !important; border-radius: 0px !important;} .swym-button.swym-add-to-watchlist:after { color: #FFFFFF !important }   span.swym-watchlist-cta {     border-radius: 4px !important; }  button.swym-button.swym-add-to-watchlist.swym-inject.swym-text.swym-.swym-sbisa-v2.swym-loaded {     border-radius: 4px !important; } button.swym-button.swym-button-1.swym-is-button.swym-sfl-popup-save-btn {     border-radius:4px !important; } .swym-button-bar.swym-wishlist-button-bar.swym-inject.swym-isa-button-bar {         width:100% !important; margin-top:5% !important; }  .swym-btn-container.swym-inject {     width:100% !important; } @media (min-width: 60em){     button.swym-button.swym-add-to-watchlist.swym-inject.swym-text.swym-.swym-sbisa-v2.swym-loaded{         font-size: 16px !important;         font-weight: 600 !important;         height: 40px !important;         padding: 0 28px !important;     }  } button.swym-button.swym-add-to-watchlist.swym-inject.swym-text.swym-.swym-sbisa-v2.swym-loaded {     width:100% !important;     border-radius: 100px !important;     cursor: pointer !important;     letter-spacing: .03rem !important;     -webkit-transition: background-color .2s ease, color .2s ease, border-color .2s ease;     transition: background-color .2s ease, color .2s ease, border-color .2s ease;     font-size: 12px ;     font-weight: 600;     padding: 0 20px;     background-color: #406ac0;     color: #fff;     border: 1px solid rgba(0, 0, 0, 0); }  button.swym-button.swym-add-to-watchlist.swym-inject.swym-text.swym-.swym-sbisa-v2.swym-loaded:hover {     background-color: white !important;     color:#406ac0  !important;     border: 1px solid #406ac0 !important; } button.swym-button.swym-add-to-watchlist.swym-inject.swym-text.swym-.swym-sbisa-v2.swym-loaded:focus {   outline: none !important;   box-shadow: none !important; }\",\"EnableProductView\":true,\"NotificationOnly\":false,\"HeaderLauncher\":{\"Enabled\":true},\"CustomIcon\":\"\",\"Title\":\"My Wishlist\",\"LauncherLocation\":\"bottom-right\",\"LauncherType\":\"header\",\"AddToCartBtnColor\":\"#03000C\",\"CustomAnchorSelector\":\"\",\"UseCustomLauncher\":false,\"DisallowedURLPatterns\":[\"checkout\"],\"LauncherOpenHosted\":\"popup\",\"EnableMultiLanguage\":true,\"Enabled\":false,\"AcceptMarketingRevampUI\":true,\"ShareOptionOnTop\":true,\"Icon\":\"\",\"ShowWishlistCount\":false,\"Color\":\"#000000\"}}}"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "tR3aQnTKZkkuL1jyRj-ejMYhlts0Xtc08bJqT155KcMbFdtwtZ8cYSfHJtgeDZq-"
+        },
+        {
+          "name": "swym-ab-test-config",
+          "value": "{}"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,?^Tw`*-^UHM4H7IuZ|<lT0 V<>J\\ 6V5mAR3\"``o7C!5tnvY\u007fJeA7\u007ff)/&)%xwgTM%@+_>9_gO$%&K?L\" KnL\u007f|oja7Pvdr/Q3pCBV&c5pjl"
+        },
+        {
+          "name": "swym-devices_timestamp",
+          "value": "1794010134.786"
+        },
+        {
+          "name": "asHasViewedProductPage",
+          "value": "true"
+        },
+        {
+          "name": "_yo_iid",
+          "value": "cid-77b395e7-3c13-4121-9894-f8d21e3e597f-29ccbc1c-c236-484d-91c8-d2d3839c1789-6c76dd00-da3f-11f1-9a61-892aa076a852"
+        }
+      ]
+    }
+  ]
+}

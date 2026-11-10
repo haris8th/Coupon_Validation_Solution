@@ -1,0 +1,113 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBsu1rqHOBVRETGq22E1vfIEkCJE4_rI9-37EzbMIy5rp_ZxSpy4fv7xhqrPuPDcWn1QHhhXqcUEcl-KQwNoTKT7JLLPWv95IwCBRWoMIbjnk_gVj8z6999DlEJNDFAWnjEYRH_8D4QFsxE9ZKFljWferUct5qvx3Zk9AYOqTKSCg5NMdzL1hwayNKf77t459EyHtDdH6KWeQ3SpOiE-K80ceVk1rC3C26Ba9KftY"
+    },
+    "queueToken": "A2BC7aodTbOttaqwHvap_GTS_D2qc6YVJP8oKEtSPDMU2C3YAPPlPAC9-IFy9pUqSGZknvlFyMtQBk00kuYN9mvRoMxIHTJmO9600X1letLIjzhsgfeDQRzZwNZu9mAP",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "1deaab91-8068-424d-be37-3995d482b322",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/49271753605342",
+              "variantId": "gid://shopify/ProductVariant/49271753605342",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "35.96",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": "BUNDLES_STATIC_EXPAND",
+          "lineComponents": [
+            {
+              "stableId": "fb5e6769-8ff7-5172-3920-4179775eed27",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/46257361322206",
+                "digest": "50426379df9297ab4dc09007712a5bc2",
+                "variantId": "gid://shopify/ProductVariant/46257361322206",
+                "title": "Apple Cider Donut Cereal",
+                "untranslatedTitle": "Apple Cider Donut Cereal",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/8804603560158",
+                  "vendor": "Catalina Crunch",
+                  "productType": "Cereal",
+                  "disclosures": []
+                },
+                "productUrl": "/products/apple-cider-donut-cereal",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/0018/6387/6697/files/FrontofPackageImage_Single__ACD771x771.png?v=1793295249",
+                  "one": "https://cdn.shopify.com/s/files/1/0018/6387/6697/files/FrontofPackageImage_Single__ACD771x771_64x64.png?v=1793295249",
+                  "two": "https://cdn.shopify.com/s/files/1/0018/6387/6697/files/FrontofPackageImage_Single__ACD771x771_128x128.png?v=1793295249",
+                  "four": "https://cdn.shopify.com/s/files/1/0018/6387/6697/files/FrontofPackageImage_Single__ACD771x771_256x256.png?v=1793295249"
+                },
+                "properties": [],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 4
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "35.96",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "39655e18b8a2c886bb0675eff9899215",
+                  "quantity": 4,
+                  "totalAmountBeforeReductions": {
+                    "amount": "35.96",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "35.96",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "35.96",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "35.96",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "35.96",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

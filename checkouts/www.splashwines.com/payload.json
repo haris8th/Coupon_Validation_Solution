@@ -1,0 +1,1615 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEB46CKO7SMCZagwoINwTzvTpNxVayY-YLdq0esQySKMPRO7QWQQLPBMSAfGjd6BOMM3xmVGzLBX47aPpRspLl2iaK671BQ9jqexp0A2iogl43hpU_kpcIZpJHMnSxsJYPkdqh4Xe0QJrsGwuvZjWZZuXjyK4zHOi9gnl2VcCBfYnMcUgNO7-g8E2VSUHhOcGKeIQnoy8mWzCIZYTXeiyu_VwkuE0gEt3in"
+    },
+    "queueToken": "Axdp8tR2cTruPLQx0S-zM0Re2HIqcHx7u3LJ1EiYpXaNOw27ajKjeGciCab8WdFDNEkl8mxntsLvDq_rSTSJCREwCMd-ObLNEjFl5EGNuQIMhFfdK5dU4Uzo-nzfzQ==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "25b2d4c7-c0f8-44c9-93d3-68beef1cfd13",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/12522783703127",
+              "variantId": "gid://shopify/ProductVariant/12522783703127",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "118.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": "BUNDLES_DYNAMIC_EXPAND",
+          "lineComponents": [
+            {
+              "stableId": "6121efd3-3533-2d59-a5d6-7642e47db763",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/52152148394165",
+                "digest": "dd8d776222b30355636121c3ba23b742",
+                "variantId": "gid://shopify/ProductVariant/52152148394165",
+                "title": "2022 3 Muses Malbec",
+                "untranslatedTitle": "2022 3 Muses Malbec",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "15.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10329941475509",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/3-muses-malbec-2022",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/Splash-2022-3-Muses-Malbec-Lodi-300x900px.png?v=1767908780",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/Splash-2022-3-Muses-Malbec-Lodi-300x900px_64x64.png?v=1767908780",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/Splash-2022-3-Muses-Malbec-Lodi-300x900px_128x128.png?v=1767908780",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/Splash-2022-3-Muses-Malbec-Lodi-300x900px_256x256.png?v=1767908780"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "2c472cc3a189b25f5cdeec87654bf7c6",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "a451fde7-3ceb-bce3-2062-e7210d29f144",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/52715891392693",
+                "digest": "1a20aafe981015a333b7c4417de17d79",
+                "variantId": "gid://shopify/ProductVariant/52715891392693",
+                "title": "2021 Shadow Puppets Malbec",
+                "untranslatedTitle": "2021 Shadow Puppets Malbec",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "14.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10472255914165",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/2021-shadow-puppets-malbec",
+                "image": {
+                  "altText": "SP100680_ShadowPuppets_Malbec.png",
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/RhtcKTps6j63rlEMBZQeNzIXAHbSa5YMjyH_qJQGExw.png?v=1781721644",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/RhtcKTps6j63rlEMBZQeNzIXAHbSa5YMjyH_qJQGExw_64x64.png?v=1781721644",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/RhtcKTps6j63rlEMBZQeNzIXAHbSa5YMjyH_qJQGExw_128x128.png?v=1781721644",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/RhtcKTps6j63rlEMBZQeNzIXAHbSa5YMjyH_qJQGExw_256x256.png?v=1781721644"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "ca75fc57d9fd755da7ba9bcc7ae9e332",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "a4693e47-9a51-95f2-dbbe-fc6f8a8e9c1e",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/51549013639349",
+                "digest": "05f29a73454ea114b9cf598dcd848cb0",
+                "variantId": "gid://shopify/ProductVariant/51549013639349",
+                "title": "2024 Mildiani Saperavi",
+                "untranslatedTitle": "2024 Mildiani Saperavi",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "21.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10206397366453",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/mildiani-family-winery-saperavi-2024",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/SP184018_2024_MildianiFamilyWinery_Saperavi.png?v=1778522961",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/SP184018_2024_MildianiFamilyWinery_Saperavi_64x64.png?v=1778522961",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/SP184018_2024_MildianiFamilyWinery_Saperavi_128x128.png?v=1778522961",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/SP184018_2024_MildianiFamilyWinery_Saperavi_256x256.png?v=1778522961"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "5e69052d9f453030c414d445cc87ad45",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "2998fcaa-2c58-9b9b-104e-b87954405b9a",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/52154159366325",
+                "digest": "e6fef0ab8b98b8f8baf59a07aac3a01c",
+                "variantId": "gid://shopify/ProductVariant/52154159366325",
+                "title": "2022 West Ridge  Syrah",
+                "untranslatedTitle": "2022 West Ridge  Syrah",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "15.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10330340294837",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/west-ridge-syrah-2022",
+                "image": {
+                  "altText": "SP145947_2022_WestRidge_Syrah.png",
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/DHO9jC1axnc4Ov9FfcH-svoCl-YqgLOIgSYo0TkEWwY.png?v=1793209119",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/DHO9jC1axnc4Ov9FfcH-svoCl-YqgLOIgSYo0TkEWwY_64x64.png?v=1793209119",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/DHO9jC1axnc4Ov9FfcH-svoCl-YqgLOIgSYo0TkEWwY_128x128.png?v=1793209119",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/DHO9jC1axnc4Ov9FfcH-svoCl-YqgLOIgSYo0TkEWwY_256x256.png?v=1793209119"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "d19f6d1d808532752bfee892e0cc27db",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "18368b4e-34e0-c4b1-cade-5303d7520962",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/53265628463285",
+                "digest": "38f24dcd03c9d027c27f84799d158326",
+                "variantId": "gid://shopify/ProductVariant/53265628463285",
+                "title": "2024 Ch\u00e2teau La Roche des Amours Bordeaux Rouge",
+                "untranslatedTitle": "2024 Ch\u00e2teau La Roche des Amours Bordeaux Rouge",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "27.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10601135014069",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/2024-chateau-la-roche-des-amours-bordeaux-rouge",
+                "image": {
+                  "altText": "SP260773-2024ChteauLaRochedesAmoursBordeauxRougeBordeaux750MLcopy.png",
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/USVtzlUcxaYI_GmtD_-oeMhqW-Hikmf14wFQ4OunsIQ.png?v=1789406136",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/USVtzlUcxaYI_GmtD_-oeMhqW-Hikmf14wFQ4OunsIQ_64x64.png?v=1789406136",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/USVtzlUcxaYI_GmtD_-oeMhqW-Hikmf14wFQ4OunsIQ_128x128.png?v=1789406136",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/USVtzlUcxaYI_GmtD_-oeMhqW-Hikmf14wFQ4OunsIQ_256x256.png?v=1789406136"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "574588df4520cd25b1d60cc024b2289c",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "e1f8b3f0-7388-346d-d35c-c88a42c190bf",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/53265625088181",
+                "digest": "7e854dcf2c59a88e255a56def064d28b",
+                "variantId": "gid://shopify/ProductVariant/53265625088181",
+                "title": "2020 Ch\u00e2teau Tour Sivadon Bordeaux Rouge",
+                "untranslatedTitle": "2020 Ch\u00e2teau Tour Sivadon Bordeaux Rouge",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "27.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10601132884149",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/2020-chateau-tour-sivadon-bordeaux-rouge",
+                "image": {
+                  "altText": "SP259410-2020ChteauTourSivadonBordeauxRougeBordeaux.png",
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/ZpFCUFh9EnnixgS3gRfBPnfyT0KRx6FjXwElnufgZ2E.png?v=1789406376",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/ZpFCUFh9EnnixgS3gRfBPnfyT0KRx6FjXwElnufgZ2E_64x64.png?v=1789406376",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/ZpFCUFh9EnnixgS3gRfBPnfyT0KRx6FjXwElnufgZ2E_128x128.png?v=1789406376",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/ZpFCUFh9EnnixgS3gRfBPnfyT0KRx6FjXwElnufgZ2E_256x256.png?v=1789406376"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "40ab9fb87d0b240cbd49a28e9d8ca6bc",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "c00aaba4-8f3b-086b-387c-b2d5199ab1fb",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/52493265928373",
+                "digest": "ae5c4667c100b4cb271992619f4e523d",
+                "variantId": "gid://shopify/ProductVariant/52493265928373",
+                "title": "2021 Absence + Presence Petite Sirah",
+                "untranslatedTitle": "2021 Absence + Presence Petite Sirah",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "15.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10431876825269",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/2021-absence-presence-petite-sirah",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/2021-Absence_Presence-PetiteSirah-California.png?v=1778080998",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/2021-Absence_Presence-PetiteSirah-California_64x64.png?v=1778080998",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/2021-Absence_Presence-PetiteSirah-California_128x128.png?v=1778080998",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/2021-Absence_Presence-PetiteSirah-California_256x256.png?v=1778080998"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "befd7059436a5ec6a370d1a1d81ab921",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "367312e5-a699-6638-830c-d02648ab8e3a",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/53265626857653",
+                "digest": "3b1c2907e2f8648dcb68c5e18923e9fd",
+                "variantId": "gid://shopify/ProductVariant/53265626857653",
+                "title": "2024 Ch\u00e2teau les Grands Berards Bordeaux Rouge",
+                "untranslatedTitle": "2024 Ch\u00e2teau les Grands Berards Bordeaux Rouge",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "27.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10601133637813",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/2024-chateau-les-grands-berards-bordeaux-rouge",
+                "image": {
+                  "altText": "SP225615-2024ChteaulesGrandsBerardsBordeauxRougeBordeaux750ML.png",
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/qfZSpHt-O-BQZic7lpwkiUfROR1SV-lAdUwSNeSKNho.png?v=1789406150",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/qfZSpHt-O-BQZic7lpwkiUfROR1SV-lAdUwSNeSKNho_64x64.png?v=1789406150",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/qfZSpHt-O-BQZic7lpwkiUfROR1SV-lAdUwSNeSKNho_128x128.png?v=1789406150",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/qfZSpHt-O-BQZic7lpwkiUfROR1SV-lAdUwSNeSKNho_256x256.png?v=1789406150"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "12c85711238817a7c18317eab036dc52",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "d29fdb5e-4f8c-e383-70e8-fa22f403413d",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/53409878900917",
+                "digest": "93c9e303443c154567800240139f9144",
+                "variantId": "gid://shopify/ProductVariant/53409878900917",
+                "title": "2023 Ch\u00e2teau la Courtiade Bordeaux Rouge",
+                "untranslatedTitle": "2023 Ch\u00e2teau la Courtiade Bordeaux Rouge",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "18.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10619433910453",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/2023-chateau-la-courtiade-bordeaux-rouge",
+                "image": {
+                  "altText": "SP200203-2023ChteaulaCourtiadeBordeauxRougeBordeaux.png",
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/rSKISTGT25k_acGgZaMBPgdDeB7mrihxTPsVAhQy44A.png?v=1791299978",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/rSKISTGT25k_acGgZaMBPgdDeB7mrihxTPsVAhQy44A_64x64.png?v=1791299978",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/rSKISTGT25k_acGgZaMBPgdDeB7mrihxTPsVAhQy44A_128x128.png?v=1791299978",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/rSKISTGT25k_acGgZaMBPgdDeB7mrihxTPsVAhQy44A_256x256.png?v=1791299978"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "d76473956fe33ba905add7c14e7184ea",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "ce4436c9-e00c-01eb-e7fb-8967fff0da38",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/53431609393333",
+                "digest": "46c492375d09781dcefc01e4b974cb24",
+                "variantId": "gid://shopify/ProductVariant/53431609393333",
+                "title": "2023 Old Mountain Merlot",
+                "untranslatedTitle": "2023 Old Mountain Merlot",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "19.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10623696208053",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/2023-old-mountain-merlot",
+                "image": {
+                  "altText": "SPDD1035-2023OldMountainMerlotCalifornia750ML.png",
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/Ajs6-rvyYQ6f9gQn29J7CWLZYeLq4BmOnjR5OpAxQA8.png?v=1791310402",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/Ajs6-rvyYQ6f9gQn29J7CWLZYeLq4BmOnjR5OpAxQA8_64x64.png?v=1791310402",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/Ajs6-rvyYQ6f9gQn29J7CWLZYeLq4BmOnjR5OpAxQA8_128x128.png?v=1791310402",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/Ajs6-rvyYQ6f9gQn29J7CWLZYeLq4BmOnjR5OpAxQA8_256x256.png?v=1791310402"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "71fda418c6b9ee143a97ac6f428768a5",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "2088cf99-b2f2-71bf-9495-9b5650f0a5ea",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/53431618240693",
+                "digest": "d56dd56d275dbcba6f25fe958f69c42e",
+                "variantId": "gid://shopify/ProductVariant/53431618240693",
+                "title": "2022 Queens Peak Pinot Noir",
+                "untranslatedTitle": "2022 Queens Peak Pinot Noir",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "18.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10623698141365",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/2022-queens-peak-pinot-noir",
+                "image": {
+                  "altText": "SPDD1034-2022QueensPeakPinotNoirCalifornia750ML.png",
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/uIl2_U7zGZmkvjNY7TcCmwWQ_EXHMEX21uUiOJmqlp4.png?v=1791310672",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/uIl2_U7zGZmkvjNY7TcCmwWQ_EXHMEX21uUiOJmqlp4_64x64.png?v=1791310672",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/uIl2_U7zGZmkvjNY7TcCmwWQ_EXHMEX21uUiOJmqlp4_128x128.png?v=1791310672",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/uIl2_U7zGZmkvjNY7TcCmwWQ_EXHMEX21uUiOJmqlp4_256x256.png?v=1791310672"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "8a59ee1eb68315ced6536797c2a56c6f",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "c72bcb71-eb8e-252b-c710-f7a989c4ece0",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/53431718510773",
+                "digest": "703eef70e047ab9ba8ea15ae1dbd98df",
+                "variantId": "gid://shopify/ProductVariant/53431718510773",
+                "title": "2025 Ch\u00e2teau les Mourleaux Bordeaux Rouge",
+                "untranslatedTitle": "2025 Ch\u00e2teau les Mourleaux Bordeaux Rouge",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "18.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10623713116341",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/2025-chateau-les-mourleaux-bordeaux-rouge",
+                "image": {
+                  "altText": "SP268049-2025ChteaulesMourleauxBordeauxRougeBordeaux750ML.png",
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/Rf0rVAVLe6WIqRATyLnVVwBOfsDxOS8qq2DaREWL7zg.png?v=1791310396",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/Rf0rVAVLe6WIqRATyLnVVwBOfsDxOS8qq2DaREWL7zg_64x64.png?v=1791310396",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/Rf0rVAVLe6WIqRATyLnVVwBOfsDxOS8qq2DaREWL7zg_128x128.png?v=1791310396",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/Rf0rVAVLe6WIqRATyLnVVwBOfsDxOS8qq2DaREWL7zg_256x256.png?v=1791310396"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "491de02ccbf20fdf5e3b1402d580d324",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "264fbac5-e94f-22d6-9333-e1741fe7f0b4",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/53431612244149",
+                "digest": "960d381bc55658c0b9c1b6c3af8fe635",
+                "variantId": "gid://shopify/ProductVariant/53431612244149",
+                "title": "2022 Redland Ranch Reserve Zinfandel",
+                "untranslatedTitle": "2022 Redland Ranch Reserve Zinfandel",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "18.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10623696797877",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/2022-redland-ranch-reserve-zinfandel",
+                "image": {
+                  "altText": "SPDD1008-2022-Redland-Ranch-Reserve-Zinfandel.png",
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/CATyKA9Qw3ofRutLZvrj9qo_Bhs3x4P-iQACBedG82o.png?v=1791310549",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/CATyKA9Qw3ofRutLZvrj9qo_Bhs3x4P-iQACBedG82o_64x64.png?v=1791310549",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/CATyKA9Qw3ofRutLZvrj9qo_Bhs3x4P-iQACBedG82o_128x128.png?v=1791310549",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/CATyKA9Qw3ofRutLZvrj9qo_Bhs3x4P-iQACBedG82o_256x256.png?v=1791310549"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "cf9ce0d7a45d15feaaded2a944d0709d",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "4f58c686-d180-2dad-3670-6c7f04f95a2d",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/53431313727669",
+                "digest": "51dabf1e6aa51b32d3691e7403d05ec6",
+                "variantId": "gid://shopify/ProductVariant/53431313727669",
+                "title": "2024 Ethic Drinks Pinot Noir",
+                "untranslatedTitle": "2024 Ethic Drinks Pinot Noir",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "21.99",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10623596560565",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/2024-ethic-drinks-pinot-noir",
+                "image": {
+                  "altText": "SPDI1089-2024EthicDrinksPinotNoir.png",
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/0LcnQnK6dizrLQd7SaPzQkL7HorjSSUW78MGIqAZwKA.png?v=1791310449",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/0LcnQnK6dizrLQd7SaPzQkL7HorjSSUW78MGIqAZwKA_64x64.png?v=1791310449",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/0LcnQnK6dizrLQd7SaPzQkL7HorjSSUW78MGIqAZwKA_128x128.png?v=1791310449",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/0LcnQnK6dizrLQd7SaPzQkL7HorjSSUW78MGIqAZwKA_256x256.png?v=1791310449"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.86",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "629f74b45e8d5c14e9cd44c02edd9bbe",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.86",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "c048f057-f080-f037-8f73-89cabf51a9f3",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/53639222100149",
+                "digest": "b39993e0d7418e8b3c54380695f89463",
+                "variantId": "gid://shopify/ProductVariant/53639222100149",
+                "title": "2025 Villa di Mare Nerello Mascalese",
+                "untranslatedTitle": "2025 Villa di Mare Nerello Mascalese",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "19.95",
+                  "currencyCode": "USD"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10658403287221",
+                  "vendor": "Splash Wines",
+                  "productType": "Bottle",
+                  "disclosures": []
+                },
+                "productUrl": "/products/2025-villa-di-mare-nerello-mascalese",
+                "image": {
+                  "altText": "Splash-Villa-de-Mare-Nerello-Mascalese-300x900px(1).png",
+                  "url": "https://cdn.shopify.com/s/files/1/2130/4897/files/5VQLKXQCQZiFVPnag-gqj6Wyn0WilDhL8xc_IqnHIE8.png?v=1793389590",
+                  "one": "https://cdn.shopify.com/s/files/1/2130/4897/files/5VQLKXQCQZiFVPnag-gqj6Wyn0WilDhL8xc_IqnHIE8_64x64.png?v=1793389590",
+                  "two": "https://cdn.shopify.com/s/files/1/2130/4897/files/5VQLKXQCQZiFVPnag-gqj6Wyn0WilDhL8xc_IqnHIE8_128x128.png?v=1793389590",
+                  "four": "https://cdn.shopify.com/s/files/1/2130/4897/files/5VQLKXQCQZiFVPnag-gqj6Wyn0WilDhL8xc_IqnHIE8_256x256.png?v=1793389590"
+                },
+                "properties": [
+                  {
+                    "name": "_fgw_pack_group_id",
+                    "value": {
+                      "string": "gid://shopify/CartLine/25b2d4c7-c0f8-44c9-93d3-68beef1cfd13"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_variant_id",
+                    "value": {
+                      "string": "gid://shopify/ProductVariant/12522783703127"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_title",
+                    "value": {
+                      "string": "Red Wine Lover's Paradise 15-Pack"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_fgw_pack_parent_qty_ordered",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "7.96",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "c5b6283f20f33e3f1b189e88ed3325be",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "7.96",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "7.96",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "7.96",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "7.96",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "7.96",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

@@ -1,0 +1,94 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBFJqdmV4oA__oy8LFttvMh4jVD0tRQObINWk7YKCYsDFoVyfdZl7KZAXKIAeRIk28inpzhSqlFh5_UeS7kFW_ylNt2Ldav_vBy2B8_5nc__V6HmAnWKx4mqcXEJZZn5rEsPGN0dARBwpAJdL8T-ex99S31a8UUOFSdIAiVf-Gt367VnuJLCqMVHypOPs9hyKSVl-HZKP1uxtGgmx4AW4vzH-6CbBOseYNXMcv"
+    },
+    "queueToken": "A6pF73h_JbU3lD4orK3n1VshtTOQrjvwBylOX5glUOa8ylfIRr2JO06CKeF8w-vBMqRzJufASDEeZE_NPRNDVgqjcam2ogwlQh78ekwTM4qE6jQ3zKNXaAwt9h91yuF0lzfa7jgIA6o=",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "e97ba7f6-3d92-4378-8da8-cd3d4fd587ae",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/48881634771127",
+              "variantId": "gid://shopify/ProductVariant/48881634771127",
+              "properties": [
+                {
+                  "name": "_gwp_product",
+                  "value": {
+                    "string": "true"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_gwp_contributing_main_gid://shopify/CartLine/4a4b2f63-d580-4e97-9f7b-2bd713495bfb?cart=hWNIxeRgkgf74luFdluk2m0p",
+                  "value": {
+                    "string": "1"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "20.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "4a4b2f63-d580-4e97-9f7b-2bd713495bfb",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/45461585690807",
+              "variantId": "gid://shopify/ProductVariant/45461585690807",
+              "properties": [
+                {
+                  "name": "_selling_plan_name",
+                  "value": {
+                    "string": "$40 refill ships every 4 weeks w/sub"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_product_title",
+                  "value": {
+                    "string": "Coffee Starter Kit"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": "gid://shopify/SellingPlan/2911240375",
+              "sellingPlanDigest": "8da0bc600fec732912250533ad724b76"
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "60.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

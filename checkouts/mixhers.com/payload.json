@@ -1,0 +1,93 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBKiRWkh9JP_M2xoUmCmQwJCLsc61GK8DnNELy7u-hhH7nAtjv_Z1Zyj-o7OYnZT3ObQ6wvaDQ9ukuSAa8qRMpqKOVzIzd48Ju2Djolmtsu210XsJqoU47yGr1Nu4XP350DMxQ0WiGU5t-Uvap3wyD0rCIHVh3pf0Oq8bZ34pCAYXxIPOKqvIQUCmAbNL6u3vqYrA0lq6guAHEmFqbP-HuXxNktiEz"
+    },
+    "queueToken": "A7P93TzDy9NkPOYvnTQ25Oi6omFXFu-tyLoMerchOrfQYlNjzFvV32OIQp5COLixM3U8gjsF4z7HHzdE0hOYQHkhPEcc1iDDPna3DbtXOD1kTvqHcZJXwYQd7JcuREsyRg==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "4e257218-3925-476d-87cd-ce87a8432dc0",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/43142910378163",
+              "variantId": "gid://shopify/ProductVariant/43142910378163",
+              "properties": [
+                {
+                  "name": "_rb_id",
+                  "value": {
+                    "string": "OaKVFcy3UfT9xp"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "Contains",
+                  "value": {
+                    "string": "Pomegranate Mango x 15, Pomegranate Mango x 15"
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "_contentsData",
+                  "value": {
+                    "json": [
+                      {
+                        "flavor": "Pomegranate Mango",
+                        "quantity": 15,
+                        "color": "#FFAC75"
+                      },
+                      {
+                        "flavor": "Pomegranate Mango",
+                        "quantity": 15,
+                        "color": "#FFAC75"
+                      }
+                    ]
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_bundle_contents_quantity",
+                  "value": {
+                    "int": "60"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_side_cart_subtitle",
+                  "value": {
+                    "string": "Hormone Support Supplement"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_starterKitVariantId",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": "gid://shopify/SellingPlan/4798349491",
+              "sellingPlanDigest": "994ab5401c679f2130e397e5e6d40e17"
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 2
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "84.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

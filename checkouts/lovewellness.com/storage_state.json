@@ -1,0 +1,991 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".lovewellness.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa_shop-pxl",
+      "value": "true",
+      "domain": "lovewellness.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wm_cv",
+      "value": "1.0.8",
+      "domain": ".lovewellness.com",
+      "path": "/products",
+      "expires": 1825717636,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wm_frt",
+      "value": "2026-11-08T23:47:17.463Z",
+      "domain": ".lovewellness.com",
+      "path": "/products",
+      "expires": 1825717637,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1825717629.341423,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1795391248.701802,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG9jwCXAAEAfXM5yDBAdWgvMPUdu7PzrH2fdvNavbp0tWzm2bOal-ZsBh1pm2UG01ohYXd-EgMoUcMgirlR7CBxmQk:",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1825717626.418165,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaG9jwDtAAEAe2Caz3PmIg3ApbM00WD1WAPmfZIOc3Zpcl_y_B_J-b9LtBe8gAo4UjVuMBtVD0LrxjP7ZIy9i2SmgNI:",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1825717626.418252,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaG9jwDtAAEAM53e6MFcepHDOibTWcjCK4WrZvfbrubgHAxqNfpCwMcY67UYeHCX0kovO8hRdk4T9llqlUyipnBzXUw:",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1825717626.418313,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ig-location",
+      "value": "{\"country\":\"PK\",\"city\":\"Karachi\",\"continent\":\"AS\",\"latitude\":\"24.86\",\"longitude\":\"67.01\",\"region\":\"Sindh\",\"regionCode\":\"SD\"}",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1794185227.527193,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ig-id",
+      "value": "ig_b112d6a4aabf9eb2982a0589e0cbb2519ae5",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1825717627,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-fv",
+      "value": "1794181627546",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1825717630,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-vars",
+      "value": "{%2260698a1df265%22:%22_UNASSIGNED%22%2C%22b8ef9356ad88%22:%22_UNASSIGNED%22%2C%22e9d0955553bd%22:%22_UNASSIGNED%22%2C%2292ebdadf6cda%22:%22_UNASSIGNED%22%2C%2278ac002fe9a0%22:%22148368e74923%22%2C%22db490572aac8%22:%22671e237ff4e7%22%2C%2205f7ed430eaf%22:%22c37fac5bb524%22%2C%22redirectedFrom%22:%22%22}",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1825717630,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%253A0-4c794702-5869-5058-635f-705f73ebc9d1.y5kfPKONWWReJO6PhWjxOZ%252FfF5FXVFgJA0Twxn8ybeY",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1825717627,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%253ATHlHAlhpUFhjX3Bfc-vJ0covK4k.XsCbKYCq%252BO7d5V8CMrxS%252BiTYjAEHB2YR7rltfMMcxx0",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1825717627,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id-v3",
+      "value": "s%253A.o6W7wkJsHSTU4%252BLlDruZ%252FwNjVcUZZMvakQpSatDoAgo",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1825717627,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id-v4",
+      "value": "s%253ACiQwMWExYmQ4Zi0wNGY3LTc2YzYtODAwMS03YmZjOWQ4NmNiZDgQAxoEQVBBQyAw.74udktCbAH6%252FSws8QCf67nrZ9tYEkQVdCmVNwlwpCQg",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1825717627,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIvZMKgPLxmaT9lx8Z4fbP%3Fkey%3Df09de7e1cd92aa39710c08af4e1452c9",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1802044047.782442,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_li_dcdm_c",
+      "value": ".lovewellness.com",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi",
+      "value": "1c3dae956f04--01m6yry1vym957r80qsczkyd6f",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1828741629.824257,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi_js",
+      "value": "1c3dae956f04--01m6yry1vym957r80qsczkyd6f",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-pv",
+      "value": "2",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1825717630,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rsession",
+      "value": "d96a0dd8285a383e",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1794183436,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ruid",
+      "value": "eyJ1dWlkIjoiY2Q3MTcxMTYtZTViMy00NWU3LWIzZDYtNzk5NzVhOTYxNWM2In0%3D",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1828741633.891978,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ugc_vid_68ac24f6-b208-40a9-87d7-754c5d58ad6b",
+      "value": "1e595fe5-819a-4304-9eae-c47530f70074",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1825717634,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attn_eat_id",
+      "value": "df185140b98c484db5077aaec7666ff6",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1827877631.489891,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://lovewellness.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "_nb_sp_ses.6024",
+      "value": "*",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1794183434,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_nb_sp_id.6024",
+      "value": "2f595b35-a253-4db0-96d8-cc70a01f4f2c.1794181635.1.1794181635.1794181635.d22f255a-84e8-44a6-8004-ed669ab315b3",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1828741634.524167,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_axwrt",
+      "value": "e9673cc4-eb3a-4b8f-9615-3f427ccaac82",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1825717634,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_li_ss",
+      "value": "CgA",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1828741636.442713,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_nb_sp_ses.4209",
+      "value": "*",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1794183455,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "e9673cc4-eb3a-4b8f-9615-3f427ccaac82",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1825717636,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_id",
+      "value": "5c6ea3ed701e441aa65c3b3df507e2ac",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1827877636,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_session_id",
+      "value": "a2b31532749d4675b2834996c1c2cb48",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1794183440,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzk0MTgxNjM2NzIyLFwidW9cIjoxNzk0MTgxNjM2NzIyLFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjVjNmVhM2VkNzAxZTQ0MWFhNjVjM2IzZGY1MDdlMmFjXCJ9IiwiZWF0Ijoie1wiY29cIjoxNzk0MTgxNjM2NzExLFwidW9cIjoxNzk0MTgxNjM2NzExLFwibWFcIjozNjUwLFwiaW5cIjp0cnVlLFwidmFsXCI6XCJodHRwczovL2dnY2tnLmxvdmV3ZWxsbmVzcy5jb21cIn0ifQ==",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1827877636,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1794181636725",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1827877636,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fermat_s",
+      "value": "mw8hf5lh.7h1hhzuj4hu50m5v",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1794183446.652871,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_bopd_",
+      "value": "browser",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1827877637,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1794188837,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_heatVid_2740",
+      "value": "611081847173870052",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1794268037,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_heatIdvUpdated_2740",
+      "value": "1794181637387",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1794268037,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hm_source",
+      "value": "unknown",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1794268037,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vUUID_2740",
+      "value": "d376d5e7-f3bc-4ff6-a0fa-c9e14e91e96e",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1794268037,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPVkySXhaVGM1WkdFdE5tTm1NQzAwWmpNMkxXSmxNV010WlRka1l6VmtNalZrWm1ReQ",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1825717634,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fermat_identify",
+      "value": "mw8hf5lh.7h1hhzuj4hu50m5v",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1794268037.511869,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scsrid_r",
+      "value": "",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1828309637,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "1",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1794183437,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "ORGANIC",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1794183437,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "lnmvZglHBOZESd6YrSbHjZWOa__DBGNp",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1828309637,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "lnmvZglHBOZESd6YrSbHjZWOa__DBGNp",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1828309637,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_id.2740.bG92ZXdl",
+      "value": "myemai6ymayqi2um.1794181638.",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1794311238,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scida",
+      "value": "wnzpZzzE6zqFj2YVP0J8yqyCpfD2gV1R",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1828309640,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "BVBRANDID",
+      "value": "5013333e-9d5b-49ed-a86f-da10b7408730",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1825717642,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "BVBRANDSID",
+      "value": "f4f40467-3344-48aa-8c14-2fbcf5451c6b",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1794183442,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=9bdf96b1-cd5d-473a-8df5-b2c13966e501&logs=1&id=4aa331d9-40b4-4968-b5da-9c020be6c9db&created=1794181644390&expire=1794182546301",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1825717646,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "fermat_session",
+      "value": "%7B%22id%22%3A%22mw8hf5lh.7h1hhzuj4hu50m5v%22%2C%22ts%22%3A1794181646050%7D",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1794183446.586013,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_xamPiPK6Q9SyJKxZc*pntA%23953843e1-38ab-4b9a-99f4-69df7471c35a-1794181631",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1825739266.773418,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_nb_sp_id.4209",
+      "value": "f198b5d0-d0db-4a1c-ad1b-74ef4b9146b4.1794181635.1.1794181655.1794181635.b6729dd6-d69b-45cc-91c5-eb2cf1cbc137",
+      "domain": "lovewellness.com",
+      "path": "/",
+      "expires": 1828741655.466793,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1794181659729.1893201599",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1801957659,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_Elevar-apex",
+      "value": "[1%2C%22e9673cc4-eb3a-4b8f-9615-3f427ccaac82%22%2C%221794181659%22%2C%221%22%2C%221794181659%22%2C{%22market_id%22:%221916108915%22%2C%22locale_country_code%22:%22US%22}%2C[]%2C%22{%5C%22_axwrt%5C%22:%5C%22e9673cc4-eb3a-4b8f-9615-3f427ccaac82%5C%22%2C%5C%22_scid%5C%22:%5C%22lnmvZglHBOZESd6YrSbHjZWOa__DBGNp%5C%22%2C%5C%22_fbp%5C%22:%5C%22fb.1.1794181659729.1893201599%5C%22}%22%2C0]",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1825717659,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ax_visitor",
+      "value": "%7B%22firstVisitTs%22%3A1794181634671%2C%22lastVisitTs%22%3Anull%2C%22currentVisitStartTs%22%3A1794181634671%2C%22ts%22%3A1794181661202%2C%22visitCount%22%3A1%7D",
+      "domain": ".lovewellness.com",
+      "path": "/",
+      "expires": 1825717661,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://lovewellness.com",
+      "localStorage": [
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionCount",
+          "value": "1"
+        },
+        {
+          "name": "ig-fv",
+          "value": "1794181627546"
+        },
+        {
+          "name": "__hmVisitHistory_2740",
+          "value": "{\"v\":1,\"first\":1794181637,\"seq\":1,\"prevIdv\":\"\",\"prevT\":0,\"lastCart\":0,\"lastCheckout\":0,\"lastPurchase\":0,\"purchases\":0,\"recent\":[],\"cur\":{\"idv\":\"611081847173870052\",\"t\":1794181637,\"te\":1794181661,\"pg\":{\"p611081847173800067\":{\"h\":4927409,\"c\":6,\"s\":88,\"d\":23844,\"p\":1}},\"hs\":[4927409],\"pp\":[4927409],\"ev\":1,\"rv\":0,\"orders\":[],\"cartAt\":1794181660,\"checkoutAt\":0,\"purchaseAt\":0},\"snap\":{\"idv\":\"611081847173870052\",\"tags\":{\"hmh_v\":\"1\",\"hmh_seq\":\"1\",\"hmh_t\":\"1794181637\",\"hmh_first\":\"1794181637\",\"hmh_lc\":\"0\",\"hmh_lk\":\"0\",\"hmh_lp\":\"0\",\"hmh_np\":\"0\"},\"delivered\":false}}"
+        },
+        {
+          "name": "_heatCartSyncedVid",
+          "value": "611081847173870052"
+        },
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "MobileMonkeyVisitCount",
+          "value": "1"
+        },
+        {
+          "name": "_axwrt_backup",
+          "value": "{\"value\":\"e9673cc4-eb3a-4b8f-9615-3f427ccaac82\",\"setTs\":null,\"expiresAt\":1825717634667}"
+        },
+        {
+          "name": "uw-uid",
+          "value": "0d08f17f-40ff-49b0-8a56-7c72e27b97a4"
+        },
+        {
+          "name": "sa-user-id-v3",
+          "value": "s%3A.o6W7wkJsHSTU4%2BLlDruZ%2FwNjVcUZZMvakQpSatDoAgo"
+        },
+        {
+          "name": "gorgias.conversation-starters-timeout-cohort",
+          "value": "5000"
+        },
+        {
+          "name": "gorgias.guest-id",
+          "value": "e9673cc4-eb3a-4b8f-9615-3f427ccaac82"
+        },
+        {
+          "name": "vUUID",
+          "value": "d376d5e7-f3bc-4ff6-a0fa-c9e14e91e96e"
+        },
+        {
+          "name": "_mr_vid",
+          "value": "myemai6ymayqi2um"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionId",
+          "value": "1794181659"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-08T23:47:20.050Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-bd8f57c3-BA47-421F-0D7D-133B7611AFB1\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"dirt-project.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-bd8f57c3-BA47-421F-0D7D-133B7611AFB1\",\"event_date_time\":\"2026-11-08T23:47:20.050Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"e9673cc4-eb3a-4b8f-9615-3f427ccaac82\",\"page_url\":\"https://lovewellness.com/products/bye-bye-bloat\",\"currency\":\"USD\",\"product\":{\"product_id\":\"1301634908275\",\"product_title\":\"Bye Bye Bloat\u00ae\",\"variant_id\":\"42677789524083\",\"variant_title\":\"Standard\",\"quantity\":1,\"variant_price\":16.24,\"product_vendor\":\"Love Wellness\"}}}}}]"
+        },
+        {
+          "name": "route-product-added-tracked-ids",
+          "value": "[\"1301634908275\"]"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIvZMKgPLxmaT9lx8Z4fbP\""
+        },
+        {
+          "name": "sa_email",
+          "value": "null"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--lastDlPushTimestamp",
+          "value": "1794181659"
+        },
+        {
+          "name": "__cai_sts",
+          "value": "1794181632776"
+        },
+        {
+          "name": "_li_ss",
+          "value": "CgA"
+        },
+        {
+          "name": "_entryExPage",
+          "value": "https://lovewellness.com/products/bye-bye-bloat"
+        },
+        {
+          "name": "sa-user-id",
+          "value": "s%3A0-4c794702-5869-5058-635f-705f73ebc9d1.y5kfPKONWWReJO6PhWjxOZ%2FfF5FXVFgJA0Twxn8ybeY"
+        },
+        {
+          "name": "dgdr",
+          "value": "{\"env_ver\":\"digioh-1.0\",\"value\":\"N4Ig5gpg9iBcoGMoFcB2AXATgTwPqoEMBbCOEABQIGsBLAZ3QNRABoRMIwapVckATUrBABlACKsQCGumxkA0gUwEEACxqT0NErgBePISACCdGgQD0i5Wo1skGGqggZ8xQybOSANjy7pkgnAAbEEAdACc4QAcAMxsXgRa.oGwAEwALKFRAKzhAIx2KBg4fFApFPKSujQADgKGAOzpQQAMLZK1ZKktqaHpDX0xoXkxDZIcXDyuJGQijvyqkvZaTi71ZEYiIAC-bPwEZAg1ACQtAHoARroAVAgAfhdE1xfI16oAPgByACoABHktUItACk.AuzwAjs8vNdMA8qNcwA8wLdXvw7vwELdMM9VNcaHcEFiCIT-Lc8QQAGZ3Aj8d5iCB0KjoKA1YEEJEXdEXdDXanoO7IQkQZ53IjvEZ5IHSkGod4AYVUmCgJGBAHcHjRbqhrvwUTVMNolNgRFBKeg1UoIN9sDUIO8AELKtV0CCYYEXAi3CGnM4ECAYvEIBFeQkAD1uWoDFzo1xqGNjBHBEIxZJUDyx.Ep1wIqgeNWuADdCTCAFYYnV0Qng.hQggki44mpKLQELwASUEDkpNAQiW4Ov4Xl9ukdXkcVGB2HeAHV5lAXf8QYJ3rhJHRkETGXQ4FhkBA2MpUPw4BkGqkGmx0DvYHkGuF0nkonkgjF0g-YtsgA__\",\"expires\":1794185234945}"
+        },
+        {
+          "name": "uw-icon-locales",
+          "value": "{\"version\":\"2026-11-04-11-38-25\",\"en-US\":{\"widget\":{\"html_lst_title\":\"Translations Menu\",\"html_title\":\"Accessibility Menu\",\"text_icon_small\":\"Accessibility\",\"text_icon_large\":\"Accessibility</br>Menu\",\"new_tab\":\"opens in a new tab\",\"new_tab_substring\":\"new tab\",\"new_window_substring\":\"new window\",\"broken_links\":{\"target_site_not_available\":\"target website may not be available\"}},\"skip_links\":{\"open_accessibility_nav\":\"Open the Accessible Navigation Menu\",\"open_accessibility_menu\":\"Open the accessibility menu\",\"skip\":\"Skip to main content\",\"enable_visually_impaired\":\"Enable accessibility for low vision\",\"disable_visually_impaired\":\"Disable accessibility for low vision\",\"title\":\"Quick Accessibility Options\"}}}"
+        },
+        {
+          "name": "__xray_v",
+          "value": "1"
+        },
+        {
+          "name": "_heatDeviceType",
+          "value": "2"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_",
+          "value": "data:application/zip;base92,dC@ $U]#R0|cr&_shZNd5?c\u007fQ/V*E5gAJ+#]QOl v(S4!U\\-ru:Plrl01N(I`g`&':*.rm12mz*f]OLsun"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "refId",
+          "value": "data:application/zip;base92,.V\\\\z:FQ@fW-n?'L{g1yf#0k1]+M3A.0~7!\\>{!a{j)ms)q)#|%*LN(Wrmn#4LnB-nkLV]>#+QzKwe3\\F&KOv7zikScFH_n'~'/'$jr2>x|<~gC/!$xsBTO0w25QU"
+        },
+        {
+          "name": "_entryEnPage",
+          "value": "https://lovewellness.com/products/bye-bye-bloat"
+        },
+        {
+          "name": "uw-tunings",
+          "value": "{\"tunings\":{\"widget_color\":\"#FFFFFF\",\"widget_icon_type\":\"2\",\"widget_language\":\"en-US\",\"widget_position\":\"5\",\"widget_icon_size\":\"small\",\"accessibility_url\":\"https://lovewellness.com/pages/accessibility-statement\",\"accessibility_link_text\":\"Accessibility Statement\",\"accessibility_link_enabled\":\"on\",\"widget_position_nudge_mobile\":\"{\\\"moveX\\\":8,\\\"moveY\\\":100,\\\"xOrientation\\\":\\\"left\\\",\\\"yOrientation\\\":\\\"bottom\\\"}\",\"widget_custom_trigger_enabled\":true,\"widget_custom_trigger\":\".accessibility-new\",\"widget_color_gradient\":\"off\",\"widget_position_nudge\":\"{\\\"moveX\\\":0,\\\"moveY\\\":0,\\\"xOrientation\\\":\\\"left\\\",\\\"yOrientation\\\":\\\"bottom\\\"}\",\"widget_hidden_for_site\":\"off\",\"widget_hidden_for_mobile\":false,\"widget_position_mobile\":\"5\",\"screenReaderVersion\":\"v2\",\"site_name\":\"lovewellness.com\",\"isLAUser\":false,\"widget_no_report\":true,\"new_art_pages_widget_manage\":true,\"dynamic_alpine_images_processing\":true,\"new_login\":true,\"new_manage\":true},\"services\":{\"siteId\":803324,\"userId\":68319,\"noManage\":false,\"noLogo\":false,\"paidAi\":true},\"remediation\":{},\"remediationV2\":{\"strategy\":\"AUTO\",\"consolidated\":\"https://cdn.userway.org/remediations/consolidated/803324/KgAvP4Ch9y8E3WdC.json\",\"version\":0,\"customFocus\":{\"enabled\":true,\"config\":{\"style\":\"{\\\"width\\\":\\\"2px\\\",\\\"color\\\":\\\"#2d68ff\\\",\\\"style\\\":\\\"solid\\\"}\"}},\"contrast\":{\"enabled\":true,\"config\":{\"autofix\":false}},\"skipLinks\":{\"enabled\":true,\"config\":{\"anchorSelector\":null}}},\"imageAlt\":{\"version\":\"ALTS_V2\",\"resourceHash\":\"ax5LEmNhUOzH0ZPC\",\"tier\":\"PAID_QUOTA_TIER\",\"quota\":5000,\"usage\":-3319,\"state\":\"ALTS_ON\",\"missingAlts\":[]},\"widgetCustomLanguages\":[],\"invalidAccountId\":false,\"existingWidgetType\":\"free\"}"
+        },
+        {
+          "name": "sa-user-id-v4",
+          "value": "s%3ACiQwMWExYmQ4Zi0wNGY3LTc2YzYtODAwMS03YmZjOWQ4NmNiZDgQAxoEQVBBQyAw.74udktCbAH6%2FSws8QCf67nrZ9tYEkQVdCmVNwlwpCQg"
+        },
+        {
+          "name": "n_browser_data",
+          "value": "{\"BrowserId\":\"d542a72e-6804-4d35-8ac3-21660f6ee009\",\"CurrentPageVisitCount\":2,\"DisabledStatus\":false,\"LastActive\":\"2026-11-08T23:47:18.189Z\",\"ClientUnlockTime\":null}"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":{\"activated\":\"idle\"},\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":true,\"chatTitle\":\"Love Wellness\",\"isConnected\":false,\"isChatOnline\":false,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"always-required\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":false,\"replyType\":\"reply-dynamic\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "xdibx",
+          "value": "N4Ig-mBGAeDGCuAnRIBcoAOGAuBnNAjAOwCcALAQBwEBsAzAzQAwA0IGAbrAHbaFu58qYuSq0GdZm064efYW0RIANmhAg2ylWoD0GRAHsAJvFh4dkAJ4BTALRW7kZQYCGfTXkKkK1eo1bs2qgA2iB6hiZmuBY29rFOrnwAugC-bBAw-tYcaKBGLpZCwSI-4gwkAKyp6VDQ2da8QsBp4LWwAJZGagBMTABmlJA0fZC2JC5G3bZkLn1Gti7WsHY0kHTWdCSwFeuwNLYlYn503RUarTAukNjWuPKgBEw0z7kg2BhoZGSaH6h0BFQSAEGkYwPkbmhTnQyExunQmExSCRkUQUmigA"
+        },
+        {
+          "name": "__paypal-httpswwwpaypalcomsdkjscomponentsbuttonscommitfalsecurrencyUSDlocaleenUSclientidAexZEtAxk09Ncgj6FSWFFyGKbxxAZLTyJ2DPdJWl1YUlecinmc5AfIaRF2qYjWlusWahlzz6SVkY5CimerchantidJ8JH4FSU6V8EJintentcapture_storage__",
+          "value": "{\"id\":\"uid_ff80b6c695_mjm6ndc6mtg\",\"funding\":{},\"__session__\":{\"guid\":\"uid_b93bef4ee2_mjm6ndc6mtg\",\"created\":1794181638737}}"
+        },
+        {
+          "name": "heatmapHsrVid",
+          "value": "611081847173870052"
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "ig-id",
+          "value": "ig_b112d6a4aabf9eb2982a0589e0cbb2519ae5"
+        },
+        {
+          "name": "tpau_events",
+          "value": "[{\"event\":\"Digioh: Viewed Product\",\"timestamp\":\"2026-11-08T23:47:14.465Z\",\"data\":{\"price\":{\"amount\":24.99,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Bye Bye Bloat\u00ae\",\"vendor\":\"Love Wellness\",\"id\":\"1301634908275\",\"untranslatedTitle\":\"Bye Bye Bloat\u00ae\",\"url\":\"/products/bye-bye-bloat\",\"type\":\"Health Care > Fitness & Nutrition > Vitamins & Supplements\"},\"id\":\"42677789524083\",\"image\":{\"src\":\"//lovewellness.com/cdn/shop/files/Bye_Bye_Bloat_6d6e1fa7-5661-41b0-b480-a2876d8adf4b.png?v=1791470346\"},\"sku\":\"BBB-60-3063-2024\",\"title\":\"Standard\",\"untranslatedTitle\":\"Standard\"}},{\"event\":\"Digioh: Add to Cart\",\"timestamp\":\"2026-11-08T23:47:20.112Z\",\"data\":{\"cost\":{\"totalAmount\":{\"amount\":16.24,\"currencyCode\":\"USD\"}},\"merchandise\":{\"id\":\"42677789524083\",\"image\":{\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/Bye_Bye_Bloat_6d6e1fa7-5661-41b0-b480-a2876d8adf4b.png?v=1791470346\"},\"price\":{\"amount\":16.24,\"currencyCode\":\"USD\"},\"product\":{\"id\":\"1301634908275\",\"title\":\"Bye Bye Bloat\u00ae\",\"vendor\":\"Love Wellness\",\"type\":\"Health Care > Fitness & Nutrition > Vitamins & Supplements\",\"untranslatedTitle\":\"Bye Bye Bloat\u00ae\",\"url\":\"/products/bye-bye-bloat?selling_plan=4192469107&variant=42677789524083\"},\"sku\":\"BBB-60-3063-2024\",\"title\":\"Standard\",\"untranslatedTitle\":\"Standard\"},\"quantity\":1}}]"
+        },
+        {
+          "name": "u_sclid",
+          "value": "_7Cxh2RteSympfeQ4OZ2KvvEfRAuKtivlnmvZglHBOZESd6YrSbHjZWOa__DBGNp"
+        },
+        {
+          "name": "snowplowOutQueue__nb_sp_nb_post2.expires",
+          "value": "1857253655739"
+        },
+        {
+          "name": "hutk_data",
+          "value": "{}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "e9673cc4-eb3a-4b8f-9615-3f427ccaac82"
+        },
+        {
+          "name": "__xray_n",
+          "value": "1"
+        },
+        {
+          "name": "route_amplitude_insert_id_counter",
+          "value": "2"
+        },
+        {
+          "name": "_heatmapConfigs",
+          "value": "{\"_heatIdVisit\":{\"idVisit\":\"611081847173870052\",\"_heatIdvUpdated\":1794181637387},\"_userJourney\":null,\"leadConvCount\":0,\"_heatEventsCount\":6,\"window.isReturningUser\":0,\"heatmapTracking\":{\"events\":{\"track\":true,\"rate\":100},\"record\":{\"track\":true,\"rate\":100},\"checkoutLinkRules\":[{\"match\":\"hoshart.com\",\"selector\":\".cart-summary-aside a\"},{\"match\":\"haushaltsmagazin\",\"selector\":\"a.based_on_country\"},{\"match\":[\"thecatvetreport\",\"catproductinsider\"],\"selector\":\"a[href*='trypurestream']\"},{\"match\":\"hautgesundheit-aktuell.com\",\"selector\":\"a[href*='hautliebe.de']\"},{\"match\":\"pawstested.com\",\"selector\":\"a[href*='thetenace.com']\"},{\"match\":\"thetenace.com\",\"selector\":\"a[href*='pawstested.com']\"},{\"match\":\"myhealthstandard.com\",\"selector\":\"a[data-id^='fkt-button-']\"},{\"match\":\"vahrelo.com\",\"selector\":\"a[href*='grillgearinsider.com']\"},{\"match\":\"grillgearinsider.com\",\"selector\":\"a[href*='vahrelo.com']\"},{\"match\":\"rejuvacare.com\",\"selector\":\"a[href*='smarthealthpractices.com']\"},{\"match\":\"smarthealthpractices.com\",\"selector\":\"a[href*='rejuvacare.com']\"},{\"match\":\"myhealthyshape.com\",\"selector\":\"a.btn.btn-v2[href*='pdp-glp1-patches-v1'], a.btn.btn-v2[href*='pages/pdp-big4'], a.btn.btn-v2[href*='top5-glp-1-patches']\"},{\"match\":\"pawstested.com\",\"selector\":\"a[href*='catvetinsider.com']\"},{\"match\":\"catvetinsider.com\",\"selector\":\"a[href*='pawstested.com']\"},{\"match\":\"catvetinsider.com\",\"selector\":\"a[href*='thetenace.com']\"},{\"match\":\"catvetinsider.com\",\"selector\":\"a[href*='pawstested.com']\"},{\"match\":\"wellness-informed.co.uk\",\"selector\":\"a[href*='optimiise.com']\"},{\"match\":\"optimiise.com\",\"selector\":\"a[href*='wellness-informed.co.uk']\"},{\"match\":\"uromend.com\",\"selector\":\"a[href*='prostatehealthreport.com']\"},{\"match\":\"prostatehealthreport.com\",\"selector\":\"a[href*='uromend.com']\"},{\"match\":\"obseu.yougreencolumn.com\",\"selector\":\"a[href*='us.loopearplugs.com']\"},{\"match\":\"us.loopearplugs.com\",\"selector\":\"a[href*='obseu.yougreencolumn.com']\"},{\"match\":\"tryheatmap.ai\",\"selector\":\"a[href*='heatmap.com']\"},{\"match\":\"heatmap.com\",\"selector\":\"a[href*='tryheatmap.ai']\"},{\"match\":\"heatmapcore.com\",\"selector\":\"a[href*='heatmap.com']\"},{\"match\":\"heatmap.com\",\"selector\":\"a[href*='heatmapcore.com']\"}],\"elTagging\":[],\"survey\":{\"2899\":true},\"unique_ids\":{\"2963\":true}},\"_heatMapEnvRecord\":{\"PROXYURL\":\"https://proxy.heatmap.com\",\"HEATMAPURL\":\"https://dashboard.heatmap.com\",\"S3URL\":\"https://heatmap-project-2022.s3.us-west-2.amazonaws.com/\",\"CONFIGURL\":\"https://cfg.heatmap.com/root/\",\"KINESISGATEWAY\":\"https://kinesis.heatmap.com/data\",\"RECORDINGGATEWAY\":\"https://8a33wzsc7i.execute-api.us-west-2.amazonaws.com/PutRecord/live\",\"KINESISSTREAM\":\"kinesisForProduction\",\"VISITGATEWAY\":\"https://zix4loorx2.execute-api.us-west-2.amazonaws.com/Prod/sttracker\",\"WEBSOCKET\":\"wss://vst.heatmap.com\",\"SCREENSHOT_PROXY\":\"https://sproxy.heatmap.com\",\"CIP\":\"44.239.174.175\",\"HEATMAPS\":[],\"ISOLATEDSITES\":[],\"IDSITE\":2740,\"FRONTEND_DEBUG\":0},\"_heatmapConfigUrl\":\"https://cfg.heatmap.com/root/\"}"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1794181632822"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,KTKO5:M5}Q1#itG&PbE\\-/n&c@tUK:{V\\`?EYy2ny=o3Nd9mamxk.$+NM(,6p.FR+L$UKgTB75^av^-\\y1g?g+0i0$\\p7+h"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cart",
+          "value": "[{\"id\":\"BBB-60-3063-2024\",\"name\":\"Bye Bye Bloat\u00ae\",\"brand\":\"Love Wellness\",\"category\":\"Health Care > Fitness & Nutrition > Vitamins & Supplements\",\"position\":0,\"price\":\"16.24\",\"quantity\":\"1\",\"productId\":\"1301634908275\",\"variantId\":\"42677789524083\",\"url\":\"/products/bye-bye-bloat?selling_plan=4192469107&variant=42677789524083\",\"list\":\"\",\"variant\":\"Standard\",\"image\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/Bye_Bye_Bloat_6d6e1fa7-5661-41b0-b480-a2876d8adf4b.png?v=1791470346\"}]"
+        },
+        {
+          "name": "n_platform",
+          "value": "1"
+        },
+        {
+          "name": "_rsession",
+          "value": "tPLTEEYbCwF3QxTxGieDWMP3AEyfgsmV15696vdjpPDsC4QAVpRabA3VEaceDhMzmabwceyJkOTZhMGRkODI4NWEzODNlIjp7ImlkIjoiZDk2YTBkZDgyODVhMzgzZSIsImZpcnN0X2FjdGl2ZSI6MTc5NDE4MTYzMzg2OCwibGFzdF9hY3RpdmUiOjE3OTQxODE2MzY4MDgsImdlb2xvY2F0aW9uIjp7ImNpdHlfbmFtZSI6IkthcmFjaGkiLCJjb250aW5lbnRfY29kZSI6IkFTIiwiY29udGluZW50X25hbWUiOiJBc2lhIiwiY291bnRyeV9jb2RlIjoiUEsiLCJjb3VudHJ5X25hbWUiOiJQYWtpc3RhbiIsImxhdGl0dWRlIjoyNC44NjA4LCJsb25naXR1ZGUiOjY3LjAxMDQsInBvc3RhbF9jb2RlIjoiNzQwMDAiLCJwcm92aW5jZV9jb2RlIjoiU0QiLCJwcm92aW5jZV9uYW1lIjoiU2luZGgifX19"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPVkySXhaVGM1WkdFdE5tTm1NQzAwWmpNMkxXSmxNV010WlRka1l6VmtNalZrWm1ReQ\",\"expires\":\"2027-11-08T23:47:14.140Z\"}"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,V0[&sB\"qWt97DcW|6Jh8\u007fF,CC.*ur!zT|/+AzpMg3Xzra4M'{C96zLuK4.}Z\"1:_1OF<_'9>Ly jWB>AA2D$}+REtPA@m4"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageUrl",
+          "value": "https://lovewellness.com/products/bye-bye-bloat"
+        },
+        {
+          "name": "n_stored_page_visit",
+          "value": "{\"pageVisitFrags\":[{\"events\":[{\"type\":\"wv\",\"occ_at\":\"2026-11-08T23:47:41.806Z\",\"wv\":{\"name\":\"INP\",\"value\":\"544\",\"rating\":\"poor\",\"attribution\":\"{\\\"interactionTarget\\\":\\\"details>summary.header__icon--search.header__icon--summary.link.focus-inset.modal__toggle\\\",\\\"interactionType\\\":\\\"keyboard\\\",\\\"interactionTime\\\":15752.800000011921,\\\"nextPaintTime\\\":16296.800000011921,\\\"processedEventEntries\\\":[{\\\"name\\\":\\\"keydown\\\",\\\"entryType\\\":\\\"event\\\",\\\"startTime\\\":15752.800000011921,\\\"duration\\\":544,\\\"navigationId\\\":3463,\\\"interactionId\\\":1540,\\\"processingStart\\\":15923.900000035763,\\\"processingEnd\\\":16209.700000047684,\\\"cancelable\\\":true}],\\\"longAnimationFrameEntries\\\":[{\\\"name\\\":\\\"long-animation-frame\\\",\\\"entryType\\\":\\\"long-animation-frame\\\",\\\"startTime\\\":15225.100000023842,\\\"duration\\\":1038.699999988079,\\\"navigationId\\\":3463,\\\"paintTime\\\":16263.800000011921,\\\"presentationTime\\\":16304,\\\"renderStart\\\":16210.100000023842,\\\"styleAndLayoutStart\\\":16263.600000023842,\\\"firstUIEventTimestamp\\\":15752.800000011921,\\\"blockingDuration\\\":937.7,\\\"scripts\\\":[{\\\"name\\\":\\\"script\\\",\\\"entryType\\\":\\\"script\\\",\\\"startTime\\\":15225.800000011921,\\\"duration\\\":571.8000000119209,\\\"navigationId\\\":3463,\\\"invoker\\\":\\\"Response.json.then\\\",\\\"invokerType\\\":\\\"resolve-promise\\\",\\\"windowAttribution\\\":\\\"self\\\",\\\"executionStart\\\":15225.800000011921,\\\"forcedStyleAndLayoutDuration\\\":0,\\\"pauseDuration\\\":0,\\\"sourceURL\\\":\\\"https://apps.bazaarvoice.com/vendorsChunk/swat_reviews_chunks/6.49.7/swat_reviews_app-d5ef20ee.0f1d12d41a0c2d6ec70b.js\\\",\\\"sourceFunctionName\\\":\\\"\\\",\\\"sourceCharPosition\\\":27127},{\\\"name\\\":\\\"script\\\",\\\"entryType\\\":\\\"script\\\",\\\"startTime\\\":15924.900000035763,\\\"duration\\\":284.80000001192093,\\\"navigationId\\\":3463,\\\"invoker\\\":\\\"DOMWindow.onkeydown\\\",\\\"invokerType\\\":\\\"event-listener\\\",\\\"windowAttribution\\\":\\\"self\\\",\\\"executionStart\\\":15924.900000035763,\\\"forcedStyleAndLayoutDuration\\\":0,\\\"pauseDuration\\\":0,\\\"sourceURL\\\":\\\"https://cdn.noibu.com/collect-core.js\\\",\\\"sourceFunctionName\\\":\\\"\\\",\\\"sourceCharPosition\\\":-1},{\\\"name\\\":\\\"script\\\",\\\"entryType\\\":\\\"script\\\",\\\"startTime\\\":16254.100000023842,\\\"duration\\\":9.399999976158142,\\\"navigationId\\\":3463,\\\"invoker\\\":\\\"FrameRequestCallback\\\",\\\"invokerType\\\":\\\"user-callback\\\",\\\"windowAttribution\\\":\\\"self\\\",\\\"executionStart\\\":16254.100000023842,\\\"forcedStyleAndLayoutDuration\\\":0,\\\"pauseDuration\\\":0,\\\"sourceURL\\\":\\\"https://cdn.userway.org/widgetapp/2026-11-04-11-38-25/widget_app_base_1793792305837.js\\\",\\\"sourceFunctionName\\\":\\\"\\\",\\\"sourceCharPosition\\\":70796}]}],\\\"inputDelay\\\":171.10000002384186,\\\"processingDuration\\\":285.80000001192093,\\\"presentationDelay\\\":87.09999996423721,\\\"loadState\\\":\\\"complete\\\",\\\"njsSessionStartTime\\\":3145.2000000476837,\\\"rrwebRecorder\\\":true}\"}}],\"pc\":52,\"end_at\":\"2026-11-08T23:47:41.807Z\",\"seq_num\":182},{\"events\":[{\"type\":\"wv\",\"occ_at\":\"2026-11-08T23:47:41.807Z\",\"wv\":{\"name\":\"CLS\",\"value\":\"0.11927162983093276\",\"rating\":\"needs-improvement\",\"attribution\":\"{\\\"largestShiftTarget\\\":\\\"#rebuy-cart>div.rebuy-cart__flyout\\\",\\\"largestShiftTime\\\":11314.100000023842,\\\"largestShiftValue\\\":0.05122307278413853,\\\"largestShiftSource\\\":{\\\"previousRect\\\":{\\\"x\\\":1003,\\\"y\\\":0,\\\"width\\\":363,\\\"height\\\":768,\\\"top\\\":0,\\\"right\\\":1366,\\\"bottom\\\":768,\\\"left\\\":1003},\\\"currentRect\\\":{\\\"x\\\":826,\\\"y\\\":0,\\\"width\\\":540,\\\"height\\\":768,\\\"top\\\":0,\\\"right\\\":1366,\\\"bottom\\\":768,\\\"left\\\":826}},\\\"largestShiftEntry\\\":{\\\"name\\\":\\\"\\\",\\\"entryType\\\":\\\"layout-shift\\\",\\\"startTime\\\":11314.100000023842,\\\"duration\\\":0,\\\"navigationId\\\":3463,\\\"value\\\":0.05122307278413853,\\\"hadRecentInput\\\":false,\\\"lastInputTime\\\":8459,\\\"sources\\\":[{\\\"previousRect\\\":{\\\"x\\\":1003,\\\"y\\\":0,\\\"width\\\":363,\\\"height\\\":768,\\\"top\\\":0,\\\"right\\\":1366,\\\"bottom\\\":768,\\\"left\\\":1003},\\\"currentRect\\\":{\\\"x\\\":826,\\\"y\\\":0,\\\"width\\\":540,\\\"height\\\":768,\\\"top\\\":0,\\\"right\\\":1366,\\\"bottom\\\":768,\\\"left\\\":826}}]},\\\"loadState\\\":\\\"complete\\\",\\\"njsSessionStartTime\\\":3145.2000000476837,\\\"rrwebRecorder\\\":true}\"}}],\"pc\":53,\"end_at\":\"2026-11-08T23:47:41.808Z\",\"seq_num\":183}],\"pageVisitInfo\":{\"br_id\":\"d542a72e-6804-4d35-8ac3-21660f6ee009\",\"pv_id\":\"d2c469b6-c1b6-4c29-8a1d-9d8706645128\",\"v\":5,\"seq\":1,\"on_url\":\"https://lovewellness.com/products/bye-bye-bloat\",\"page_title\":\"Shop Bye Bye Bloat\u00ae | Debloat Pills | Love Wellness\",\"page_groups\":[\"Product\"],\"ref_url\":\"https://lovewellness.com/\",\"ref_page_groups\":[],\"start_at\":\"2026-11-08T23:47:12.966Z\",\"conc\":1,\"cv\":2,\"last\":false,\"script_id\":\"1.214.0\",\"script_inst_id\":\"76b30d5d-239a-4322-bd3d-0c91ae5c6a45\",\"mp_sock_inst_id\":\"6707ffc4-4c15-4e98-942e-3d3d27b3f36d\",\"sock_inst_id\":\"8988d4ab-6d2c-46be-8760-527014cd19dd\",\"video_recorder\":\"RRWeb\",\"lang\":\"en-us\",\"session_token\":\"01a1bd8f-1d48-79a3-ab33-693f874e187a:1800:1794181635:67e2d2dbc2030477d2e5466d23d6eb5c62ee93caa9af8f8ae3098423ecd09d73\"},\"timestamp\":\"2026-11-08T23:47:41.807Z\"}"
+        },
+        {
+          "name": "_heatidL",
+          "value": "611081847173800067"
+        },
+        {
+          "name": "_heatHsr",
+          "value": "4927409"
+        },
+        {
+          "name": "heatmapDebugger",
+          "value": "{\"heatmapDCPageLoadTime\":0,\"heatmapDCVisit\":0,\"heatmapDCLogHSR\":0,\"preprocessorLT\":\"620.6999999880791ms\"}"
+        },
+        {
+          "name": "_li_duid",
+          "value": "1c3dae956f04--01m6yry1vym957r80qsczkyd6f"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIvZMKgPLxmaT9lx8Z4fbP\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIvZMKgPLxmaT9lx8Z4fbP\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "_renriched",
+          "value": "[{\"admin_graphql_api_id\":\"gid://shopify/Product/1301634908275\",\"body_html\":\"<p>\u00a0</p>\\n<div>\\n<p class=\\\"ghq-next-card-content__p\\\">\u00a0<span>A clinically studied blend of digestive enzymes and herbs that alleviates <a href=\\\"https://lovewellness.com/collections/bloating\\\">bloating</a> fast.*</span></p>\\n<p class=\\\"ghq-next-card-content__p\\\"><span>- Gluten-Free &amp; Dairy-Free</span></p>\\n<p class=\\\"ghq-next-card-content__p\\\"><span>- Take 1-2 capsules after a meal or before bed. Do not take more than 4 capsules in one day.</span></p>\\n</div>\\n<div class=\\\"lw-pdp-aside-box-content\\\">\\n<ul></ul>\\n<br>\\n</div>\\n<p>\u00a0</p>\\n<div style=\\\"display: none;\\\">ibs, byebye bloat, bye bye blot, byebyebloat, bye bye bloa, byebye, debloat, buy buy bloat, bye bye bl, bye bye blat, bye bye boat, bye bye lost, indigestion</div>\",\"category\":{\"admin_graphql_api_id\":\"gid://shopify/TaxonomyCategory/hb-1-9-6\",\"full_name\":\"Health & Beauty > Health Care > Fitness & Nutrition > Vitamins & Supplements\",\"name\":\"Vitamins & Supplements\"},\"created_at\":\"2018-07-23T13:19:52-04:00\",\"description\":\"\u00a0\\r\\n\\r\\n \u00a0A clinically studied blend of digestive enzymes and herbs that alleviates https://lovewellness.com/collections/bloating fast.*\\r\\n\\r\\n - Gluten-Free & Dairy-Free\\r\\n\\r\\n - Take 1-2 capsules after a meal or before bed. Do not take more than 4 capsules in one day.\\r\\n\\r\\n \\r\\n \\r\\n \u00a0\\r\\n\\r\\n ibs, byebye bloat, bye bye blot, byebyebloat, bye bye bloa, byebye, debloat, buy buy bloat, bye bye bl, bye bye blat, bye bye boat, bye bye lost, indigestion\",\"handle\":\"bye-bye-bloat\",\"has_variants_that_requires_components\":false,\"id\":1301634908275,\"image\":{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/52890643464307\",\"alt\":null,\"created_at\":\"2026-10-08T10:39:04-04:00\",\"height\":1968,\"id\":52890643464307,\"metafields\":[],\"position\":1,\"product_id\":1301634908275,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/Bye_Bye_Bloat_6d6e1fa7-5661-41b0-b480-a2876d8adf4b.png?v=1791470346\",\"updated_at\":\"2026-10-08T10:43:25-04:00\",\"variant_ids\":[42677789524083],\"width\":1968},\"images\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/52890643464307\",\"alt\":null,\"created_at\":\"2026-10-08T10:39:04-04:00\",\"height\":1968,\"id\":52890643464307,\"metafields\":[],\"position\":1,\"product_id\":1301634908275,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/Bye_Bye_Bloat_6d6e1fa7-5661-41b0-b480-a2876d8adf4b.png?v=1791470346\",\"updated_at\":\"2026-10-08T10:43:25-04:00\",\"variant_ids\":[42677789524083],\"width\":1968},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/39369043640435\",\"alt\":null,\"created_at\":\"2025-11-07T08:23:31-05:00\",\"height\":966,\"id\":39369043640435,\"metafields\":[],\"position\":2,\"product_id\":1301634908275,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/02_LW_PDP_BBB_Main_Benefits_updated.jpg?v=1781116381\",\"updated_at\":\"2026-10-08T10:39:18-04:00\",\"variant_ids\":[],\"width\":966},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/39369043673203\",\"alt\":null,\"created_at\":\"2025-11-07T08:23:32-05:00\",\"height\":966,\"id\":39369043673203,\"metafields\":[],\"position\":3,\"product_id\":1301634908275,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/03_LW_PDP_BBB_Superlatives_updated_2.jpg?v=1781116474\",\"updated_at\":\"2026-10-08T10:39:18-04:00\",\"variant_ids\":[],\"width\":966},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/39586486747251\",\"alt\":null,\"created_at\":\"2025-12-11T11:06:09-05:00\",\"height\":967,\"id\":39586486747251,\"metafields\":[],\"position\":4,\"product_id\":1301634908275,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/04_LW_PDP_BBB_Clinical-Studies_updated.jpg?v=1781116539\",\"updated_at\":\"2026-10-08T11:24:26-04:00\",\"variant_ids\":[],\"width\":966},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/39369043738739\",\"alt\":null,\"created_at\":\"2025-11-07T08:23:32-05:00\",\"height\":966,\"id\":39369043738739,\"metafields\":[],\"position\":5,\"product_id\":1301634908275,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/05_LW_PDP_BBB_Ingredients_updated.jpg?v=1781116655\",\"updated_at\":\"2026-10-08T10:39:18-04:00\",\"variant_ids\":[],\"width\":966},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/39369043607667\",\"alt\":null,\"created_at\":\"2025-11-07T08:23:31-05:00\",\"height\":966,\"id\":39369043607667,\"metafields\":[],\"position\":6,\"product_id\":1301634908275,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/06_LW_PDP_BBB_Label_24526ac0-a79f-4773-8fc1-bd2036db75e7.jpg?v=1765469181\",\"updated_at\":\"2026-10-08T10:39:18-04:00\",\"variant_ids\":[],\"width\":966},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/52891258028147\",\"alt\":null,\"created_at\":\"2026-10-08T12:01:34-04:00\",\"height\":1968,\"id\":52891258028147,\"metafields\":[],\"position\":7,\"product_id\":1301634908275,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/Jumbo_bf8aeebf-abca-4618-a010-70cd00744716.png?v=1791475296\",\"updated_at\":\"2026-10-08T12:01:45-04:00\",\"variant_ids\":[42677789556851],\"width\":1968}],\"media\":[{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/46325780480115\",\"alt\":null,\"created_at\":\"2026-10-08T10:39:04-04:00\",\"id\":46325780480115,\"media_content_type\":\"IMAGE\",\"position\":1,\"preview_image\":{\"height\":1968,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/Bye_Bye_Bloat_6d6e1fa7-5661-41b0-b480-a2876d8adf4b.png?v=1791470346\",\"status\":\"READY\",\"width\":1968},\"product_id\":1301634908275,\"status\":\"READY\",\"updated_at\":\"2026-10-08T10:43:25-04:00\",\"variant_ids\":[42677789524083]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/30425892094067\",\"alt\":null,\"created_at\":\"2025-11-07T08:23:31-05:00\",\"id\":30425892094067,\"media_content_type\":\"IMAGE\",\"position\":2,\"preview_image\":{\"height\":966,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/02_LW_PDP_BBB_Main_Benefits_updated.jpg?v=1781116381\",\"status\":\"READY\",\"width\":966},\"product_id\":1301634908275,\"status\":\"READY\",\"updated_at\":\"2026-10-08T10:39:18-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/30425892126835\",\"alt\":null,\"created_at\":\"2025-11-07T08:23:32-05:00\",\"id\":30425892126835,\"media_content_type\":\"IMAGE\",\"position\":3,\"preview_image\":{\"height\":966,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/03_LW_PDP_BBB_Superlatives_updated_2.jpg?v=1781116474\",\"status\":\"READY\",\"width\":966},\"product_id\":1301634908275,\"status\":\"READY\",\"updated_at\":\"2026-10-08T10:39:18-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/30604459016307\",\"alt\":null,\"created_at\":\"2025-12-11T11:06:09-05:00\",\"id\":30604459016307,\"media_content_type\":\"IMAGE\",\"position\":4,\"preview_image\":{\"height\":967,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/04_LW_PDP_BBB_Clinical-Studies_updated.jpg?v=1781116539\",\"status\":\"READY\",\"width\":966},\"product_id\":1301634908275,\"status\":\"READY\",\"updated_at\":\"2026-10-08T11:24:26-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/30425892192371\",\"alt\":null,\"created_at\":\"2025-11-07T08:23:32-05:00\",\"id\":30425892192371,\"media_content_type\":\"IMAGE\",\"position\":5,\"preview_image\":{\"height\":966,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/05_LW_PDP_BBB_Ingredients_updated.jpg?v=1781116655\",\"status\":\"READY\",\"width\":966},\"product_id\":1301634908275,\"status\":\"READY\",\"updated_at\":\"2026-10-08T10:39:18-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/30425891930227\",\"alt\":null,\"created_at\":\"2025-11-07T08:23:31-05:00\",\"id\":30425891930227,\"media_content_type\":\"IMAGE\",\"position\":6,\"preview_image\":{\"height\":966,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/06_LW_PDP_BBB_Label_24526ac0-a79f-4773-8fc1-bd2036db75e7.jpg?v=1765469181\",\"status\":\"READY\",\"width\":966},\"product_id\":1301634908275,\"status\":\"READY\",\"updated_at\":\"2026-10-08T10:39:18-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/46326335307891\",\"alt\":null,\"created_at\":\"2026-10-08T12:01:34-04:00\",\"id\":46326335307891,\"media_content_type\":\"IMAGE\",\"position\":7,\"preview_image\":{\"height\":1968,\"src\":\"https://cdn.shopify.com/s/files/1/1288/3849/files/Jumbo_bf8aeebf-abca-4618-a010-70cd00744716.png?v=1791475296\",\"status\":\"READY\",\"width\":1968},\"product_id\":1301634908275,\"status\":\"READY\",\"updated_at\":\"2026-10-08T12:01:45-04:00\",\"variant_ids\":[42677789556851]}],\"options\":[{\"id\":10004895432819,\"name\":\"Size\",\"position\":1,\"product_id\":1301634908275,\"values\":[\"Standard\",\"Jumbo\"]}],\"product_type\":\"Health Care > Fitness & Nutrition > Vitamins & Supplements\",\"published_at\":\"2023-04-03T13:41:50-04:00\",\"published_scope\":\"web\",\"status\":\"ready\",\"tags\":\"attentive ba - bbb, best seller, BGH, Bloating, By Concern_Bloating, By Concern_Metabolism, By Ingredients_Digestive Enzymes, By Ingredients_Organic Dandelion, By Ingredients_Organic Fennel, By Ingredients_Organic Fenugreek, Dairy Free, Dietary Concern_Dairy Free, Dietary Concern_Gluten Free, Digestion, Faire, Gluten Free, Has Subscription, hide_cart_S&S, Metabolism, OGFullStore, OGJumbo, Prop65, RCFullStore, RCJumbo, SME, Supplement\",\"template_suffix\":\"bye-bye-bloat\",\"title\":\"Bye Bye Bloat\u00ae\",\"updated_at\":\"2026-11-04T20:50:37-05:00\",\"variant_gids\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/42677789556851\",\"updated_at\":\"2026-11-05T01:50:37.000Z\"},{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/42677789524083\",\"updated_at\":\"2026-11-05T00:56:47.000Z\"}],\"vendor\":\"Love Wellness\",\"variants\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/42677789524083\",\"barcode\":\"850003843063\",\"barcodes\":[{\"type\":null,\"value\":\"850003843063\"}],\"compare_at_price\":null,\"created_at\":\"2024-12-20T11:00:34-05:00\",\"fulfillment_service\":\"\",\"grams\":0,\"id\":42677789524083,\"image_id\":52890643464307,\"inventory_item_id\":44702763876467,\"inventory_management\":\"shopify\",\"inventory_policy\":\"continue\",\"inventory_quantity\":84880,\"old_inventory_quantity\":84880,\"option1\":\"Standard\",\"option2\":null,\"option3\":null,\"position\":1,\"price\":\"24.99\",\"product_id\":1301634908275,\"requires_shipping\":true,\"sku\":\"BBB-60-3063-2024\",\"tax_code\":\"P0000000\",\"taxable\":true,\"title\":\"Standard\",\"updated_at\":\"2026-11-04T19:56:47-05:00\",\"weight\":0,\"selling_plan_allocations\":[{\"price_adjustments\":[{\"position\":1,\"price\":1623.9999999999998},{\"position\":2,\"price\":1998.9999999999998}],\"price\":1623.9999999999998,\"compare_at_price\":2499,\"per_delivery_price\":2499,\"selling_plan_id\":4192469107,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/3058958451\"},{\"price_adjustments\":[{\"position\":1,\"price\":1623.9999999999998},{\"position\":2,\"price\":1998.9999999999998}],\"price\":1623.9999999999998,\"compare_at_price\":2499,\"per_delivery_price\":2499,\"selling_plan_id\":4192501875,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/3058991219\"},{\"price_adjustments\":[{\"position\":1,\"price\":1623.9999999999998},{\"position\":2,\"price\":1998.9999999999998}],\"price\":1623.9999999999998,\"compare_at_price\":2499,\"per_delivery_price\":2499,\"selling_plan_id\":4192534643,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/3059023987\"},{\"price_adjustments\":[{\"position\":1,\"price\":1498.9999999999998},{\"position\":2,\"price\":2499}],\"price\":1498.9999999999998,\"compare_at_price\":2499,\"per_delivery_price\":2499,\"selling_plan_id\":6631456883,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/3202482291\"}],\"link\":\"https://lovewellness.com/products/bye-bye-bloat?variant=42677789524083\",\"selling_plans\":[{\"id\":4192469107,\"name\":\"1 month subscription\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"1 month subscription\",\"position\":1,\"value\":\"23363707\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"35.00\"},{\"order_count\":null,\"position\":1,\"value_type\":\"percentage\",\"value\":\"20.00\"}]},{\"id\":4192501875,\"name\":\"2 month subscription\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"2 month subscription\",\"position\":1,\"value\":\"23363709\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"35.00\"},{\"order_count\":null,\"position\":1,\"value_type\":\"percentage\",\"value\":\"20.00\"}]},{\"id\":4192534643,\"name\":\"3 month subscription\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"3 month subscription\",\"position\":1,\"value\":\"23363712\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"35.00\"},{\"order_count\":null,\"position\":1,\"value_type\":\"percentage\",\"value\":\"20.00\"}]},{\"id\":6631456883,\"name\":\"1 month - BFCM offer\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"1 month - BFCM offer\",\"position\":1,\"value\":\"23676952\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"40.00\"},{\"order_count\":null,\"position\":1,\"value_type\":\"percentage\",\"value\":\"0.00\"}]}],\"subscription_frequencies\":[\"1 month subscription\",\"2 month subscription\",\"3 month subscription\",\"1 month - BFCM offer\"]},{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/42677789556851\",\"barcode\":null,\"barcodes\":[],\"compare_at_price\":\"0.00\",\"created_at\":\"2024-12-20T11:00:34-05:00\",\"fulfillment_service\":\"\",\"grams\":0,\"id\":42677789556851,\"image_id\":52891258028147,\"inventory_item_id\":44702763909235,\"inventory_management\":\"shopify\",\"inventory_policy\":\"continue\",\"inventory_quantity\":4057,\"old_inventory_quantity\":4057,\"option1\":\"Jumbo\",\"option2\":null,\"option3\":null,\"position\":2,\"price\":\"59.99\",\"product_id\":1301634908275,\"requires_shipping\":true,\"sku\":\"BBBJ-180-3841-2024\",\"tax_code\":\"P0000000\",\"taxable\":true,\"title\":\"Jumbo\",\"updated_at\":\"2026-11-04T20:50:37-05:00\",\"weight\":0,\"selling_plan_allocations\":[{\"price_adjustments\":[{\"position\":1,\"price\":3899},{\"position\":2,\"price\":4799}],\"price\":3899,\"compare_at_price\":5999,\"per_delivery_price\":5999,\"selling_plan_id\":4192469107,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/3058958451\"},{\"price_adjustments\":[{\"position\":1,\"price\":3899},{\"position\":2,\"price\":4799}],\"price\":3899,\"compare_at_price\":5999,\"per_delivery_price\":5999,\"selling_plan_id\":4192501875,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/3058991219\"},{\"price_adjustments\":[{\"position\":1,\"price\":3899},{\"position\":2,\"price\":4799}],\"price\":3899,\"compare_at_price\":5999,\"per_delivery_price\":5999,\"selling_plan_id\":4192534643,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/3059023987\"},{\"price_adjustments\":[{\"position\":1,\"price\":3599},{\"position\":2,\"price\":5999}],\"price\":3599,\"compare_at_price\":5999,\"per_delivery_price\":5999,\"selling_plan_id\":6631456883,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/3202482291\"}],\"link\":\"https://lovewellness.com/products/bye-bye-bloat?variant=42677789556851\"}],\"collection_ids\":[156147908723,260492230771,262906544243,275308871795,278935142515,278935208051,288011780211,293516279923,296926478451,298853761139,303747498099,309962702963,310841704563,312345493619,312887345267,312893866099,312894292083,68966482035],\"cache_info\":{\"loaded_options\":{\"metafields\":false,\"variant_metafields\":false,\"selling_plans\":false,\"shopify_selling_plans_loaded\":true,\"country_code\":true,\"locale\":true},\"shopify_selling_plans_loaded_at\":1794176886,\"cached_at_time\":1793844759,\"cache_key\":\"pro_bt#a80070cb97f716b62e946b0f02c44401\",\"cache_key_readable\":\"pro_bt#user_id:15696#shopify_product_id:\\\"1301634908275\\\"#user_id:\\\"15696\\\"#country_code:\\\"US\\\"#locale:\\\"en\\\"#onsite:\\\"yes\\\"\"},\"selling_plan_groups\":[{\"id\":\"gid://shopify/SellingPlanGroup/3058958451\",\"description\":\"\",\"name\":\"1 month subscription\",\"appId\":\"294517\",\"variants\":[42677789524083,42677789556851],\"options\":[{\"name\":\"1 month subscription\",\"position\":5,\"values\":[\"23363707\"]}],\"selling_plans\":[{\"id\":4192469107,\"name\":\"1 month subscription\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"1 month subscription\",\"position\":1,\"value\":\"23363707\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"35.00\"},{\"order_count\":null,\"position\":1,\"value_type\":\"percentage\",\"value\":\"20.00\"}]}]},{\"id\":\"gid://shopify/SellingPlanGroup/3058991219\",\"description\":\"\",\"name\":\"2 month subscription\",\"appId\":\"294517\",\"variants\":[42677789524083,42677789556851],\"options\":[{\"name\":\"2 month subscription\",\"position\":6,\"values\":[\"23363709\"]}],\"selling_plans\":[{\"id\":4192501875,\"name\":\"2 month subscription\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"2 month subscription\",\"position\":1,\"value\":\"23363709\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"35.00\"},{\"order_count\":null,\"position\":1,\"value_type\":\"percentage\",\"value\":\"20.00\"}]}]},{\"id\":\"gid://shopify/SellingPlanGroup/3059023987\",\"description\":\"\",\"name\":\"3 month subscription\",\"appId\":\"294517\",\"variants\":[42677789524083,42677789556851],\"options\":[{\"name\":\"3 month subscription\",\"position\":7,\"values\":[\"23363712\"]}],\"selling_plans\":[{\"id\":4192534643,\"name\":\"3 month subscription\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"3 month subscription\",\"position\":1,\"value\":\"23363712\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"35.00\"},{\"order_count\":null,\"position\":1,\"value_type\":\"percentage\",\"value\":\"20.00\"}]}]},{\"id\":\"gid://shopify/SellingPlanGroup/3202482291\",\"description\":\"\",\"name\":\"1 month - BFCM offer\",\"appId\":\"294517\",\"variants\":[42677789524083,42677789556851],\"options\":[{\"name\":\"1 month - BFCM offer\",\"position\":8,\"values\":[\"23676952\"]}],\"selling_plans\":[{\"id\":6631456883,\"name\":\"1 month - BFCM offer\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"1 month - BFCM offer\",\"position\":1,\"value\":\"23676952\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"40.00\"},{\"order_count\":null,\"position\":1,\"value_type\":\"percentage\",\"value\":\"0.00\"}]}]}],\"translations\":[],\"link\":\"https://lovewellness.com/products/bye-bye-bloat\",\"owner\":15696,\"subscription\":false,\"selected_variant\":{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/42677789524083\",\"barcode\":\"850003843063\",\"barcodes\":[{\"type\":null,\"value\":\"850003843063\"}],\"compare_at_price\":null,\"created_at\":\"2024-12-20T11:00:34-05:00\",\"fulfillment_service\":\"\",\"grams\":0,\"id\":42677789524083,\"image_id\":52890643464307,\"inventory_item_id\":44702763876467,\"inventory_management\":\"shopify\",\"inventory_policy\":\"continue\",\"inventory_quantity\":84880,\"old_inventory_quantity\":84880,\"option1\":\"Standard\",\"option2\":null,\"option3\":null,\"position\":1,\"price\":\"24.99\",\"product_id\":1301634908275,\"requires_shipping\":true,\"sku\":\"BBB-60-3063-2024\",\"tax_code\":\"P0000000\",\"taxable\":true,\"title\":\"Standard\",\"updated_at\":\"2026-11-04T19:56:47-05:00\",\"weight\":0,\"selling_plan_allocations\":[{\"price_adjustments\":[{\"position\":1,\"price\":1623.9999999999998},{\"position\":2,\"price\":1998.9999999999998}],\"price\":1623.9999999999998,\"compare_at_price\":2499,\"per_delivery_price\":2499,\"selling_plan_id\":4192469107,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/3058958451\"},{\"price_adjustments\":[{\"position\":1,\"price\":1623.9999999999998},{\"position\":2,\"price\":1998.9999999999998}],\"price\":1623.9999999999998,\"compare_at_price\":2499,\"per_delivery_price\":2499,\"selling_plan_id\":4192501875,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/3058991219\"},{\"price_adjustments\":[{\"position\":1,\"price\":1623.9999999999998},{\"position\":2,\"price\":1998.9999999999998}],\"price\":1623.9999999999998,\"compare_at_price\":2499,\"per_delivery_price\":2499,\"selling_plan_id\":4192534643,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/3059023987\"},{\"price_adjustments\":[{\"position\":1,\"price\":1498.9999999999998},{\"position\":2,\"price\":2499}],\"price\":1498.9999999999998,\"compare_at_price\":2499,\"per_delivery_price\":2499,\"selling_plan_id\":6631456883,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/3202482291\"}],\"link\":\"https://lovewellness.com/products/bye-bye-bloat?variant=42677789524083\",\"selling_plans\":[{\"id\":4192469107,\"name\":\"1 month subscription\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"1 month subscription\",\"position\":1,\"value\":\"23363707\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"35.00\"},{\"order_count\":null,\"position\":1,\"value_type\":\"percentage\",\"value\":\"20.00\"}]},{\"id\":4192501875,\"name\":\"2 month subscription\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"2 month subscription\",\"position\":1,\"value\":\"23363709\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"35.00\"},{\"order_count\":null,\"position\":1,\"value_type\":\"percentage\",\"value\":\"20.00\"}]},{\"id\":4192534643,\"name\":\"3 month subscription\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"3 month subscription\",\"position\":1,\"value\":\"23363712\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"35.00\"},{\"order_count\":null,\"position\":1,\"value_type\":\"percentage\",\"value\":\"20.00\"}]},{\"id\":6631456883,\"name\":\"1 month - BFCM offer\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"1 month - BFCM offer\",\"position\":1,\"value\":\"23676952\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"40.00\"},{\"order_count\":null,\"position\":1,\"value_type\":\"percentage\",\"value\":\"0.00\"}]}],\"subscription_frequencies\":[\"1 month subscription\",\"2 month subscription\",\"3 month subscription\",\"1 month - BFCM offer\"]},\"selected_variant_id\":42677789524083,\"selected_product_id\":1301634908275,\"option1\":\"Standard\",\"option2\":null,\"option3\":null,\"quantity\":1,\"properties\":{},\"reviews\":{},\"has_subscription\":true,\"is_subscription_only\":false,\"subscription_discount_type\":\"percentage\",\"subscription_discount_amount\":\"35.00\",\"subscription_frequencies\":[\"1 month subscription\",\"2 month subscription\",\"3 month subscription\",\"1 month - BFCM offer\"],\"subscription_frequency\":\"onetime\",\"subscription_id\":4192469107,\"timestamp\":1794181637297,\"country_code\":\"US\",\"locale\":\"en\"}]"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--params",
+          "value": "{\"user_id\":\"e9673cc4-eb3a-4b8f-9615-3f427ccaac82\",\"session_id\":\"1794181659\",\"session_count\":\"1\",\"session_landing_page_url\":\"https://lovewellness.com/products/bye-bye-bloat\",\"session_landing_page_title\":\"Shop Bye Bye Bloat\u00ae | Debloat Pills | Love Wellness\",\"market_id\":\"1916108915\",\"locale_country_code\":\"US\"}"
+        },
+        {
+          "name": "_user_agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "snowplowOutQueue__nb_sp_nb_post2",
+          "value": "[]"
+        },
+        {
+          "name": "swell-test-item",
+          "value": "true"
+        },
+        {
+          "name": "heatmap_id_site",
+          "value": "2740"
+        },
+        {
+          "name": "uw-tunings-checksum",
+          "value": "cc9e90985ef36ca845362e5259025801d43fbdfb4dc4ab5ff60f8c69f7e6fa9f"
+        },
+        {
+          "name": "hCart",
+          "value": "true"
+        },
+        {
+          "name": "heatmap_page_count_611081847173870052",
+          "value": "1"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageTitle",
+          "value": "Shop Bye Bye Bloat\u00ae | Debloat Pills | Love Wellness"
+        },
+        {
+          "name": "_applovin_pixel_version",
+          "value": "s/3.6.57"
+        },
+        {
+          "name": "ig-vars",
+          "value": "{\"60698a1df265\":\"_UNASSIGNED\",\"b8ef9356ad88\":\"_UNASSIGNED\",\"e9d0955553bd\":\"_UNASSIGNED\",\"92ebdadf6cda\":\"_UNASSIGNED\",\"78ac002fe9a0\":\"148368e74923\",\"db490572aac8\":\"671e237ff4e7\",\"05f7ed430eaf\":\"c37fac5bb524\",\"redirectedFrom\":\"\"}"
+        },
+        {
+          "name": "_stoq_extension_details",
+          "value": "{\"last_cart_event\":\"product_added_to_cart\",\"updated_at\":\"2026-11-08T23:47:20.122Z\"}"
+        },
+        {
+          "name": "_heatVid",
+          "value": "611081847173870052"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,$.%ho%ZI&+d5jdw2;+[g}spD`HX:\u007f ,tNL8DbMQO~\"]03m s Dm L*\u007f!Q)<\"6;)V<\\6X*_WX;Swz45m9Kn"
+        },
+        {
+          "name": "enHsr",
+          "value": "4927409"
+        },
+        {
+          "name": "sa-user-id-v2",
+          "value": "s%3ATHlHAlhpUFhjX3Bfc-vJ0covK4k.XsCbKYCq%2BO7d5V8CMrxS%2BiTYjAEHB2YR7rltfMMcxx0"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,2H:zma4Dz=m\\&SHz@J)8VMY{8<.jQtq%!I2/A'T)ubU7+4ZTrk|/YXHFc/,sQ`:$8tkS\"?No;H{0}l#ptI"
+        },
+        {
+          "name": "n_session_id",
+          "value": "{\"value\":\"01a1bd8f-1d48-79a3-ab33-693f874e187a:1800:1794181635:67e2d2dbc2030477d2e5466d23d6eb5c62ee93caa9af8f8ae3098423ecd09d73\",\"expiry\":1794183433915}"
+        },
+        {
+          "name": "heatmap_recording_auth",
+          "value": "{\"shouldRecord\":false,\"groupRecordingId\":null,\"idVisit\":\"611081847173870052\",\"timestamp\":1794181639521,\"expiryHours\":24}"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "_7Cxh2RteSympfeQ4OZ2KvvEfRAuKtivlnmvZglHBOZESd6YrSbHjZWOa__DBGNp"
+        },
+        {
+          "name": "product_viewed",
+          "value": "true"
+        },
+        {
+          "name": "_heatmapKlaviyoBridge_611081847173870052_attentive_add_to_cart",
+          "value": "1"
+        },
+        {
+          "name": "_replo_sid",
+          "value": "{\"sessionId\":\"873b3ae3-cdeb-4098-99cf-bdaf7d7e58f3\",\"reploId\":\"9a8d5655-ef92-4d9c-a243-7d3b5a5d2c46\",\"createdAt\":1794181634393,\"expiresAt\":1794183444476,\"conversionsCounter\":0,\"isEntryPage\":false}"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,5}MsG\\NPB=IWaL,l,!>],D%pNJ\"\"C7iu}KlcM/B]/db hj! +ey}r)DW_b\\\"siFDVCi5yqbbav\"{:5f@7n6yJsw<89wu\\=Y?/0.XL$\"%ZCj\\($ZOw\u007f\u007f[.-wl?qM\u007fb3RhO660Icwh,=;p89z]qSkNw"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cookies",
+          "value": "{\"_axwrt\":\"e9673cc4-eb3a-4b8f-9615-3f427ccaac82\",\"_scid\":\"lnmvZglHBOZESd6YrSbHjZWOa__DBGNp\",\"_fbp\":\"fb.1.1794181659729.1893201599\"}"
+        },
+        {
+          "name": "route_user_id",
+          "value": "user_1794181634383_p23ylim88"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1794181644733"
+        },
+        {
+          "name": "_ruid",
+          "value": "tPLTEEYbCwF3QxTxGieDWMP3AEyfgsmV15696vdjpPDsC4QAVpRabA3VEaceDhMzmabwceyJ1dWlkIjoiY2Q3MTcxMTYtZTViMy00NWU3LWIzZDYtNzk5NzVhOTYxNWM2Iiwic2Vzc2lvbiI6eyJpZCI6ImQ5NmEwZGQ4Mjg1YTM4M2UiLCJmaXJzdF9hY3RpdmUiOjE3OTQxODE2MzM4NjgsImxhc3RfYWN0aXZlIjoxNzk0MTgxNjMzODY4fSwiZmlyc3RfYWN0aXZlIjp7InVybCI6Imh0dHBzOi8vbG92ZXdlbGxuZXNzLmNvbS9wcm9kdWN0cy9ieWUtYnllLWJsb2F0IiwidGltZXN0YW1wIjoxNzk0MTgxNjMzODkwLCJyZWZlcnJlciI6IiJ9LCJsYXN0X2FjdGl2ZSI6eyJ1cmwiOiJodHRwczovL2xvdmV3ZWxsbmVzcy5jb20vcHJvZHVjdHMvYnllLWJ5ZS1ibG9hdCIsInRpbWVzdGFtcCI6MTc5NDE4MTYzMzg5MCwicmVmZXJyZXIiOiIifX0="
+        }
+      ]
+    }
+  ]
+}

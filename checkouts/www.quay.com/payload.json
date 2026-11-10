@@ -1,0 +1,61 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBJrT71e9i--Oy97Q04mXbHNn6kpumpIMu4SX_o7kqf9R8aeYcmMeodjfTXI4-4fugovzL_R97nD3mYq5ozAYb14sgGcMpdpiqjs_cfxsO8ZF__XcSJZR31C0Bvc1SIT73pbvfiAyHWtwoL37VwW-jjB7b6sen3P1-K4U_lDJ4vXFevrlDl0Fy7hZy4tcRk4VcVdjmyqHc7pfukRJWSlve2uk2"
+    },
+    "queueToken": "A9_BsI5J4BSZSFrSvyhTnX2TS-kp7FGV7RaNQJX5Vdv2doyzEeh9xDZmelISBJhuihl04NXx5YO8pi_ZC8wJYnAeJiL9Kzc4n4rt-RsWx1wFGEOjruHO4VVAlQ_R",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "a150a5dd-f95d-4d87-b823-5aac7e43dbd5",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/45523618103382",
+              "variantId": "gid://shopify/ProductVariant/45523618103382",
+              "properties": [
+                {
+                  "name": "_finalSale",
+                  "value": {
+                    "string": "false"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_LPROP",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_GWPEligible",
+                  "value": {
+                    "string": "false"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "115.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

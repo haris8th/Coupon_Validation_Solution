@@ -1,0 +1,195 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBm3-wGMoVxBIeA5F43iImUaG-WlHouh06u14GHE4pkcO2z1qzGBqLNIEcgfkBEfKBMHQ4HZcu58jOXQciuwlBW09XQp4gbgJWdzcss8hn90rzR5Xc7Sil2HpKzY2WYn4e-mHVJODGGCQ8TeAP85r219kcU9yA79umqXvlBYehVl47OnRKmz0EnXhrs-nrBrdEXPh1bEUZ2BcyTFd4DrC97pCuaQ"
+    },
+    "queueToken": "A2ssuw2iAkvJtpXcrmHUnUmUAADD4mxfGpnFNKVm6GkEqE2G784I72P_fHlyxKpzaCdQHeoPUJL96gkcRgkbcYsaqfKj4muyBGoSNF2XTn9hqw4lL5_gxv443RAs2AXHDg==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "3b113871-8192-4898-9824-218618e8a0bd",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/54275085762828",
+              "variantId": "gid://shopify/ProductVariant/54275085762828",
+              "properties": [
+                {
+                  "name": "L\u00e4nge",
+                  "value": {
+                    "string": "10 cm"
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "H\u00f6he",
+                  "value": {
+                    "string": "10 cm"
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "Tiefe",
+                  "value": {
+                    "string": "10 cm"
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "Verschlussart",
+                  "value": {
+                    "string": "Spiralverschluss (+ 0,00\u20ac)"
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "_cpc_custom_cart_item",
+                  "value": {
+                    "string": "cpc_Fg====AbmBHb"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_cpc_properties",
+                  "value": {
+                    "string": "{\"L\u00e4nge\":\"10 cm\",\"H\u00f6he\":\"10 cm\",\"Tiefe\":\"10 cm\",\"Verschlussart\":\"Spiralverschluss (+ 0,00\u20ac)\"}"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "2.82",
+              "currencyCode": "EUR"
+            }
+          },
+          "lineComponentsSource": "BUNDLES_DYNAMIC_EXPAND",
+          "lineComponents": [
+            {
+              "stableId": "b53060da-e36a-48ad-73f6-60ac9a6a07c1",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/54275085762828",
+                "digest": "d1802b1ecd98062c731faad58279516f",
+                "variantId": "gid://shopify/ProductVariant/54275085762828",
+                "title": "Gabione auf Ma\u00df - Maschenweite 5x5cm",
+                "untranslatedTitle": "Gabione auf Ma\u00df - Maschenweite 5x5cm",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "0.0",
+                  "currencyCode": "EUR"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/8711028310284",
+                  "vendor": "Gabiona Deutschland",
+                  "productType": "Gabione auf Ma\u00df",
+                  "disclosures": []
+                },
+                "productUrl": "/products/gabione-auf-mass-maschenweite-5x5cm",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/0738/2646/8108/files/hf_20260807_073058_cc35ab02-4816-4f03-8b6e-8f87ad3c736b.png?v=1786097133",
+                  "one": "https://cdn.shopify.com/s/files/1/0738/2646/8108/files/hf_20260807_073058_cc35ab02-4816-4f03-8b6e-8f87ad3c736b_64x64.png?v=1786097133",
+                  "two": "https://cdn.shopify.com/s/files/1/0738/2646/8108/files/hf_20260807_073058_cc35ab02-4816-4f03-8b6e-8f87ad3c736b_128x128.png?v=1786097133",
+                  "four": "https://cdn.shopify.com/s/files/1/0738/2646/8108/files/hf_20260807_073058_cc35ab02-4816-4f03-8b6e-8f87ad3c736b_256x256.png?v=1786097133"
+                },
+                "properties": [
+                  {
+                    "name": "L\u00e4nge",
+                    "value": {
+                      "string": "10 cm"
+                    },
+                    "visible": true
+                  },
+                  {
+                    "name": "H\u00f6he",
+                    "value": {
+                      "string": "10 cm"
+                    },
+                    "visible": true
+                  },
+                  {
+                    "name": "Tiefe",
+                    "value": {
+                      "string": "10 cm"
+                    },
+                    "visible": true
+                  },
+                  {
+                    "name": "Verschlussart",
+                    "value": {
+                      "string": "Spiralverschluss (+ 0,00\u20ac)"
+                    },
+                    "visible": true
+                  },
+                  {
+                    "name": "_cpc_priced",
+                    "value": {
+                      "string": "1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "2.82",
+                  "currencyCode": "EUR"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "fcac4f03621407e8d4e255e4e625911f",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "2.82",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "2.82",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "2.82",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "2.82",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "2.82",
+                    "currencyCode": "EUR"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

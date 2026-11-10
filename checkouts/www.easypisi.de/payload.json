@@ -1,0 +1,241 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBbPL0kfVKSHVodTcZXYerc27NhQFrPo-rfkpMRqHPFFnN3Ht4uMGFwQFlhtJKFgRDobIMBlQ5TUYikXYA82VWFAupl_kZU5ncO1QEhzH3VAfSG-wcrOegkUjoszdxtJqfvxU4-OQqj2EqqR95wpF-kkcx_3jiCovzuW8Vq99MQVo0Mlfauhnpn9ghnL1cMtmfGLrOsueaBH0qFPYtS9XvY6LoFcvo99gR"
+    },
+    "queueToken": "A8HyrHkg6aVyf-EM4ypv4bSOtJDWnx3qMf7bZ1d3B6VD2Ek61NfGara0smX9drb__pyMdtBO4qFsENHaR2CC_CbdE-galkBL-GVp_KhTxULuaehe_Y6ttK7B39YZA9Lpng==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "4f503b1d-1d29-4e28-9113-c49fa55e2c3f",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/53341395058952",
+              "variantId": "gid://shopify/ProductVariant/53341395058952",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "42.38",
+              "currencyCode": "EUR"
+            }
+          },
+          "lineComponentsSource": "BUNDLES_DYNAMIC_EXPAND",
+          "lineComponents": [
+            {
+              "stableId": "36809d0c-e008-e4fb-c4a2-8ef447b6802c",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/52703132877064",
+                "digest": "1381a940cc70a638dced3b753eaedc88",
+                "variantId": "gid://shopify/ProductVariant/52703132877064",
+                "title": "Matratzenauflage 75x90 cm | Sensalou",
+                "untranslatedTitle": "Matratzenauflage 75x90 cm | Sensalou",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": {
+                  "amount": "12.9",
+                  "currencyCode": "EUR"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/10572239012104",
+                  "vendor": "Easypisi",
+                  "productType": "",
+                  "disclosures": []
+                },
+                "productUrl": "/products/matratzenauflage-75x90-cm-sensalou",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/0689/4203/7256/files/Sensalou_Matratzenschoner_75x90_1d.webp?v=1761742424",
+                  "one": "https://cdn.shopify.com/s/files/1/0689/4203/7256/files/Sensalou_Matratzenschoner_75x90_1d_64x64.webp?v=1761742424",
+                  "two": "https://cdn.shopify.com/s/files/1/0689/4203/7256/files/Sensalou_Matratzenschoner_75x90_1d_128x128.webp?v=1761742424",
+                  "four": "https://cdn.shopify.com/s/files/1/0689/4203/7256/files/Sensalou_Matratzenschoner_75x90_1d_256x256.webp?v=1761742424"
+                },
+                "properties": [
+                  {
+                    "name": "_sb_bundle_title",
+                    "value": {
+                      "string": "Easypisi Abhaltet\u00f6pfchen | F\u00fcr Babys ab 3 Monaten + Gratis Matratzenunterlage \u2013 T\u00fcrkis | SKU: EASY-SET-SEN-TUR"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_sb_bundle_group",
+                    "value": {
+                      "string": "b2f306da (1/2)"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_sb_bundle_variant_id_qty",
+                    "value": {
+                      "string": "53341395058952:1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "10.95",
+                  "currencyCode": "EUR"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "20a545a2408d90c6cf6fedb90992702d",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "10.95",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "10.95",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "10.95",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "10.95",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "10.95",
+                    "currencyCode": "EUR"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "1c1d3496-0dac-b347-009d-4b82e06cd5e1",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/44119232184584",
+                "digest": "a9e8017c17b5f87fe1d6736bdab92a87",
+                "variantId": "gid://shopify/ProductVariant/44119232184584",
+                "title": "Easypisi Abhaltet\u00f6pfchen | F\u00fcr Babys ab 3 Monaten",
+                "untranslatedTitle": "Easypisi Abhaltet\u00f6pfchen | F\u00fcr Babys ab 3 Monaten",
+                "subtitle": "T\u00fcrkis",
+                "untranslatedSubtitle": "T\u00fcrkis",
+                "compareAtPrice": {
+                  "amount": "32.95",
+                  "currencyCode": "EUR"
+                },
+                "product": {
+                  "id": "gid://shopify/Product/8146300698888",
+                  "vendor": "Easypisi",
+                  "productType": "T\u00f6pfchen",
+                  "disclosures": []
+                },
+                "productUrl": "/products/easypisi-windelfrei-toepfchen",
+                "image": {
+                  "altText": "T\u00fcrkis",
+                  "url": "https://cdn.shopify.com/s/files/1/0689/4203/7256/files/Easypisi_babypotty_turquoise_persp.webp?v=1771413274",
+                  "one": "https://cdn.shopify.com/s/files/1/0689/4203/7256/files/Easypisi_babypotty_turquoise_persp_64x64.webp?v=1771413274",
+                  "two": "https://cdn.shopify.com/s/files/1/0689/4203/7256/files/Easypisi_babypotty_turquoise_persp_128x128.webp?v=1771413274",
+                  "four": "https://cdn.shopify.com/s/files/1/0689/4203/7256/files/Easypisi_babypotty_turquoise_persp_256x256.webp?v=1771413274"
+                },
+                "properties": [
+                  {
+                    "name": "_sb_bundle_title",
+                    "value": {
+                      "string": "Easypisi Abhaltet\u00f6pfchen | F\u00fcr Babys ab 3 Monaten + Gratis Matratzenunterlage \u2013 T\u00fcrkis | SKU: EASY-SET-SEN-TUR"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_sb_bundle_group",
+                    "value": {
+                      "string": "b2f306da (2/2)"
+                    },
+                    "visible": false
+                  },
+                  {
+                    "name": "_sb_bundle_variant_id_qty",
+                    "value": {
+                      "string": "53341395058952:1"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [
+                  {
+                    "name": "Farbe",
+                    "value": "T\u00fcrkis"
+                  }
+                ],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "31.43",
+                  "currencyCode": "EUR"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "1d3ca06978061503bed91ffbc3e3e38c",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "31.43",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "31.43",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "31.43",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "31.43",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "31.43",
+                    "currencyCode": "EUR"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

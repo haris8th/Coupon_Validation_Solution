@@ -1,0 +1,68 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBlbof-Oh3HgKGkcWGu1wyztHZFW6nmiuva1ZDScjPQ8R1NCpHn4gKf8VsGMdla0OyP_3iHc0WFdl13Z1QlV1W5wYtl7P9sPnik2fIyqnC-qfFskqM8Gva2uVGxPJvIGYA5OkIHbjUEoI8sePA8CyTLVksEV6YI1RaMNaM7a5HSdF9YfZNqMd1FyhUciXhrKkGDcIDofL_7ag3NuMxCbeFdlBTOyA"
+    },
+    "queueToken": "A0AVJbGUw_iEh9cSoUU4wG_ZBShGCRYMgZ5S3NEHFqUqOl8ee59trlEQ9iW-NQWw3A7yp13XNRwkxWYGa8tCW4WAbGVd6v1l1-t9GNPuQpyHLDKWO0RcxX1OkZjCsltMiA==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "5e3556c6-cf03-4808-a3bf-fabf4eb562b9",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/54600359969112",
+              "variantId": "gid://shopify/ProductVariant/54600359969112",
+              "properties": [
+                {
+                  "name": "Recipient email",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "Recipient name",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "Message",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "Send on",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": true
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "25.00",
+              "currencyCode": "EUR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

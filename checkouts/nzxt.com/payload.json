@@ -1,0 +1,54 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBJ1V_fDinOQJvQqmfhsfmQ7eddhQQXooO454vdhNgkn3YJ6ZEidjyYAN6IYWQYq8qK1ouG9LYT6Tgq84hAoVTkSQ-CNJb_0jViY3O7l2WDplkYk6QtieQ4bKyaOPXMZyrGBTfKeiYhuLl48Sit6vC571aI-L7gcvwzoGCxO19GvlttoJqJDPalBzlCuaogqkchzggJhbAZpiUyxGeEUg"
+    },
+    "queueToken": "A3dMVXSIR4KsnNNDONPIrHcujueB5pklBJLVXByiIqY8i0_oxvDRDchb4pVcfs2p31Y7wrxYNFEpNtK7l7PRO6owF8P2-2052IOBn4BF1yprgxhv7eKGHfcCxC0T2g==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "50d9aac2-796b-44f1-8554-522e21069d88",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/41116316958792",
+              "variantId": "gid://shopify/ProductVariant/41116316958792",
+              "properties": [
+                {
+                  "name": "CPU",
+                  "value": {
+                    "string": "Intel Core i5-14400F"
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "GPU",
+                  "value": {
+                    "string": "GeForce RTX 5060 (8GB)"
+                  },
+                  "visible": true
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "1499.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

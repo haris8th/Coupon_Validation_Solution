@@ -1,0 +1,47 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBkH3RcQ082Erl-3K_5yKD9Ga_LoC0Wc8OF8KnDRc8FMP2KFZFfv9VXqX7BWavCkM2g95mGxUoSaZwVz3eTAb9Oc6VlxsUuPNhQRPyNa9rKiAq5Z9BPmnBqVVKcy--nrTVnF9k-54VB3SaiTW0EKJq6_13jqnLZs3Jy4gPMi0Xtned85n81BN31x-ptOEml0Pkn7bNtTtHF1mDm5PDoaCyuR0FMkl1DCA"
+    },
+    "queueToken": "AzEfX6yIoy5Y0BfAhAic1cPZ6Pr2XPLl1tGwYHHVUIHmJan9-CXDfUlzStC5yIdu7EHDKlYmGCH_fXW_JHnX-y6FGNHMnkDaZmIDHHfzt0G4ZH94vYU9Szk5G_qdNCgf0g==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "d252fee2-8be4-487f-a443-4228c91077a7",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/32467699957814",
+              "variantId": "gid://shopify/ProductVariant/32467699957814",
+              "properties": [
+                {
+                  "name": "_collections",
+                  "value": {
+                    "string": "all,all-jewellery,email-flow-offer-fp-over-10,lovisa-piercing,most-viewed,womens"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "12.50",
+              "currencyCode": "GBP"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

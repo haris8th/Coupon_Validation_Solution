@@ -1,0 +1,713 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1825789580.733442,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1795463192.408331,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHB2M4RAAEAcTj7U68shCHZweHKpeeLmtVEtkIRLAKyQ5AXg8SQVnwiUGHqYvq3ThhNCCHfqSx7ci9e6RN_HlWwGP0:",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1825789574.053313,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHB2M97AAEApKXxT-OLq5PyxXBN6oLXvSg3BnHJ8OZjAlrcemNGyjItSdm5CKpVd1iih_-qXWu2AJhVJ8QDYjLRzic:",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1825789574.053421,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHB2M98AAEAPHcDSW59LNXcugmPAEFMRMSL_94U--rDoejpQvoLHdh3B1t5WlTlD_R12dwij4tRHq8cMDlI6eMIXuM:",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1825789574.053516,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxWrcLcofpTkFNKOi72vb%3Fkey%3D3b6266741d01da79556bc2003c188d64",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1802115991.791409,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Shoplift_Session",
+      "value": "{\"isMerchant\":false,\"timestamp\":\"2026-11-09T19:46:17.070Z\",\"entryPage\":\"https://www.graceandstella.com/\",\"lastSeen\":1794253577070}",
+      "domain": ".www.graceandstella.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "shopify_recently_viewed",
+      "value": "lip-butter-vanilla-ice-cream",
+      "domain": ".www.graceandstella.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "3ebb0c46-9473-422c-86b1-2f33728d5ee8",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1825789581,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU16UTVZbUZpTTJJdE1tTTJPQzAwT0dFMExXRTNPVGd0TjJSbU5qSmtNRFk0TmpJeA",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1825789579,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%253A0-4c794702-5869-5058-635f-705f73ebc9d1.y5kfPKONWWReJO6PhWjxOZ%252FfF5FXVFgJA0Twxn8ybeY",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1825789583,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%253ATHlHAlhpUFhjX3Bfc-vJ0covK4k.XsCbKYCq%252BO7d5V8CMrxS%252BiTYjAEHB2YR7rltfMMcxx0",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1825789583,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id-v3",
+      "value": "s%253A.o6W7wkJsHSTU4%252BLlDruZ%252FwNjVcUZZMvakQpSatDoAgo",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1825789583,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id-v4",
+      "value": "s%253ACiQwMWExYzFkOC1mMTExLTc1MDMtOTQwYS0zN2UyM2I2MDZiZDkQAxoEQVBBQyAF.%252FjLmFXFV0k0jRxWizpL5B3LpIrhfjrFJ%252FuI9GCh4fwc",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1825789583,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_axwrt",
+      "value": "3ebb0c46-9473-422c-86b1-2f33728d5ee8",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1825789583,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Shoplift_Essential",
+      "value": "{\"timestamp\":\"2026-11-09T19:46:24.787Z\",\"consentApproved\":true,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T19:46:14.155Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}",
+      "domain": ".www.graceandstella.com",
+      "path": "/",
+      "expires": 1825789584,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "Shoplift_Analytics",
+      "value": "{\"timestamp\":\"2026-11-09T19:46:24.787Z\",\"visitor\":{\"id\":\"4d547498-86bc-55d3-a74c-42da6a425d13\",\"shop\":\"graceandstella.myshopify.com\",\"createdAt\":\"2026-11-09T19:46:14.155Z\",\"shopifyAnalyticsId\":\"3ebb0c46-9473-422c-86b1-2f33728d5ee8\",\"device\":\"desktop\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"country\":\"PK\",\"needsPersistence\":false,\"storedAt\":\"2026-11-09T19:46:24.787Z\"},\"queue\":[]}",
+      "domain": ".www.graceandstella.com",
+      "path": "/",
+      "expires": 1825789584,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_tguatd",
+      "value": "eyJzYyI6IihkaXJlY3QpIiwiZnRzIjoiKGRpcmVjdCkifQ==",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1794255385,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_tgpc",
+      "value": "39749df8-e101-45dc-b26a-eaacde361112",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1825789585,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_tgidts",
+      "value": "eyJzaCI6ImQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0MjdlIiwiY2kiOiI2MzM0NzlkNS05ZmVhLTRjODAtYjQ2Yi1lOWI1NTJjYzZhMDAiLCJzaSI6ImRjZTFmN2JhLTk1MWMtNGM1MS1iZDFmLWVmZDg1NzU5MDc1ZSJ9",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1794255385,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_tglksd",
+      "value": "eyJzIjoiZGNlMWY3YmEtOTUxYy00YzUxLWJkMWYtZWZkODU3NTkwNzVlIiwic3QiOjE3OTQyNTM1ODU0MzIsInNvZCI6IihkaXJlY3QpIiwic29kdCI6MTc5NDI1MzU4NTQzMiwic29kcyI6Im8iLCJzb2RzdCI6MTc5NDI1MzU4NTQzMn0=",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1825789585,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1535753468.1794253586",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1828813585.880665,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "data-timeout",
+      "value": "false||false",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1794858386,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_reidsn",
+      "value": "i_1.12",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1794339986.981725,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_CL6vuhhYSy6bGcZOZVNSOw%2367f78f77-60c1-4150-9dde-2d4d7698a68d-1794253576",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1825811191.791147,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_geppv",
+      "value": "1",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1794257187.861528,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gegeo",
+      "value": "JTdCJTIyc3RhdHVzJTIyJTNBJTIyc3VjY2VzcyUyMiUyQyUyMmNvdW50cnklMjIlM0ElMjJQYWtpc3RhbiUyMiUyQyUyMmNvdW50cnlDb2RlJTIyJTNBJTIyUEslMjIlMkMlMjJtb2JpbGUlMjIlM0FmYWxzZSUyQyUyMnByb3h5JTIyJTNBZmFsc2UlMkMlMjJob3N0aW5nJTIyJTNBZmFsc2UlN0Q=",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1794339987.934687,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geffran",
+      "value": "1",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1794339987.935935,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geuid",
+      "value": "877cccbd-aacd-49a4-86dd-ead370fd482f-1794253587942",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1825357588.02689,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geran",
+      "value": "1",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1794426388.10902,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1618229840.1794253584.-.-.1794253585.2083108890.1794253585.1794253588",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1802029584,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gecntaos",
+      "value": "1",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1825789588.415199,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gecpv",
+      "value": "1",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1794255028.420461,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "lantern",
+      "value": "057b29f6-f54e-40e9-9e6a-cb81bde2eae0",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1796845588,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_li_dcdm_c",
+      "value": ".graceandstella.com",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi",
+      "value": "21c7b8e4fc57--01m70xj28fccxzrw9wejk2b19f",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1828813588.752898,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi_js",
+      "value": "21c7b8e4fc57--01m70xj28fccxzrw9wejk2b19f",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "elite-session-id",
+      "value": "1aae6f0e-386e-421e-8898-0046dc8ba83a",
+      "domain": "www.graceandstella.com",
+      "path": "/",
+      "expires": 1794339988.978671,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_geffresponse",
+      "value": "2",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1794858389.640082,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_getdran",
+      "value": "1",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1794426389.643118,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gers",
+      "value": "1",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1794426390.997404,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ax_last_event",
+      "value": "1794253591666",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1825789591,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ax_visitor",
+      "value": "%7B%22firstVisitTs%22%3A1794253585970%2C%22lastVisitTs%22%3Anull%2C%22currentVisitStartTs%22%3A1794253585970%2C%22ts%22%3A1794253591727%2C%22visitCount%22%3A1%7D",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1825789591,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "xOkNuZtf.TSl46A.QbgASZK2WQWns3jFi1g0zRjLPAk-1794253591.1853774-1.0.1.1-HrR91.AYJDkWaerFwzTYcuhCjNFNygxNiEQozCD3H9RNXbBgY.hExuBToZDgwxQhMyj0Y2hLc2HFOJl_b_r9d2MJO1q6Awu5_gOXMbui_P.g122IDSMOU3wOwHH_obsg",
+      "domain": ".www.graceandstella.com",
+      "path": "/",
+      "expires": 1794255391.791712,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://graceandstella.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "_geklidran",
+      "value": "true",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1794253897.595973,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_tgsid",
+      "value": "eyJscGQiOiJ7XCJscHVcIjpcImh0dHBzOi8vd3d3LmdyYWNlYW5kc3RlbGxhLmNvbSUyRnByb2R1Y3RzJTJGbGlwLWJ1dHRlci12YW5pbGxhLWljZS1jcmVhbVwiLFwibHB0XCI6XCJWYW5pbGxhJTIwSWNlJTIwQ3JlYW0lMjBMaXAlMjBCdXR0ZXIlMjAlN0MlMjBHbG9zc3klMjBWZWdhbiUyMExpcCUyMEJhbG0lMjAlRTIlODAlOTMlMjBncmFjZSUyMCUyNiUyMHN0ZWxsYVwiLFwibHByXCI6XCJcIn0iLCJwcyI6IjA2N2FkZjhhLWUzZTctNDIwMy1iNGEwLWZkZGYzYzg5MjEwMCIsInB2YyI6IjEiLCJzYyI6ImRjZTFmN2JhLTk1MWMtNGM1MS1iZDFmLWVmZDg1NzU5MDc1ZTotMSIsImVjIjoiMiIsInB2IjoiMSIsInRpbSI6ImRjZTFmN2JhLTk1MWMtNGM1MS1iZDFmLWVmZDg1NzU5MDc1ZToxNzk0MjUzNTg5NTA2OjEwIn0=",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1794255399,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ax_session_data",
+      "value": "eyJpbnZpc2libGVUaW1lIjowLCJ0b3RhbFRpbWUiOjIyMDA0LCJsYXN0VXBkYXRlIjoxNzk0MjUzNjA2MTU1fQ==",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1825789606,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_0WE0MGF9XF",
+      "value": "GS2.1.s1794253585$o1$g1$t1794253609$j36$l0$h0",
+      "domain": ".graceandstella.com",
+      "path": "/",
+      "expires": 1828813609.333489,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.graceandstella.com",
+      "localStorage": [
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionCount",
+          "value": "1"
+        },
+        {
+          "name": "mida-session-recording-started-at",
+          "value": "1794253576709"
+        },
+        {
+          "name": "trackedCompleteOrderSourceId",
+          "value": "null"
+        },
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "34e7192e-358c-4c46-8979-95bb3967de84"
+        },
+        {
+          "name": "_geuid",
+          "value": "877cccbd-aacd-49a4-86dd-ead370fd482f-1794253587942"
+        },
+        {
+          "name": "mida-missing-session-block-ping",
+          "value": "true"
+        },
+        {
+          "name": "_axwrt_backup",
+          "value": "{\"value\":\"3ebb0c46-9473-422c-86b1-2f33728d5ee8\",\"setTs\":null,\"expiresAt\":1825789583297}"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,5`iKLcQ*bxFxPh|tas]XxAzx?Bw-;eLOG\u007fU{2I<MXSe'b-LwX{zt0[p,]7 ({yRR8V7br5#~8g^a\u007f|q&kTuTw=P#N57:88l"
+        },
+        {
+          "name": "zigpoll-session-storage",
+          "value": "{\"data\":{\"zigpoll-first-visit-timestamp\":\"2026-11-09T19:46:21.526Z\",\"zigpoll-has-initialized-session\":true,\"zigpoll-original-referrer\":\"\",\"zigpoll-landing-page\":\"https://www.graceandstella.com/products/lip-butter-vanilla-ice-cream\",\"zigpoll-page-views\":1},\"updatedAt\":\"2026-11-09T19:46:21.525Z\",\"sessionKey\":\"MPjspmi6dG\"}"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":3,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1794253609325},\"expires\":1802029609325},\"gsid_dc\":{\"value\":{\"joinId\":\"Tz4Z6KYHNiwL0GSGDiZ3QHcGupJXDDjmVQ\",\"lastJoinedTimeMs\":1794253584069},\"expires\":1794253884069}}"
+        },
+        {
+          "name": "Shoplift_ClientId",
+          "value": "3ebb0c46-9473-422c-86b1-2f33728d5ee8"
+        },
+        {
+          "name": "trackedSourceId",
+          "value": "\"hWNIxWrcLcofpTkFNKOi72vb\""
+        },
+        {
+          "name": "mida-session-recording-session-key",
+          "value": "a41f280d-8893-4987-a0d7-43dad6585cf7"
+        },
+        {
+          "name": "sa-user-id-v3",
+          "value": "s%3A.o6W7wkJsHSTU4%2BLlDruZ%2FwNjVcUZZMvakQpSatDoAgo"
+        },
+        {
+          "name": "lastSeenErrorReceiptId",
+          "value": "undefined"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU16UTVZbUZpTTJJdE1tTTJPQzAwT0dFMExXRTNPVGd0TjJSbU5qSmtNRFk0TmpJeA\",\"expires\":\"2027-11-09T19:46:19.222Z\"}"
+        },
+        {
+          "name": "vf_device_key",
+          "value": "b92a5e10-9c0c-4ffd-a7c8-db66afe1f420"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,VHI?R_\u007ffEftjDQjaO;(uWVk-^/l^I$BCPJ(PG_y\\h=ehjXtACdU+;cT'~xqde8wB~;s1fa$K-/_\u007fA~]JuW@m{50f)u]c,-"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cart",
+          "value": "[{\"id\":\"SPF-GS-LIP-BUTT-VNL-15ML\",\"name\":\"NEW Luscious Lip Butter - Vanilla Ice Cream\",\"brand\":\"grace & stella\",\"category\":\"Lip Mask\",\"variant\":null,\"position\":0,\"price\":\"9.950000000000001\",\"quantity\":\"1\",\"productId\":\"9369992364258\",\"variantId\":\"48434800558306\",\"list\":\"\",\"image\":\"https://cdn.shopify.com/s/files/1/0961/2772/files/luscious-lip-butter-vanilla-ice-cream-3376348.png?v=1789673909\"}]"
+        },
+        {
+          "name": "referrer",
+          "value": "{\"isPaidSource\":false,\"url\":\"\"}"
+        },
+        {
+          "name": "_li_duid",
+          "value": "21c7b8e4fc57--01m70xj28fccxzrw9wejk2b19f"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxWrcLcofpTkFNKOi72vb\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxWrcLcofpTkFNKOi72vb\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "mida-session-recording-duration-limit",
+          "value": "14400000"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--params",
+          "value": "{\"user_id\":\"34e7192e-358c-4c46-8979-95bb3967de84\",\"session_id\":\"1794253584\",\"session_count\":\"1\",\"consent\":{\"ad_storage\":true,\"analytics_storage\":true,\"ad_user_data\":true,\"ad_personalization\":true}}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionId",
+          "value": "1794253584"
+        },
+        {
+          "name": "zellor_assistant_last_seen",
+          "value": "1794253579764"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-09T19:46:28.179Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-c1d9360b-3777-4C34-6254-7A505890A4B4\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"graceandstella.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-c1d9360b-3777-4C34-6254-7A505890A4B4\",\"event_date_time\":\"2026-11-09T19:46:28.179Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"3ebb0c46-9473-422c-86b1-2f33728d5ee8\",\"page_url\":\"https://www.graceandstella.com/products/lip-butter-vanilla-ice-cream\",\"currency\":\"USD\",\"product\":{\"product_id\":\"9369992364258\",\"product_title\":\"NEW Luscious Lip Butter - Vanilla Ice Cream\",\"variant_id\":\"48434800558306\",\"variant_title\":\"NEW Luscious Lip Butter - Vanilla Ice Cream\",\"quantity\":1,\"variant_price\":9.95,\"product_vendor\":\"grace & stella\"}}}}}]"
+        },
+        {
+          "name": "bb_session_id",
+          "value": "3cd2bf1b-0f71-4fa8-99b2-1a8a1de4d854"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--lastDlPushTimestamp",
+          "value": "1794253588"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxWrcLcofpTkFNKOi72vb\""
+        },
+        {
+          "name": "sa-user-id",
+          "value": "s%3A0-4c794702-5869-5058-635f-705f73ebc9d1.y5kfPKONWWReJO6PhWjxOZ%2FfF5FXVFgJA0Twxn8ybeY"
+        },
+        {
+          "name": "PF_SHOP_DOMAIN",
+          "value": "graceandstella.myshopify.com"
+        },
+        {
+          "name": "mida-session-recording-last-active",
+          "value": "1794253609338"
+        },
+        {
+          "name": "shoplift_last_pageview",
+          "value": "{\"at\":1794253578486,\"loc\":\"/products/lip-butter-vanilla-ice-cream\"}"
+        },
+        {
+          "name": "_applovin_pixel_version",
+          "value": "s/a/3.6.68"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,jhkeY<@-Llq@CA%0}tKvnN:]ECG13tmSiC&)*xPuPU\"Gf#VwJ1b~c-xx6P5d#WX4a`!o7IBW!0-V&89*vu"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_",
+          "value": "data:application/zip;base92,ey%;Z3$_(N\\:[;E~~)Gb`-z1Z{KZ\u007fq1]rVH.L\\/$Zs- \"s`F[wGdvZP*#2cs&/*}r|c0+tZ\\8[*m-sPma!"
+        },
+        {
+          "name": "sa-user-id-v2",
+          "value": "s%3ATHlHAlhpUFhjX3Bfc-vJ0covK4k.XsCbKYCq%2BO7d5V8CMrxS%2BiTYjAEHB2YR7rltfMMcxx0"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,Du1w'z6]o{^9\\+S5.[1x&ccXa\u007f#Uf*]X9^y}H=vYIdc7h~@B)Uy9~C&?PA_!?(f,doqmJFQ^z--g%|VsXm"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794512783743"
+        },
+        {
+          "name": "shoplift_last_pageview_at",
+          "value": "1794253578486"
+        },
+        {
+          "name": "refId",
+          "value": "data:application/zip;base92,9L_HJ6ys-nn{UEFbpU0S$mkAjNekw\u007f/Z FF{n)_J5A^an3~<V&&7^s3|CZ+R{to?w<6V*=2y8uVr8#u2FHtsB \u007fRZqzFpS44r.c6[fGb7\\J/31coN^h8^VA*#U)X%"
+        },
+        {
+          "name": "ELITE_LAST_PAGE",
+          "value": "https://www.graceandstella.com/products/lip-butter-vanilla-ice-cream"
+        },
+        {
+          "name": "mida-session-recording-session-counter",
+          "value": "1"
+        },
+        {
+          "name": "mida-session-recording-visitor-key",
+          "value": "391bbe1d-3629-4444-b5ed-591cd911d3ee"
+        },
+        {
+          "name": "Shoplift_Analytics",
+          "value": "{\"timestamp\":\"2026-11-09T19:46:24.787Z\",\"visitor\":{\"id\":\"4d547498-86bc-55d3-a74c-42da6a425d13\",\"shop\":\"graceandstella.myshopify.com\",\"createdAt\":\"2026-11-09T19:46:14.155Z\",\"shopifyAnalyticsId\":\"3ebb0c46-9473-422c-86b1-2f33728d5ee8\",\"device\":\"desktop\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"country\":\"PK\",\"needsPersistence\":false,\"storedAt\":\"2026-11-09T19:46:24.787Z\"},\"queue\":[]}"
+        },
+        {
+          "name": "mida-session-recording-page-key",
+          "value": "256fbb98-e9e6-4d95-b59b-682c9daa308f"
+        },
+        {
+          "name": "Shoplift_Essential",
+          "value": "{\"timestamp\":\"2026-11-09T19:46:24.787Z\",\"consentApproved\":true,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T19:46:14.155Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}"
+        },
+        {
+          "name": "zigpoll-sessions",
+          "value": "1"
+        },
+        {
+          "name": "sa-user-id-v4",
+          "value": "s%3ACiQwMWExYzFkOC1mMTExLTc1MDMtOTQwYS0zN2UyM2I2MDZiZDkQAxoEQVBBQyAF.%2FjLmFXFV0k0jRxWizpL5B3LpIrhfjrFJ%2FuI9GCh4fwc"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cookies",
+          "value": "{\"_ga\":\"GA1.1.1535753468.1794253586\",\"_ga_0WE0MGF9XF\":\"GS2.1.s1794253585$o1$g0$t1794253585$j60$l0$h0\"}"
+        },
+        {
+          "name": "jdgm_widget_interactions",
+          "value": "{\"3919808900\":{\"preview_badge--viewed\":1},\"15452155248866\":{\"preview_badge--viewed\":1},\"8926644797666\":{\"preview_badge--viewed\":1},\"9178270630114\":{\"preview_badge--viewed\":1},\"6590691901605\":{\"preview_badge--viewed\":1},\"8884181893346\":{\"preview_badge--viewed\":1},\"8884176978146\":{\"preview_badge--viewed\":1},\"9369992364258\":{\"preview_badge--viewed\":1}}"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,/bnn<]#b\u007f/tIQ4M @.{{qvU(*^y7]H5;B($%AXJ=BJcSK3jZr9.dSCO#6\"nF'`SU#ktdkDn0p#]#n:U>oAq#a$&9j@h43r8zXlSH\\F05sct="
+        }
+      ]
+    }
+  ]
+}

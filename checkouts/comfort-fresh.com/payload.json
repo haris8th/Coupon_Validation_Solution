@@ -1,0 +1,145 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEB4dL-7bmevxKguNq2RrJOQ4ZHqALhmDb6HCfaP9xsmMse3R-tbo0Cgb3KW-C-WsY0ZfDVw9hvfkl91WZQ-fXPqjYoI668kxnIUJssR_YQ0xUhfU6nO_q-A5QsiTIENWPt6ajrCoEs4-wv8GqwfLqaod82yIrBGWYeoek9WTNm1pp6ITyQ6aUjkGx81snPQGOhXrGxUSbbubQlODYZWjHSEw_SUPSkNFvVn8o"
+    },
+    "queueToken": "A3p7nNp42Y85j5Z-JvHbbmuzIuKeKBOaBcIc9naP7VXwSzvZoEPh8luWOUFkF8vJdZwi5k1iUO3mDyPjvo7foL8XwjzOX8jipSnhc3y_SHhYthqGHjiGiSp0Bmf6gEXNCbcJzrTOU2k_D_cr1uRaC6DvTGbEkQ==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "f5810024-4fe4-4ee9-b656-6f46a4a05655",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/44122055180375",
+              "variantId": "gid://shopify/ProductVariant/44122055180375",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "120.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "f53e6d88-8dd5-4858-91f6-57adeb21b3e4",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/44474881015895",
+              "variantId": "gid://shopify/ProductVariant/44474881015895",
+              "properties": [
+                {
+                  "name": "_cf_gift",
+                  "value": {
+                    "string": "Included with pack"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "24.99",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "3eac249d-3689-426e-9c3d-ff6e87984123",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/44256370327639",
+              "variantId": "gid://shopify/ProductVariant/44256370327639",
+              "properties": [
+                {
+                  "name": "_cf_gift",
+                  "value": {
+                    "string": "Holiday gift with 24 pairs"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "19.99",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "c3562a7e-9099-4cb6-a133-001711aaac3f",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/44605869949015",
+              "variantId": "gid://shopify/ProductVariant/44605869949015",
+              "properties": [
+                {
+                  "name": "_cf_gift",
+                  "value": {
+                    "string": "Free wash bag with your pack"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "Style",
+                  "value": {
+                    "string": "CF-XYD-01"
+                  },
+                  "visible": true
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "7.50",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

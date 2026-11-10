@@ -1,0 +1,61 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBaeAIXVH3uHFHiSh_M9v53daYOT88Qx8oKh6oxm9VTlSJhMy4MQWpKtYsFN7-r-tE8NgqKylktyKhoRiKdRzCqcrfWga7v0Cn9E2ipRT8O01WqCSx4b_RVhwC93Jy3AOtmYISAgikaztXLH8N7J-V-zLtHFY0rbG8aRBdHjOy2v9ErcIxgzhhyEPtlg0dRI3cL2MwUv2Mk0ycYmwTMK_cUemfvQzcgH2w"
+    },
+    "queueToken": "A5mJjvUtCCOhrJO6voxRM-QUJ_D9jIzT5UYg5Qjo-HKV0eGHEkPMBHPFtL6ksPRSmgUV7_WdjUbfSCEJ6GB6lYKAL22GfM6iHV0nl2CHzKR9rQSEKu0sVRrAIIwyCd39cg==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "332e8fca-1bab-46a6-bdaf-1ee54b273292",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/42820397334608",
+              "variantId": "gid://shopify/ProductVariant/42820397334608",
+              "properties": [
+                {
+                  "name": "Author",
+                  "value": {
+                    "string": "Pham, Cindy"
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "Format",
+                  "value": {
+                    "string": "Hardcover"
+                  },
+                  "visible": true
+                },
+                {
+                  "name": "Age",
+                  "value": {
+                    "string": "12+"
+                  },
+                  "visible": true
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "5.99",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

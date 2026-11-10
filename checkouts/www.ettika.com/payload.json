@@ -1,0 +1,68 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBw8yq24lqD3ecYJlhtbhbSQ3iWRxeSUh6zkIFM1IvxYSdtPVO8LBYvU4yeg40BoZ9vlSRGf0dZeNJYth0svaiuBMGwIXYmvijoz3O7VhS0GO7w9YeAzk2unE_c78fQKAfYC_guE-IM7i91kQLeEqwp_bfWA4acrrjCBlPGLQXKCg9AU9YdnZU1ewRezo9MaNnN-86-8Ac61d02eNJv6A3CveYvw"
+    },
+    "queueToken": "A94ou_TF_sTXw1vyZACZ64xCQHRNOwSGanbxQn-PFd6y0L8oIZENAZ8IgrGjkW3jCb5N4gBUViBtRkYr07iZND1dA81OaE6ryCwPqKh0xn6-Kuvll6wISYK2RA2l",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "a2b06379-4f4d-4dba-b3a5-af2090e828ec",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/46609411670191",
+              "variantId": "gid://shopify/ProductVariant/46609411670191",
+              "properties": [
+                {
+                  "name": "_section",
+                  "value": {
+                    "string": "main-product-section"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_widget",
+                  "value": {
+                    "string": "product-section"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_experience",
+                  "value": {
+                    "string": "ettika"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_template",
+                  "value": {
+                    "string": "product"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "34200.00",
+              "currencyCode": "PKR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

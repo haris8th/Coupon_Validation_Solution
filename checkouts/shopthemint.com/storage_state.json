@@ -1,0 +1,639 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".shopthemint.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": 1825797025.567978,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": 1795470628.026779,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHCSeoQAAEAB8Qwuy1kslNvZ7T49vxaS427KoEYZpXo37JYokZ_qRQ-Sk04R9427qGVLHG5j23HuC41sqgZWsWIIKE:",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": 1825796986.632324,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHCSer7AAEA2bYDuYf9JuhpQXAuJ6MKX83l-Bd0mqWJX_YnL1oFgwAifasHRF9ADpagZnem4baRVK9ECSYNk8W2nvk:",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": 1825796986.632428,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHCSer8AAEAhKIXNBoVqL24mQkGpcELcSPgMKr62eJXs4_e5_93Jfy6jf1qnuaE_VgN7U0Z3pT9t85y0ruLvccc-4E:",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": 1825796986.632527,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__blockify::first-access-url",
+      "value": "%7B%22url%22%3A%22https%3A%2F%2Fshopthemint.com%2F%22%7D",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssSessionIdNamespace",
+      "value": "9e57707b-6aa6-43f2-8ab0-a847c7041aa9",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_isuid",
+      "value": "ff2b1463-238b-4011-a21a-33e589f417ea",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__blockify::analyzer",
+      "value": "%7B%22startTime%22%3A1794260990206%2C%22sessionId%22%3A%225b0ae847-753d-4fd0-a326-f09fc0b82e47%22%7D",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attn_eat_id",
+      "value": "ab8ae31d03b94a728ec6632b32b93f70",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1827957019.471192,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://shopthemint.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "1f764e23-5a8a-4a55-9044-78a35fe6e659",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1794350997,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_id",
+      "value": "68578c04926a43a692a0dd9b616ad89c",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1827957022,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_session_id",
+      "value": "be01633635444e1cb8f861048a21fdd3",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1794262823,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1794260997928",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1827956997,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_bopd_",
+      "value": "browser",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1827956998,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1794268198,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "ORGANIC",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1794262798,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__obref",
+      "value": "c2fc84cf-cd3b-49c2-a2e8-caaf8d8f743f",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": 1825796998.382339,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "b25e609c-aade-4769-900a-389b6fa5146c",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": 1825796998,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxjP3Uy23Qid7x2zzZ6Bf%3Fkey%3D9fb704465d4b0d289d96089d18e6d189",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": 1802123426.011822,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssCartProducts",
+      "value": "70246-MNT-OS",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "swym-session-id",
+      "value": "\"8auso9171ymt75dsmx9n2ottw3bjltzdrcyhyez9ydwlmss7mvpbo4i18z7q0cyy\"",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1794262828,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-pid",
+      "value": "\"/oh4xmmGuOcpMmcNIOmGkUmqlW9UMXfLIgz41d7Jqnk=\"",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1825797027,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_ses.271a",
+      "value": "*",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1794262829,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.569110910.1794261019",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1802037019,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssPageloadId",
+      "value": "9fde1f6a-d4f6-43ff-8eab-358c98032137",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ss-viewed-products",
+      "value": "110092-GRN-XS%2C70246-MNT-OS",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzk0MjYwOTk3OTIyLFwidW9cIjoxNzk0MjYwOTk3OTIyLFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjY4NTc4YzA0OTI2YTQzYTY5MmEwZGQ5YjYxNmFkODljXCJ9IiwiZWF0Ijoie1wiY29cIjoxNzk0MjYxMDIxNDMwLFwidW9cIjoxNzk0MjYxMDIxNDMwLFwibWFcIjozNjUwLFwiaW5cIjp0cnVlLFwidmFsXCI6XCJodHRwczovL2JzcHR6LnNob3B0aGVtaW50LmNvbVwifSJ9",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1827957021,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "2",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1794262822,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPVlXWXlNV00zTVRZdFpUTmpOeTAwWlRjeUxXRTVNVEF0WkRBME1EVXdZV05oWW1Jeg",
+      "domain": "shopthemint.com",
+      "path": "/",
+      "expires": 1825797024,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssViewedProducts",
+      "value": "110092-GRN-SM%2C70246-MNT-OS",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1828821025.333742,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_EK3NcOHQSQ6C0H4*dI6yGQ%23ec95c86f-f0cd-4ea9-a97b-bfc25faecdfb-1794261016",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1825818626.01161,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssUserId",
+      "value": "ff2b1463-238b-4011-a21a-33e589f417ea",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1828821025.650318,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssSessionId",
+      "value": "c861dc70-6aea-4c85-b286-cb03bc36d5a2",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1794262825,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "swym-v-ckd",
+      "value": "1",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1794262828,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-swymRegid",
+      "value": "\"HbLl8cIgePlWbYTeDa5ntZY8BBE3eLUTbtdXJkffrHCXBHOKnuNffiGxq9VoOyqZkhr26fCZYCITWD9V8gSqURyNQdovo5DFK8gF9mTgJkMlSqJiLaIcdXXim95vK8gQwBTaQD3rA8UUF8Qm6Wh_PP69X0afGp9riZGCO3cb3Rs\"",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1825797028,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-email",
+      "value": "null",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1825797028,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_id.271a",
+      "value": "a5567208e5546e3e.1794261012.1.1794261029.1794261012",
+      "domain": ".shopthemint.com",
+      "path": "/",
+      "expires": 1828821029.148766,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://shopthemint.com",
+      "localStorage": [
+        {
+          "name": "TriplePixel",
+          "value": "3"
+        },
+        {
+          "name": "ssViewedProducts",
+          "value": "{\"value\":[{\"sku\":\"110092-GRN-SM\",\"parentId\":\"7112637579322\",\"uid\":\"40067036938298\"},{\"sku\":\"70246-MNT-OS\",\"parentId\":\"1519910780986\",\"uid\":\"13993312616506\"}]}"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gtg_load_status\":{\"status\":3,\"expires\":1794347394355},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1794261019069},\"expires\":1802037019069}}"
+        },
+        {
+          "name": "gdprCache",
+          "value": "{\"countryDetection\":\"{\\\"country\\\":\\\"PK\\\",\\\"state\\\":\\\"SD\\\",\\\"city\\\":\\\"Karachi\\\",\\\"region\\\":\\\"Sindh\\\",\\\"regionCode\\\":\\\"SD\\\",\\\"add_info\\\":3392088969}\",\"version\":\"701\",\"lqch\":\"1794251129\",\"lqcl\":\"1792087227\",\"cbvIncr\":false,\"prc\":\"\",\"isEnabledAll\":\"{\\\"disable\\\":\\\"0\\\",\\\"enable_all_countries\\\":\\\"0\\\",\\\"status\\\":\\\"enabled\\\"}\",\"footer\":\"0\",\"userIsInSaleOfDataRegion\":false,\"getCookieConsentSettings\":\"{\\\"status\\\":\\\"disabled\\\",\\\"cbvIncr\\\":false,\\\"ttp_id\\\":\\\"\\\",\\\"meta_pixel_options\\\":{\\\"enabled\\\":false,\\\"pixel_ids\\\":\\\"\\\"},\\\"gcm_options\\\":{\\\"state\\\":\\\"0\\\"},\\\"hydrogen_options\\\":{\\\"root_domain\\\":\\\"\\\",\\\"checkout_domain\\\":\\\"\\\",\\\"storefont_access_token\\\":\\\"\\\"},\\\"preferences_colors\\\":{\\\"background\\\":\\\"#00000000\\\",\\\"text\\\":\\\"#222222\\\",\\\"outline\\\":\\\"#222222\\\"},\\\"accept_colors\\\":{\\\"background\\\":\\\"#222222\\\",\\\"text\\\":\\\"#ffffff\\\",\\\"outline\\\":\\\"#222222\\\"},\\\"reject_colors\\\":{\\\"background\\\":\\\"#222222\\\",\\\"text\\\":\\\"#ffffff\\\",\\\"outline\\\":\\\"#222222\\\"},\\\"do_not_sell_colors\\\":{\\\"background\\\":\\\"#222222\\\",\\\"text\\\":\\\"#ffffff\\\",\\\"outline\\\":\\\"#222222\\\"}}\"}"
+        },
+        {
+          "name": "freeGiftCycle:girls:added",
+          "value": "false"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-09T21:50:00.680Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-c24a4ad1-F88A-4E8C-FEC1-0D787842E21B\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"shopthemint.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-c24a4ad1-F88A-4E8C-FEC1-0D787842E21B\",\"event_date_time\":\"2026-11-09T21:50:00.680Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"b25e609c-aade-4769-900a-389b6fa5146c\",\"page_url\":\"https://shopthemint.com/products/mint-express-free-shipping-for-1-year\",\"currency\":\"USD\",\"product\":{\"product_id\":\"1519910780986\",\"product_title\":\"Mint Express Subscription - Free Shipping for 1 Year\",\"variant_id\":\"13993312616506\",\"variant_title\":\"One Size / Mint\",\"quantity\":1,\"variant_price\":32,\"product_vendor\":\"The Mint Julep Boutique\"}}}}}]"
+        },
+        {
+          "name": "redo-selling-plans",
+          "value": "{\"expiry\":1794264627488,\"value\":{}}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxjP3Uy23Qid7x2zzZ6Bf\""
+        },
+        {
+          "name": "redo-product-info-1519910780986",
+          "value": "{\"expiry\":1794264624521,\"value\":{\"tags\":[\"all size available\",\"bis-hidden\",\"color_green\",\"fakesalebf2018\",\"halloweensale2018\",\"hq\",\"in stock\",\"klaviyo\",\"mint-express\",\"na date_3/31/18\",\"non_new_arrival\",\"one variant\",\"price_$25.00 to $49.99\",\"primary_mint\",\"product photos\",\"regular price\",\"salefake10.30.18\",\"site visible\",\"size_one size\",\"womens\"],\"collections\":[],\"product\":{\"id\":1519910780986,\"title\":\"Mint Express Subscription - Free Shipping for 1 Year\",\"body_html\":\"The ulti-MINT membership service is FINALLY here! \\\"Mint Express\\\" is a membership service to The Mint Julep Boutique that, for a one-time fee of just $32, provides you FREE SHIPPING for a full year! In addition, Mint Express members will also receive <i><u>priority processing of all of their orders</u></i>. This means your order will be pulled and packed ahead of all other standard shipping orders! For more information, please read over our <a style=\\\"color: #85cfc4;\\\" href=\\\"/pages/shipping-info\\\">Shipping Policy</a>.<br><br> To join, add this item to your bag and check out using your already existing account (or <a href=\\\"https://shopthemint.com/account/login\\\">create a new one</a>)! Once you have purchased \\\"Mint Express\\\", please allow 1-2 business days for the membership to reflect on your account. If you do not see the changes reflected after 3 business days, please <a style=\\\"color: #85cfc4;\\\" href=\\\"/contact\\\">contact customer service</a>. Please note,\u00a0credit card will automatically be charge every year.<br><br>*Free Standard US Shipping<br><br>*Must use or <a style=\\\"color: #85cfc4;\\\" href=\\\"/login\\\">create an account</a> upon purchase. If you \\\"Checkout as a guest\\\", we will not be able to give you access to your \\\"Mint Express\\\" membership until you <a style=\\\"color: #85cfc4;\\\" href=\\\"/login\\\">create an account</a>. <br><br><a style=\\\"color: #85cfc4;\\\" href=\\\"/pages/terms\\\">Click here</a> for \\\"Mint Express\\\" terms and conditions.\",\"vendor\":\"The Mint Julep Boutique\",\"product_type\":\"Insurance\",\"created_at\":\"2018-06-21T22:26:45-04:00\",\"handle\":\"mint-express-free-shipping-for-1-year\",\"updated_at\":\"2026-11-09T16:50:24-05:00\",\"published_at\":\"2022-07-06T13:05:03-04:00\",\"template_suffix\":\"subscription\",\"published_scope\":\"web\",\"tags\":\"All Size Available, bis-hidden, Color_Green, FakeSaleBF2018, HalloweenSale2018, HQ, In Stock, Klaviyo, mint-express, NA Date_3/31/18, NON_NEW_ARRIVAL, One Variant, Price_$25.00 to $49.99, Primary_Mint, Product Photos, Regular Price, Salefake10.30.18, Site Visible, Size_One Size, Womens\",\"variants\":[{\"id\":13993312616506,\"product_id\":1519910780986,\"title\":\"One Size / Mint\",\"price\":\"32.00\",\"sku\":\"70246-MNT-OS\",\"position\":1,\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"One Size\",\"option2\":\"Mint\",\"option3\":null,\"created_at\":\"2018-06-21T22:26:45-04:00\",\"updated_at\":\"2026-11-09T16:50:24-05:00\",\"taxable\":true,\"barcode\":\"70246-MNT-OS\",\"grams\":5,\"image_id\":null,\"weight\":0.01,\"weight_unit\":\"lb\",\"tax_code\":\"FR\",\"requires_shipping\":false,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"USD\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]}],\"options\":[{\"id\":2037130625082,\"product_id\":1519910780986,\"name\":\"Size\",\"position\":1,\"values\":[\"One Size\"]},{\"id\":2836313112634,\"product_id\":1519910780986,\"name\":\"Color\",\"position\":2,\"values\":[\"Mint\"]}],\"images\":[{\"id\":28960916340794,\"product_id\":1519910780986,\"position\":1,\"created_at\":\"2023-02-22T14:00:20-05:00\",\"updated_at\":\"2026-06-17T09:29:23-04:00\",\"alt\":\"shop the mint, boutique clothing for women, trendy online boutique\",\"width\":2000,\"height\":3000,\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/products/mintexpress_product.jpg?v=1781702963\",\"variant_ids\":[]}],\"image\":{\"id\":28960916340794,\"product_id\":1519910780986,\"position\":1,\"created_at\":\"2023-02-22T14:00:20-05:00\",\"updated_at\":\"2026-06-17T09:29:23-04:00\",\"alt\":\"shop the mint, boutique clothing for women, trendy online boutique\",\"width\":2000,\"height\":3000,\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/products/mintexpress_product.jpg?v=1781702963\",\"variant_ids\":[]}},\"variantMetafields\":[]}}"
+        },
+        {
+          "name": "freeGiftCycle:womens:shown",
+          "value": "false"
+        },
+        {
+          "name": "swym-products_timestamp",
+          "value": "1794261028.05"
+        },
+        {
+          "name": "redo_fees",
+          "value": "{\"expiry\":1794262821971,\"value\":{\"productId\":7380116176954,\"variantId\":\"40780521865274\",\"price\":\"2.18\",\"enabled\":true,\"handle\":\"free-return-for-store-credit-on-this-order-package-protection\",\"mainType\":\"return,package_protection\",\"splitProducts\":true,\"returnProduct\":{\"productId\":7663029682234,\"variants\":[{\"variant_id\":\"41858579726394\",\"title\":\"T0O3D\",\"coverageVariantCode\":\"T0O3D\",\"price\":\"2.18\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-27T20:05:26.317Z\",\"updatedAt\":\"2026-10-27T20:05:26.351Z\"},{\"variant_id\":\"41858579759162\",\"title\":\"U8K1C\",\"coverageVariantCode\":\"U8K1C\",\"price\":\"8.72\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-27T20:05:26.317Z\",\"updatedAt\":\"2026-10-27T20:05:26.352Z\"},{\"variant_id\":\"41858579791930\",\"title\":\"M4W0C\",\"coverageVariantCode\":\"M4W0C\",\"price\":\"10.68\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-27T20:05:26.317Z\",\"updatedAt\":\"2026-10-27T20:05:26.352Z\"},{\"variant_id\":\"41858579824698\",\"title\":\"Q4O9O\",\"coverageVariantCode\":\"Q4O9O\",\"price\":\"12.43\",\"sku\":\"x-redo\",\"createdAt\":\"2026-10-27T20:05:26.317Z\",\"updatedAt\":\"2026-10-27T20:05:26.352Z\"}],\"handle\":\"free-return-for-store-credit-on-this-order\",\"type\":\"return\",\"sellingPlanGroups\":[]},\"packageProduct\":{\"productId\":7380116144186,\"variants\":[{\"variant_id\":\"40780521832506\",\"title\":\"Z4I3Z\",\"coverageVariantCode\":\"Z4I3Z\",\"price\":\"0.99\",\"sku\":\"x-mship\",\"createdAt\":\"2026-10-13T14:19:40.939Z\",\"updatedAt\":\"2026-10-13T14:19:40.939Z\"}],\"handle\":\"package-protection-valid-in-us\",\"type\":\"package_protection\",\"sellingPlanGroups\":[]},\"bothProduct\":{\"productId\":7380116176954,\"variants\":[{\"variant_id\":\"40780521865274\",\"title\":\"N9X2K\",\"coverageVariantCode\":\"N9X2K\",\"price\":\"2.18\",\"sku\":\"x-stm\",\"createdAt\":\"2026-10-27T20:05:24.037Z\",\"updatedAt\":\"2026-10-27T20:05:24.037Z\"},{\"variant_id\":\"40780521898042\",\"title\":\"S1M8N\",\"coverageVariantCode\":\"S1M8N\",\"price\":\"3.17\",\"sku\":\"x-stm\",\"createdAt\":\"2026-10-27T20:05:24.037Z\",\"updatedAt\":\"2026-10-27T20:05:24.037Z\"},{\"variant_id\":\"41858579595322\",\"title\":\"F0J4E\",\"coverageVariantCode\":\"F0J4E\",\"price\":\"9.71\",\"sku\":\"x-stm\",\"createdAt\":\"2026-10-27T20:05:24.037Z\",\"updatedAt\":\"2026-10-27T20:05:24.037Z\"},{\"variant_id\":\"41858579628090\",\"title\":\"O6Q4D\",\"coverageVariantCode\":\"O6Q4D\",\"price\":\"11.67\",\"sku\":\"x-stm\",\"createdAt\":\"2026-10-27T20:05:24.037Z\",\"updatedAt\":\"2026-10-27T20:05:24.037Z\"},{\"variant_id\":\"41858579660858\",\"title\":\"R5P6Y\",\"coverageVariantCode\":\"R5P6Y\",\"price\":\"13.42\",\"sku\":\"x-stm\",\"createdAt\":\"2026-10-27T20:05:24.037Z\",\"updatedAt\":\"2026-10-27T20:05:24.037Z\"}],\"handle\":\"free-return-for-store-credit-on-this-order-package-protection\",\"type\":\"return,package_protection\",\"sellingPlanGroups\":[]}}}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_",
+          "value": "data:application/zip;base92,T>~.\"~q%lt3}`ZN?T0mh%\"M)PJ[7X254T?=\"|YJNJ)nC[,JsyXu3t2|,P9B8~\u007fQ#lAz1c_WGp5ec}8px0L"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794520197480"
+        },
+        {
+          "name": "refId",
+          "value": "data:application/zip;base92,mIsUSvB]sLNCarex]`xJgrxF$I\u007f&@=h@SvHY.[@>ey\\QN]m\"cF*(,NweSJA>&jT a.tZR~|>w;E;._=/IMzt(Lsk2s/nF`$`?@raH)t\u007fHX!Rg!o?N'jc{TxlZV(+}"
+        },
+        {
+          "name": "redo.anonymous_shopper_id",
+          "value": "f80042a8-a89f-4252-9069-07d377bf4438"
+        },
+        {
+          "name": "swym-products",
+          "value": "{\"all\":[]}"
+        },
+        {
+          "name": "freeGiftCycle:womens:eligible",
+          "value": "false"
+        },
+        {
+          "name": "true_rand_gen_sequence.math_",
+          "value": "data:application/zip;base92,~]+f8<!Sgc3B^~D`PH\\sU@^fBP7\u007fDIcXU4bB;n>8D'{bqd7!GdJ_@XVi3m wudS!q`.kC2rfsXH5Fw0@lT["
+        },
+        {
+          "name": "bugsnag-anonymous-id",
+          "value": "cmw9so5kd000035dnyc4hok6f"
+        },
+        {
+          "name": "swym-authn_timestamp",
+          "value": "1794261028.05"
+        },
+        {
+          "name": "redo-final-sale-valid-7112637579322",
+          "value": "{\"expiry\":1794264623569,\"value\":\"false\"}"
+        },
+        {
+          "name": "swym-devices",
+          "value": "{\"all\":{\"current-device-id\":\"c20bf7ee-02fd-4cdd-9434-602edb6e3289\",\"bkt\":\"A\"}}"
+        },
+        {
+          "name": "freeGiftCycle:girls:shown",
+          "value": "false"
+        },
+        {
+          "name": "redo-protection-valid-7112637579322",
+          "value": "{\"expiry\":1794264623569,\"value\":\"true\"}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "b25e609c-aade-4769-900a-389b6fa5146c"
+        },
+        {
+          "name": "freeGiftCycle:girls:eligible",
+          "value": "false"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,4xE\"N()(c@\\*ru0fms\\x',:wl'WB;&nNz57^+;dPf/lJM_0';a:#oKJTi~-_TO*&2402!(9ZrrrxHY-p/-XjZVVUxQ1Mz$7t"
+        },
+        {
+          "name": "redo-remove-redo",
+          "value": "{\"expiry\":1794264627489,\"value\":false}"
+        },
+        {
+          "name": "swym-sms-config",
+          "value": "{\"default-country-code\":null,\"supported-countries\":null,\"provider-type\":\"KLAVIYO_platform\"}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cart",
+          "value": "[{\"id\":\"110092-GRN-SM\",\"name\":\"Quick Decisions Emerald Green Reindeer Sweater\",\"brand\":\"Shop the Mint\",\"category\":\"\",\"variant\":\"Small / Green Reindeer\",\"position\":0,\"price\":\"58.00\",\"quantity\":\"1\",\"productId\":\"7112637579322\",\"variantId\":\"40067036938298\",\"image\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/110092.Quick-Decisions-Emerald-Green-Reindeer-Sweater.jpg?v=1728572006\",\"url\":\"/products/quick-decisions-emerald-green-reindeer-sweater?variant=40067036938298\",\"list\":\"\"}]"
+        },
+        {
+          "name": "ssCartProducts",
+          "value": "{\"value\":[{\"parentId\":\"1519910780986\",\"uid\":\"13993312616506\",\"sku\":\"70246-MNT-OS\",\"qty\":1,\"price\":32}]}"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPVlXWXlNV00zTVRZdFpUTmpOeTAwWlRjeUxXRTVNVEF0WkRBME1EVXdZV05oWW1Jeg\",\"expires\":\"2027-11-09T21:50:24.325Z\"}"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,*OmG2Lz>Jtuh@6Pm;,*CxM`NbMOnad8$QtX9$?I& Z;0#X!dM3jaRXjaldPx}q9B'sv)9Oj^oz6w(`s-/y56qc{90q|{.7"
+        },
+        {
+          "name": "redo_autocheck",
+          "value": "{\"expiry\":1794262822292,\"value\":{\"autocheck\":{\"teamId\":\"65c28b8e62ad73000640c0c7\",\"widgetSlug\":\"4c5r8fqlmcrdjht\",\"exchangeBannerPositionBottom\":false,\"exchangeBannerInsertBeforeBody\":false,\"icon\":\"gift\",\"iconColor\":\"\",\"iconBackgroundColor\":\"\",\"displayIcon\":false,\"storefrontAccessToken\":\"5f2135880a48cdf2dde64ea704bc00e1\",\"multistorefront\":[],\"checkboxText\":\"Free Return for Store Credit on THIS Order + Package Protection \",\"toggleTextOptions\":{\"bothProductToggle\":{\"_id\":\"69541bbc3dbcf0492b489fa9\",\"negativeSubtext\":\"\",\"positiveSubtext\":\"\",\"titleText\":\"Free Return for Store Credit on THIS Order + Package Protection\"},\"packageProtectionToggle\":{\"_id\":\"69541bbc3dbcf0492b489fa8\",\"negativeSubtext\":\"Shop the Mint isn't responsible for theft or loss. Enable this option to secure your order\",\"positiveSubtext\":\"*By disabling this option, Shop the Mint is not responsible for theft or loss of your order\",\"titleText\":\"Mint Shipping Protection\"},\"returnToggle\":{\"_id\":\"69541bbc3dbcf0492b489fa7\",\"negativeSubtext\":\"\",\"positiveSubtext\":\"\",\"titleText\":\"Free Return for Store Credit on THIS Order\"}},\"checkoutSelector\":\"button[name=\\\"checkout\\\"]\",\"exchangeBannerColor\":\"\",\"exchangeBannerText\":\"\",\"exchangeBannerFont\":\"\",\"exchangeBannerFontColor\":\"\",\"exchangeBannerShowDoneButton\":true,\"exchangeBannerCustomCss\":\"\",\"disableRedoForCustomer\":false,\"respectForcedRemovalDuringEnsure\":false,\"redoAutoCheck\":true,\"selector\":\"\",\"paidModel\":\"customer_paid\",\"textColor\":\"#000000\",\"checkboxFontSize\":12,\"coverage\":{\"exchange\":false,\"refund\":false,\"storeCredit\":true},\"enabled\":true,\"logo\":\"https://data.getredo.com/redo/image_720_9d0ca813ef02.png\",\"coverageEnabled\":true,\"finalSaleTags\":[\"no-returns\"],\"protectionExcludeTags\":[],\"coverageExcludeCollections\":[],\"coverageExcludeDiscountCodes\":[],\"coverageExcludeProperties\":[],\"coverageExcludedVariantMetafields\":[],\"returnsCoverageExcludedSkus\":[],\"excludeCoverageIfAnyInvalidProduct\":false,\"discountCodePartialMatch\":false,\"hideCheckboxBranding\":false,\"hideCheckbox\":true,\"hideCheckboxPrice\":false,\"attachmentStrategy\":\"checkout-button-product\",\"toggleSubtextEnabled\":false,\"countries\":[\"US\"],\"countriesPackageProtection\":[\"US\"],\"countriesFinalSaleReturns\":[\"US\"],\"predictedCountry\":\"US\",\"modalTextAdjustments\":{\"text1\":\"Qualifies you for a FREE return label if needed\",\"text2\":\"\",\"text3\":\"Quick and simple at no extra cost\",\"title1\":\"Add Redo\",\"title2\":\"\",\"title3\":\"Send it back for FREE if it doesn't work for store credit\"},\"infoModal\":{\"cartIconEnabled\":false,\"checkoutIconEnabled\":false,\"enableTopLayerModalApi\":false,\"line1\":{\"_id\":\"6931c724df3e23b3274d3e40\",\"subtitleText\":\"Qualifies you for a FREE return label if needed\",\"titleText\":\"Add Redo\"},\"line3\":{\"_id\":\"6931c724df3e23b3274d3e41\",\"subtitleText\":\"Quick and simple at no extra cost\",\"titleText\":\"Send it back for FREE if it doesn't work for store credit\"},\"logo\":\"\",\"sideImage\":\"\",\"version\":\"v2\"},\"modalLogo\":\"\",\"returnPolicyUrl\":\"https://shopthemint.com/pages/return-policy\",\"shopSiteUseCartDiscounts\":false,\"excludeProductTags\":[],\"excludeProductSkus\":[],\"cartValueCalculationMethod\":\"cart_value_post_discount\",\"excludedItemProperties\":[],\"cartToggle\":{\"enabled\":true,\"useShadowRootInCart\":false,\"cartShadowRootSelector\":\"\",\"toggleOnColor\":\"\",\"toggleOffColor\":\"\",\"toggleCircleColor\":\"\",\"cartTogglePlacement\":\"before\",\"cartReplaceItems\":false},\"widgetConfigs\":[{\"_id\":\"69a9a3b2afad6ed6209be23f\",\"badgeWord\":\"\",\"cardText\":{\"_id\":\"69a9a3b2afad6ed6209be240\",\"both\":{\"_id\":\"69a9a3b2afad6ed6209be243\",\"subtitleText\":\"Free Return Label + Package Protection\",\"titleText\":\"\"},\"packageProtection\":{\"_id\":\"69a9a3b2afad6ed6209be242\",\"subtitleText\":\"Free Return Label + Package Protection\",\"titleText\":\"\"},\"returns\":{\"_id\":\"69a9a3b2afad6ed6209be241\",\"subtitleText\":\"Free Return Label + Package Protection\",\"titleText\":\"\"}},\"dataTarget\":\"\",\"elementType\":\"info-card\",\"imageElement\":\"none\",\"infoCardStyles\":{\"_id\":\"69a9a3b2afad6ed6209be244\",\"color\":\"#dddddd\",\"subtitleFontColor\":\"#000000\",\"subtitleFontSize\":12,\"titleFontColor\":\"#000000\",\"titleFontSize\":14},\"insertionPosition\":\"before\",\"localizationId\":\"widget-info-card-69a9a3b2afad6ed6209be23f\",\"name\":\"Info Card\",\"placeInsideAndOutsideShadowRoot\":false,\"placementSelector\":\".mini-cart__afterpay, .cart__main-summary--afterpay\",\"placementType\":\"Cart\",\"priceLocation\":\"right\",\"shadowRootSelector\":\"\",\"showBackground\":false,\"showInfoIcon\":true},{\"_id\":\"69a9a3b2afad6ed6209be245\",\"coverageButtonStyles\":{\"_id\":\"69a9a3b2afad6ed6209be24b\",\"color\":\"#51545d\",\"fontColor\":\"#ffffff\",\"fontSize\":14,\"includeNonCoverageUnderline\":true,\"nonCoverageFontColor\":\"#000000\",\"nonCoverageFontSize\":12,\"subtitleFontColor\":\"#ffffff\",\"subtitleFontSize\":10},\"coverageButtonText\":{\"_id\":\"69a9a3b2afad6ed6209be246\",\"both\":{\"_id\":\"69a9a3b2afad6ed6209be249\",\"subtitleText\":\"\",\"titleText\":\"\"},\"packageProtection\":{\"_id\":\"69a9a3b2afad6ed6209be248\",\"subtitleText\":\"\",\"titleText\":\"\"},\"returns\":{\"_id\":\"69a9a3b2afad6ed6209be247\",\"subtitleText\":\"\",\"titleText\":\"\"}},\"dataTarget\":\"\",\"elementType\":\"both-checkout-buttons\",\"insertionPosition\":\"before\",\"localizationId\":\"widget-both-checkout-buttons-69a9a3b2afad6ed6209be245\",\"name\":\"Checkout Buttons\",\"nonCoverageButtonText\":{\"_id\":\"69a9a3b2afad6ed6209be24a\",\"both\":\"Checkout Without Free Return Label + Package Protection\",\"packageProtection\":\"Checkout Without Free Return Label + Package Protection\",\"returns\":\"Checkout Without Free Return Label + Package Protection\"},\"placeInsideAndOutsideShadowRoot\":false,\"placementSelector\":\".mini-cart__afterpay, .cart__main-summary--afterpay\",\"placementType\":\"Cart\",\"shadowRootSelector\":\"\"}],\"groupNearbyToggleElementsTogether\":true,\"hideRedoProduct\":{\"cartCountModifications\":[{\"replace\":\"%count%\",\"search\":\"\\\\d+\",\"selector\":\"#dummyselector\"}],\"cartDiscountModifications\":[],\"cartPriceModifications\":[],\"checkoutButtonSelector\":\".mini-cart__checkout > button, [name=\\\"checkout\\\"]\",\"enabled\":true,\"productSelector\":\"\"},\"packageProtection\":{\"coverageEnabled\":true,\"packageProtectionPlusEnabled\":false,\"percentage\":0.02,\"splitProducts\":true,\"pricingRuleSets\":[{\"countries\":[\"US\"],\"priceBrackets\":[{\"pricePoint\":0,\"value\":0.02}],\"type\":\"percentage\"}],\"minPrice\":0.99,\"maxPrice\":0.99,\"packageProtectionPlusMerchantPaidPerOrderEnabled\":false,\"packageProtectionPlusMerchantPaidEnabledDates\":[],\"shouldRecordPackageProtectionExposure\":false,\"coverageExcludedCollections\":[],\"internationalInsurance\":{\"providerName\":\"UPSCIA\",\"termsUrl\":\"https://www.insureshield.com/content/terms-and-conditions/REDO_TermsandConditions.pdf\",\"ratePer100\":0.8,\"minimumPremium\":0},\"coverageExcludedVariantMetafields\":[]},\"packageProtectionAutoCheck\":true,\"usingCartAndCheckoutToggle\":false,\"forceDoubleCheckoutToggle\":true,\"setCheckoutToggleBasedOnOptInCartAttribute\":true,\"hideCheckoutUiWhenOptedIn\":false,\"openShadowRoot\":false,\"checkoutExtensionEnabled\":false,\"checkoutAnalyticsInCheckoutToggleWidgetEnabled\":true,\"fraudZipCoverageExclusionStrategy\":\"NO_OP\",\"customPdpCss\":\"\",\"customToggleCss\":\"[data-target=\\\"headline-text-container\\\"]{\\nfont-family: brandon-grotesque, Arial, sans-serif !important;\\ntext-transform: uppercase !important;\\nfont-weight: 300 !important;\\nletter-spacing: 2px !important;\\n}\\n[data-target=\\\"coverage-button\\\"]{\\nwidth: 355px !important;\\nheight: 61px !important;\\n}\\n\\n[data-target=\\\"toggle-info\\\"]{\\ndisplay: none !important;\\n}\",\"forceIPAddressLocation\":false,\"excludePickup\":false,\"preProtectedOrdersEnabled\":false,\"checkoutUICustomizations\":{\"_id\":\"67cb73f13f558a018f9f2245\",\"subtextSize\":\"\",\"titleOnly\":false,\"titleTextSize\":\"\"},\"internationalReturnsPricing\":[{\"countries\":[\"AU\"],\"multiplier\":5.7},{\"countries\":[\"CH\",\"DE\",\"FR\",\"GB\"],\"multiplier\":4.9},{\"countries\":[\"CA\"],\"multiplier\":4}],\"currencyExchangeRate\":1,\"finalSaleReturns\":{\"coverageEnabled\":false,\"coverageValidTags\":[],\"coverageValidCollections\":[],\"coverageValidCollectionTitles\":[],\"shippingLabelCoveragePrice\":1.98,\"percentage\":0.02,\"pricingRuleSets\":[{\"countries\":[\"US\"],\"priceBrackets\":[{\"pricePoint\":0,\"value\":0.02}],\"type\":\"percentage\"}],\"minPrice\":1,\"maxPrice\":15,\"allCovered\":false,\"allEligible\":false},\"customerAccounts\":{\"enabled\":true,\"saveForLaterPanel\":{\"enabled\":false}},\"customerWidgetEnabled\":false,\"chatWidgetScriptTagInstalled\":false,\"contextual\":{\"enabled\":false},\"reviews\":{\"enabled\":false},\"orderTrackingLogin\":{\"enabled\":true,\"settings\":{\"allowTrackingCodeOnlyAccess\":false,\"backgroundColor\":\"#f5f8f7\",\"cardBackgroundColor\":\"#ffffff\",\"cardBorderRadius\":8,\"cardBorderWidth\":0,\"cardBorderColor\":\"#D6D6D6\",\"cardShadowEnabled\":true,\"titleText\":\"Track your order\",\"titleColor\":\"#46525e\",\"titleFontFamily\":\"Montserrat\",\"bodyFontFamily\":\"Raleway\",\"buttonText\":\"TRACK MY ORDER\",\"buttonOverride\":{\"backgroundColor\":\"#7accc3\",\"textColor\":\"#333333\",\"border\":{\"cornerRadiusPx\":4,\"stroke\":{\"color\":\"#7accc3\",\"weightPx\":1}},\"paddingPx\":14,\"font\":{\"fontFamily\":\"Raleway\",\"fontSizePx\":15,\"fontWeight\":\"semibold\"},\"enabled\":true},\"inputOverride\":{\"backgroundColor\":\"#ffffff\",\"textColor\":\"#333333\",\"border\":{\"cornerRadiusPx\":4,\"stroke\":{\"color\":\"#e5e5e5\",\"weightPx\":1}},\"paddingPx\":12,\"font\":{\"fontFamily\":\"Raleway\",\"fontSizePx\":15,\"fontWeight\":\"regular\"},\"errorColor\":\"#c0392b\",\"enabled\":true},\"emailLabel\":\"\",\"emailPlaceholder\":\"Email or ZIP code\",\"orderLabel\":\"\",\"orderPlaceholder\":\"Order number\"},\"loadingBackgroundColor\":null},\"pricePerOrder\":\"2.18\",\"brandKit\":{\"font\":{\"bodyFontFamily\":\"Raleway\",\"fontFamily\":\"Raleway\",\"headerFontFamily\":\"Montserrat\",\"hierarchy\":{\"body\":{\"fontSizePx\":16,\"fontWeight\":\"regular\"},\"h1\":{\"fontSizePx\":32,\"fontWeight\":\"bold\"},\"h2\":{\"fontSizePx\":24,\"fontWeight\":\"semibold\"},\"h3\":{\"fontSizePx\":19,\"fontWeight\":\"semibold\"},\"subtext\":{\"fontSizePx\":13,\"fontWeight\":\"regular\"}}},\"images\":{\"bannerUrl\":\"\",\"faviconUrl\":\"\",\"logoBannerUrl\":\"\",\"logoUrl\":\"https://data.getredo.com/redo/script_website_mint_500x_redo_5e7cf684cd88.png\"},\"buttons\":{\"primary\":{\"backgroundColor\":\"#7accc3\",\"border\":{\"cornerRadiusPx\":4,\"stroke\":{\"color\":\"#7accc3\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":12,\"textColor\":\"#333333\"},\"secondary\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":4,\"stroke\":{\"color\":\"#46525e\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":12,\"textColor\":\"#46525e\"},\"tertiary\":{\"border\":{\"cornerRadiusPx\":4,\"stroke\":{\"color\":\"#487d77\",\"weightPx\":0}},\"fontReference\":\"body\",\"paddingPx\":10,\"textColor\":\"#487d77\"}},\"colors\":{\"accent\":\"#7accc3\",\"background\":\"#ffffff\"},\"customFontFamilies\":[{\"_id\":\"9f1a8df2-2526-4125-93b4-9f7c939eb7c6\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"Montserrat\",\"styles\":[{\"_id\":\"d8c3855e-e062-4435-b26d-af6af2f4f6b0\",\"fontFileUrl\":\"https://data.getredo.com/redo/montserrat_400_71b44c498293.woff2\",\"fontName\":\"Montserrat\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"400\"},{\"_id\":\"d51913da-ba8e-409c-921a-a0b218783b9b\",\"fontFileUrl\":\"https://data.getredo.com/redo/montserrat_700_846b05bde3a6.woff2\",\"fontName\":\"Montserrat\",\"fontStyle\":\"Bold\",\"italic\":false,\"weight\":\"700\"}]},{\"_id\":\"837826cf-8030-4893-a0ed-0a8388123154\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"Montserrat Medium\",\"styles\":[{\"_id\":\"8079f302-1886-4b6d-94c4-81501b9563a6\",\"fontFileUrl\":\"https://data.getredo.com/redo/montserrat_500_7436f3ba5517.woff2\",\"fontName\":\"Montserrat Medium\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"500\"}]},{\"_id\":\"c7cf7479-8a05-45b0-bfb4-2e540b154742\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"Montserrat SemiBold\",\"styles\":[{\"_id\":\"0f6bfb53-b631-498c-b7a4-be2f10cf22ef\",\"fontFileUrl\":\"https://data.getredo.com/redo/montserrat_600_d71699bafc3d.woff2\",\"fontName\":\"Montserrat SemiBold\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"600\"}]},{\"_id\":\"1d5928aa-02df-4a6c-9f95-8770c259f573\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"Raleway\",\"styles\":[{\"_id\":\"961fecb1-0e7d-448c-b83b-336bb43e41ca\",\"fontFileUrl\":\"https://data.getredo.com/redo/raleway_400_18afb30cc6ad.woff2\",\"fontName\":\"Raleway\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"400\"},{\"_id\":\"352e2c73-068d-4af6-8110-e838121862ce\",\"fontFileUrl\":\"https://data.getredo.com/redo/raleway_700_552c45d2ffa8.woff2\",\"fontName\":\"Raleway\",\"fontStyle\":\"Bold\",\"italic\":false,\"weight\":\"700\"}]},{\"_id\":\"bbb1647a-44b9-4ecb-929c-2fea9a29a5f9\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"Raleway Medium\",\"styles\":[{\"_id\":\"16f8cc96-bba7-4f07-81fe-a9bf67ce92bb\",\"fontFileUrl\":\"https://data.getredo.com/redo/raleway_500_e5b09116afc3.woff2\",\"fontName\":\"Raleway Medium\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"500\"}]},{\"_id\":\"18dc33f2-2f52-4254-82c3-8d0496901edf\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"Raleway SemiBold\",\"styles\":[{\"_id\":\"2aa9fa65-730f-4b81-b0b2-aa5fbaa15f90\",\"fontFileUrl\":\"https://data.getredo.com/redo/raleway_600_dc8312f3ed65.woff2\",\"fontName\":\"Raleway SemiBold\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"600\"}]}],\"inputs\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":4,\"stroke\":{\"color\":\"#e5e5e5\",\"weightPx\":1}},\"errorColor\":\"#c0392b\",\"fontReference\":\"body\",\"paddingPx\":12,\"textColor\":\"#333333\"}},\"extendedWarranties\":{\"enabled\":false,\"cartToggleExperience\":\"toggle\",\"pdpRenderMethod\":\"app_block\",\"popupExperience\":\"disabled\"},\"concierge\":{\"enabled\":false,\"placeConciergeProductForm\":false},\"marketing\":{\"enabled\":true,\"subscribeFromSaveForLater\":false,\"numEmbeddedFormsConfigured\":0,\"hasPublishedSignupForms\":false,\"hasEnabledNonEmbeddedSpotlights\":false},\"recover\":{\"enabled\":false},\"checkoutDeliveryEstimates\":{\"enabled\":false},\"conversion\":{\"enabled\":false},\"hsa\":{\"enabled\":false},\"loyalty\":{\"enabled\":false},\"termsAndConditions\":{\"_id\":\"69a9a3b2afad6ed6209be24c\",\"blockCheckoutIfNotAccepted\":false,\"blockedMessageText\":\"\",\"termsCheckboxSelector\":\"\"},\"clickStandardCheckoutButton\":{\"_id\":\"69a9a3b2afad6ed6209be24d\",\"checkoutButtonSelector\":\"[name=\\\"checkout\\\"]\",\"enabled\":true},\"useBuyNowCoverage\":false,\"buyNow\":{\"customCss\":\"\"},\"autoNavigateToCheckoutAfterTimeout\":false,\"checkoutMethod\":\"navigate_after_add\",\"rescueCheckoutButtonsEnabled\":false,\"shouldNotUseStorefrontApi\":false,\"disableBusinessAccountInStorefront\":false,\"preventPageRefreshAfterCartAdd\":false,\"dispatchResizeAfterItemsPlaced\":false,\"coverageCreditIncentive\":{\"percentageSettings\":{\"percentage\":5,\"storeCreditAmountCap\":null},\"creditExpirationDays\":null,\"enabled\":false,\"expirationReminderDaysBefore\":null,\"fixedAmount\":5,\"minimumQualifyingPurchaseAmount\":0,\"sendEmail\":true,\"sendExpirationReminderEmail\":false,\"type\":\"fixed\"},\"discountsAreFinalSales\":false,\"purpleDotEnabled\":false,\"dynamicCoverageTransformFunctionEnabled\":false,\"billing\":{\"status\":\"up_to_date\"},\"localizationTextOverrides\":[],\"localizationGroups\":[],\"storefrontLoggingAllowedPercentage\":4,\"visitorObservationEnabled\":true,\"storefrontConsentEnabled\":false,\"localizationObjectId\":\"autocheck-65c28b8e62ad73000640c0c7\",\"customerTagTextOverride\":{\"customerTags\":[],\"enabled\":false},\"cartResponseCaptureEnabled\":true,\"coveragePlacementMetrics\":{\"131521183802\":{\"default\":{\"lastLoadedAt\":\"2026-11-09T21:30:02.129Z\",\"placements\":{\"[\\\"both-checkout-buttons\\\",\\\".mini-cart__afterpay, .cart__main-summary--afterpay\\\",\\\"before\\\",null]\":{\"placementId\":null,\"placementIndex\":0,\"elementType\":\"both-checkout-buttons\",\"selector\":\".mini-cart__afterpay, .cart__main-summary--afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:30:03.130Z\"},\"[\\\"info-card\\\",\\\".mini-cart__afterpay, .cart__main-summary--afterpay\\\",\\\"before\\\",null]\":{\"placementId\":null,\"placementIndex\":0,\"elementType\":\"info-card\",\"selector\":\".mini-cart__afterpay, .cart__main-summary--afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:30:03.130Z\"}}}},\"131631710266\":{\"default\":{\"lastLoadedAt\":\"2026-11-09T21:37:03.750Z\",\"placements\":{\"[\\\"69a9a3b2afad6ed6209be23f\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be23f\",\"placementIndex\":0,\"elementType\":\"info-card\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:15:27.272Z\"},\"[\\\"69a9a3b2afad6ed6209be245\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be245\",\"placementIndex\":0,\"elementType\":\"both-checkout-buttons\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:15:27.272Z\"}}}},\"131698786362\":{\"default\":{\"lastLoadedAt\":\"2026-11-09T21:09:06.626Z\",\"placements\":{\"[\\\"69a9a3b2afad6ed6209be23f\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be23f\",\"placementIndex\":0,\"elementType\":\"info-card\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:03:34.648Z\"},\"[\\\"69a9a3b2afad6ed6209be245\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be245\",\"placementIndex\":0,\"elementType\":\"both-checkout-buttons\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:03:34.648Z\"}}}},\"131699769402\":{\"default\":{\"lastLoadedAt\":\"2026-11-09T21:40:49.613Z\",\"placements\":{\"[\\\"69a9a3b2afad6ed6209be23f\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be23f\",\"placementIndex\":0,\"elementType\":\"info-card\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:06:24.656Z\"},\"[\\\"69a9a3b2afad6ed6209be245\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be245\",\"placementIndex\":0,\"elementType\":\"both-checkout-buttons\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:06:24.656Z\"}}}},\"131779199034\":{\"default\":{\"lastLoadedAt\":\"2026-11-09T21:09:19.124Z\",\"placements\":{\"[\\\"69a9a3b2afad6ed6209be23f\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be23f\",\"placementIndex\":0,\"elementType\":\"info-card\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T20:59:26.976Z\"},\"[\\\"69a9a3b2afad6ed6209be245\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be245\",\"placementIndex\":0,\"elementType\":\"both-checkout-buttons\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T20:59:26.976Z\"}}}},\"131793682490\":{\"default\":{\"lastLoadedAt\":\"2026-11-09T21:48:06.906Z\",\"placements\":{\"[\\\"69a9a3b2afad6ed6209be23f\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be23f\",\"placementIndex\":0,\"elementType\":\"info-card\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:48:06.913Z\"},\"[\\\"69a9a3b2afad6ed6209be245\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be245\",\"placementIndex\":0,\"elementType\":\"both-checkout-buttons\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:48:06.913Z\"}}}},\"131807543354\":{\"default\":{\"lastLoadedAt\":\"2026-11-09T21:47:56.112Z\",\"placements\":{\"[\\\"69a9a3b2afad6ed6209be23f\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be23f\",\"placementIndex\":0,\"elementType\":\"info-card\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:47:58.239Z\"},\"[\\\"69a9a3b2afad6ed6209be245\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be245\",\"placementIndex\":0,\"elementType\":\"both-checkout-buttons\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:47:58.239Z\"}}}},\"131807576122\":{\"default\":{\"lastLoadedAt\":\"2026-11-09T21:48:31.674Z\",\"placements\":{\"[\\\"69a9a3b2afad6ed6209be23f\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be23f\",\"placementIndex\":0,\"elementType\":\"info-card\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:47:31.276Z\"},\"[\\\"69a9a3b2afad6ed6209be245\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be245\",\"placementIndex\":0,\"elementType\":\"both-checkout-buttons\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:47:31.276Z\"}}}},\"131821994042\":{\"default\":{\"lastLoadedAt\":\"2026-11-09T21:49:44.719Z\",\"placements\":{\"[\\\"69a9a3b2afad6ed6209be23f\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be23f\",\"placementIndex\":0,\"elementType\":\"info-card\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:49:35.314Z\"},\"[\\\"69a9a3b2afad6ed6209be245\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be245\",\"placementIndex\":0,\"elementType\":\"both-checkout-buttons\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:49:35.314Z\"}}}},\"131823501370\":{\"default\":{\"lastLoadedAt\":\"2026-11-09T21:49:41.883Z\",\"placements\":{\"[\\\"69a9a3b2afad6ed6209be23f\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be23f\",\"placementIndex\":0,\"elementType\":\"info-card\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:45:12.280Z\"},\"[\\\"69a9a3b2afad6ed6209be245\\\",0,null]\":{\"placementId\":\"69a9a3b2afad6ed6209be245\",\"placementIndex\":0,\"elementType\":\"both-checkout-buttons\",\"selector\":\".mini-cart__afterpay\",\"insertionPosition\":\"before\",\"lastSeenAt\":\"2026-11-09T21:45:12.280Z\"}}}}},\"coverageProductIds\":[\"7604186153018\",\"7604185956410\",\"7234714828858\",\"7234714796090\",\"7604182777914\",\"7604186382394\",\"7663029682234\",\"7604186120250\",\"7604186546234\",\"7604182908986\",\"7380116144186\",\"7380116176954\",\"7604182810682\"]},\"currency\":\"USD\",\"customerId\":null,\"language\":\"en\",\"country\":\"US\"}}"
+        },
+        {
+          "name": "rcStoreSettings",
+          "value": "{\"store_currency\":{\"currency_code\":\"USD\",\"currency_symbol\":\"$\",\"thousands_separator\":\",\",\"decimal_separator\":\".\",\"currency_symbol_location\":\"left\",\"zero_decimal_currency\":false},\"store_platform\":\"shopify_rcs\"}"
+        },
+        {
+          "name": "ssUserId",
+          "value": "{\"value\":{\"value\":\"ff2b1463-238b-4011-a21a-33e589f417ea\",\"timestamp\":\"2026-11-09T21:50:25.647Z\"}}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxjP3Uy23Qid7x2zzZ6Bf\"},{\"postPurchaseInquiryStatus\":\"disabled\"}]]"
+        },
+        {
+          "name": "swym-rapps_cache",
+          "value": "[{\"app\":\"Wishlist\",\"is-paid\":true,\"enabled\":true,\"sfl-enabled\":true}]"
+        },
+        {
+          "name": "swym-authn",
+          "value": "{\"all\":{\"email\":null,\"regn\":{\"di\":\"c20bf7ee-02fd-4cdd-9434-602edb6e3289\",\"pid\":\"/oh4xmmGuOcpMmcNIOmGkUmqlW9UMXfLIgz41d7Jqnk=\",\"email\":\"\",\"authn?\":false},\"regid\":null,\"authn\":false}}"
+        },
+        {
+          "name": "ssSessionId",
+          "value": "{\"value\":{\"value\":\"c861dc70-6aea-4c85-b286-cb03bc36d5a2\",\"timestamp\":\"2026-11-09T21:50:25.652Z\"}}"
+        },
+        {
+          "name": "csmConsentIdentifier",
+          "value": "{\"consentIdentifier\":\"11896e899bf308b75fdb70d00d9d4e79a8ab3c0c119b5d17d2ba1f58c9ae8eed\",\"createdAt\":\"2026-11-09T21:49:56.425Z\",\"expiresAt\":\"2027-11-09T21:49:56.424Z\"}"
+        },
+        {
+          "name": "rcWidgetSettingsV2",
+          "value": "{\"active_color\":\"#000000\",\"auto_inject\":true,\"background_color\":\"#efefef\",\"delivery_dropdown_label\":\"Delivery\",\"font_color\":\"#040404\",\"form_type\":\"button\",\"how_it_works\":\"<strong>How does Mint Express work?</strong><br>This membership service provides you free domestic standard shipping for a full year + priority processing of all of your orders. No obligation, modify or cancel your subscription anytime.\",\"learnmore_url\":\"http://rechargepayments.com/subscribe-with-recharge\",\"learnmore_verbiage\":\"Learn more...\",\"onetime_message\":\"One-time purchase\",\"popup_background_color\":\"#191D48\",\"popup_link_color\":\"#FFFFFF\",\"popup_text_color\":\"#FFFFFF\",\"poweredby_url\":\"http://rechargepayments.com/subscribe-with-recharge\",\"published\":true,\"select_subscription_first\":true,\"show_learnmore\":true,\"show_poweredby\":true,\"show_subscription_details\":true,\"show_subscription_details_icon\":true,\"sub_and_save_ext_label\":\"on every recurring order\",\"subscribe_message\":\"Subscribe &amp; save\",\"subscribe_without_discount_message\":\"Subscribe\",\"subscription_details_verbiage\":\"Subscription details\",\"translations\":{\"days\":\"Days\",\"week\":\"Week\",\"weeks\":\"Weeks\",\"month\":\"Month\",\"months\":\"Months\"},\"use_plans_data\":true,\"widget_charge_every\":\"Charge every\",\"widget_deliver_every\":\"Delivery every\",\"widget_icon\":\"#191D48\",\"widget_template_type\":\"radio\",\"valid_pages\":[\"product\"],\"is_subscription_first\":true,\"autoInject\":true,\"validPages\":[\"product\"],\"isSubscriptionFirst\":true}"
+        },
+        {
+          "name": "redo.rolling_session",
+          "value": "{\"id\":\"redo-c53309af-4c2d-4012-aa81-e08dde325441\",\"lastActivityMs\":1794261020666}"
+        },
+        {
+          "name": "freeGiftCycle:womens:added",
+          "value": "false"
+        },
+        {
+          "name": "redo_products",
+          "value": "{\"expiry\":1794261382495,\"value\":{\"shopifyProducts\":{\"mainShopifyProduct\":{\"id\":7380116176954,\"title\":\"Free Return Label + Package Protection\",\"handle\":\"free-return-for-store-credit-on-this-order-package-protection\",\"description\":\"<p>Returns Shipping and Package Protection</p>\",\"published_at\":\"2026-07-13T18:26:55-04:00\",\"created_at\":\"2025-02-17T12:08:29-05:00\",\"vendor\":\"re:do\",\"type\":\"return,package_protection\",\"tags\":[\"All Size Available\",\"bis-hidden\",\"Exclude_Search\",\"In Stock\",\"MintShip\",\"no-returns\",\"NON_NEW_ARRIVAL\",\"Price_Under $15.00\",\"Price_Under $20.00\",\"Price_Under $25.00\",\"Price_Under $30.00\",\"Product Photos\",\"Redo\",\"RedoShip\",\"Regular Price\",\"Site Visible\",\"sub25\",\"YBlocklist\"],\"price\":218,\"price_min\":218,\"price_max\":1342,\"available\":true,\"price_varies\":true,\"compare_at_price\":218,\"compare_at_price_min\":218,\"compare_at_price_max\":1342,\"compare_at_price_varies\":true,\"variants\":[{\"id\":40780521865274,\"title\":\"N9X2K\",\"option1\":\"N9X2K\",\"option2\":null,\"option3\":null,\"sku\":\"x-stm\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return Label + Package Protection - N9X2K\",\"public_title\":\"N9X2K\",\"options\":[\"N9X2K\"],\"price\":218,\"weight\":431,\"compare_at_price\":218,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":40780521898042,\"title\":\"S1M8N\",\"option1\":\"S1M8N\",\"option2\":null,\"option3\":null,\"sku\":\"x-stm\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return Label + Package Protection - S1M8N\",\"public_title\":\"S1M8N\",\"options\":[\"S1M8N\"],\"price\":317,\"weight\":431,\"compare_at_price\":317,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":41858579595322,\"title\":\"F0J4E\",\"option1\":\"F0J4E\",\"option2\":null,\"option3\":null,\"sku\":\"x-stm\",\"requires_shipping\":true,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return Label + Package Protection - F0J4E\",\"public_title\":\"F0J4E\",\"options\":[\"F0J4E\"],\"price\":971,\"weight\":0,\"compare_at_price\":971,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":41858579628090,\"title\":\"O6Q4D\",\"option1\":\"O6Q4D\",\"option2\":null,\"option3\":null,\"sku\":\"x-stm\",\"requires_shipping\":true,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return Label + Package Protection - O6Q4D\",\"public_title\":\"O6Q4D\",\"options\":[\"O6Q4D\"],\"price\":1167,\"weight\":0,\"compare_at_price\":1167,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":41858579660858,\"title\":\"R5P6Y\",\"option1\":\"R5P6Y\",\"option2\":null,\"option3\":null,\"sku\":\"x-stm\",\"requires_shipping\":true,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return Label + Package Protection - R5P6Y\",\"public_title\":\"R5P6Y\",\"options\":[\"R5P6Y\"],\"price\":1342,\"weight\":0,\"compare_at_price\":1342,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]}],\"images\":[\"//cdn.shopify.com/s/files/1/0028/1945/7082/files/m-logo_191d8cfb-c514-4396-bc2a-bcdfdaba0988.png?v=1739900231\"],\"featured_image\":\"//cdn.shopify.com/s/files/1/0028/1945/7082/files/m-logo_191d8cfb-c514-4396-bc2a-bcdfdaba0988.png?v=1739900231\",\"options\":[{\"name\":\"Price\",\"position\":1,\"values\":[\"N9X2K\",\"S1M8N\",\"F0J4E\",\"O6Q4D\",\"R5P6Y\"]}],\"url\":\"/products/free-return-for-store-credit-on-this-order-package-protection\",\"media\":[{\"alt\":null,\"id\":22663580811322,\"position\":1,\"preview_image\":{\"aspect_ratio\":0.999,\"height\":1487,\"width\":1486,\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/m-logo_191d8cfb-c514-4396-bc2a-bcdfdaba0988.png?v=1739900231\"},\"aspect_ratio\":0.999,\"height\":1487,\"media_type\":\"image\",\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/m-logo_191d8cfb-c514-4396-bc2a-bcdfdaba0988.png?v=1739900231\",\"width\":1486}],\"requires_selling_plan\":false,\"selling_plan_groups\":[]},\"returnShopifyProduct\":{\"id\":7663029682234,\"title\":\"Free Return for Store Credit on THIS Order\",\"handle\":\"free-return-for-store-credit-on-this-order\",\"description\":\"\",\"published_at\":\"2026-10-27T16:13:57-04:00\",\"created_at\":\"2026-10-27T16:05:25-04:00\",\"vendor\":\"re:do\",\"type\":\"return\",\"tags\":[\"All Size Available\",\"bis-hidden\",\"exclude_rebuy\",\"In Stock\",\"klaviyo_reviews_exclude\",\"NON_NEW_ARRIVAL\",\"NOREVIEWS\",\"Price_Under $15.00\",\"Price_Under $20.00\",\"Price_Under $25.00\",\"Price_Under $30.00\",\"Product Photos\",\"Regular Price\",\"Site Visible\",\"sub25\",\"Womens\"],\"price\":218,\"price_min\":218,\"price_max\":1243,\"available\":true,\"price_varies\":true,\"compare_at_price\":218,\"compare_at_price_min\":218,\"compare_at_price_max\":1243,\"compare_at_price_varies\":true,\"variants\":[{\"id\":41858579726394,\"title\":\"T0O3D\",\"option1\":\"T0O3D\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return for Store Credit on THIS Order - T0O3D\",\"public_title\":\"T0O3D\",\"options\":[\"T0O3D\"],\"price\":218,\"weight\":0,\"compare_at_price\":218,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":41858579759162,\"title\":\"U8K1C\",\"option1\":\"U8K1C\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return for Store Credit on THIS Order - U8K1C\",\"public_title\":\"U8K1C\",\"options\":[\"U8K1C\"],\"price\":872,\"weight\":0,\"compare_at_price\":872,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":41858579791930,\"title\":\"M4W0C\",\"option1\":\"M4W0C\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return for Store Credit on THIS Order - M4W0C\",\"public_title\":\"M4W0C\",\"options\":[\"M4W0C\"],\"price\":1068,\"weight\":0,\"compare_at_price\":1068,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":41858579824698,\"title\":\"Q4O9O\",\"option1\":\"Q4O9O\",\"option2\":null,\"option3\":null,\"sku\":\"x-redo\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return for Store Credit on THIS Order - Q4O9O\",\"public_title\":\"Q4O9O\",\"options\":[\"Q4O9O\"],\"price\":1243,\"weight\":0,\"compare_at_price\":1243,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]}],\"images\":[\"//cdn.shopify.com/s/files/1/0028/1945/7082/files/image_720_9d0ca813ef02.png?v=1793131527\"],\"featured_image\":\"//cdn.shopify.com/s/files/1/0028/1945/7082/files/image_720_9d0ca813ef02.png?v=1793131527\",\"options\":[{\"name\":\"Price\",\"position\":1,\"values\":[\"T0O3D\",\"U8K1C\",\"M4W0C\",\"Q4O9O\"]}],\"url\":\"/products/free-return-for-store-credit-on-this-order\",\"media\":[{\"alt\":\"Redo Product Image\",\"id\":26288120201274,\"position\":1,\"preview_image\":{\"aspect_ratio\":1,\"height\":720,\"width\":720,\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/image_720_9d0ca813ef02.png?v=1793131527\"},\"aspect_ratio\":1,\"height\":720,\"media_type\":\"image\",\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/image_720_9d0ca813ef02.png?v=1793131527\",\"width\":720}],\"requires_selling_plan\":false,\"selling_plan_groups\":[]},\"packageShopifyProduct\":{\"id\":7380116144186,\"title\":\"Mint Shipping Protection\",\"handle\":\"package-protection-valid-in-us\",\"description\":\"<p>Shipping Protection including coverage from lost, stolen or damaged products</p>\",\"published_at\":\"2026-07-13T18:26:53-04:00\",\"created_at\":\"2025-02-17T12:08:29-05:00\",\"vendor\":\"re:do\",\"type\":\"package_protection\",\"tags\":[\"All Size Available\",\"bis-hidden\",\"Exclude_Search\",\"In Stock\",\"MintShip\",\"no-returns\",\"NON_NEW_ARRIVAL\",\"One Variant\",\"Price_Under $15.00\",\"Price_Under $20.00\",\"Price_Under $25.00\",\"Price_Under $30.00\",\"Product Photos\",\"Regular Price\",\"Site Visible\",\"sub25\",\"YBlocklist\"],\"price\":99,\"price_min\":99,\"price_max\":99,\"available\":true,\"price_varies\":false,\"compare_at_price\":99,\"compare_at_price_min\":99,\"compare_at_price_max\":99,\"compare_at_price_varies\":false,\"variants\":[{\"id\":40780521832506,\"title\":\"Z4I3Z\",\"option1\":\"Z4I3Z\",\"option2\":null,\"option3\":null,\"sku\":\"x-mship\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Mint Shipping Protection - Z4I3Z\",\"public_title\":\"Z4I3Z\",\"options\":[\"Z4I3Z\"],\"price\":99,\"weight\":0,\"compare_at_price\":99,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]}],\"images\":[\"//cdn.shopify.com/s/files/1/0028/1945/7082/files/m-logo_191d8cfb-c514-4396-bc2a-bcdfdaba0988.png?v=1739900231\"],\"featured_image\":\"//cdn.shopify.com/s/files/1/0028/1945/7082/files/m-logo_191d8cfb-c514-4396-bc2a-bcdfdaba0988.png?v=1739900231\",\"options\":[{\"name\":\"Price\",\"position\":1,\"values\":[\"Z4I3Z\"]}],\"url\":\"/products/package-protection-valid-in-us\",\"media\":[{\"alt\":null,\"id\":22663580811322,\"position\":1,\"preview_image\":{\"aspect_ratio\":0.999,\"height\":1487,\"width\":1486,\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/m-logo_191d8cfb-c514-4396-bc2a-bcdfdaba0988.png?v=1739900231\"},\"aspect_ratio\":0.999,\"height\":1487,\"media_type\":\"image\",\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/m-logo_191d8cfb-c514-4396-bc2a-bcdfdaba0988.png?v=1739900231\",\"width\":1486}],\"requires_selling_plan\":false,\"selling_plan_groups\":[]},\"bothShopifyProduct\":{\"id\":7380116176954,\"title\":\"Free Return Label + Package Protection\",\"handle\":\"free-return-for-store-credit-on-this-order-package-protection\",\"description\":\"<p>Returns Shipping and Package Protection</p>\",\"published_at\":\"2026-07-13T18:26:55-04:00\",\"created_at\":\"2025-02-17T12:08:29-05:00\",\"vendor\":\"re:do\",\"type\":\"return,package_protection\",\"tags\":[\"All Size Available\",\"bis-hidden\",\"Exclude_Search\",\"In Stock\",\"MintShip\",\"no-returns\",\"NON_NEW_ARRIVAL\",\"Price_Under $15.00\",\"Price_Under $20.00\",\"Price_Under $25.00\",\"Price_Under $30.00\",\"Product Photos\",\"Redo\",\"RedoShip\",\"Regular Price\",\"Site Visible\",\"sub25\",\"YBlocklist\"],\"price\":218,\"price_min\":218,\"price_max\":1342,\"available\":true,\"price_varies\":true,\"compare_at_price\":218,\"compare_at_price_min\":218,\"compare_at_price_max\":1342,\"compare_at_price_varies\":true,\"variants\":[{\"id\":40780521865274,\"title\":\"N9X2K\",\"option1\":\"N9X2K\",\"option2\":null,\"option3\":null,\"sku\":\"x-stm\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return Label + Package Protection - N9X2K\",\"public_title\":\"N9X2K\",\"options\":[\"N9X2K\"],\"price\":218,\"weight\":431,\"compare_at_price\":218,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":40780521898042,\"title\":\"S1M8N\",\"option1\":\"S1M8N\",\"option2\":null,\"option3\":null,\"sku\":\"x-stm\",\"requires_shipping\":false,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return Label + Package Protection - S1M8N\",\"public_title\":\"S1M8N\",\"options\":[\"S1M8N\"],\"price\":317,\"weight\":431,\"compare_at_price\":317,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":41858579595322,\"title\":\"F0J4E\",\"option1\":\"F0J4E\",\"option2\":null,\"option3\":null,\"sku\":\"x-stm\",\"requires_shipping\":true,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return Label + Package Protection - F0J4E\",\"public_title\":\"F0J4E\",\"options\":[\"F0J4E\"],\"price\":971,\"weight\":0,\"compare_at_price\":971,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":41858579628090,\"title\":\"O6Q4D\",\"option1\":\"O6Q4D\",\"option2\":null,\"option3\":null,\"sku\":\"x-stm\",\"requires_shipping\":true,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return Label + Package Protection - O6Q4D\",\"public_title\":\"O6Q4D\",\"options\":[\"O6Q4D\"],\"price\":1167,\"weight\":0,\"compare_at_price\":1167,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]},{\"id\":41858579660858,\"title\":\"R5P6Y\",\"option1\":\"R5P6Y\",\"option2\":null,\"option3\":null,\"sku\":\"x-stm\",\"requires_shipping\":true,\"taxable\":true,\"featured_image\":null,\"available\":true,\"name\":\"Free Return Label + Package Protection - R5P6Y\",\"public_title\":\"R5P6Y\",\"options\":[\"R5P6Y\"],\"price\":1342,\"weight\":0,\"compare_at_price\":1342,\"inventory_management\":null,\"barcode\":null,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"quantity_price_breaks\":[],\"requires_selling_plan\":false,\"selling_plan_allocations\":[]}],\"images\":[\"//cdn.shopify.com/s/files/1/0028/1945/7082/files/m-logo_191d8cfb-c514-4396-bc2a-bcdfdaba0988.png?v=1739900231\"],\"featured_image\":\"//cdn.shopify.com/s/files/1/0028/1945/7082/files/m-logo_191d8cfb-c514-4396-bc2a-bcdfdaba0988.png?v=1739900231\",\"options\":[{\"name\":\"Price\",\"position\":1,\"values\":[\"N9X2K\",\"S1M8N\",\"F0J4E\",\"O6Q4D\",\"R5P6Y\"]}],\"url\":\"/products/free-return-for-store-credit-on-this-order-package-protection\",\"media\":[{\"alt\":null,\"id\":22663580811322,\"position\":1,\"preview_image\":{\"aspect_ratio\":0.999,\"height\":1487,\"width\":1486,\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/m-logo_191d8cfb-c514-4396-bc2a-bcdfdaba0988.png?v=1739900231\"},\"aspect_ratio\":0.999,\"height\":1487,\"media_type\":\"image\",\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/m-logo_191d8cfb-c514-4396-bc2a-bcdfdaba0988.png?v=1739900231\",\"width\":1486}],\"requires_selling_plan\":false,\"selling_plan_groups\":[]}},\"currency\":\"USD\"}}"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,^B5L1I%bn]]G6R8D9,J/pk`#CZd~l4<O61MWMmeM&?}Q_{MV3Sv'%B*A2|V1>^5WsFEp[Po4O{YPRqKAYO"
+        },
+        {
+          "name": "redo-product-info-7112637579322",
+          "value": "{\"expiry\":1794264623567,\"value\":{\"tags\":[\"best seller\",\"bis-hidden\",\"bumpfriendly\",\"clothing\",\"color_green\",\"combined\",\"combined_quick-decisions-cheetah-sweater\",\"detailedcategory_long sleeve\",\"detailedcategory_sweaters\",\"detailedcategory_tunics\",\"doorbusters2023\",\"doorbusters2024\",\"doorbusters2025\",\"festiveholiday\",\"green reindeer_https://cdn.shopify.com/s/files/1/0028/1945/7082/files/screenshot_2025-11-04_102316.png?v=1762273402\",\"holiday_christmas\",\"holidayselectsweaters\",\"hq\",\"in stock\",\"maincategory_tops\",\"na date_11/28/2024\",\"neckline_mock neck\",\"new arrival\",\"non_new_arrival\",\"occasion_everyday\",\"pattern_other print\",\"price_$50.00 - $74.99\",\"product photos\",\"regular price\",\"season_holiday\",\"selectholiday2025\",\"site visible\",\"size_medium\",\"size_small\",\"tops\",\"women\",\"womens\",\"ygroup_quick-decisions-sweater-free-gift\"],\"collections\":[],\"product\":{\"id\":7112637579322,\"title\":\"Quick Decisions Emerald Green Reindeer Sweater\",\"body_html\":\"<p data-mce-fragment=\\\"1\\\">We think it's going to be a quick decision for you to put this\u00a0festive\u00a0sweater in your cart! It's obviously cute with that\u00a0reindeer<span data-mce-fragment=\\\"1\\\">\u00a0</span>print but it's also super cozy making it perfect for the<span data-mce-fragment=\\\"1\\\">\u00a0</span>holiday season! This mock neck sweater is going to look so cute with skinny jeans and booties or leggings and boots!</p>\\n<ul data-mce-fragment=\\\"1\\\">\\n<li data-mce-fragment=\\\"1\\\">Mock neckline</li>\\n<li data-mce-fragment=\\\"1\\\">Long fitted sleeves with drop shoulders</li>\\n<li data-mce-fragment=\\\"1\\\">Side slits</li>\\n<li data-mce-fragment=\\\"1\\\">Holly\u00a0print</li>\\n<li data-mce-fragment=\\\"1\\\">Generous stretch</li>\\n</ul>\\n<p data-mce-fragment=\\\"1\\\">Baileigh\u00a0is wearing the small.\u00a0</p>\",\"vendor\":\"Shop the Mint\",\"product_type\":\"\",\"created_at\":\"2023-10-03T12:36:51-04:00\",\"handle\":\"quick-decisions-emerald-green-reindeer-sweater\",\"updated_at\":\"2026-11-09T16:50:23-05:00\",\"published_at\":\"2025-11-07T06:43:20-05:00\",\"template_suffix\":\"\",\"published_scope\":\"global\",\"tags\":\"Best Seller, bis-hidden, BumpFriendly, Clothing, Color_Green, Combined, combined_quick-decisions-cheetah-sweater, DetailedCategory_Long Sleeve, DetailedCategory_Sweaters, DetailedCategory_Tunics, Doorbusters2023, Doorbusters2024, Doorbusters2025, FestiveHoliday, Green Reindeer_https://cdn.shopify.com/s/files/1/0028/1945/7082/files/Screenshot_2025-11-04_102316.png?v=1762273402, Holiday_Christmas, HolidaySelectSweaters, HQ, In Stock, MainCategory_Tops, NA Date_11/28/2024, Neckline_Mock Neck, New Arrival, NON_NEW_ARRIVAL, Occasion_Everyday, Pattern_Other Print, Price_$50.00 - $74.99, Product Photos, Regular Price, Season_Holiday, SelectHoliday2025, Site Visible, Size_Medium, Size_Small, Tops, Women, Womens, YGroup_quick-decisions-sweater-free-gift\",\"variants\":[{\"id\":40685800063034,\"product_id\":7112637579322,\"title\":\"X-Small / Green Reindeer\",\"price\":\"58.00\",\"sku\":\"110092-GRN-XS\",\"position\":1,\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"X-Small\",\"option2\":\"Green Reindeer\",\"option3\":null,\"created_at\":\"2024-10-11T12:02:33-04:00\",\"updated_at\":\"2026-11-09T16:50:23-05:00\",\"taxable\":true,\"barcode\":\"110092-GRN-XS\",\"grams\":295,\"image_id\":null,\"weight\":0.65,\"weight_unit\":\"lb\",\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"USD\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40067036938298,\"product_id\":7112637579322,\"title\":\"Small / Green Reindeer\",\"price\":\"58.00\",\"sku\":\"110092-GRN-SM\",\"position\":2,\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Small\",\"option2\":\"Green Reindeer\",\"option3\":null,\"created_at\":\"2023-10-03T12:36:51-04:00\",\"updated_at\":\"2026-11-09T16:50:23-05:00\",\"taxable\":true,\"barcode\":\"110092-GRN-SM\",\"grams\":612,\"image_id\":null,\"weight\":1.35,\"weight_unit\":\"lb\",\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"USD\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40067036971066,\"product_id\":7112637579322,\"title\":\"Medium / Green Reindeer\",\"price\":\"58.00\",\"sku\":\"110092-GRN-MD\",\"position\":3,\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Medium\",\"option2\":\"Green Reindeer\",\"option3\":null,\"created_at\":\"2023-10-03T12:36:52-04:00\",\"updated_at\":\"2026-11-09T16:50:23-05:00\",\"taxable\":true,\"barcode\":\"110092-GRN-MD\",\"grams\":635,\"image_id\":null,\"weight\":1.4,\"weight_unit\":\"lb\",\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"USD\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40067037003834,\"product_id\":7112637579322,\"title\":\"Large / Green Reindeer\",\"price\":\"58.00\",\"sku\":\"110092-GRN-LG\",\"position\":4,\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"Large\",\"option2\":\"Green Reindeer\",\"option3\":null,\"created_at\":\"2023-10-03T12:36:52-04:00\",\"updated_at\":\"2026-11-09T16:50:23-05:00\",\"taxable\":true,\"barcode\":\"110092-GRN-LG\",\"grams\":658,\"image_id\":null,\"weight\":1.45,\"weight_unit\":\"lb\",\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"USD\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]},{\"id\":40067037036602,\"product_id\":7112637579322,\"title\":\"X-Large / Green Reindeer\",\"price\":\"58.00\",\"sku\":\"110092-GRN-XL\",\"position\":5,\"compare_at_price\":\"\",\"fulfillment_service\":\"manual\",\"inventory_management\":\"shopify\",\"option1\":\"X-Large\",\"option2\":\"Green Reindeer\",\"option3\":null,\"created_at\":\"2023-10-03T12:36:52-04:00\",\"updated_at\":\"2026-11-09T16:50:23-05:00\",\"taxable\":true,\"barcode\":\"110092-GRN-XL\",\"grams\":680,\"image_id\":null,\"weight\":1.5,\"weight_unit\":\"lb\",\"tax_code\":\"PC040100\",\"requires_shipping\":true,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"price_currency\":\"USD\",\"compare_at_price_currency\":\"\",\"quantity_price_breaks\":[]}],\"options\":[{\"id\":9291086004282,\"product_id\":7112637579322,\"name\":\"Size\",\"position\":1,\"values\":[\"X-Small\",\"Small\",\"Medium\",\"Large\",\"X-Large\"]},{\"id\":9291086037050,\"product_id\":7112637579322,\"name\":\"Color\",\"position\":2,\"values\":[\"Green Reindeer\"]}],\"images\":[{\"id\":30130579931194,\"product_id\":7112637579322,\"position\":1,\"created_at\":\"2024-10-10T10:53:24-04:00\",\"updated_at\":\"2024-10-10T10:53:26-04:00\",\"alt\":null,\"width\":2000,\"height\":3000,\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/110092.Quick-Decisions-Emerald-Green-Reindeer-Sweater.jpg?v=1728572006\",\"variant_ids\":[]},{\"id\":30130580095034,\"product_id\":7112637579322,\"position\":2,\"created_at\":\"2024-10-10T10:53:24-04:00\",\"updated_at\":\"2024-10-10T10:53:26-04:00\",\"alt\":null,\"width\":2000,\"height\":3000,\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/110092.Quick-Decisions-Emerald-Green-Reindeer-Sweater__copy_4.jpg?v=1728572006\",\"variant_ids\":[]},{\"id\":30130580062266,\"product_id\":7112637579322,\"position\":3,\"created_at\":\"2024-10-10T10:53:23-04:00\",\"updated_at\":\"2025-11-04T11:23:38-05:00\",\"alt\":null,\"width\":2000,\"height\":3000,\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/110092.Quick-Decisions-Emerald-Green-Reindeer-Sweater__copy_3.jpg?v=1762273418\",\"variant_ids\":[]},{\"id\":30130579996730,\"product_id\":7112637579322,\"position\":4,\"created_at\":\"2024-10-10T10:53:24-04:00\",\"updated_at\":\"2025-11-04T11:23:38-05:00\",\"alt\":null,\"width\":2000,\"height\":3000,\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/110092.Quick-Decisions-Emerald-Green-Reindeer-Sweater__copy_1.jpg?v=1762273418\",\"variant_ids\":[]},{\"id\":30130580127802,\"product_id\":7112637579322,\"position\":5,\"created_at\":\"2024-10-10T10:53:24-04:00\",\"updated_at\":\"2025-11-04T11:23:38-05:00\",\"alt\":null,\"width\":2000,\"height\":3000,\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/110092.Quick-Decisions-Emerald-Green-Reindeer-Sweater__copy_2.jpg?v=1762273418\",\"variant_ids\":[]}],\"image\":{\"id\":30130579931194,\"product_id\":7112637579322,\"position\":1,\"created_at\":\"2024-10-10T10:53:24-04:00\",\"updated_at\":\"2024-10-10T10:53:26-04:00\",\"alt\":null,\"width\":2000,\"height\":3000,\"src\":\"https://cdn.shopify.com/s/files/1/0028/1945/7082/files/110092.Quick-Decisions-Emerald-Green-Reindeer-Sweater.jpg?v=1728572006\",\"variant_ids\":[]}},\"variantMetafields\":[]}}"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,UYsOB0JCdhez!\\5`p'a\"n |M_1\\;F|lH]{m<d|pl4)e\\z>ru*\\2E=)2E!c-}j=?);H7K(dM$=8#*cUe+U*"
+        },
+        {
+          "name": "swym-wishlisthkey_timestamp",
+          "value": "0"
+        },
+        {
+          "name": "swym-rconfig_cache",
+          "value": "{\"v\":\"108-0\",\"settings\":{\"RetailerId\":\"/oh4xmmGuOcpMmcNIOmGkUmqlW9UMXfLIgz41d7Jqnk=\",\"SA\":{\"Title\":\"Shopping Assistant\",\"Anchor\":{\"Placement\":\"bottom-right\"},\"Enabled\":false,\"Color\":\"#7E57C2\"},\"Integrations\":{\"Review\":\"none\"},\"General\":{\"RetailerName\":\"\",\"_v\":3,\"EngageUI\":{\"Settings\":{\"IsPaid\":false,\"TrialExpiryDate\":\"2026-09-11\"},\"Enabled\":true},\"UseFetchWithML\":false,\"DisablePrefetchWorkers\":true,\"RemoteConfig\":{\"assets\":\"//swymv3premium-01.azureedge.net/code\",\"host\":\"//swymstore-v3premium-01.swymrelay.com\",\"ttl\":600},\"Currency\":\"$\",\"ProductsVersion\":1,\"HostedPages\":{\"SharedWishlist\":\"/pages/swym-share-wishlist\",\"Wishlist\":\"/pages/swym-wishlist\"},\"IgnoreCacheTS\":1786551470384,\"ProductLevel\":\"product-variant\",\"BaseURL\":\"\",\"Enabled\":true,\"LogoutClean\":true,\"RetailerID\":\"\",\"UseProductMetadataStore\":false,\"MarketsEnabled\":false},\"Wishlist\":{\"AddedButtonColor\":\"#f0a28f\",\"AllowToggle\":\"true\",\"FaveCountSelector\":\".swym-lovelist .loved-count\",\"EnableCollections\":true,\"SharingModes\":[{\"iconurl\":\"https://swymdev.azureedge.net/swym-shared/facebook.png\",\"type\":\"facebook\",\"url\":\"https://www.facebook.com/sharer.php?u={{shareurl}}&t={{note}}\"},{\"iconurl\":\"https://swymdev.azureedge.net/swym-shared/twitter.png\",\"type\":\"twitter\",\"url\":\"https://www.twitter.com/intent/tweet?url={{shareurl}}&text={{note}}\"}],\"UseCustomButton\":false,\"ButtonColor\":\"#f0a28f\",\"ButtonIcon\":\"heart\",\"CustomFavoriteButtonClass\":\"link-wishlist\",\"CreateCustomButton\":false,\"EnableFaveCount\":false,\"ButtonType\":\"iconbtnlink\",\"AttachButtonSelector\":\"\",\"ShowAddAnimation\":false,\"MailingListCheckInPopup\":false,\"CustomFavoriteButtonSelector\":\"a.custom-wishlist\",\"ShowBadge\":true,\"Enabled\":true,\"ToggleSwitchState\":true,\"CreateCustomButtonBefore\":\".description-accordion\",\"AllowSharing\":true,\"EnableSwymWishlist\":true,\"NoButtonInject\":false},\"Watchlist\":{\"Topics\":[\"backinstock\"],\"ButtonType\":\"icontext\"},\"Notification\":{\"EnableSanta\":false,\"Frequency\":300000,\"NTs\":{},\"MaxPerSession\":0,\"EnablePriceCheck\":false,\"EnableStockCheck\":false},\"Strings\":{\"MailingListPopupDescription\":\"We will send you an email about products you have loved. Your email address will not be shared with anyone else.\",\"MailingListPopupSubheading\":\"Receive updates about products you have loved!\",\"WishlistTooltipBefore\":\"Add to wishlist\",\"ShareWishlistPopupNoteDefault\":\"Hey there! Take a look at My Wishlist.\",\"AddToCartCTAAlreadyAdded\":\"Added to Bag\",\"SharedWishlistReadOnlyCTA\":\"Log in to edit\",\"WishlistTooltipAfter\":\"Added. <a class=\\\"swym-open-ui\\\">View Wishlist</a>\",\"AddToCartCTACanAdd\":\"Add to Bag\",\"WishlistAddedCTA\":\"Added to Wishlist\",\"MailingListPopupHeading\":\"Subscribe To Receive Updates On Your Loved Products\",\"WishlistAddCTA\":\"Add to Wishlist\"},\"Email\":{\"EnableEmailFriend\":true},\"StoreLogo\":\"https://swymprod.azureedge.net/retailerlogos/shopthemint-myshopify-com-logo.png?v=1610488265366&v=1624640245074\",\"FeatureToggles\":{\"use_mongo_SwymEtCountStore\":true},\"SFL\":{\"AddToSFLButton\":false,\"CartProductTileSelector\":\".cart-item\",\"PreviewSettings\":{\"PopUpSettings\":{\"ButtonText\":\"SAVE FOR LATER\",\"ButtonColor\":\"#51545d\",\"Title\":\"Do you want to save this product for later?\",\"ShowAskMeAgainAfterCount\":2,\"MultipleProductsTitle\":\"Save all products for later to your Wishlist?\",\"PreviewDuration\":300000,\"SecondaryButtonText\":\"No, thanks!\",\"PopUpEnabled\":true,\"ButtonTextColor\":\"#FFFFFF\",\"AskMeAgainOption\":false,\"AskMeAgainLabel\":\"Don't ask me again\"}},\"EnableSFLViewOnWishlistUI\":true,\"CartPageContainerSelector\":\"#MainContent\",\"EnableSFLViewOnCart\":false,\"PopUpSettings\":{\"ButtonText\":\"SAVE FOR LATER\",\"ButtonColor\":\"#51545d\",\"Title\":\"Do you want to save this product for later?\",\"ShowAskMeAgainAfterCount\":2,\"MultipleProductsTitle\":\"Save all products for later to your Wishlist?\",\"PreviewDuration\":300000,\"SecondaryButtonText\":\"No, thanks!\",\"PopUpEnabled\":true,\"ButtonTextColor\":\"#FFFFFF\",\"AskMeAgainOption\":false,\"AskMeAgainLabel\":\"Don't ask me again\"},\"AddToSFLBtnSelector\":\"cart-remove-button\",\"CartPageURL\":\"/cart\",\"SFLFeatureEnabled\":false},\"UI\":{\"HTCAddListAssistantNote\":true,\"CustomCSS\":\"a.swym-wishlist-btn.swym-button.swym-iconbtnlink.swym-heart.disabled.swym-added.swym-loaded {opacity:1;} a.swym-wishlist-btn:not(.swym-added) {opacity:.25;}button.swym-button.swym-add-to-wishlist-view-product.swym-loaded:after{font-family:Raleway,sans-serif;} button.swym-button.swym-add-to-wishlist-view-product{margin-left:12.5pc;} @media only screen and (max-width: 600px) {button.swym-button.swym-add-to-wishlist-view-product{margin-left:7pc;}\",\"EnableProductView\":true,\"NotificationOnly\":false,\"HTCAddListShopperNote\":true,\"HTCAssistantFilterOptions\":[{\"key\":\"date-descending\",\"default\":true,\"displayText\":\"Date - Newest First\"},{\"key\":\"date-ascending\",\"displayText\":\"Date - Oldest First\"},{\"key\":\"price-descending\",\"displayText\":\"Price - High to Low\"},{\"key\":\"price-ascending\",\"displayText\":\"Price - Low to High\"},{\"key\":\"hide-out-of-stock\",\"displayText\":\"Hide Out of Stock\"}],\"Title\":\"My Wishlist\",\"WelcomeCTA\":\"\",\"LauncherIcon\":\"heart\",\"WelcomeMessage\":\"\",\"LauncherLocation\":\"bottom-right\",\"LauncherType\":\"custom\",\"SimpleWishlistOnly\":true,\"ProductTileAsUrlLink\":true,\"AddToCartBtnColor\":\"#51545d\",\"WelcomeSplash\":\"\",\"HTCAddToListNoteInput\":true,\"CustomAnchorSelector\":\"\",\"HTCUserFilterOptions\":[{\"key\":\"date-descending\",\"default\":true,\"displayText\":\"Date - Newest First\"},{\"key\":\"date-ascending\",\"displayText\":\"Date - Oldest First\"},{\"key\":\"price-descending\",\"displayText\":\"Price - High to Low\"},{\"key\":\"price-ascending\",\"displayText\":\"Price - Low to High\"},{\"key\":\"hide-out-of-stock\",\"displayText\":\"Hide Out of Stock\"}],\"UseCustomLauncher\":false,\"DisallowedURLPatterns\":[\"checkout\"],\"WelcomeTitle\":\"\",\"LauncherOpenHosted\":\"hosted\",\"HTCCustomerDetailsCustomDetailsEnabled\":true,\"AcceptMarketingRevampUI\":true,\"HTCCustomerDashboardEnabled\":true,\"Icon\":\"\",\"Color\":\"#f0a28f\",\"HTCAssistantWishlistDragEnable\":true}}}"
+        },
+        {
+          "name": "swym-ab-test-config",
+          "value": "{}"
+        },
+        {
+          "name": "rcProduct1519910780986",
+          "value": "{\"external_product_id\":1519910780986,\"hasPrepaidPlan\":false,\"hasOnetimePlan\":false,\"plans\":[{\"id\":4760133,\"title\":\"Delivery every 365 days\",\"type\":\"subscription\",\"discount_amount\":\"0.00\",\"discount_type\":\"percentage\",\"external_plan_id\":2383085626,\"external_plan_group_id\":656146490,\"external_plan_name\":\"Delivery every 365 days\",\"sort_order\":1,\"charge_interval_frequency\":365,\"order_interval_frequency\":365,\"interval_unit\":\"day\",\"external_variant_ids\":[],\"has_variant_restrictions\":false,\"apply_cutoff_date_to_checkout\":false,\"pricing_progression\":[],\"product_quantity\":null}],\"variants\":[{\"id\":13993312616506,\"external_variant_id\":\"13993312616506\",\"option_values\":[\"One Size\",\"Mint\"],\"prices\":[{\"currency\":\"USD\",\"unit_price\":\"32.00\",\"compare_at_price\":null,\"plans\":[{\"id\":4760133,\"discounted_price\":\"32.00\",\"discount_value\":\"0.00\"}]}]}],\"formattedVariantPrices\":{\"13993312616506\":{\"unit\":\"$32.00\",\"discounted\":\"$32.00\",\"formattedSellingPlanPrices\":{\"2383085626\":{\"unit\":\"$32.00\",\"discounted\":\"$32.00\",\"discountType\":\"percentage\",\"discountValue\":0}}}},\"variantLevelPlans\":{\"13993312616506\":[{\"id\":4760133,\"title\":\"Delivery every 365 days\",\"type\":\"subscription\",\"discount_amount\":\"0.00\",\"discount_type\":\"percentage\",\"external_plan_id\":2383085626,\"external_plan_group_id\":656146490,\"external_plan_name\":\"Delivery every 365 days\",\"sort_order\":1,\"charge_interval_frequency\":365,\"order_interval_frequency\":365,\"interval_unit\":\"day\",\"external_variant_ids\":[],\"has_variant_restrictions\":false,\"apply_cutoff_date_to_checkout\":false,\"pricing_progression\":[],\"product_quantity\":null}]}}"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,\\HhL)%6+dYZI|yX:F!RO6#3^4MY{D~5E0ir9;NDCgiACx+rvbeLolS5y%@%FWs,`O@C?n\u007fjKYC_=oLLB_C>5g ~R~s]fxp3=%J3e-321UXE"
+        },
+        {
+          "name": "swym-devices_timestamp",
+          "value": "1794261028.048"
+        },
+        {
+          "name": "redo-return-valid-excl-props-7112637579322",
+          "value": "{\"expiry\":1794264623569,\"value\":\"true\"}"
+        },
+        {
+          "name": "redo.anonymous_shopify_session_id",
+          "value": "redo-c53309af-4c2d-4012-aa81-e08dde325441"
+        },
+        {
+          "name": "ssPageLoadId",
+          "value": "{\"value\":{\"href\":\"https://shopthemint.com/products/quick-decisions-emerald-green-reindeer-sweater\",\"value\":\"ae7bb38b-1c9e-41df-af61-92ea2e1e50f5\",\"timestamp\":\"2026-11-09T21:50:24.369Z\"}}"
+        }
+      ]
+    }
+  ]
+}

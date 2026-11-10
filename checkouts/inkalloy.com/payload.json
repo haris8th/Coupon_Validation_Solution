@@ -1,0 +1,47 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBPsqUMJk3SzE5UdTfIYTBQ9Hh6gMglHBJ_FIxuWvZk3n0h1gDBmFACEUaLFqaXg1jRZQTePOFSiG1MOoeVz63WEXe9ypwFgocHaobqB5iNYZIMCZUtrWBh6ZH782c8S4QABqtViEgu9DWTNNc0bG8Xact1bIFLJ0BBUO0N5GVWACxvrcUiATN88yqeHGDwUksC91XFD75v946lQ4rYJ-lKheT"
+    },
+    "queueToken": "A7Y_MEBpvPxOtZ_wvgwsggTUWVpqOYnu6QcPtgxuiHlctDe31xaqVUvo7f8i0H7yUBYx41fa3vGgVIEz_2MTpqXx1tK4TJOUXkSxLmG-yAmmqnysYYF8N2RhvOpfQw==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "69275108-badd-4db9-81d2-267df2d8a76d",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/50555577893057",
+              "variantId": "gid://shopify/ProductVariant/50555577893057",
+              "properties": [
+                {
+                  "name": "Sale type",
+                  "value": {
+                    "string": "Pre-order"
+                  },
+                  "visible": true
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "100.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

@@ -1,0 +1,619 @@
+{
+  "cookies": [
+    {
+      "name": "GlobalE_Analytics",
+      "value": "{\"merchantId\":\"60000116\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://web.global-e.com/\",\"clientId\":\"943ff54f-f85c-44f1-9c5c-3437a98aaba5\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":true,\"FT_3DA_UTM_SOURCE_LIST\":[\"borderfree\"],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":true,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794251226421}",
+      "domain": "corkcicle.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "qn1_Dd2w9Da",
+      "value": "deviceId=Dd2w9Da-AaHBiJP%2FhISV&lastActive=1794251229189&updated=1794251229189&visitId=Dd2w9Da-AaHBiJP%2FhISVAAC0",
+      "domain": "corkcicle.com",
+      "path": "/products",
+      "expires": 1825787229.216278,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1825787236.633352,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1802113636.633698,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHBtMwdAAEAXw6cnpGFe11BfeBQ5Mye8PvpRNhhnh2GTuLZFqCrybnPPkM54ougWGfvsawZfMgS74P-97pbI3ZTK9Q:",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1825787214.339891,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHBtM3SAAEACZ1qz6Qc_XUw2732fBi8rjzD4wfAFmh-VVyFYhEKzEyH_AJ68GvP6P3rh88GFWMSYZLKjhKXR-ugHFM:",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1825787214.339984,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHBtM3TAAEA07t5J9qeUa_ddkcoYL_NlNrWo6YRxsWo79PaPwjSGVbWkZnfrzrLR22xDbd704dtL9bAp548UUu8G6M:",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1825787214.340072,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rrpvc",
+      "value": "1",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1825787221,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rrssts",
+      "value": "1794251221794",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1825787221,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shd_s",
+      "value": "71a94f5f-9c9e-4c62-90fd-4aee115cbae6",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1794253027.808683,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shd_y",
+      "value": "5b7b5ecb-5750-4f10-b1e4-347ec8ec1a11",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1825355227.818195,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cookieyes-consent",
+      "value": "consentid:QzloQzVsemM1OEczWGw3MmZEV1lJV3FseUtlcm9VY24,consent:yes,action:no,necessary:yes,functional:yes,analytics:yes,performance:yes,advertisement:yes,other:yes",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1825787223,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://corkcicle.com",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1796843223,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "5b7b5ecb-5750-4f10-b1e4-347ec8ec1a11",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1825787223,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_nidsess",
+      "value": "2c82f694-9b56-4465-9ff3-452e72f3656c",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1794253023.84034,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2012538866.1794251224",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1828811225.402154,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU9EVm1NVE5rTW1RdE5HRTVZUzAwTnpRNUxXRXlZalV0TjJZM1pUSTBObVJsTURObA",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1825787223,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rrv2ses.d548",
+      "value": "*",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1794253028,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "value": "FPID2.2.1xYcwctN1x44Yslm1D6vmY4dMO4MvZ2WiJKQ8Zi%2FkCA%3D.1794251224",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1828811237.832756,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "value": "T236Rz3rzeBDSU1709vh6b%2Fg4QCX8fQzmiPsPlM98X2tkuxR3JcsXG1sxupoIJcrRhERkEn78XzBnVV%2FAuv8JrOCaoEsHMVmBQwlb4ejFHkS0C0B%2B2rkgofZlHnFlQ%3D%3D",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1794323224.9937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1796843225,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rj2session",
+      "value": "43b24ace-f559-400f-966c-41762b97ca6f",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1828811227.033745,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Consent",
+      "value": "%7B%22required%22%3Afalse%2C%22groups%22%3A%7B%221%22%3A1%2C%222%22%3A1%2C%223%22%3A1%7D%7D",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "chatID",
+      "value": "mw9murf8q7thh9x9lxf",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1796843227,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GLBE_SESS_ID",
+      "value": "%7B%22sid%22%3A%22401165610.697759851.60000116%22%2C%22expiry%22%3A%222026-11-09T19%3A37%3A07.334Z%22%7D",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1828811227.334792,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1511216710.1794251226.-.-.1794251225.440161861.1794251226.1794251227",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1802027226,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxStlUOwePMyTUinvyrJ5%3Fkey%3Db3e3ad30fdd732faa3d1d65f0ebbc965",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1802113636.633521,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__zlcmid",
+      "value": "1aQowsYLnhfgWNk",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1825787227,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rrv2id.d548",
+      "value": "3756e29c-2cad-41da-8f01-9186df0bbe21.1794251225.1.1794251229.1794251225.0aad5b28-b0aa-412a-ade6-2cc30250dc02",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1828811228.942695,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "manaviews",
+      "value": "1",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1825787229,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_VQJT6W*gS3yj6z734Bd-jg%2302dc2927-3b80-4541-b3f3-32646331f797-1794251218",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1825808836.633048,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "manafid2",
+      "value": "mw9mutc3dx4f",
+      "domain": "corkcicle.com",
+      "path": "/",
+      "expires": 1825787229,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "forterToken",
+      "value": "197a102cd9314e699fe05b541a9ccdf5_1794251227114__UDF43-m4_32ck_",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1828811229,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_LV31RDQLDF",
+      "value": "GS2.1.s1794251224$o1$g1$t1794251237$j47$l0$h841025369",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1828811237.232079,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_D8S2M470X6",
+      "value": "GS2.1.s1794251225$o1$g1$t1794251237$j48$l0$h0",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1828811237.242054,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_Q46V7Y4NVY",
+      "value": "GS2.1.s1794251225$o1$g1$t1794251237$j48$l0$h0",
+      "domain": ".corkcicle.com",
+      "path": "/",
+      "expires": 1828811237.25332,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://corkcicle.com",
+      "localStorage": [
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "f3b83c8e592aef14c2204ee437d40785",
+          "value": "5sqpp9n145o50rs996r4139qp201n791"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":3,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1794251237257},\"expires\":1802027237257},\"gsid_dc\":{\"value\":{\"joinId\":\"gYoTjzFjgZXOs0B1_o6S5epD_B7l7tTk3A\",\"lastJoinedTimeMs\":1794251225648},\"expires\":1794251525648}}"
+        },
+        {
+          "name": "usi_prod_image_1",
+          "value": "{\"value\":\"https://www.corkcicle.com/cdn/shop/files/2930GOM-02.png?v=1747942721\",\"usi_expires\":1794856029004}"
+        },
+        {
+          "name": "ZD-suid",
+          "value": "{\"id\":\"5708314a4656405baa39636484ee1408\",\"expiry\":1794252124901,\"tabs\":{\"count\":0,\"expiry\":1794251267270}}"
+        },
+        {
+          "name": "usi_cart",
+          "value": "{\"value\":\"[{\\\"quantity\\\":\\\"1\\\"}]\",\"usi_expires\":1794856029003}"
+        },
+        {
+          "name": "ZD-settings",
+          "value": "[[\"c93964b836e79b9dd894f5884c3bb5c7012320dd\",1794251224]]"
+        },
+        {
+          "name": "forterToken",
+          "value": "197a102cd9314e699fe05b541a9ccdf5,1794251229712"
+        },
+        {
+          "name": "ZD-buid",
+          "value": "2aa03fde965d44648b4325e92210edae"
+        },
+        {
+          "name": "sid",
+          "value": "bf503a70dc7011f19a64bf985ec310d8"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-09T19:07:07.390Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-c1b526ce-290D-4753-2222-6B30AA091DF7\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"corkcicle.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-c1b526ce-290D-4753-2222-6B30AA091DF7\",\"event_date_time\":\"2026-11-09T19:07:07.390Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"5b7b5ecb-5750-4f10-b1e4-347ec8ec1a11\",\"page_url\":\"https://corkcicle.com/products/protein-shaker\",\"currency\":\"USD\",\"product\":{\"product_id\":\"8300228771928\",\"product_title\":\"Protein Shaker\",\"variant_id\":\"42699583258712\",\"variant_title\":\"Oat Milk / 30oz\",\"quantity\":1,\"variant_price\":40,\"product_vendor\":\"CORKCICLE.\"}}}}}]"
+        },
+        {
+          "name": "ftr__gf",
+          "value": "{\"et\":1794251228710,\"us\":\"\\n\\u0015o+iVoNV@\\u0018\\\\s\\\\\\u0003D\\u000bE\\u0017~`8\\u0000`L\\n\\u0005[[?3S\"}"
+        },
+        {
+          "name": "sidExpiry",
+          "value": "2026-11-10T19:07:02.935Z"
+        },
+        {
+          "name": "usi_prod_quantity_1",
+          "value": "{\"value\":\"1\",\"usi_expires\":1794856029004}"
+        },
+        {
+          "name": "loop-onstore-data",
+          "value": "{\"debug\":false,\"testMode\":false,\"redirect\":true,\"active\":false,\"params\":null,\"key\":\"ff177289ffea7c5f1d3268ceaab31396a2d01bb7\",\"api\":null,\"token\":null,\"id\":null,\"fullPayload\":false,\"preserveCart\":false,\"draftOrderId\":null,\"inExperiment\":false,\"singleItem\":false,\"attach\":\"#checkout-button\",\"isEmbeddedPortal\":false}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxStlUOwePMyTUinvyrJ5\""
+        },
+        {
+          "name": "pst",
+          "value": "1794251230250"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://corkcicle.com/products/protein-shaker\",\"exp\":1796843223839}"
+        },
+        {
+          "name": "redo_fees",
+          "value": "{\"expiry\":1794251583807,\"value\":{\"error\":\"The shop disabled coverage\"}}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "usi_prod_msrp_1",
+          "value": "{\"value\":\"0\",\"usi_expires\":1794856029004}"
+        },
+        {
+          "name": "vid",
+          "value": "bf45b320dc7011f19a64bf985ec310d8"
+        },
+        {
+          "name": "usi_fullprice_subtotal",
+          "value": "{\"value\":40,\"usi_expires\":1794856029003}"
+        },
+        {
+          "name": "tmpIdY29ya2NpY2xlLmNvbS9wcm9kdWN0cy9wcm90ZWluLXNoYWtlcg==",
+          "value": "aHR0cHM6Ly9qc21hLnMzLnVzLXdlc3QtMi5hbWF6b25hd3MuY29tL2RnZ3ZOZ2wvbWMuanM/Y2FtcGFpZ25JZD02OWVjNGFlOGQzODllMmE4ZjlhNzY5M2ImdGFnPURkMnc5RGEtQWFIQmlKUCUyRmhJU1ZBQUMw"
+        },
+        {
+          "name": "ZD-store",
+          "value": "{\"activeEmbed\":\"helpCenterForm\",\"widgetShown\":false,\"is_chatting\":false}"
+        },
+        {
+          "name": "usi_prod_link_1",
+          "value": "{\"value\":\"https://corkcicle.com/products/protein-shaker?variant=42699583258712\",\"usi_expires\":1794856029003}"
+        },
+        {
+          "name": "__$intc",
+          "value": "{\"startTime\":1794251228432,\"lastPersistTime\":1794251237182,\"counts\":{\"focusout\":1},\"nonTrustedLog\":[]}"
+        },
+        {
+          "name": "redo.anonymous_shopper_id",
+          "value": "8e4a0d2f-1317-4082-9d64-1801b263a1cc"
+        },
+        {
+          "name": "usi_pv_count",
+          "value": "{\"value\":\"1\",\"usi_expires\":1794272826868}"
+        },
+        {
+          "name": "usi_prod_name_1",
+          "value": "{\"value\":\"Protein Shaker\",\"usi_expires\":1794856029004}"
+        },
+        {
+          "name": "usi_cart_count",
+          "value": "{\"value\":1,\"usi_expires\":1794856029003}"
+        },
+        {
+          "name": "qn1_Dd2w9Da",
+          "value": "{\"deviceId\":\"Dd2w9Da-AaHBiJP/hISV\",\"hc\":\"1794251229129,02db843514\",\"lastActive\":1794251229189,\"updated\":1794251229189,\"visitId\":\"Dd2w9Da-AaHBiJP/hISVAAC0\"}"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1794251218835"
+        },
+        {
+          "name": "a7f3c9e2b18d4056",
+          "value": "{\"v\":1,\"t\":\"5sqpp9n145o50rs996r4139qp201n791\",\"d\":false,\"f\":3}"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,2'`@_L`9kNWb:w^/hXH;\"@rK:F40*Tz1D~I{\\OB;2\\Y{XxrXAR:g*@/(pdz1(~4|V?+mx)%ustwIoKs_*ycr$yy^9syJ_iN"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU9EVm1NVE5rTW1RdE5HRTVZUzAwTnpRNUxXRXlZalV0TjJZM1pUSTBObVJsTURObA\",\"expires\":\"2027-11-09T19:07:03.194Z\"}"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,'y:99]s#zo!t=9W{C!PRI,pSFm+zq{tHP1?>IzRcnk*F>D;I>yDR/s_\"LPu(WkU(N%"
+        },
+        {
+          "name": "usi_subtotal",
+          "value": "{\"value\":\"40.00\",\"usi_expires\":1794856029002}"
+        },
+        {
+          "name": "redo_autocheck",
+          "value": "{\"expiry\":1794251582704,\"value\":{\"autocheck\":{\"teamId\":\"69a1e53ed006e865d0c0328e\",\"widgetSlug\":\"brs7t577865bdit\",\"icon\":\"gift\",\"iconColor\":\"\",\"iconBackgroundColor\":\"\",\"displayIcon\":false,\"storefrontAccessToken\":\"158a24caf0fce4088dfe35b8f147cb96\",\"multistorefront\":[],\"toggleTextOptions\":{\"bothProductToggle\":{\"_id\":\"69cfdc7f04c316dbe54762eb\",\"negativeSubtext\":\"\",\"positiveSubtext\":\"\",\"titleText\":\"\"},\"packageProtectionToggle\":{\"_id\":\"69cfdc7f04c316dbe54762ea\",\"negativeSubtext\":\"\",\"positiveSubtext\":\"\",\"titleText\":\"\"},\"returnToggle\":{\"_id\":\"69cfdc7f04c316dbe54762e9\",\"negativeSubtext\":\"\",\"positiveSubtext\":\"\",\"titleText\":\"\"}},\"exchangeBannerShowDoneButton\":true,\"disableRedoForCustomer\":false,\"respectForcedRemovalDuringEnsure\":false,\"redoAutoCheck\":true,\"selector\":\"\",\"paidModel\":\"customer_paid\",\"textColor\":\"#000000\",\"coverage\":{\"exchange\":false,\"refund\":false,\"storeCredit\":false},\"enabled\":true,\"logo\":\"\",\"coverageEnabled\":false,\"finalSaleTags\":[\"final-sale\"],\"protectionExcludeTags\":[],\"coverageExcludeCollections\":[],\"coverageExcludeDiscountCodes\":[],\"coverageExcludeProperties\":[],\"coverageExcludedVariantMetafields\":[],\"returnsCoverageExcludedSkus\":[],\"discountCodePartialMatch\":false,\"hideCheckboxBranding\":false,\"hideCheckbox\":true,\"hideCheckboxPrice\":false,\"attachmentStrategy\":\"checkout-button-product\",\"toggleSubtextEnabled\":true,\"countries\":[\"US\"],\"countriesPackageProtection\":[\"US\"],\"countriesFinalSaleReturns\":[\"US\"],\"predictedCountry\":\"US\",\"modalTextAdjustments\":{\"text1\":\"\",\"text2\":\"\",\"text3\":\"\",\"title1\":\"\",\"title2\":\"\",\"title3\":\"\"},\"infoModal\":{\"cartIconEnabled\":false,\"checkoutIconEnabled\":false,\"enableTopLayerModalApi\":true,\"logo\":\"\",\"sideImage\":\"\",\"version\":\"v2\"},\"modalLogo\":\"\",\"shopSiteUseCartDiscounts\":false,\"excludeProductTags\":[],\"excludeProductSkus\":[],\"cartValueCalculationMethod\":\"cart_value_post_discount\",\"excludedItemProperties\":[],\"cartToggle\":{\"enabled\":true,\"useShadowRootInCart\":false,\"cartShadowRootSelector\":\"\",\"toggleOnColor\":\"\",\"toggleOffColor\":\"\",\"toggleCircleColor\":\"\",\"cartTogglePlacement\":\"before\",\"cartReplaceItems\":false},\"widgetConfigs\":[],\"groupNearbyToggleElementsTogether\":true,\"hideRedoProduct\":{\"cartCountModifications\":[],\"cartDiscountModifications\":[],\"cartPriceModifications\":[],\"checkoutButtonSelector\":\"\",\"enabled\":true,\"productSelector\":\"\"},\"packageProtection\":{\"coverageEnabled\":false,\"packageProtectionPlusEnabled\":false,\"percentage\":0.02,\"splitProducts\":false,\"pricingRuleSets\":[{\"countries\":[\"US\"],\"priceBrackets\":[{\"pricePoint\":0,\"value\":0.02}],\"type\":\"percentage\"}],\"minPrice\":1,\"maxPrice\":15,\"packageProtectionPlusMerchantPaidPerOrderEnabled\":false,\"packageProtectionPlusMerchantPaidEnabledDates\":[],\"shouldRecordPackageProtectionExposure\":false,\"coverageExcludedCollections\":[],\"internationalInsurance\":{\"providerName\":\"UPSCIA\",\"termsUrl\":\"https://www.insureshield.com/content/terms-and-conditions/REDO_TermsandConditions.pdf\",\"ratePer100\":0.8,\"minimumPremium\":0},\"coverageExcludedVariantMetafields\":[]},\"packageProtectionAutoCheck\":true,\"usingCartAndCheckoutToggle\":false,\"setCheckoutToggleBasedOnOptInCartAttribute\":true,\"openShadowRoot\":false,\"checkoutExtensionEnabled\":false,\"fraudZipCoverageExclusionStrategy\":\"NO_OP\",\"customPdpCss\":\"\",\"customToggleCss\":\"\",\"forceIPAddressLocation\":false,\"excludePickup\":false,\"preProtectedOrdersEnabled\":false,\"internationalReturnsPricing\":[],\"currencyExchangeRate\":1,\"finalSaleReturns\":{\"coverageEnabled\":false,\"coverageValidTags\":[],\"coverageValidCollections\":[],\"coverageValidCollectionTitles\":[],\"percentage\":0.02,\"pricingRuleSets\":[{\"countries\":[\"US\"],\"priceBrackets\":[{\"pricePoint\":0,\"value\":0.02}],\"type\":\"percentage\"}],\"minPrice\":1,\"maxPrice\":15,\"allCovered\":false,\"allEligible\":false},\"customerAccounts\":{\"enabled\":false,\"saveForLaterPanel\":{\"enabled\":false}},\"customerWidgetEnabled\":false,\"chatWidgetScriptTagInstalled\":false,\"contextual\":{\"enabled\":false},\"reviews\":{\"enabled\":false},\"orderTrackingLogin\":{\"enabled\":true,\"settings\":{\"allowTrackingCodeOnlyAccess\":false,\"backgroundColor\":\"#f0f0f0\",\"backgroundImageUrl\":\"https://data.getredo.com/redo/imgi_118_commuter_lp_hero_banner_3_645f42a70054.jpg\",\"cardBackgroundColor\":\"#f0f0f0\",\"cardBorderRadius\":0,\"cardBorderWidth\":0,\"cardBorderColor\":\"#D6D6D6\",\"cardShadowEnabled\":true,\"titleText\":\"ORDER TRACKER\",\"titleColor\":\"#000000\",\"buttonText\":\"TRACK YOUR ORDER\",\"buttonOverride\":{\"backgroundColor\":\"#000000\",\"textColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":0,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"paddingPx\":8,\"font\":{\"fontFamily\":\"Arial\",\"fontSizePx\":16,\"fontWeight\":\"regular\"},\"enabled\":true},\"inputOverride\":{\"backgroundColor\":\"#ffffff\",\"textColor\":\"#000000\",\"border\":{\"cornerRadiusPx\":0,\"stroke\":{\"color\":\"#dddddd\",\"weightPx\":1}},\"paddingPx\":8,\"font\":{\"fontFamily\":\"Arial\",\"fontSizePx\":16,\"fontWeight\":\"regular\"},\"errorColor\":\"#ff0000\",\"enabled\":true}},\"loadingBackgroundColor\":null},\"brandKit\":{\"font\":{\"bodyFontFamily\":\"Arial\",\"fontFamily\":\"Arial\",\"headerFontFamily\":\"Arial\",\"hierarchy\":{\"body\":{\"fontSizePx\":16,\"fontWeight\":\"regular\"},\"h1\":{\"fontSizePx\":48,\"fontWeight\":\"bold\"},\"h2\":{\"fontSizePx\":36,\"fontWeight\":\"semibold\"},\"h3\":{\"fontSizePx\":30,\"fontWeight\":\"regular\"},\"subtext\":{\"fontSizePx\":14,\"fontWeight\":\"regular\"}}},\"images\":{\"bannerUrl\":\"\",\"faviconUrl\":\"\",\"logoBannerUrl\":\"\",\"logoUrl\":\"https://data.getredo.com/redo/CORKCICLE_Logo_International_989664fa0d2c.png\"},\"buttons\":{\"primary\":{\"backgroundColor\":\"#000000\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#ffffff\"},\"secondary\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"},\"tertiary\":{\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":0}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"}},\"colors\":{\"accent\":\"#000000\",\"background\":\"#ffffff\"},\"customFontFamilies\":[{\"_id\":\"5f0968bd-d500-4627-b173-60cc7275e421\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"CosmicaExtraboldRegular\",\"styles\":[{\"_id\":\"19f1f148-24c3-4c81-ada8-bd0dc11d024f\",\"fontFileUrl\":\"https://cdn.shopify.com/s/files/1/0105/8732/files/CosmicaExtrabold-Regular.woff2\",\"fontName\":\"CosmicaExtraboldRegular\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"800\"}]},{\"_id\":\"fee911ed-7702-48c2-9463-c45a761c13e9\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"CosmicaSemiBoldRegular\",\"styles\":[{\"_id\":\"24b3d58b-c17e-4e6b-a029-22117f078ddb\",\"fontFileUrl\":\"https://cdn.shopify.com/s/files/1/0105/8732/files/CosmicaSemiBold-Regular.woff2\",\"fontName\":\"CosmicaSemiBoldRegular\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"600\"}]},{\"_id\":\"c6253363-e9de-43e8-a34b-a87a9097205e\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"CosmicaRegularRegular\",\"styles\":[{\"_id\":\"5c0e2c2b-ee4e-41f8-a71f-5778c34a9c2a\",\"fontFileUrl\":\"https://cdn.shopify.com/s/files/1/0105/8732/files/CosmicaRegular-Regular.woff2\",\"fontName\":\"CosmicaRegularRegular\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"400\"}]},{\"_id\":\"2ff3b50b-dd51-49d7-89ae-fb5e6afd7247\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"MaisonNeueMonoBold\",\"styles\":[{\"_id\":\"fb5be7aa-4b68-4e19-a3bc-184f107b911f\",\"fontFileUrl\":\"https://cdn.shopify.com/s/files/1/0105/8732/files/MaisonNeueMono-Bold.woff2\",\"fontName\":\"MaisonNeueMonoBold\",\"fontStyle\":\"Bold\",\"italic\":false,\"weight\":\"700\"}]},{\"_id\":\"0fc19543-609c-4049-bb13-087678a757d9\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"MaisonNeueMonoRegular\",\"styles\":[{\"_id\":\"eccd2455-34aa-4ec2-bad1-b25853b7ed98\",\"fontFileUrl\":\"https://cdn.shopify.com/s/files/1/0105/8732/files/MaisonNeueMono-Regular.woff2\",\"fontName\":\"MaisonNeueMonoRegular\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"400\"}]},{\"_id\":\"5d9bfcc4-b9dd-4a73-88f2-bd5b5500f3cc\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"MontserratFallback\",\"styles\":[{\"_id\":\"d10dee70-09e5-4db6-9567-40d9644ed449\",\"fontFileUrl\":\"https://cdn.shopify.com/s/files/1/1376/5615/files/Montserrat-Medium.ttf?v=1679586226\",\"fontName\":\"MontserratFallback\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"500\"}]}],\"inputs\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"errorColor\":\"#ff0000\",\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"}},\"extendedWarranties\":{\"enabled\":false,\"cartToggleExperience\":\"toggle\",\"pdpRenderMethod\":\"app_block\",\"popupExperience\":\"disabled\"},\"concierge\":{\"enabled\":false,\"placeConciergeProductForm\":false},\"marketing\":{\"enabled\":false,\"subscribeFromSaveForLater\":false,\"numEmbeddedFormsConfigured\":0,\"hasPublishedSignupForms\":false,\"hasEnabledNonEmbeddedSpotlights\":false},\"recover\":{\"enabled\":false},\"checkoutDeliveryEstimates\":{\"enabled\":false},\"conversion\":{\"enabled\":false},\"hsa\":{\"enabled\":false},\"loyalty\":{\"enabled\":false},\"useBuyNowCoverage\":false,\"autoNavigateToCheckoutAfterTimeout\":true,\"checkoutMethod\":\"navigate_after_add\",\"rescueCheckoutButtonsEnabled\":false,\"shouldNotUseStorefrontApi\":false,\"disableBusinessAccountInStorefront\":false,\"preventPageRefreshAfterCartAdd\":false,\"dispatchResizeAfterItemsPlaced\":false,\"purpleDotEnabled\":false,\"dynamicCoverageTransformFunctionEnabled\":false,\"billing\":{\"status\":\"up_to_date\"},\"localizationTextOverrides\":[],\"localizationGroups\":[],\"storefrontLoggingAllowedPercentage\":4,\"visitorObservationEnabled\":true,\"storefrontConsentEnabled\":false,\"localizationObjectId\":\"autocheck-69a1e53ed006e865d0c0328e\",\"customerTagTextOverride\":{\"customerTags\":[],\"enabled\":false},\"cartResponseCaptureEnabled\":true,\"coverageProductIds\":[]},\"currency\":\"USD\",\"customerId\":null,\"language\":\"en\",\"country\":\"US\"}}"
+        },
+        {
+          "name": "usi_fullprice_cart",
+          "value": "{\"value\":\"1\",\"usi_expires\":1794254829004}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxStlUOwePMyTUinvyrJ5\"},{\"postPurchaseInquiryStatus\":\"disabled\"}]]"
+        },
+        {
+          "name": "usi_entry_url_1",
+          "value": "{\"value\":\"https://corkcicle.com/products/protein-shaker\",\"usi_expires\":1794272826866}"
+        },
+        {
+          "name": "snowplowOutQueue_snowplow_revroll_post2.expires",
+          "value": "1857323229666"
+        },
+        {
+          "name": "__zlcstore",
+          "value": "{\"M3zMwpDLYYRF7BbgBZ1bMK8Ee5noG9Y2\":{\"web_sdk_last_host\":\"widget-mediator.zopim.com\",\"timestamp\":1794251227924,\"account_status\":\"online\"}}"
+        },
+        {
+          "name": "redo.rolling_session",
+          "value": "{\"id\":\"redo-9450ee35-0200-491a-857b-3f34d52ae11c\",\"lastActivityMs\":1794251222727}"
+        },
+        {
+          "name": "GlobalE_Analytics",
+          "value": "{\"merchantId\":\"60000116\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://web.global-e.com/\",\"clientId\":\"943ff54f-f85c-44f1-9c5c-3437a98aaba5\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":true,\"FT_3DA_UTM_SOURCE_LIST\":[\"borderfree\"],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":true,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794251226421}"
+        },
+        {
+          "name": "usi_prod_price_1",
+          "value": "{\"value\":\"40.00\",\"usi_expires\":1794856029004}"
+        },
+        {
+          "name": "vidExpiry",
+          "value": "2027-12-04T19:07:02.866Z"
+        },
+        {
+          "name": "usi_pdp_viewed",
+          "value": "{\"value\":\"1\",\"usi_expires\":1794856027880}"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,~e-hJ*5^]\u007f+}@n2[t#'5l\"&lt(PD'a|X]+[G#jEA+utm:@]k]4VpR:^R)<D'RJ%{|v$l&znhdy*vj_e8R5"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,oUR5`9$8:z98W)1ug_k*jT`S)HIA4'uQVe0Ei5TQG2 |Nilu9n'8I?X0sOUC3jB<}.@\"~^V%ZK(s$\\$r3s"
+        },
+        {
+          "name": "usi_referrer_url",
+          "value": "{\"value\":\"direct traffic\",\"usi_expires\":1794272826867}"
+        },
+        {
+          "name": "_gbbExtBundlesAddedOnCart",
+          "value": "{}"
+        },
+        {
+          "name": "snowplowOutQueue_snowplow_revroll_post2",
+          "value": "[]"
+        },
+        {
+          "name": "usi_prod_pid_1",
+          "value": "{\"value\":\"protein-shaker?variant=42699583258712\",\"usi_expires\":1794856029003}"
+        },
+        {
+          "name": "_replo_sid",
+          "value": "{\"sessionId\":\"a2834472-0882-45a7-a111-3f60d717721e\",\"reploId\":\"eef1aaab-a4f0-42b6-8ce8-174c44fbfe01\",\"createdAt\":1794251223226,\"expiresAt\":1794253027542,\"conversionsCounter\":0,\"isEntryPage\":false}"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,ceSZZ(J!oY=jrd`T05Y09}]+}M7/*H<0W<E:q5nujzcy1B2j^gAoE{BS@)U/s&xfjL+n8jZ\\/Oo61'g'l#vT:_e)--Vp;mxRa7y1\"R\u007fJe9XV6@Hy~sf)y'7>NrY6NzUx%9@5"
+        },
+        {
+          "name": "bundle_last_currency",
+          "value": "USD"
+        },
+        {
+          "name": "redo.anonymous_shopify_session_id",
+          "value": "redo-9450ee35-0200-491a-857b-3f34d52ae11c"
+        },
+        {
+          "name": "usi_si",
+          "value": "{\"value\":\"n86001_1794251228\",\"usi_expires\":1794337629015}"
+        },
+        {
+          "name": "qo_optins_Dd2w9Da",
+          "value": "{\"visitId\":\"Dd2w9Da-AaHBiJP/hISVAAC0\",\"ts\":1794251228798,\"value\":{\"optins\":[]}}"
+        },
+        {
+          "name": "psc",
+          "value": "4"
+        }
+      ]
+    }
+  ]
+}

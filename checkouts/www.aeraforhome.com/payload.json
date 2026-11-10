@@ -1,0 +1,283 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBEHsYE6nPXVw3FEBOiK_1rQLv2QOQR5hpsKdMJklvJALYNtuTDcOwX1WIef0V3BzWSacVRaiqUXrw8jmhElepK3UqaianJ_DgitiLwscVovr200gK8NVrNkiNBitANRYYNWCQPFE6DyIpexSEts6tyx_YuVp1f3iygSxA3E9YYPGBOmjy5Dfk7BbGxUPQ76Tfi2UyposoMJ6--Q4BhcW066UmOZ20P9H_Ww"
+    },
+    "queueToken": "A-WRDm9vOgl1xy2SLf-DA17A2hr8rdsO5EZuWAkAnqht4Vr8RbhuzgqUsBDW29sOTCydJS4k_z5bEfg1NB6g-T27F9g5nJEW9qOI-kuVnG6ZwYQ4vktoVUhPbTl4",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "7d3eacf0-42e9-4719-b564-bc6492c4711e",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/1812898185234",
+              "variantId": "gid://shopify/ProductVariant/1812898185234",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "235.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": "BUNDLES_DYNAMIC_EXPAND",
+          "lineComponents": [
+            {
+              "stableId": "7897d96c-b99e-74ab-467a-8de0afef864f",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/1812898185234",
+                "digest": "926dadf719b5c23f597ef3fb30fbd8eb",
+                "variantId": "gid://shopify/ProductVariant/1812898185234",
+                "title": "Aera Diffuser",
+                "untranslatedTitle": "Aera Diffuser",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/204846497810",
+                  "vendor": "Aera Store",
+                  "productType": "Device",
+                  "disclosures": []
+                },
+                "productUrl": "/products/aera-diffuser",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/1064/2306/files/Aera_-_1x1_710b41a6-b3c9-45ef-8a68-1281ecf9cf5f.png?v=1789148011",
+                  "one": "https://cdn.shopify.com/s/files/1/1064/2306/files/Aera_-_1x1_710b41a6-b3c9-45ef-8a68-1281ecf9cf5f_64x64.png?v=1789148011",
+                  "two": "https://cdn.shopify.com/s/files/1/1064/2306/files/Aera_-_1x1_710b41a6-b3c9-45ef-8a68-1281ecf9cf5f_128x128.png?v=1789148011",
+                  "four": "https://cdn.shopify.com/s/files/1/1064/2306/files/Aera_-_1x1_710b41a6-b3c9-45ef-8a68-1281ecf9cf5f_256x256.png?v=1789148011"
+                },
+                "properties": [
+                  {
+                    "name": "_add_on_role",
+                    "value": {
+                      "string": "parent"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "235.0",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "37bc45126113fdbe4a68fdc6df696424",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "235.0",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "235.0",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "235.0",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "235.0",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "235.0",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "2e9f3b8d-18cc-97e8-4a93-cb047e81fc03",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/43656812232770",
+                "digest": "75daf49a9571261e3ac58d2218193504",
+                "variantId": "gid://shopify/ProductVariant/43656812232770",
+                "title": "Discovery Sprayer Set ($20 value)",
+                "untranslatedTitle": "Discovery Sprayer Set ($20 value)",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/8219072299074",
+                  "vendor": "Aera",
+                  "productType": "",
+                  "disclosures": []
+                },
+                "productUrl": "/products/discovery-sample-vial-set-20-value",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/1064/2306/files/sample-bag-with-vials-shadow_583fef10-e3eb-48d3-9249-7791eb507b9e.png?v=1773851785",
+                  "one": "https://cdn.shopify.com/s/files/1/1064/2306/files/sample-bag-with-vials-shadow_583fef10-e3eb-48d3-9249-7791eb507b9e_64x64.png?v=1773851785",
+                  "two": "https://cdn.shopify.com/s/files/1/1064/2306/files/sample-bag-with-vials-shadow_583fef10-e3eb-48d3-9249-7791eb507b9e_128x128.png?v=1773851785",
+                  "four": "https://cdn.shopify.com/s/files/1/1064/2306/files/sample-bag-with-vials-shadow_583fef10-e3eb-48d3-9249-7791eb507b9e_256x256.png?v=1773851785"
+                },
+                "properties": [
+                  {
+                    "name": "_add_on_role",
+                    "value": {
+                      "string": "addon"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": false,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "8da8d19a1ce11c80d557ab4b39546159",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "0.0",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "0.0",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "0.0",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "0.0",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "0.0",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "d59b2f24-83e3-2792-4854-c1869bf50ea0",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/43656801648706",
+                "digest": "3254485a042268c6ab7b808a16b9ef18",
+                "variantId": "gid://shopify/ProductVariant/43656801648706",
+                "title": "Aera Care (30 day home trial)",
+                "untranslatedTitle": "Aera Care (30 day home trial)",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/8219070758978",
+                  "vendor": "Aera",
+                  "productType": "",
+                  "disclosures": []
+                },
+                "productUrl": "/products/aera-care-30-day-home-trial",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/1064/2306/files/Shop_App_Logo.png?v=1762457337",
+                  "one": "https://cdn.shopify.com/s/files/1/1064/2306/files/Shop_App_Logo_64x64.png?v=1762457337",
+                  "two": "https://cdn.shopify.com/s/files/1/1064/2306/files/Shop_App_Logo_128x128.png?v=1762457337",
+                  "four": "https://cdn.shopify.com/s/files/1/1064/2306/files/Shop_App_Logo_256x256.png?v=1762457337"
+                },
+                "properties": [
+                  {
+                    "name": "_add_on_role",
+                    "value": {
+                      "string": "addon"
+                    },
+                    "visible": false
+                  }
+                ],
+                "requiresShipping": false,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "USD"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "0a024c31d9077c972fce9902c8b9ae23",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "0.0",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "0.0",
+                    "currencyCode": "USD"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "0.0",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "0.0",
+                    "currencyCode": "USD"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "0.0",
+                    "currencyCode": "USD"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

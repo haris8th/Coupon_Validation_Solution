@@ -1,0 +1,895 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "GB",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1825527963.670464,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "GBP",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1795201572.013439,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGyQID8AAEAWM_k6jgRWXzLWSX1Vypf0Q7urXRJH8KeLwiBspxGQ5kQSJOnGGHdgefhb0PAt9aNn_R2kxTLpemJ9IE:",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1825527932.248541,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGyQIFuAAEAXdENA6Ef6zdN54LRJt69bUxo18evxmlOTarTwD8wWDwycKiZ938zrg7Je9spGG12PndsZcjGrzzDTEs:",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1825527932.24862,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGyQIFvAAEA7bHtpvRa0CCjOQtbknLwnRfSz-GF29sjkdtAJK6uJ0DTbawGx_dLGEGMaE-bL5JQwFCBVzqhSGoqBEY:",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1825527932.248693,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__obref",
+      "value": "41bfec51-fbaa-44c7-96e0-fddea3a79f51",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1825527932.561495,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_heatVid_4329",
+      "value": "611061405326320056",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1794078332,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hm_source",
+      "value": "unknown",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1794078332,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vUUID_4329",
+      "value": "03228b73-29cc-43ac-8317-dce20fa37eb6",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1794078332,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_id.4329.d3d3LmJv",
+      "value": "2ume6yqia2ume6yq.1793991933.",
+      "domain": ".www.books2door.com",
+      "path": "/",
+      "expires": 1794121533,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__blockify::first-access-url",
+      "value": "%7B%22url%22%3A%22https%3A%2F%2Fwww.books2door.com%2F%22%7D",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIqOznW2lGYHX8cFPVdYo7%3Fkey%3D9311862825837bfb413c20fb3a3f8338",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1801854356.003911,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-location",
+      "value": "{\"country\":\"PK\",\"city\":\"Karachi\",\"continent\":\"AS\",\"latitude\":\"24.86\",\"longitude\":\"67.01\",\"region\":\"Sindh\",\"regionCode\":\"SD\"}",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1793995534.658381,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ig-id",
+      "value": "ig_4c739338d35558fb7749dcc7a8e64ab73234",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1825527934,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-fv",
+      "value": "1793991934669",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1825527943,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-vars",
+      "value": "{%22fc06b8c7b658%22:%22aac9a29ba9eb%22%2C%226ef82536d2bc%22:%22a6ad5fde082c%22%2C%22b56dbf9610b2%22:%220481ad2eceec%22%2C%22redirectId%22:%22200357446019%22%2C%22redirectDocumentReferrer%22:%22%22%2C%22redirectedFrom%22:%22%22}",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1825527943,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__blockify::analyzer",
+      "value": "%7B%22startTime%22%3A1793991934529%2C%22sessionId%22%3A%22b4df4c2d-59da-4dca-a12b-d8f3f7ed2079%22%7D",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "yoUDu1Oz36kMDtlqz9gIWeKaz0QSMadU",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1828119935,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IR_gbd",
+      "value": "books2door.com",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://www.books2door.com",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1796583949,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "7ada7c27-02f9-4f61-8433-3178f6f92d37",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1825524340,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-pv",
+      "value": "3",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1825527943,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "kk_leadtag",
+      "value": "true",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1825527946,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "IR_PI",
+      "value": "108adba7-da15-11f1-a906-ada2059d7f45%7C1794078348817",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1825527948,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IR_9410",
+      "value": "1793991948819%7C0%7C1793991948819%7C%7C",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_heatIdvUpdated_4329",
+      "value": "1793991948886",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1794078348,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "swym-session-id",
+      "value": "\"mg86knga6uqdgmdnmhz2mfp6fryt2eh1n8ry0r0c31ncjq8lmyqg9gohrgv15k2q\"",
+      "domain": ".www.books2door.com",
+      "path": "/",
+      "expires": 1793993778,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-pid",
+      "value": "\"gWGFyUiosK1TvH4TcZfTiZdMfjnYa5lruDh/qBKH6DY=\"",
+      "domain": ".www.books2door.com",
+      "path": "/",
+      "expires": 1825527949,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU9HTXdOR00wTXpVdE5HSm1OeTAwWXpObExXRXdNMk10TXpCbU9UVXhaamsxTmpZeg",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1825524347,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1793991935559.c7dde860-9205-47ef-a889-0519c269f3e5",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1801767948,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "po_visitor",
+      "value": "a8w8cEQT7pLM",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1825527950,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scsrid_r",
+      "value": "",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1828119949,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "1gUDu1Oz36kMDtlqz9gIWeKaz0QSMadUisAVmw",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1828119950,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "swym-v-ckd",
+      "value": "1",
+      "domain": ".www.books2door.com",
+      "path": "/",
+      "expires": 1793993751,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-swymRegid",
+      "value": "\"D-lu-YaGmZtxDSjIRnzNRj1r5LODko15bXi_Sp69YxiZ3OSHFBYvLCqHRopWl8AU6N68Wbs0ZEUnwtegvFq7vwJp5pdYa_ifaKpDEu0iegE3xLdea9YQZF3ptF-MDeRwXSfRXGlGOIE5XEsIfCFcDkMtiBD2m6_x4kBe04MOfkU\"",
+      "domain": ".www.books2door.com",
+      "path": "/",
+      "expires": 1825527958,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "swym-email",
+      "value": "null",
+      "domain": ".www.books2door.com",
+      "path": "/",
+      "expires": 1825527951,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1796583951,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "repSid",
+      "value": "8e1cf566-dbc4-466f-a246-6f89bc7bdc7c",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1794078358,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scida",
+      "value": "GiF62nwnAvlrYXIzMXj2-S03NmM7pSMd",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1828119958,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "9jxCMCTRvs26E7XzsH9sb76otNeDZkzixQcHHTszyUo-1793991967.4702265-1.0.1.1-aY4Tvkfk20G.ziC_RWsu5wUJVx6eAmX6LTQm4aMKlAXz0gtQ7XnNvGDhZMn3RKJnmAhl2qYyuLOKUbxqI6fvcwjpnPf3DlSOZ.gQJccP8PnaeIU3LuWis.FioMwBXglI",
+      "domain": ".www.books2door.com",
+      "path": "/",
+      "expires": 1793993765.520716,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://books2door.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__fp_iid",
+      "value": "i_d5v1e1d4y142o2260652g6b",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1828551974.473181,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__fp_at_840968a2",
+      "value": "4494dc2b9e17c15313eea7cc172320e3.305519c076900123b1434304a118e068",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1828551975.39073,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__fp_pid_840968a2",
+      "value": "3f54a33b9be84d9a0f2aec964f17be80",
+      "domain": "www.books2door.com",
+      "path": "/",
+      "expires": 1828551975.39201,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1793991975598.7010818845",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1801767975,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_5alvvWOlRjqMavPg9f56xA%230fd05a95-50e5-4d13-bfdd-9a20c4ea4bb0-1793991944",
+      "domain": ".books2door.com",
+      "path": "/",
+      "expires": 1825549586.454173,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.books2door.com",
+      "localStorage": [
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionCount",
+          "value": "1"
+        },
+        {
+          "name": "ig-fv",
+          "value": "1793991934669"
+        },
+        {
+          "name": "_heatCartSyncedVid",
+          "value": "611061405326320056"
+        },
+        {
+          "name": "snize-cart-changed",
+          "value": "\"N\""
+        },
+        {
+          "name": "SeStatisticSession",
+          "value": "{\"session_id\":\"e13c4ab2-57f1-47d8-b33b-b39604df07c0\",\"started\":1793991939,\"updated\":1793991948,\"expires\":1793995548,\"state\":\"update\",\"times_updated\":1,\"end_point_reached\":false}"
+        },
+        {
+          "name": "swym-scheduledSFLAsk",
+          "value": "null"
+        },
+        {
+          "name": "forms_previous_session_id",
+          "value": "9558c837-7e3e-4622-94c4-b6a0733fc656"
+        },
+        {
+          "name": "snize-recommendations-clicks",
+          "value": "[]"
+        },
+        {
+          "name": "snize-recommendation-created-at",
+          "value": "1793991942211"
+        },
+        {
+          "name": "vf-isExpanded",
+          "value": "true"
+        },
+        {
+          "name": "vfSessionStart",
+          "value": "1793991958445"
+        },
+        {
+          "name": "vf_device_key",
+          "value": "a1fa0281-38a8-4725-81bc-3b6b56f70511"
+        },
+        {
+          "name": "vUUID",
+          "value": "03228b73-29cc-43ac-8317-dce20fa37eb6"
+        },
+        {
+          "name": "__fp_at_840968a2",
+          "value": "4494dc2b9e17c15313eea7cc172320e3.305519c076900123b1434304a118e068"
+        },
+        {
+          "name": "RecentlyViewedRecommendations",
+          "value": "{\"productsIds\":[16368558113155],\"recentlyViewedTimeLimit\":1793991948419}"
+        },
+        {
+          "name": "se_session_id",
+          "value": "\"6a0f9ef6-97ff-4c0e-ba7d-7d89fcac233e\""
+        },
+        {
+          "name": "_mr_vid",
+          "value": "2ume6yqia2ume6yq"
+        },
+        {
+          "name": "__hmVisitHistory_4329",
+          "value": "{\"v\":1,\"first\":1793991932,\"seq\":1,\"prevIdv\":\"\",\"prevT\":0,\"lastCart\":0,\"lastCheckout\":0,\"lastPurchase\":0,\"purchases\":0,\"recent\":[],\"cur\":{\"idv\":\"611061405326320056\",\"t\":1793991932,\"te\":1793991981,\"pg\":{\"p611061405326210018\":{\"h\":16072742,\"c\":0,\"s\":0,\"d\":2091,\"p\":0},\"p611061405424710025\":{\"h\":0,\"c\":0,\"s\":0,\"d\":6930,\"p\":0},\"p611061405488860078\":{\"h\":78406890,\"c\":16,\"s\":0,\"d\":34993,\"p\":1}},\"hs\":[16072742,78406890],\"pp\":[78406890],\"ev\":1,\"rv\":0,\"orders\":[],\"cartAt\":1793991975,\"checkoutAt\":0,\"purchaseAt\":0},\"snap\":{\"idv\":\"611061405326320056\",\"tags\":{\"hmh_v\":\"1\",\"hmh_seq\":\"1\",\"hmh_t\":\"1793991932\",\"hmh_first\":\"1793991932\",\"hmh_lc\":\"0\",\"hmh_lk\":\"0\",\"hmh_lp\":\"0\",\"hmh_np\":\"0\"},\"delivered\":false}}"
+        },
+        {
+          "name": "pushowl_original_url_params",
+          "value": ""
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionId",
+          "value": "1793991975"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-06T19:05:57.031Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-b241136d-9BB6-4CD1-6793-393E92FBC1A7\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"books2door.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-b241136d-9BB6-4CD1-6793-393E92FBC1A7\",\"event_date_time\":\"2026-11-06T19:05:57.031Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"7ada7c27-02f9-4f61-8433-3178f6f92d37\",\"page_url\":\"https://www.books2door.com/collections/new-fiction/products/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i-a-court-of-thorns-and-roses-by-sarah-j-maas-fiction-hardback\",\"currency\":\"GBP\",\"product\":{\"product_id\":\"16368558113155\",\"product_title\":\"A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses) by Sarah J. Maas - Fiction - Hardback\",\"variant_id\":\"62753065664899\",\"variant_title\":\"A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses) by Sarah J. Maas - Fiction - Hardback\",\"quantity\":1,\"variant_price\":19.99,\"product_vendor\":\"Bloomsbury Publishing\"}}}}}]"
+        },
+        {
+          "name": "vfEnabledIntegrations",
+          "value": "[{\"t\":\"ECOMMERCE\",\"m\":\"SHOPIFY\",\"d\":{}}]"
+        },
+        {
+          "name": "repCartDiscount",
+          "value": "|0"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--lastDlPushTimestamp",
+          "value": "1793991975"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIqOznW2lGYHX8cFPVdYo7\""
+        },
+        {
+          "name": "_entryExPage",
+          "value": "https://books2door.com/collections/new-fiction/products/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i-a-court-of-thorns-and-roses-by-sarah-j-maas-fiction-hardback"
+        },
+        {
+          "name": "pxu-recentlyViewed-GBP-/",
+          "value": "[{\"handle\":\"a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i-a-court-of-thorns-and-roses-by-sarah-j-maas-fiction-hardback\",\"timestamp\":1793991946}]"
+        },
+        {
+          "name": "kk_leadtag",
+          "value": "true"
+        },
+        {
+          "name": "cartbot_data_cart",
+          "value": "{\"token\":\"hWNIqOznW2lGYHX8cFPVdYo7?key=9311862825837bfb413c20fb3a3f8338\",\"note\":\"\",\"attributes\":{\"_heatVid\":\"611061405326320056\",\"_heatIdSite\":4329,\"_heatDevice\":2,\"_heatUid\":\"2ume6yqia2ume6yq\",\"_V_B2D_CHECK_65\":\"false\",\"cart_token\":\"hWNIqOznW2lGYHX8cFPVdYo7?key=9311862825837bfb413c20fb3a3f8338\",\"igId\":\"ig_4c739338d35558fb7749dcc7a8e64ab73234\",\"igTestGroups\":\"aac9a29ba9eb,0481ad2eceec,a6ad5fde082c\"},\"original_total_price\":1999,\"total_price\":1999,\"total_discount\":0,\"total_weight\":800,\"item_count\":1,\"items\":[{\"id\":62753065664899,\"properties\":{},\"quantity\":1,\"variant_id\":62753065664899,\"key\":\"62753065664899:384fc67462df04d1e2197fc2da922111\",\"title\":\"A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses) by Sarah J. Maas - Fiction - Hardback\",\"price\":1999,\"original_price\":1999,\"presentment_price\":19.99,\"discounted_price\":1999,\"line_price\":1999,\"original_line_price\":1999,\"total_discount\":0,\"discounts\":[],\"sku\":\"B2D8980\",\"grams\":800,\"vendor\":\"Bloomsbury Publishing\",\"taxable\":false,\"product_id\":16368558113155,\"product_has_only_default_variant\":true,\"gift_card\":false,\"final_price\":1999,\"final_line_price\":1999,\"url\":\"/products/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i-a-court-of-thorns-and-roses-by-sarah-j-maas-fiction-hardback?variant=62753065664899\",\"featured_image\":{\"aspect_ratio\":1,\"alt\":\"A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses) by Sarah J. Maas - Fiction - Hardback Fiction Bloomsbury Publishing\",\"height\":3000,\"url\":\"https://cdn.shopify.com/s/files/1/0024/6874/1219/files/Thumbnail_5cad36b5-c0c6-4bf3-a979-980eff00b4fa.jpg?v=1792775507\",\"width\":3000},\"image\":\"https://cdn.shopify.com/s/files/1/0024/6874/1219/files/Thumbnail_5cad36b5-c0c6-4bf3-a979-980eff00b4fa.jpg?v=1792775507\",\"handle\":\"a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i-a-court-of-thorns-and-roses-by-sarah-j-maas-fiction-hardback\",\"requires_shipping\":true,\"product_type\":\"Fiction\",\"product_title\":\"A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses) by Sarah J. Maas - Fiction - Hardback\",\"product_description\":\"Spending hours scrolling through endless online book debates, social feeds, and digital theories late into the night often creates mental overstimulation rather than genuine escapism. Fantasy and romance lovers yearn to trade screen glare for an intricately crafted physical volume filled with high-stakes court politics, perilous ancient magic, and fierce sisterhood. Finding a masterwork that delivers breathtaking world-building, multi-layered character arcs, and undeniable emotional tension is rare. Internationally celebrated #1 bestselling sensation Sarah J. Maas delivers the next era of Prythian with this monumental release.\\nThe A Court of Splintered Harmony Hardback marks the long-awaited return to the beloved world of A Court of Thorns and Roses. What was broken will be remade. Deep in the continent, Koschei the Deathless is stirring, spreading an insidious threat across the Fae territories and gathering powerful allies hell-bent on reclaiming ancient power. Within Prythian, the rifts dividing the High Courts and the Night Court's Inner Circle seem insurmountable. As the Valkyries\u2014Nesta, Gwyn, and Emerie\u2014draw upon their hard-won bonds and shadowy secrets threaten to unravel established alliances, every choice carries devastating consequences. To survive Koschei's creeping shadow, former enemies must unite, personal wounds must be confronted, and the fractured courts must mend the splintered harmony before darkness claims them all.\\nValkyrie Sisterhood, High Court Intrigue & Unstoppable Romantasy\\n\\n\\nThe Sixth Chapter in the Global Phenomenon: Launches the exhilarating Valkyrie Cycle, deepening the rich tapestry of the ACOTAR saga.\\n\\n\\nFierce Female Bonds & Martial Courage: Follows the continuing journey of the Valkyries as they balance newfound warrior disciplines with complex emotional reckonings.\\n\\n\\nBeloved Tropes & Intense Chemistry: Packed with multi-perspective storytelling, ancient mythological relics, forbidden yearnings, and high-stakes diplomacy.\\n\\n\\nWhy This Hardback from Books2Door Belongs on Your Bookshelf:\\n\\n\\nConquers Digital Fatigue: Replace digital notification fatigue with an immersive physical reading experience that calms the mind and commands deep focus.\\n\\n\\nBloomsbury Hardcover Craftsmanship: Bound with durable hard casing, high-opacity paper stock, and an embossed dust jacket designed to shine on collector shelves.\\n\\n\\nUnbeatable Online Value: Major blockbuster fantasy hardbacks command premium retail prices on the high street. We provide brand-new copies at fantastic budget-friendly savings.\\n\\n\\nThe shadows are lengthening over the continent, the Valkyrie blades are drawn, and the battle to mend Prythian has begun. Put your phone away, clear your evening schedule, and step back into the magical courts of the Fae. At Books2Door, we take pride in stocking top-charting fiction that turns quiet hours into unforgettable escapes at prices every reader can celebrate. Order your copy of A Court of Splintered Harmony: The Valkyrie Cycle, Movement I today!\\n\\n\\n\\nFeature\\nSpecification\\n\\n\\n\\n\\nFull Product Title\\nA Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses, Book 6)\\n\\n\\nAuthor\\nSarah J. Maas\\n\\n\\nPublisher Partners\\nBloomsbury Publishing PLC\\n\\n\\nFormat Architecture\\nHardcover / First Edition Collector's Hardback with Dust Jacket\\n\\n\\nSKU\\nB2D8980\\n\\n\\nPage Count & Scope\\n352 Pages, Unabridged Full Text Hardback\\n\\n\\nTarget Audience & Age Bracket\\nAdults, New Adult, Romantasy Readers, BookTok Enthusiasts (Ages 18+)\\n\\n\\nCore Themes & Genre\\nRomantic fantasy (Romantasy), Fae courts, Valkyrie sisterhood, Night Court politics, Koschei the Deathless, ancient magical bargains, slow-burn tension\\n\\n\\nSpecial Value Offerings\\nUnbeatable online pricing, 10% BookPoints cashback rewards, fast UK dispatch\\n\\n\\nSkills & Utility Developed\\nReading stamina, narrative focus, complex world-building retention, screen-free evening relaxation\\n\\n\\n\\nRomance, danger and intrigue await you in the breathtaking sixth book in the #1 bestselling Court of Thorns and Roses (ACOTAR) series.What was broken will be remade.Deep in the heart of the continent, Koschei the Deathless is stirring. Though he's been bound to a mountain lake for millennia, the insidious threat of his return now spreads across the Fae territories, attracting powerful allies hell-bent on reclaiming what was once theirs: the human lands.The Night Court will not stand idly by while innocents are attacked. But with Prythian still piecing itself together in the wake of the devastating Hybern War, the task of uniting is proving more difficult by the day.To make matters worse, those who rule and protect the Night Court are reeling from recent betrayals and revealed truths. The rifts dividing them seem insurmountable.But to defeat Koschei's creeping shadow, they must find a way back to each other and resurrect their former alliances. To survive, they must find a way to repair the splintered harmony all around them.\\nSarah J. Maas is a #1 New York Times, Sunday Times, and international bestselling author whose Court of Thorns and Roses, Throne of Glass, and Crescent City series have sold over 75 million copies worldwide across forty languages. Published by Bloomsbury Publishing PLC, A Court of Splintered Harmony: The Valkyrie Cycle, Movement I adheres to the highest editorial and manufacturing standards in modern publishing. Produced with durable hardback casing and archival-grade paper stock, this sixth ACOTAR installment has been hailed by fantasy critics and book club networks globally for its intricate narrative layering, emotional authenticity, and exploration of resilience and trauma recovery within high-fantasy world-building.\",\"variant_title\":null,\"variant_options\":[\"Default Title\"],\"options_with_values\":[{\"name\":\"Title\",\"value\":\"Default Title\"}],\"line_level_discount_allocations\":[],\"line_level_total_discount\":0,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"has_components\":false}],\"requires_shipping\":true,\"currency\":\"GBP\",\"items_subtotal_price\":1999,\"cart_level_discount_applications\":[],\"discount_codes\":[]}"
+        },
+        {
+          "name": "_heatDeviceType",
+          "value": "2"
+        },
+        {
+          "name": "swym-instrumentMap",
+          "value": "{\"D-lu-YaGmZtxDSjIRnzNRj1r5LODko15bXi_Sp69YxiZ3OSHFBYvLCqHRopWl8AU6N68Wbs0ZEUnwtegvFq7vwJp5pdYa_ifaKpDEu0iegE3xLdea9YQZF3ptF-MDeRwXSfRXGlGOIE5XEsIfCFcDkMtiBD2m6_x4kBe04MOfkU\":{\"mg86knga6uqdgmdnmhz2mfp6fryt2eh1n8ry0r0c31ncjq8lmyqg9gohrgv15k2q\":{\"https://www.books2door.com/collections/new-fiction/products/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i-a-court-of-thorns-and-roses-by-sarah-j-maas-fiction-hardback\":{\"1175\":[{\"channel\":\"swym-web-ui\",\"ts\":1793991962039}],\"1279\":[{\"channel\":\"custom-js-api\",\"v3\":true,\"ts\":1793991959135}],\"1703\":[{\"utm-term\":\"storefront_layout_ui_engagement\",\"v3\":true,\"ts\":1793991961832},{\"utm-term\":\"storefront_layout_ui_engagement\",\"v3\":true,\"ts\":1793991964118}],\"1705\":[{\"utm-term\":\"storefront_layout_ui_engagement\",\"v3\":true,\"ts\":1793991958502}],\"1860\":[{\"source\":\"fbpixel\",\"reason\":\"sdk_retry\",\"detectionStatus\":\"unknown\",\"detectedPixelIds\":[],\"detectedPixelIdsHash\":\"\",\"observedPixelIds\":[],\"observedPixelIdsHash\":\"\",\"capturedAt\":1793991967000,\"updatePolicy\":\"append-only\",\"lastAddToWishlistAttemptAt\":null,\"lastAddToWishlistFiredAt\":null,\"ts\":1793991967001}]}}}}"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://www.books2door.com/?pb=0\",\"exp\":1796583941740}"
+        },
+        {
+          "name": "swym-products_timestamp",
+          "value": "0"
+        },
+        {
+          "name": "snize-current-product-id",
+          "value": "16368558113155"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "isMinimized",
+          "value": "true"
+        },
+        {
+          "name": "_heatmap_event_tag",
+          "value": "[{\"type\":\"object\",\"tag\":{\"partner\":\"intelligems_variant\",\"variant_friendly_name\":\"V_B2D_CHECK_65 | Remove Edit Button from Checkout Cart Overview - Control\",\"variant_id\":\"71a9d843-8821-4cb1-935d-aac9a29ba9eb\",\"variations\":[{\"id\":\"71a9d843-8821-4cb1-935d-aac9a29ba9eb\",\"name\":\"V_B2D_CHECK_65 | Remove Edit Button from Checkout Cart Overview - Control\",\"isControl\":false,\"percentage\":0,\"changes\":[]}]},\"persistent\":true,\"_idv\":\"611061405326320056\"},{\"type\":\"object\",\"tag\":{\"partner\":\"intelligems_variant\",\"variant_friendly_name\":\"V_B2D_PDP_67 | \\\"What's Inside This Set\\\" -- Box Set Contents Above ATC - Var A\",\"variant_id\":\"06e7b3d6-4dec-43c2-b87a-0481ad2eceec\",\"variations\":[{\"id\":\"06e7b3d6-4dec-43c2-b87a-0481ad2eceec\",\"name\":\"V_B2D_PDP_67 | \\\"What's Inside This Set\\\" -- Box Set Contents Above ATC - Var A\",\"isControl\":false,\"percentage\":0,\"changes\":[]}]},\"persistent\":true,\"_idv\":\"611061405326320056\"},{\"type\":\"object\",\"tag\":{\"partner\":\"intelligems_variant\",\"variant_friendly_name\":\"V_B2D_SITE_72 | Remove all winners  - Var A\",\"variant_id\":\"1bf8e93f-3e67-4ca6-9bd4-a6ad5fde082c\",\"variations\":[{\"id\":\"1bf8e93f-3e67-4ca6-9bd4-a6ad5fde082c\",\"name\":\"V_B2D_SITE_72 | Remove all winners  - Var A\",\"isControl\":false,\"percentage\":0,\"changes\":[]}]},\"persistent\":true,\"_idv\":\"611061405326320056\"}]"
+        },
+        {
+          "name": "snize-recommendation",
+          "value": "\"nwqpg93w8k9\""
+        },
+        {
+          "name": "swym-fb-pixel-state-cache",
+          "value": "{\"observedPixelIds\":[],\"observedPixelIdsHash\":\"\",\"lastCheckedAt\":1793991967000,\"detectionStatus\":\"unknown\",\"lastDetectedAt\":null,\"lastAddToWishlistAttemptAt\":null,\"lastAddToWishlistFiredAt\":null}"
+        },
+        {
+          "name": "hCartData",
+          "value": "[{\"product_title\":\"A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses) by Sarah J. Maas - Fiction - Hardback\",\"product_sku\":\"B2D8980\",\"product_price\":19.99,\"product_quantity\":1}]"
+        },
+        {
+          "name": "temporarryQueue",
+          "value": "[]"
+        },
+        {
+          "name": "forms_session_expires_at",
+          "value": "1793993750011"
+        },
+        {
+          "name": "vfEvDict",
+          "value": "{\"tc\":0,\"tkd\":0,\"asp\":0,\"ttf\":0,\"ttu\":0,\"tue\":1,\"tmo\":0,\"tps\":0,\"pvc\":1,\"sessionId\":\"8e1cf566-dbc4-466f-a246-6f89bc7bdc7c\"}"
+        },
+        {
+          "name": "_entryEnPage",
+          "value": "https://books2door.com"
+        },
+        {
+          "name": "ProductsSearch",
+          "value": "[]"
+        },
+        {
+          "name": "swym-products",
+          "value": "{\"all\":[]}"
+        },
+        {
+          "name": "zigpoll-sessions",
+          "value": "1"
+        },
+        {
+          "name": "vf_history_auth",
+          "value": "{\"historyToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwayI6ImJvb2tzMmRvb3IiLCJjaWQiOiJkMmEwZDcyNS05MTNmLTRlMTQtOTBkOS01ZTU0ODNkN2Q5ZjAiLCJka2giOiJoX2NoR0dES3haZ3JKRmgycjhFaDMzemJKUENjcXBIYXJqTGtEZ29qSzZjIiwiaWF0IjoxNzkzOTkxOTU3LCJleHAiOjE3OTM5OTU1NTd9.aA-JoyySHFQsnCxfZKQC2jGlnERLhDxf13ptxdX9kwA\",\"tokenExpiresAt\":1796583958445}"
+        },
+        {
+          "name": "heatmapHsrVid",
+          "value": "611061405326320056"
+        },
+        {
+          "name": "bugsnag-anonymous-id",
+          "value": "cmw5chdas000035hzkyhlwa6g"
+        },
+        {
+          "name": "swym-authn_timestamp",
+          "value": "1793991951.263"
+        },
+        {
+          "name": "ig-id",
+          "value": "ig_4c739338d35558fb7749dcc7a8e64ab73234"
+        },
+        {
+          "name": "loyaltylion_persistent_data",
+          "value": "{\"referrer\":{\"domain\":\"www.books2door.com\",\"searchEngine\":\"\",\"url\":\"https://www.books2door.com/\"},\"visitorId\":\"a391a7fd-6f39-4b6a-aaaf-b0065a6a9126\",\"guestIntroductionShownAt\":1793991952093}"
+        },
+        {
+          "name": "repCT",
+          "value": "hWNIqOznW2lGYHX8cFPVdYo7?key=9311862825837bfb413c20fb3a3f8338"
+        },
+        {
+          "name": "swym-devices",
+          "value": "{\"all\":{\"current-device-id\":\"b5a2ad32-410f-4b33-9c4e-742d85077299\",\"bkt\":\"A\"}}"
+        },
+        {
+          "name": "u_sclid",
+          "value": "ffiN_L24AFB4cqthpn4a6JcMSYV8NtgLyoUDu1Oz36kMDtlqz9gIWeKaz0QSMadU"
+        },
+        {
+          "name": "hutk_data",
+          "value": "{}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "7ada7c27-02f9-4f61-8433-3178f6f92d37"
+        },
+        {
+          "name": "pushowl_visitor_token",
+          "value": "e7ad5c3c-9ba9-45d0-a33f-76daeab20d17"
+        },
+        {
+          "name": "forms_visit_count",
+          "value": "1"
+        },
+        {
+          "name": "also-bought-recently-viewed-products",
+          "value": "{\"value\":[16368558113155],\"expirationTimeMillis\":1796583946400}"
+        },
+        {
+          "name": "_heatmapConfigs",
+          "value": "{\"_heatIdVisit\":{\"idVisit\":\"611061405326320056\",\"_heatIdvUpdated\":1793991948886},\"_userJourney\":null,\"leadConvCount\":0,\"_heatEventsCount\":16,\"window.isReturningUser\":0,\"heatmapTracking\":{\"events\":{\"track\":true,\"rate\":100},\"record\":{\"track\":true,\"rate\":100},\"checkoutLinkRules\":[{\"match\":\"hoshart.com\",\"selector\":\".cart-summary-aside a\"},{\"match\":\"haushaltsmagazin\",\"selector\":\"a.based_on_country\"},{\"match\":[\"thecatvetreport\",\"catproductinsider\"],\"selector\":\"a[href*='trypurestream']\"},{\"match\":\"hautgesundheit-aktuell.com\",\"selector\":\"a[href*='hautliebe.de']\"},{\"match\":\"pawstested.com\",\"selector\":\"a[href*='thetenace.com']\"},{\"match\":\"thetenace.com\",\"selector\":\"a[href*='pawstested.com']\"},{\"match\":\"myhealthstandard.com\",\"selector\":\"a[data-id^='fkt-button-']\"},{\"match\":\"vahrelo.com\",\"selector\":\"a[href*='grillgearinsider.com']\"},{\"match\":\"grillgearinsider.com\",\"selector\":\"a[href*='vahrelo.com']\"},{\"match\":\"rejuvacare.com\",\"selector\":\"a[href*='smarthealthpractices.com']\"},{\"match\":\"smarthealthpractices.com\",\"selector\":\"a[href*='rejuvacare.com']\"},{\"match\":\"myhealthyshape.com\",\"selector\":\"a.btn.btn-v2[href*='pdp-glp1-patches-v1'], a.btn.btn-v2[href*='pages/pdp-big4'], a.btn.btn-v2[href*='top5-glp-1-patches']\"},{\"match\":\"pawstested.com\",\"selector\":\"a[href*='catvetinsider.com']\"},{\"match\":\"catvetinsider.com\",\"selector\":\"a[href*='pawstested.com']\"},{\"match\":\"catvetinsider.com\",\"selector\":\"a[href*='thetenace.com']\"},{\"match\":\"catvetinsider.com\",\"selector\":\"a[href*='pawstested.com']\"},{\"match\":\"wellness-informed.co.uk\",\"selector\":\"a[href*='optimiise.com']\"},{\"match\":\"optimiise.com\",\"selector\":\"a[href*='wellness-informed.co.uk']\"},{\"match\":\"uromend.com\",\"selector\":\"a[href*='prostatehealthreport.com']\"},{\"match\":\"prostatehealthreport.com\",\"selector\":\"a[href*='uromend.com']\"},{\"match\":\"obseu.yougreencolumn.com\",\"selector\":\"a[href*='us.loopearplugs.com']\"},{\"match\":\"us.loopearplugs.com\",\"selector\":\"a[href*='obseu.yougreencolumn.com']\"},{\"match\":\"tryheatmap.ai\",\"selector\":\"a[href*='heatmap.com']\"},{\"match\":\"heatmap.com\",\"selector\":\"a[href*='tryheatmap.ai']\"},{\"match\":\"heatmapcore.com\",\"selector\":\"a[href*='heatmap.com']\"},{\"match\":\"heatmap.com\",\"selector\":\"a[href*='heatmapcore.com']\"}],\"elTagging\":[],\"survey\":[],\"unique_ids\":{\"4506\":true}},\"_heatMapEnvRecord\":{\"HEATMAPURL\":\"https://dashboard.heatmap.com\",\"S3URL\":\"https://heatmap-project-2022.s3.us-west-2.amazonaws.com/\",\"CONFIGURL\":\"https://dashboard.heatmap.com\",\"KINESISGATEWAY\":\"https://kinesis.heatmap.com/data\",\"KINESISSTREAM\":\"kinesisForProduction\",\"WEBSOCKET\":\"wss://vst.heatmap.com\",\"CIP\":\"0.0.0.0.0\",\"HEATMAPS\":[],\"IDSITE\":4329},\"_heatmapConfigUrl\":\"https://dashboard.heatmap.com\"}"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1793991942224"
+        },
+        {
+          "name": "zigpoll-session-storage",
+          "value": "{\"data\":{\"zigpoll-first-visit-timestamp\":\"2026-11-06T19:06:04.803Z\",\"zigpoll-has-initialized-session\":true,\"zigpoll-original-referrer\":\"\",\"zigpoll-landing-page\":\"https://www.books2door.com/collections/new-fiction/products/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i-a-court-of-thorns-and-roses-by-sarah-j-maas-fiction-hardback\",\"zigpoll-page-views\":1},\"updatedAt\":\"2026-11-06T19:06:04.803Z\",\"sessionKey\":\"jPbSnERzmk\"}"
+        },
+        {
+          "name": "swym-sms-config",
+          "value": "{\"default-country-code\":null,\"supported-countries\":null,\"provider-type\":\"KLAVIYO_platform\"}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cart",
+          "value": "[{\"id\":\"B2D8980\",\"name\":\"A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses) by Sarah J. Maas - Fiction - Hardback\",\"brand\":\"Bloomsbury Publishing\",\"category\":\"Fiction\",\"price\":\"19.99\",\"productId\":\"16368558113155\",\"variantId\":\"62753065664899\",\"compareAtPrice\":\"25.0\",\"url\":\"/products/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i-a-court-of-thorns-and-roses-by-sarah-j-maas-fiction-hardback?variant=62753065664899\",\"quantity\":\"1\",\"list\":\"\",\"variant\":\"Default Title\",\"image\":\"//www.books2door.com/cdn/shop/files/Thumbnail_5cad36b5-c0c6-4bf3-a979-980eff00b4fa.jpg?v=1792775507\"}]"
+        },
+        {
+          "name": "_heatHsr",
+          "value": "78406890"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU9HTXdOR00wTXpVdE5HSm1OeTAwWXpObExXRXdNMk10TXpCbU9UVXhaamsxTmpZeg\",\"expires\":\"2027-11-06T18:05:47.894Z\"}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageUrl",
+          "value": "https://www.books2door.com/collections/new-fiction/products/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i-a-court-of-thorns-and-roses-by-sarah-j-maas-fiction-hardback"
+        },
+        {
+          "name": "Personalization",
+          "value": "{\"recentlyViewedProducts\":[16368558113155],\"recentlyPurchasedProducts\":[],\"recentlyAddedToCartProducts\":[],\"recentlyViewedTimeLimit\":1793991948440}"
+        },
+        {
+          "name": "_heatidL",
+          "value": "611061405488860078"
+        },
+        {
+          "name": "heatmapDebugger",
+          "value": "{\"heatmapDCPageLoadTime\":0,\"heatmapDCVisit\":0,\"heatmapDCLogHSR\":0,\"preprocessorLT\":\"807.2999999970198ms\"}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIqOznW2lGYHX8cFPVdYo7\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIqOznW2lGYHX8cFPVdYo7\",\"customerProfileId\":null,\"countryCode\":\"GB\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "swym-rapps_cache",
+          "value": "[{\"app\":\"Wishlist\",\"is-paid\":true,\"enabled\":true,\"sfl-enabled\":true}]"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--params",
+          "value": "{\"user_id\":\"7ada7c27-02f9-4f61-8433-3178f6f92d37\",\"session_id\":\"1793991975\",\"session_count\":\"1\",\"session_landing_page_url\":\"https://www.books2door.com/collections/new-fiction/products/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i-a-court-of-thorns-and-roses-by-sarah-j-maas-fiction-hardback\",\"session_landing_page_title\":\"A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court \u2014 Books2Door\",\"market_id\":\"353632435\",\"locale_country_code\":\"GB\"}"
+        },
+        {
+          "name": "__fp_iid",
+          "value": "i_d5v1e1d4y142o2260652g6b"
+        },
+        {
+          "name": "_user_agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "swym-authn",
+          "value": "{\"all\":{\"email\":null,\"regn\":{\"di\":\"b5a2ad32-410f-4b33-9c4e-742d85077299\",\"pid\":\"gWGFyUiosK1TvH4TcZfTiZdMfjnYa5lruDh/qBKH6DY=\",\"email\":\"\",\"authn?\":false},\"regid\":null,\"authn\":false}}"
+        },
+        {
+          "name": "EASYGIFT_VARIANTS_INFO",
+          "value": "[]"
+        },
+        {
+          "name": "heatmap_id_site",
+          "value": "4329"
+        },
+        {
+          "name": "hCart",
+          "value": "true"
+        },
+        {
+          "name": "__fp_pid_840968a2",
+          "value": "3f54a33b9be84d9a0f2aec964f17be80"
+        },
+        {
+          "name": "ClicksQueue",
+          "value": "[]"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageTitle",
+          "value": "A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court \u2014 Books2Door"
+        },
+        {
+          "name": "userMaxScroll",
+          "value": "0"
+        },
+        {
+          "name": "vf-isTheaterMode",
+          "value": "false"
+        },
+        {
+          "name": "pushowl_channels_consent",
+          "value": "[]"
+        },
+        {
+          "name": "ig-vars",
+          "value": "{\"fc06b8c7b658\":\"aac9a29ba9eb\",\"6ef82536d2bc\":\"a6ad5fde082c\",\"b56dbf9610b2\":\"0481ad2eceec\",\"redirectId\":\"200357446019\",\"redirectDocumentReferrer\":\"\",\"redirectedFrom\":\"\"}"
+        },
+        {
+          "name": "repCart",
+          "value": "[{\"id\":62753065664899,\"properties\":{},\"quantity\":1,\"variant_id\":62753065664899,\"key\":\"62753065664899:384fc67462df04d1e2197fc2da922111\",\"title\":\"A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses) by Sarah J. Maas - Fiction - Hardback\",\"price\":1999,\"original_price\":1999,\"presentment_price\":19.99,\"discounted_price\":1999,\"line_price\":1999,\"original_line_price\":1999,\"total_discount\":0,\"discounts\":[],\"sku\":\"B2D8980\",\"grams\":800,\"vendor\":\"Bloomsbury Publishing\",\"taxable\":false,\"product_id\":16368558113155,\"product_has_only_default_variant\":true,\"gift_card\":false,\"final_price\":1999,\"final_line_price\":1999,\"url\":\"/products/a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i-a-court-of-thorns-and-roses-by-sarah-j-maas-fiction-hardback?variant=62753065664899\",\"featured_image\":{\"aspect_ratio\":1,\"alt\":\"A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses) by Sarah J. Maas - Fiction - Hardback Fiction Bloomsbury Publishing\",\"height\":3000,\"url\":\"https://cdn.shopify.com/s/files/1/0024/6874/1219/files/Thumbnail_5cad36b5-c0c6-4bf3-a979-980eff00b4fa.jpg?v=1792775507\",\"width\":3000},\"image\":\"https://cdn.shopify.com/s/files/1/0024/6874/1219/files/Thumbnail_5cad36b5-c0c6-4bf3-a979-980eff00b4fa.jpg?v=1792775507\",\"handle\":\"a-court-of-splintered-harmony-the-valkyrie-cycle-movement-i-a-court-of-thorns-and-roses-by-sarah-j-maas-fiction-hardback\",\"requires_shipping\":true,\"product_type\":\"Fiction\",\"product_title\":\"A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses) by Sarah J. Maas - Fiction - Hardback\",\"product_description\":\"Spending hours scrolling through endless online book debates, social feeds, and digital theories late into the night often creates mental overstimulation rather than genuine escapism. Fantasy and romance lovers yearn to trade screen glare for an intricately crafted physical volume filled with high-stakes court politics, perilous ancient magic, and fierce sisterhood. Finding a masterwork that delivers breathtaking world-building, multi-layered character arcs, and undeniable emotional tension is rare. Internationally celebrated #1 bestselling sensation Sarah J. Maas delivers the next era of Prythian with this monumental release.\\nThe A Court of Splintered Harmony Hardback marks the long-awaited return to the beloved world of A Court of Thorns and Roses. What was broken will be remade. Deep in the continent, Koschei the Deathless is stirring, spreading an insidious threat across the Fae territories and gathering powerful allies hell-bent on reclaiming ancient power. Within Prythian, the rifts dividing the High Courts and the Night Court's Inner Circle seem insurmountable. As the Valkyries\u2014Nesta, Gwyn, and Emerie\u2014draw upon their hard-won bonds and shadowy secrets threaten to unravel established alliances, every choice carries devastating consequences. To survive Koschei's creeping shadow, former enemies must unite, personal wounds must be confronted, and the fractured courts must mend the splintered harmony before darkness claims them all.\\nValkyrie Sisterhood, High Court Intrigue & Unstoppable Romantasy\\n\\n\\nThe Sixth Chapter in the Global Phenomenon: Launches the exhilarating Valkyrie Cycle, deepening the rich tapestry of the ACOTAR saga.\\n\\n\\nFierce Female Bonds & Martial Courage: Follows the continuing journey of the Valkyries as they balance newfound warrior disciplines with complex emotional reckonings.\\n\\n\\nBeloved Tropes & Intense Chemistry: Packed with multi-perspective storytelling, ancient mythological relics, forbidden yearnings, and high-stakes diplomacy.\\n\\n\\nWhy This Hardback from Books2Door Belongs on Your Bookshelf:\\n\\n\\nConquers Digital Fatigue: Replace digital notification fatigue with an immersive physical reading experience that calms the mind and commands deep focus.\\n\\n\\nBloomsbury Hardcover Craftsmanship: Bound with durable hard casing, high-opacity paper stock, and an embossed dust jacket designed to shine on collector shelves.\\n\\n\\nUnbeatable Online Value: Major blockbuster fantasy hardbacks command premium retail prices on the high street. We provide brand-new copies at fantastic budget-friendly savings.\\n\\n\\nThe shadows are lengthening over the continent, the Valkyrie blades are drawn, and the battle to mend Prythian has begun. Put your phone away, clear your evening schedule, and step back into the magical courts of the Fae. At Books2Door, we take pride in stocking top-charting fiction that turns quiet hours into unforgettable escapes at prices every reader can celebrate. Order your copy of A Court of Splintered Harmony: The Valkyrie Cycle, Movement I today!\\n\\n\\n\\nFeature\\nSpecification\\n\\n\\n\\n\\nFull Product Title\\nA Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns and Roses, Book 6)\\n\\n\\nAuthor\\nSarah J. Maas\\n\\n\\nPublisher Partners\\nBloomsbury Publishing PLC\\n\\n\\nFormat Architecture\\nHardcover / First Edition Collector's Hardback with Dust Jacket\\n\\n\\nSKU\\nB2D8980\\n\\n\\nPage Count & Scope\\n352 Pages, Unabridged Full Text Hardback\\n\\n\\nTarget Audience & Age Bracket\\nAdults, New Adult, Romantasy Readers, BookTok Enthusiasts (Ages 18+)\\n\\n\\nCore Themes & Genre\\nRomantic fantasy (Romantasy), Fae courts, Valkyrie sisterhood, Night Court politics, Koschei the Deathless, ancient magical bargains, slow-burn tension\\n\\n\\nSpecial Value Offerings\\nUnbeatable online pricing, 10% BookPoints cashback rewards, fast UK dispatch\\n\\n\\nSkills & Utility Developed\\nReading stamina, narrative focus, complex world-building retention, screen-free evening relaxation\\n\\n\\n\\nRomance, danger and intrigue await you in the breathtaking sixth book in the #1 bestselling Court of Thorns and Roses (ACOTAR) series.What was broken will be remade.Deep in the heart of the continent, Koschei the Deathless is stirring. Though he's been bound to a mountain lake for millennia, the insidious threat of his return now spreads across the Fae territories, attracting powerful allies hell-bent on reclaiming what was once theirs: the human lands.The Night Court will not stand idly by while innocents are attacked. But with Prythian still piecing itself together in the wake of the devastating Hybern War, the task of uniting is proving more difficult by the day.To make matters worse, those who rule and protect the Night Court are reeling from recent betrayals and revealed truths. The rifts dividing them seem insurmountable.But to defeat Koschei's creeping shadow, they must find a way back to each other and resurrect their former alliances. To survive, they must find a way to repair the splintered harmony all around them.\\nSarah J. Maas is a #1 New York Times, Sunday Times, and international bestselling author whose Court of Thorns and Roses, Throne of Glass, and Crescent City series have sold over 75 million copies worldwide across forty languages. Published by Bloomsbury Publishing PLC, A Court of Splintered Harmony: The Valkyrie Cycle, Movement I adheres to the highest editorial and manufacturing standards in modern publishing. Produced with durable hardback casing and archival-grade paper stock, this sixth ACOTAR installment has been hailed by fantasy critics and book club networks globally for its intricate narrative layering, emotional authenticity, and exploration of resilience and trauma recovery within high-fantasy world-building.\",\"variant_title\":null,\"variant_options\":[\"Default Title\"],\"options_with_values\":[{\"name\":\"Title\",\"value\":\"Default Title\"}],\"line_level_discount_allocations\":[],\"line_level_total_discount\":0,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"has_components\":false}]"
+        },
+        {
+          "name": "_heatVid",
+          "value": "611061405326320056"
+        },
+        {
+          "name": "enHsr",
+          "value": "16072742"
+        },
+        {
+          "name": "swym-fb-pixel-retry-check",
+          "value": "1793991956611"
+        },
+        {
+          "name": "rep",
+          "value": "{\"jfl\":\"https://d1o5e9vlirdalo.cloudfront.net/client/prod/2.0.415/index.js\",\"cfl\":\"https://d1o5e9vlirdalo.cloudfront.net/client/prod/2.0.415/style.css\",\"gcfl\":null,\"mc\":\"#cf2127\",\"sc\":\"#c8d4d4\",\"ac\":\"#7cac36\",\"bgc\":\"rgba(255, 255, 255, 1)\",\"pamc\":null,\"pacc\":null,\"pacmc\":null,\"cmc\":\"#cf2127\",\"paxc\":null,\"i\":\"https://d36vbr8l8uc1ea.cloudfront.net/logos/books2door_1720530178310.jpeg\",\"d\":true,\"cid\":\"d2a0d725-913f-4e14-90d9-5e5483d7d9f0\",\"sid\":\"8e1cf566-dbc4-466f-a246-6f89bc7bdc7c\",\"g\":\"WIN10021995\",\"ged\":1794596763589,\"crd\":{\"p\":\"BOTTOM_CENTER\",\"cp\":{\"x\":\"20px\",\"y\":\"85px\",\"h\":\"RIGHT\",\"v\":\"BOTTOM\"}},\"ate\":true,\"wt\":\"Hannah\",\"bs\":\"STORE_ICON\",\"bl\":null,\"bsz\":\"NORMAL\",\"csd\":{\"v\":true,\"c\":\"#cf2127\"},\"sb\":true,\"ig\":[{\"t\":\"ECOMMERCE\",\"m\":\"SHOPIFY\",\"d\":{}}],\"zidx\":null,\"toabr\":true,\"msd\":\"books2door.myshopify.com\",\"sm\":{\"BROWSE\":\"Browse\",\"RATE_THIS_CONVERSATION\":\"Rate this conversation\",\"MESSAGE\":\"Type anything here...\",\"STARTS_FROM\":\"Starts from\",\"THIS_FIELD_IS_REQUIRED\":\"This field is required\",\"CONTACT_SUPPORT\":\"Support\",\"WAITING_FOR_RESPONSE\":\"Just waiting on [NAME] to reply.\",\"CHAT_WITH_US\":\"Chat with us\",\"YOU_ARE_NOW_CHATTING_WITH\":\"You're now chatting with\",\"CLICK_HERE_TO_UPLOAD_AN_IMAGE\":\"Click here to upload an image\u2014go on, it won\u2019t bite.\",\"YOUR_PHONE\":\"Your phone\",\"THIS_NUMBER_IS_NOT_VALID\":\"That number doesn\u2019t look right\u2014give it another go.\",\"YOUR_NAME\":\"Your name\",\"ORDER_ID\":\"Order id\",\"YOUR_EMAIL\":\"Your email\",\"THIS_EMAIL_IS_NOT_VALID\":\"That email doesn\u2019t look quite right\u2014give it another go.\",\"WRONG_FILE_FORMAT\":\"Wrong file type\u2014please upload a PNG or JPG.\",\"OUT_OF_STOCK\":\"Out of stock\",\"SELECT_VARIANT\":\"Select\",\"NEW_CONVERSATION\":\"New Conversation\",\"RECENT_CONVERSATIONS\":\"Recent Conversations\",\"RESETTING_CONVERSATION\":\"Resetting conversation...\",\"UNAVAILABLE_WHILE_CONNECTED_TO_AGENT\":\"Unavailable while connected to a human agent\",\"FAILED_TO_START_NEW_CONVERSATION\":\"Failed to start new conversation. Please try again.\",\"RESET_NOT_AVAILABLE\":\"Reset function not available. Please refresh the page.\",\"CONVERSATION_NOT_AVAILABLE\":\"This conversation is no longer available or you don't have access to it.\",\"FAILED_TO_LOAD_CONVERSATION\":\"Failed to load conversation. Please try again.\",\"UNEXPECTED_ERROR_LOADING_CONVERSATION\":\"An unexpected error occurred while loading the conversation. Please try again.\",\"WHAT_CAN_I_HELP_YOU_WITH\":\"What can I help you with?\",\"SOURCES\":\"Sources\",\"VIEW_SOURCES\":\"View sources\",\"CORRECT_THE_AI\":\"Correct the AI\",\"CONNECT_WITH_AN_AGENT\":\"Connect with an agent\",\"ADDING_TO_CART\":\"Adding to cart\",\"REDIRECTING\":\"Redirecting\",\"SELLING_FAST\":\"Selling fast!\",\"SOMETHING_WENT_WRONG_TRY_AGAIN\":\"Something went wrong. Please try again later.\",\"UNABLE_TO_ADD_TO_CART\":\"Sorry, but it seems like I'm unable to add this product to your cart\",\"CONNECTING_WITH_SUPPORT_AGENT\":\"I'm connecting you with a support agent.\",\"A_HUMAN_AGENT\":\"a human agent\",\"UNABLE_TO_NAVIGATE\":\"Sorry, but it seems like I'm unable to navigate you away to this [LINK]page[/LINK]\",\"FILE_TOO_LARGE\":\"File size too large. Please upload an image up to [SIZE]MB\",\"WE_ONLY_SUPPORT_FILES\":\"We only support [TYPES] files\",\"DRAG_AND_DROP_FILES\":\"Drag and drop files, or\",\"UNKNOWN_FILE\":\"Unknown file\",\"ENTER_FULL_SCREEN\":\"Enter full screen\",\"EXIT_FULL_SCREEN\":\"Exit full screen\",\"ENTER_THEATER_MODE\":\"Enter theater mode\",\"NEXT_DISPLAY_MODE\":\"Next display mode\",\"PAUSE_ANIMATION\":\"Pause animation\",\"ASSISTANT\":\"Assistant\",\"START_NEW_CONVERSATION\":\"Start new conversation\",\"OPEN_MENU\":\"Open menu\",\"CLOSE_MENU\":\"Close menu\",\"GO_BACK\":\"Go back in conversation\",\"OPEN_CHAT\":\"Open chat\",\"CLOSE_CHAT\":\"Close chat\",\"SEND_MESSAGE\":\"Send message\",\"EXPAND_MENU\":\"Expand menu\",\"COLLAPSE_MENU\":\"Collapse menu\",\"MENU\":\"Menu\",\"CHAT_PREVIEW\":\"Chat preview\",\"RECENT_MESSAGES\":\"Recent messages\",\"MESSAGE_PARTS\":\"Message parts\",\"OPEN_CHAT_TO_VIEW_FULL_MESSAGE\":\"Open chat to view full message\",\"SHOW_MORE_OPTIONS\":\"Show more options\",\"SELECT_OPTION\":\"Select option: [OPTION]\",\"SUGGESTED_REPLIES\":\"Suggested replies\",\"CHAT_WINDOW\":\"Chat window\",\"CONVERSATION\":\"Conversation\",\"TOGGLE_SOURCES\":\"Toggle sources for this response\",\"SUBMIT\":\"Submit\",\"SEND\":\"Send\",\"UPLOAD_AN_IMAGE\":\"Upload an image\",\"CHANGE_UPLOADED_IMAGE\":\"Change uploaded image\",\"ATTACH_IMAGE\":\"Attach image\",\"REMOVE_IMAGE\":\"Remove image\",\"PHOTO_CONSENT_NOTICE\":\"By sending, you agree to our [LINK]Privacy Policy[/LINK].\",\"DISMISS_NOTIFICATION\":\"Dismiss notification\",\"DRAG_AND_DROP_BROWSE\":\"Drag and drop files here or click to browse\",\"CLOSE_THEATER_MODE\":\"Close Theater Mode\",\"DISCLAIMER\":\"Disclaimer\",\"STORE_BANNER_CONSENT_NOTICE\":\"This chat needs cookies to work. You can change your choice in this site's cookie settings.\",\"PHONE_NUMBER_WITH_COUNTRY_CODE\":\"Phone number with country code\",\"SELECT_COUNTRY_CODE\":\"Select country code\",\"VIEW_DETAILS_FOR\":\"View details for [ITEM]\",\"SELECT_ITEM\":\"Select [ITEM]\",\"VIEW_PRICING_FOR\":\"View pricing for [ITEM]\",\"PREVIOUS_ITEM\":\"Previous [TYPE]\",\"NEXT_ITEM\":\"Next [TYPE]\",\"ITEM_CAROUSEL\":\"[TYPE] carousel\",\"SLIDE_N_OF_M\":\"Slide [INDEX] of [TOTAL]\",\"IMAGE_UPLOAD_DROP_OVERLAY\":\"Drop your image here \u00b7 JPG or PNG \u00b7 up to 5 MB\",\"IMAGE_CAPTION_PLACEHOLDER\":\"Ask about this image\u2026\",\"IMAGE_UPLOAD_FORMAT_ERROR\":\"Only JPG or PNG files are supported.\",\"IMAGE_UPLOAD_SIZE_ERROR\":\"Image must be 5 MB or smaller.\",\"IMAGE_UPLOAD_MULTI_ERROR\":\"Please attach one image at a time.\",\"IMAGE_UPLOAD_FAILED_RETRY\":\"Couldn't send your image. Tap to retry.\",\"NEW_NOTIFICATION\":\"New notification: [MESSAGE]\",\"NEW_MESSAGE_AVAILABLE\":\"New message notification available. Press Tab to interact.\",\"BOT_IS_TYPING\":\"Bot is typing\",\"MESSAGE_SENT\":\"Message sent\",\"FORM_SUBMITTED_SUCCESSFULLY\":\"[FIELD] submitted successfully\",\"FORM_IS_NOW_AVAILABLE\":\"[FIELD] form is now available\",\"CHARACTER_LIMIT_REACHED\":\"Character limit reached: [COUNT] characters\",\"SLIDE_ANNOUNCEMENT\":\"Slide [INDEX] of [TOTAL]. [TYPE]: [ITEM]\",\"PRICE_REDUCED_FROM\":\"[PRICE], reduced from [ORIGINAL]\",\"ACTION_FOR_ITEM\":\"[ACTION] for [ITEM]\",\"SPP_TITLE\":\"How often should this arrive?\",\"SPP_ADD\":\"Add to cart\",\"SPP_DISCLOSURE\":\"Repeats until you cancel. Change or cancel anytime.\",\"SPP_SAVE\":\"Save [PCT]%\",\"SPP_BILLED\":\"[PRICE] billed [CADENCE]\",\"SPP_TODAY\":\"[PRICE] today, renews [RENEW]\",\"SPP_PER_DELIVERY\":\"[PRICE] per delivery \u00b7 [N] deliveries\",\"SPP_UNAVAILABLE_TITLE\":\"I could not set up a delivery schedule\",\"SPP_NOT_LOADED_TITLE\":\"The delivery plans couldn't be loaded\",\"SPP_UNAVAILABLE_BODY\":\"Nothing was added to your cart.\",\"SPP_OPEN_PRODUCT\":\"Open product page\",\"SPP_CONFIRMED\":\"[CADENCE] \u00b7 [PRICE]\",\"SPP_CONFIRMED_BODY\":\"Repeats until you cancel.\",\"TYPE_YOUR_MESSAGE\":\"Type your message\",\"MAXIMUM_CHARACTERS\":\"Maximum [COUNT] characters\",\"DRAG_AND_DROP_IMAGE_HINT\":\". You can also drag and drop an image file here.\",\"OPENS_IN_A_NEW_TAB\":\"(opens in a new tab)\",\"SLIDE\":\"slide\",\"IMAGE_ATTACHED\":\"Image attached\",\"IMAGE_YOU_SENT\":\"Image you sent\",\"ATTACH_PHOTO_OR_VIDEO\":\"Attach photo or video\",\"MEDIA_UPLOAD_DROP_TITLE\":\"Drop your photo or video here\",\"MEDIA_UPLOAD_DROP_HINT\":\"JPG or PNG up to [IMAGE_MAX_MB] MB \u00b7 MP4 or MOV up to [VIDEO_MAX_MB] MB and [MAX_SECONDS] seconds\",\"MEDIA_CAPTION_PLACEHOLDER\":\"Add a message (optional)\",\"REMOVE_VIDEO\":\"Remove video\",\"PHOTO_ATTACHED\":\"Photo attached. Send it, or add a message.\",\"VIDEO_ATTACHED\":\"Video attached. Send it, or add a message.\",\"MEDIA_UPLOAD_FORMAT_ERROR\":\"Only JPG or PNG photos, or MP4 or MOV videos, can be sent.\",\"VIDEO_UPLOAD_LENGTH_ERROR\":\"This video is [LENGTH] long. Videos can be up to [MAX_SECONDS] seconds and [MAX_MB] MB.\",\"VIDEO_UPLOAD_SIZE_ERROR\":\"This video is [SIZE] MB. Videos can be up to [MAX_MB] MB and [MAX_SECONDS] seconds.\",\"VIDEO_UPLOAD_MULTI_ERROR\":\"You can send one video at a time.\",\"VIDEO_YOU_SENT\":\"Video you sent\",\"PLAY_VIDEO\":\"Play video, [DURATION]\",\"VIDEO_SENDING\":\"[SENT] of [TOTAL] MB\",\"VIDEO_RECEIVED\":\"Video received\",\"CANCEL_UPLOAD\":\"Cancel upload\",\"VIDEO_UPLOAD_CANCELLED\":\"Upload cancelled\",\"VIDEO_NO_LONGER_AVAILABLE\":\"Video no longer available\",\"VIDEO_UPLOAD_FAILED_NETWORK\":\"Your video didn't send. Check your connection and try again.\",\"PHOTO_UPLOAD_FAILED_NETWORK\":\"Your photo didn't send. Check your connection and try again.\",\"TRY_AGAIN\":\"Try again\",\"TRY_AGAIN_IN\":\"Try again in [SECONDS] s\",\"VIDEO_UPLOAD_REJECTED_FORMAT\":\"This video format can't be sent. Use an MP4 or MOV video.\",\"VIDEO_UPLOAD_REJECTED_LIMIT\":\"This video is over the limit. Videos can be up to [MAX_MB] MB and [MAX_SECONDS] seconds.\",\"VIDEO_UPLOAD_REJECTED_GENERIC\":\"This video couldn't be sent. Choose another file with the paperclip.\",\"PHOTO_UPLOAD_REJECTED_GENERIC\":\"This photo couldn't be sent. Choose another file with the paperclip.\",\"MEDIA_SUPPORTED_HINT\":\"JPG or PNG up to [IMAGE_MAX_MB] MB, MP4 or MOV up to [VIDEO_MAX_MB] MB and [MAX_SECONDS] seconds\",\"MEDIA_WRONG_FILE_FORMAT\":\"Wrong file format. Please use JPG, PNG, MP4 or MOV\",\"DRAG_AND_DROP_PHOTO_OR_VIDEO\":\"Drag and drop a photo or video here, or click to browse\",\"REMOVE_FILE\":\"Remove file\",\"MEDIA_LABEL_PHOTO\":\"Photo\",\"MEDIA_LABEL_VIDEO\":\"Video\",\"NEW_MESSAGE_ANNOUNCEMENT\":\"New message: [MESSAGE]\",\"ALSO_AVAILABLE\":\"Also available: [ITEMS]\",\"CAROUSEL_ITEM_PRODUCT\":\"product\",\"CAROUSEL_ITEM_PRODUCT_VARIANT\":\"product variant\",\"CAROUSEL_ITEM_VARIANT\":\"variant\",\"CAROUSEL_ITEM_CATEGORY\":\"category\",\"CAROUSEL_ITEM_OPTION\":\"option\",\"CAROUSEL_ITEM_OTHER\":\"item\",\"CONVERSATION_VIEWING\":\"[CONVERSATION] (viewing)\",\"NO_PREVIEW_AVAILABLE\":\"No preview available\",\"PRODUCT_IMAGE\":\"Product image\",\"DISCLAIMER_ACCEPT\":\"Accept & continue\",\"DISCLAIMER_DECLINE\":\"Decline\",\"DISCOUNT_OFFER_CODE_LABEL\":\"Your discount code\",\"DISCOUNT_OFFER_TITLE_PERCENT\":\"[VALUE]% off\",\"DISCOUNT_OFFER_TITLE_AMOUNT\":\"[VALUE] off\",\"DISCOUNT_OFFER_TITLE_FREE_SHIPPING\":\"Free shipping\",\"DISCOUNT_OFFER_EXPIRES\":\"Expires [DATE]\",\"DISCOUNT_OFFER_MIN_CART\":\"On orders over [VALUE]\",\"DISCOUNT_OFFER_COPY\":\"Copy code\",\"DISCOUNT_OFFER_COPIED\":\"Copied\",\"DISCOUNT_OFFER_APPLY\":\"Apply to cart\",\"DISCOUNT_OFFER_APPLYING\":\"Applying\",\"DISCOUNT_OFFER_APPLIED\":\"Applied to your cart\",\"DISCOUNT_OFFER_APPLY_FAILED\":\"We couldn't apply [WORTH]\",\"DISCOUNT_OFFER_TRY_AGAIN\":\"Try again\",\"DISCOUNT_OFFER_EXPIRED\":\"This code has expired\"},\"l\":\"en-US\",\"sdk\":false,\"doca\":false,\"hl\":null,\"sbt\":\"Here to help you shop\",\"ipwe\":true,\"ipci\":\"c-interactive-product-cta\",\"ipt\":\"Ask about this product\",\"ipm\":\"CUSTOM_CONTAINER\",\"ipp\":\"AFTER\",\"ipak\":false,\"aspm\":\"CUSTOM_CONTAINER\",\"aspp\":\"AFTER\",\"aspak\":false,\"tpe\":false,\"aswe\":false,\"asci\":\"\",\"ast\":\"Ask our AI\",\"asph\":\"Ask our AI\",\"mds\":\"TYPING\",\"ddom\":\"FULL_SCREEN\",\"tme\":true,\"ds\":false,\"oam\":false,\"oah\":false,\"dsd\":false,\"ws\":\"V2_0\",\"crn\":\"FULL\",\"hpp\":false,\"ssr\":true,\"iue\":true,\"dsce\":false,\"dsct\":null,\"dscm\":\"REQUIRE_CONSENT\",\"sbc\":false,\"dk\":\"7c72ffc2-65fe-4001-879f-e9281ae40c3a\",\"ht\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwayI6ImJvb2tzMmRvb3IiLCJjaWQiOiJkMmEwZDcyNS05MTNmLTRlMTQtOTBkOS01ZTU0ODNkN2Q5ZjAiLCJka2giOiI1MUFZMjZJaG84aWtVRHlfeUxvZm9LaXJxRUpiSUxlVHhYUi11YU9KNG5nIiwiaWF0IjoxNzkzOTkxOTYzLCJleHAiOjE3OTM5OTU1NjN9.BPLlGO1RQT4Z2TZObRasX6E5ZHJ_KucnJOIQHaMBgKM\",\"ms\":{\"t\":[{\"l\":\"What's recommended?\",\"ui\":\"What's recommended?\",\"i\":\"star\"},{\"l\":\"Promotions\",\"ui\":\"Promotions\",\"i\":\"sell\"},{\"l\":\"Track order\",\"ui\":\"Track order\",\"i\":\"local_shipping\"}],\"b\":[{\"l\":\"View cart\",\"ui\":\"View cart\",\"i\":\"shopping_cart\"},{\"l\":\"Checkout\",\"ui\":\"Checkout\",\"i\":\"payments\"}]},\"ul\":{\"imb\":5000000,\"vmb\":25000000,\"vmd\":60,\"it\":[\"image/jpeg\",\"image/jpg\",\"image/png\"],\"vt\":[\"video/mp4\",\"video/quicktime\"]},\"createdAt\":1793991963202,\"pk\":\"books2door\",\"sUrl\":\"https://server.myrepai.com\"}"
+        },
+        {
+          "name": "swym-wishlisthkey_timestamp",
+          "value": "0"
+        },
+        {
+          "name": "swym-rconfig_cache",
+          "value": "{\"v\":\"135-0\",\"settings\":{\"SA\":{\"Title\":\"Shopping Assistant\",\"Anchor\":{\"Placement\":\"bottom-right\"},\"Enabled\":false,\"Color\":\"#7E57C2\"},\"Integrations\":{\"Review\":\"none\"},\"General\":{\"EngageUI\":{\"Settings\":{\"IsPaid\":false,\"TrialExpiryDate\":\"2025-06-21\"},\"Enabled\":true},\"RemoteConfig\":{\"assets\":\"//swymv3premium-01.azureedge.net/code\",\"host\":\"//swymstore-v3premium-01.swymrelay.com\",\"ttl\":600},\"Currency\":\"\u00a3\",\"HostedPages\":{\"SharedWishlist\":\"/pages/swym-share-wishlist\",\"Wishlist\":\"/pages/swym-wishlist\"},\"IgnoreCacheTS\":1792016956010,\"UseMoneyFormat\":true,\"BaseURL\":\"\",\"Enabled\":true,\"LogoutClean\":true,\"RetailerID\":\"\",\"MarketsEnabled\":false},\"Wishlist\":{\"AddedButtonColor\":\"#FF4500\",\"AllowToggle\":false,\"FaveCountSelector\":\".swym-fave-count\",\"AddToWishlistNudge\":{\"ShowHeartIcon\":true,\"Enabled\":false,\"NudgeButtonCTAColor\":\"#FF4500\"},\"EnableCollections\":true,\"UseCustomButton\":false,\"ButtonColor\":\"#FF4500\",\"CustomIcon\":\"\",\"LauncherIcon\":\"heart\",\"ButtonIcon\":\"heart\",\"Screen\":{\"PrimaryButtonConfig\":{\"BorderRadius\":\"5px\",\"TextColor\":\"#FFFFFF\",\"BackgroundColor\":\"#03000C\"},\"ProductCardConfig\":{\"Border\":\"none\"},\"TextColor\":\"#03000C\",\"BackgroundColor\":\"#FFFFFF\"},\"CustomFavoriteButtonClass\":\"link-wishlist\",\"headerConfig\":{\"desktop\":{\"attachButtonSelector\":\"\",\"cloneAttachSelectorElement\":true,\"appendBefore\":true,\"iconConfig\":{\"iconText\":\"Wishlist\",\"headerCounter\":false,\"iconType\":\"icon\"},\"removeClasses\":[\"\"],\"Enabled\":false},\"mobile\":{\"attachButtonSelector\":\"\",\"cloneAttachSelectorElement\":true,\"appendBefore\":false,\"iconConfig\":{\"iconText\":\"Wishlist\",\"headerCounter\":false,\"iconType\":\"icon\"},\"removeClasses\":[],\"Enabled\":false}},\"CreateCustomButton\":false,\"EnableFaveCount\":false,\"ButtonType\":\"icon\",\"ProductGridButton\":{\"attachButtonSelector\":\"\",\"iconType\":\"heart\",\"requestedEnabled\":true,\"Enabled\":false},\"AttachButtonSelector\":\"\",\"MailingListCheckInPopup\":true,\"CustomFavoriteButtonSelector\":\"a.custom-wishlist\",\"ShowBadge\":true,\"Enabled\":true,\"ToggleSwitchState\":true,\"CreateCustomButtonBefore\":\".product-details__block.product-details__block-description\",\"AllowSharing\":true,\"EnableSwymWishlist\":true,\"NoButtonInject\":false},\"Watchlist\":{\"Topics\":[\"backinstock\"],\"ISASubscriptionMessageColor\":\"#88877H\",\"ButtonType\":\"icontext\",\"ISASubscriptionMessageCTA\":\"Text me\",\"InlineForm\":true,\"ISAToggleMessageCTA\":\"SMS\",\"ISAToggleMessageColor\":\"#88877H\",\"NoButtonInject\":true,\"VariantSelectorInPopup\":false},\"Notification\":{\"EnableSanta\":false,\"Frequency\":300000,\"NTs\":{},\"MaxPerSession\":0,\"EnablePriceCheck\":false,\"EnableStockCheck\":false},\"Strings\":{\"MailingListPopupDescription\":\"We will send you an email when information about the products you have saved and favourited has been updated. Your email address will not be shared with anyone else.\",\"ThemeAppStorefrontLayoutTitle\":\"My Wishlist\",\"WishlistTooltipBefore\":\"Add to wishlist\",\"AddToWishlistNudgeMsg\":\"Not sure about buying? Add this product to wishlist and buy later.\",\"AddToCartCTAAlreadyAdded\":\"Added To Cart\",\"WishlistTooltipAfter\":\"Added. <a class='swym-open-ui'>View Wishlist</a>\",\"AddToCartCTACanAdd\":\"Add To Cart\",\"WishlistAddedCTA\":\"Added to Wishlist\",\"MailingListPopupHeading\":\"Wishlist Product Updates - Subscribe!\",\"AddToWishlistNudgeCTA\":\"Add to Wishlist\",\"WishlistAddCTA\":\"Add to Wishlist\"},\"Email\":{\"EnableEmailFriend\":true},\"StoreLogo\":\"https://swymv3starter-01.azureedge.net/retailerlogos/books2door-myshopify-com-logo-1638272106897.png\",\"FeatureToggles\":{\"use_mongo_SwymEtCountStore\":true},\"SFL\":{\"AddToSFLButton\":true,\"CartProductTileSelector\":\"li.cart-item\",\"PreviewSettings\":{\"PopUpSettings\":{\"ButtonText\":\"SAVE FOR LATER\",\"ButtonColor\":\"#1F2021\",\"Title\":\"Do you want to save this product for later?\",\"ShowAskMeAgainAfterCount\":2,\"MultipleProductsTitle\":\"Save all products for later to your Wishlist?\",\"PreviewDuration\":300000,\"SecondaryButtonText\":\"No, thanks!\",\"PopUpEnabled\":false,\"ButtonTextColor\":\"#FFFFFF\",\"AskMeAgainOption\":true,\"AskMeAgainLabel\":\"Don't ask me again\"}},\"EnableSFLViewOnWishlistUI\":true,\"CartPageContainerSelector\":\"#MainContent\",\"PopUpSettings\":{\"ButtonText\":\"SAVE FOR LATER\",\"ButtonColor\":\"#1F2021\",\"Title\":\"Do you want to save this product for later?\",\"ShowAskMeAgainAfterCount\":2,\"MultipleProductsTitle\":\"Save all products for later to your Wishlist?\",\"PreviewDuration\":300000,\"SecondaryButtonText\":\"No, thanks!\",\"PopUpEnabled\":false,\"ButtonTextColor\":\"#FFFFFF\",\"AskMeAgainOption\":true,\"AskMeAgainLabel\":\"Don't ask me again\"},\"AddToSFLBtnSelector\":\".cart-item__info .cart-item__remove\",\"CartPageURL\":\"/cart\",\"SFLFeatureEnabled\":true},\"UI\":{\"HTCAddListAssistantNote\":true,\"CustomCSS\":\".swym-btn-container{height: 52px; }button.swym-is-button.swym-save-for-later-btn{white-space:nowrap;font-family:Lato,sans-serif;font-size:16px}button.swym-is-button.swym-save-for-later-btn:hover {color: #000;text-decoration: none;}span.swym-save-for-later-btn-container.swym-is-safari{position:relative;left:5px}@media screen and (min-width:1024px){span.swym-save-for-later-btn-container.swym-is-safari{left: 10px;}}\",\"EnableProductView\":true,\"NotificationOnly\":false,\"HTCAddListShopperNote\":true,\"HTCAssistantFilterOptions\":[{\"key\":\"date-descending\",\"default\":true,\"displayText\":\"Date - Newest First\"},{\"key\":\"date-ascending\",\"displayText\":\"Date - Oldest First\"},{\"key\":\"price-descending\",\"displayText\":\"Price - High to Low\"},{\"key\":\"price-ascending\",\"displayText\":\"Price - Low to High\"},{\"key\":\"hide-out-of-stock\",\"displayText\":\"Hide Out of Stock\"}],\"HeaderLauncher\":{\"Enabled\":false},\"CustomIcon\":\"\",\"Title\":\"My Wishlist\",\"WishlistGridButton\":{\"Enabled\":true},\"LauncherLocation\":\"bottom-right\",\"LauncherType\":\"menu\",\"SimpleWishlistOnly\":true,\"AddToCartBtnColor\":\"#FF4500\",\"HTCAddToListNoteInput\":true,\"NameFormInput\":true,\"CustomAnchorSelector\":\"\",\"HTCUserFilterOptions\":[{\"key\":\"date-descending\",\"default\":true,\"displayText\":\"Date - Newest First\"},{\"key\":\"date-ascending\",\"displayText\":\"Date - Oldest First\"},{\"key\":\"price-descending\",\"displayText\":\"Price - High to Low\"},{\"key\":\"price-ascending\",\"displayText\":\"Price - Low to High\"},{\"key\":\"hide-out-of-stock\",\"displayText\":\"Hide Out of Stock\"}],\"UseCustomLauncher\":false,\"DisallowedURLPatterns\":[\"checkout\"],\"LauncherOpenHosted\":\"popup\",\"HTCCustomerDetailsCustomDetailsEnabled\":true,\"Enabled\":false,\"HTCCustomerDashboardEnabled\":true,\"ShareOptionOnTop\":true,\"Icon\":\"\",\"ShowWishlistCount\":false,\"Color\":\"#FF4500\",\"HTCAssistantWishlistDragEnable\":true},\"ProductGridButtonConfig\":{\"productTileSelector\":\"\",\"productUrlSelector\":\"\",\"productGridSelector\":\"\",\"xhrCallPathNames\":[]}}}"
+        },
+        {
+          "name": "heatmap_recording_auth",
+          "value": "{\"shouldRecord\":false,\"groupRecordingId\":null,\"idVisit\":\"611061405326320056\",\"timestamp\":1793991959868,\"expiryHours\":24}"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "iXiN_L24AFB4cqthpn4a6JcMSYV8NtgLYWYnKtYFA7tTs9-pDA7Zas_YCFnims9EEjGnVIrAFZs"
+        },
+        {
+          "name": "product_viewed",
+          "value": "true"
+        },
+        {
+          "name": "forms_session_id",
+          "value": "9558c837-7e3e-4622-94c4-b6a0733fc656"
+        },
+        {
+          "name": "swym-ab-test-config",
+          "value": "{}"
+        },
+        {
+          "name": "homepage_viewed",
+          "value": "true"
+        },
+        {
+          "name": "heatmap_page_count_611061405326320056",
+          "value": "1"
+        },
+        {
+          "name": "swym-devices_timestamp",
+          "value": "1793991951.261"
+        },
+        {
+          "name": "evQueue",
+          "value": "[]"
+        },
+        {
+          "name": "se_session_started_at",
+          "value": "1793991941785"
+        },
+        {
+          "name": "snize-recommendations-added",
+          "value": "[]"
+        },
+        {
+          "name": "repCartSid",
+          "value": "8e1cf566-dbc4-466f-a246-6f89bc7bdc7c"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cookies",
+          "value": "{\"__obref\":\"41bfec51-fbaa-44c7-96e0-fddea3a79f51\",\"_rdt_uuid\":\"1793991935559.c7dde860-9205-47ef-a889-0519c269f3e5\",\"_scid\":\"yoUDu1Oz36kMDtlqz9gIWeKaz0QSMadU\",\"_fbp\":\"fb.1.1793991975598.7010818845\"}"
+        }
+      ]
+    }
+  ]
+}

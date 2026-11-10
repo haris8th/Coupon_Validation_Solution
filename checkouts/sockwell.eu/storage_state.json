@@ -1,0 +1,131 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "NL",
+      "domain": "sockwell.eu",
+      "path": "/",
+      "expires": 1825560694.819644,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "EUR",
+      "domain": "sockwell.eu",
+      "path": "/",
+      "expires": 1801887095.819987,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG0NEcyAAEAvRRlQxdRpdjxORZF-VG_C2V8HTarW_3DniGVYyh9RZ8JBPynRMJv73xW-MI1u1USpy5Y2Ghj4my81ZU:",
+      "domain": "sockwell.eu",
+      "path": "/",
+      "expires": 1825560685.118595,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hello_retail_currency",
+      "value": "%7B%22active%22%3A%22EUR%22%2C%22rate%22%3A%221.0%22%7D",
+      "domain": ".sockwell.eu",
+      "path": "/",
+      "expires": 1825560690,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "assortion",
+      "value": "4424cc2b-0b2a-4dd2-b1bb-06a097dbaf2d",
+      "domain": ".sockwell.eu",
+      "path": "/",
+      "expires": 1828584688.275949,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cc_location",
+      "value": "pk",
+      "domain": ".sockwell.eu",
+      "path": "/",
+      "expires": 1825560688,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CC_p_consent_id",
+      "value": "c04892f1-fd98-4534-b712-8a5f81722de4",
+      "domain": ".sockwell.eu",
+      "path": "/",
+      "expires": 1796616688,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hello_retail_id",
+      "value": "6aeea4f61cb77ccd342d8cd1",
+      "domain": ".sockwell.eu",
+      "path": "/",
+      "expires": 1825560692,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3amPs._PKSD_f_f_9Uh2wlMoT-6NTdN7a48Nfw%237b635022-fd51-4cc3-a81b-4c0ddd885906-1794024691",
+      "domain": ".sockwell.eu",
+      "path": "/",
+      "expires": 1825582294.819304,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIrIKEr7WnV8c1MKv04Smp%3Fkey%3Dbf07d2678accc606324688e139da3d9f",
+      "domain": "sockwell.eu",
+      "path": "/",
+      "expires": 1801887095.819862,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://sockwell.eu",
+      "localStorage": [
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "ast-product-views",
+          "value": "[{\"pid\":\"15961876758872\",\"timestamp\":1794024690597,\"handle\":\"shadow-box-men-moderate-compression-socks-putty\"}]"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIrIKEr7WnV8c1MKv04Smp\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIrIKEr7WnV8c1MKv04Smp\",\"customerProfileId\":null,\"countryCode\":\"NL\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIrIKEr7WnV8c1MKv04Smp\""
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794283888775"
+        }
+      ]
+    }
+  ]
+}

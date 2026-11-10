@@ -1,0 +1,729 @@
+{
+  "data": {
+    "session": {
+      "negotiate": {
+        "__typename": "NegotiationResultPayload",
+        "result": {
+          "checkpointData": null,
+          "configurationRecordId": "gid://shopify/CheckoutProfile/459145483",
+          "renderContextToken": null,
+          "queueToken": "A3uwF7kP8j8aqBGX7EeVlpNlZmQz6HLsrHykqY8tH_mzVKFAZrrf71QABWVDyi9JNMdTlbQzhb2rS1Zrmrx8GV3jD8c-h5WWzNPGdyPDS27LmcMvzh4llMU9_w8wCbUg3XwgbD9iSdbY15k=",
+          "buyerProposal": {
+            "merchandiseDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "deliveryDiscount": {
+              "lines": [],
+              "__typename": "FilledDiscountTerms"
+            },
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "08a0cc77-a265-4c83-b285-26ee27fff70c",
+                  "merchandise": {
+                    "__typename": "ProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/32338582667345",
+                    "digest": "edd1c64c2b8fcf032405761306f6f63f",
+                    "variantId": "gid://shopify/ProductVariant/32338582667345",
+                    "title": "Montmorency Sauerkirsche Kapseln - Cherry PLUS",
+                    "untranslatedTitle": "Montmorency Sauerkirsche Kapseln - Cherry PLUS",
+                    "subtitle": "1 Monat",
+                    "untranslatedSubtitle": "1 Monat",
+                    "compareAtPrice": {
+                      "amount": "21.95",
+                      "currencyCode": "EUR",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/4620757794897",
+                      "vendor": "Cellavent Healthcare",
+                      "productType": "Kapseln",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/montmorency-sauerkirsche-kapseln-cherry-plus",
+                    "image": {
+                      "altText": "Montmorency Sauerkirsche Kapseln - Cherry PLUS - Cellavent Healthcare",
+                      "url": "https://cdn.shopify.com/s/files/1/0257/9005/4481/files/montmorency-sauerkirsche-kapseln-cherry-plus-8281259.png?v=1763461287",
+                      "one": "https://cdn.shopify.com/s/files/1/0257/9005/4481/files/montmorency-sauerkirsche-kapseln-cherry-plus-8281259_64x64.png?v=1763461287",
+                      "two": "https://cdn.shopify.com/s/files/1/0257/9005/4481/files/montmorency-sauerkirsche-kapseln-cherry-plus-8281259_128x128.png?v=1763461287",
+                      "four": "https://cdn.shopify.com/s/files/1/0257/9005/4481/files/montmorency-sauerkirsche-kapseln-cherry-plus-8281259_256x256.png?v=1763461287",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Inhalt",
+                        "value": "1 Monat",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": {
+                      "name": "1-Monats-Abo",
+                      "id": "gid://shopify/SellingPlan/7613382923",
+                      "digest": "939bcb779cdb2f242cd2273dc0b0aaa7",
+                      "deliveriesPerBillingCycle": 1,
+                      "prepaid": false,
+                      "allowStoreCredit": false,
+                      "subscriptionDetails": {
+                        "billingInterval": "MONTH",
+                        "billingIntervalCount": 1,
+                        "billingMaxCycles": null,
+                        "deliveryInterval": "MONTH",
+                        "deliveryIntervalCount": 1,
+                        "__typename": "SellingPlanSubscriptionDetails"
+                      },
+                      "__typename": "SellingPlan"
+                    },
+                    "giftCard": false
+                  },
+                  "parentRelationship": null,
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "19.76",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "2d7b475c653d55d22a53d69ff5f9f523",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "19.76",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "19.76",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "19.76",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "19.76",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "19.76",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": {
+                        "price": {
+                          "amount": "47.39",
+                          "currencyCode": "EUR",
+                          "__typename": "Money"
+                        },
+                        "measurement": {
+                          "referenceUnit": "G",
+                          "referenceValue": 100,
+                          "__typename": "UnitPriceMeasurement"
+                        },
+                        "__typename": "UnitPrice"
+                      },
+                      "sale": null,
+                      "allocations": [],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "__typename": "Proposal"
+          },
+          "sellerProposal": {
+            "merchandiseDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "cartMetafields": null,
+            "customFields": [],
+            "deliveryDiscount": {
+              "__typename": "FilledDiscountTerms",
+              "acceptUnexpectedDiscounts": false,
+              "lines": []
+            },
+            "fee": {
+              "__typename": "FilledFeeTerms",
+              "totalFeeAmount": {
+                "__typename": "MoneyValueConstraint",
+                "value": {
+                  "amount": "0.0",
+                  "currencyCode": "EUR",
+                  "__typename": "Money"
+                }
+              },
+              "feeLines": []
+            },
+            "__typename": "Proposal",
+            "deliveryExpectations": {
+              "__typename": "UnavailableTerms"
+            },
+            "promiseProgram": {
+              "variantPromises": [],
+              "__typename": "PromiseProgram"
+            },
+            "memberships": {
+              "__typename": "FilledMembershipTerms",
+              "memberships": []
+            },
+            "availableRedeemables": {
+              "availableRedeemables": [],
+              "__typename": "AvailableRedeemables"
+            },
+            "shopCashBalance": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopPromotion": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "shopDiscountOffer": {
+              "__typename": "UnavailableTerms",
+              "_singleInstance": true
+            },
+            "availableDeliveryAddresses": [],
+            "mustSelectProvidedAddress": false,
+            "mustSelectProvidedShippingRate": false,
+            "canUpdateDiscountCodes": true,
+            "canUpdateDeliveryAddress": true,
+            "canUpdateMerchandise": true,
+            "delivery": {
+              "__typename": "UnavailableTerms"
+            },
+            "deliveryMethods": {
+              "__typename": "UnavailableTerms"
+            },
+            "sellability": {
+              "shipping": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "08a0cc77-a265-4c83-b285-26ee27fff70c",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "local": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "08a0cc77-a265-4c83-b285-26ee27fff70c",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "pickUp": [],
+              "pickupPoint": [],
+              "none": [
+                {
+                  "targetMerchandise": {
+                    "stableId": "08a0cc77-a265-4c83-b285-26ee27fff70c",
+                    "__typename": "MerchandiseLine"
+                  },
+                  "__typename": "MerchandiseSellability"
+                }
+              ],
+              "__typename": "FilledSellability"
+            },
+            "payment": {
+              "__typename": "UnavailableTerms"
+            },
+            "poNumber": null,
+            "merchandise": {
+              "taxesIncluded": true,
+              "merchandiseLines": [
+                {
+                  "stableId": "08a0cc77-a265-4c83-b285-26ee27fff70c",
+                  "merchandise": {
+                    "__typename": "ContextualizedProductVariantMerchandise",
+                    "id": "gid://shopify/ProductVariantMerchandise/32338582667345",
+                    "digest": "edd1c64c2b8fcf032405761306f6f63f",
+                    "variantId": "gid://shopify/ProductVariant/32338582667345",
+                    "title": "Montmorency Sauerkirsche Kapseln - Cherry PLUS",
+                    "untranslatedTitle": "Montmorency Sauerkirsche Kapseln - Cherry PLUS",
+                    "subtitle": "1 Monat",
+                    "untranslatedSubtitle": "1 Monat",
+                    "sku": "100004",
+                    "price": {
+                      "amount": "19.76",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "compareAtPrice": {
+                      "amount": "21.95",
+                      "currencyCode": "EUR",
+                      "__typename": "MoneyV2"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/4620757794897",
+                      "vendor": "Cellavent Healthcare",
+                      "productType": "Kapseln",
+                      "__typename": "Product",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/montmorency-sauerkirsche-kapseln-cherry-plus",
+                    "image": {
+                      "altText": "Montmorency Sauerkirsche Kapseln - Cherry PLUS - Cellavent Healthcare",
+                      "url": "https://cdn.shopify.com/s/files/1/0257/9005/4481/files/montmorency-sauerkirsche-kapseln-cherry-plus-8281259.png?v=1763461287",
+                      "one": "https://cdn.shopify.com/s/files/1/0257/9005/4481/files/montmorency-sauerkirsche-kapseln-cherry-plus-8281259_64x64.png?v=1763461287",
+                      "two": "https://cdn.shopify.com/s/files/1/0257/9005/4481/files/montmorency-sauerkirsche-kapseln-cherry-plus-8281259_128x128.png?v=1763461287",
+                      "four": "https://cdn.shopify.com/s/files/1/0257/9005/4481/files/montmorency-sauerkirsche-kapseln-cherry-plus-8281259_256x256.png?v=1763461287",
+                      "__typename": "Image"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Inhalt",
+                        "value": "1 Monat",
+                        "__typename": "ProductVariantOption"
+                      }
+                    ],
+                    "sellingPlan": {
+                      "name": "1-Monats-Abo",
+                      "id": "gid://shopify/SellingPlan/7613382923",
+                      "digest": "939bcb779cdb2f242cd2273dc0b0aaa7",
+                      "deliveriesPerBillingCycle": 1,
+                      "prepaid": false,
+                      "allowStoreCredit": false,
+                      "subscriptionDetails": {
+                        "billingInterval": "MONTH",
+                        "billingIntervalCount": 1,
+                        "billingMaxCycles": null,
+                        "deliveryInterval": "MONTH",
+                        "deliveryIntervalCount": 1,
+                        "__typename": "SellingPlanSubscriptionDetails"
+                      },
+                      "__typename": "SellingPlan"
+                    },
+                    "giftCard": false,
+                    "deferredAmount": {
+                      "amount": "0.0",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    }
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1,
+                      "__typename": "IntValueConstraint"
+                    },
+                    "__typename": "ProposalMerchandiseQuantityByItem"
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "19.76",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  },
+                  "recurringTotal": {
+                    "title": "Montmorency Sauerkirsche Kapseln - Cherry PLUS - 1 Monat",
+                    "interval": "MONTH",
+                    "intervalCount": 1,
+                    "recurringPrice": {
+                      "amount": "19.76",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "fixedPrice": null,
+                    "fixedPriceCount": null,
+                    "__typename": "SubscriptionRecurringTotal"
+                  },
+                  "lineAllocations": [
+                    {
+                      "stableId": "2d7b475c653d55d22a53d69ff5f9f523",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "19.76",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "19.76",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "19.76",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "19.76",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "19.76",
+                        "currencyCode": "EUR",
+                        "__typename": "Money"
+                      },
+                      "unitPrice": {
+                        "price": {
+                          "amount": "47.39",
+                          "currencyCode": "EUR",
+                          "__typename": "Money"
+                        },
+                        "measurement": {
+                          "referenceUnit": "G",
+                          "referenceValue": 100,
+                          "__typename": "UnitPriceMeasurement"
+                        },
+                        "__typename": "UnitPrice"
+                      },
+                      "sale": null,
+                      "allocations": [
+                        {
+                          "__typename": "LineComponentTaxAllocation"
+                        }
+                      ],
+                      "__typename": "LineAllocation"
+                    }
+                  ],
+                  "lineComponentsSource": null,
+                  "lineComponents": [],
+                  "parentRelationship": null,
+                  "legacyFee": false,
+                  "__typename": "MerchandiseLine"
+                }
+              ],
+              "__typename": "FilledMerchandiseTerms"
+            },
+            "note": {
+              "customAttributes": [],
+              "message": null,
+              "__typename": "Note"
+            },
+            "scriptFingerprint": null,
+            "transformerFingerprintV2": null,
+            "buyerIdentity": {
+              "shopUser": null,
+              "customer": {
+                "presentmentCurrency": null,
+                "countryCode": null,
+                "market": {
+                  "id": "gid://shopify/Market/27361529",
+                  "handle": "de",
+                  "__typename": "Market"
+                },
+                "shippingAddresses": [],
+                "__typename": "GuestProfile"
+              },
+              "purchasingCompany": null,
+              "phone": null,
+              "email": null,
+              "marketingConsent": [],
+              "shopPayOptInPhone": null,
+              "rememberMe": false,
+              "__typename": "FilledBuyerIdentityTerms"
+            },
+            "checkoutCompletionTarget": "ORDER",
+            "recurringTotals": [
+              {
+                "title": "Montmorency Sauerkirsche Kapseln - Cherry PLUS - 1 Monat",
+                "interval": "MONTH",
+                "intervalCount": 1,
+                "recurringPrice": {
+                  "amount": "19.76",
+                  "currencyCode": "EUR",
+                  "__typename": "Money"
+                },
+                "fixedPrice": null,
+                "fixedPriceCount": null,
+                "__typename": "SubscriptionRecurringTotal"
+              }
+            ],
+            "subtotalBeforeTaxesAndShipping": {
+              "value": {
+                "amount": "19.76",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacySubtotalBeforeTaxesShippingAndFees": {
+              "value": {
+                "amount": "19.76",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "legacyAggregatedMerchandiseTermsAsFees": [],
+            "legacyRepresentProductsAsFees": false,
+            "totalSavings": {
+              "value": {
+                "amount": "0.0",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "runningTotal": {
+              "value": {
+                "amount": "19.76",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "total": {
+              "__typename": "AnyConstraint"
+            },
+            "checkoutTotalBeforeTaxesAndShipping": null,
+            "checkoutTotalTaxes": null,
+            "checkoutTotal": {
+              "__typename": "AnyConstraint"
+            },
+            "deferredTotal": null,
+            "hasOnlyDeferredShipping": false,
+            "subtotalBeforeReductions": {
+              "value": {
+                "amount": "19.76",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "subtotalAfterMerchandiseDiscounts": {
+              "value": {
+                "amount": "19.76",
+                "currencyCode": "EUR",
+                "__typename": "Money"
+              },
+              "__typename": "MoneyValueConstraint"
+            },
+            "duty": {
+              "totalDutyAmount": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAdditionalFeesAmount": null,
+              "__typename": "FilledDutyTerms"
+            },
+            "tax": {
+              "liability": null,
+              "taxBreakdown": null,
+              "totalTaxAmount": null,
+              "totalTaxAmountRange": null,
+              "totalTaxAndDutyAmount": null,
+              "totalAmountIncludedInTarget": {
+                "value": {
+                  "amount": "1.29",
+                  "currencyCode": "EUR",
+                  "__typename": "Money"
+                },
+                "__typename": "MoneyValueConstraint"
+              },
+              "__typename": "FilledTaxTerms"
+            },
+            "taxExemptions": {
+              "available": [],
+              "__typename": "FilledTaxExemptionTerms"
+            },
+            "tip": {
+              "tipSuggestions": [
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.15,
+                  "amount": {
+                    "value": {
+                      "amount": "2.96",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.18,
+                  "amount": {
+                    "value": {
+                      "amount": "3.56",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.2,
+                  "amount": {
+                    "value": {
+                      "amount": "3.95",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                },
+                {
+                  "__typename": "TipSuggestion",
+                  "percentage": 0.0,
+                  "amount": {
+                    "value": {
+                      "amount": "0.0",
+                      "currencyCode": "EUR",
+                      "__typename": "Money"
+                    },
+                    "__typename": "MoneyValueConstraint"
+                  }
+                }
+              ],
+              "terms": {
+                "tipLines": [],
+                "__typename": "FilledTipTerms"
+              },
+              "__typename": "TipWrapper"
+            },
+            "localizationExtension": {
+              "fields": [],
+              "__typename": "LocalizationExtension"
+            },
+            "landedCostDetails": {
+              "incotermInformation": null,
+              "__typename": "LandedCostDetails"
+            },
+            "dutiesIncluded": false,
+            "nonNegotiableTerms": null,
+            "optionalDuties": {
+              "buyerRefusesDuties": false,
+              "refuseDutiesPermitted": false,
+              "__typename": "OptionalDuties"
+            },
+            "attribution": {
+              "attributions": [],
+              "__typename": "Attribution"
+            },
+            "saleAttributions": {
+              "attributions": [],
+              "__typename": "SaleAttributions"
+            },
+            "managedByMarketsPro": false,
+            "managedMarketsPaymentProcessor": null,
+            "captcha": null,
+            "cartCheckoutValidation": {
+              "__typename": "CartCheckoutValidationTerms"
+            },
+            "alternativePaymentCurrency": null,
+            "lpmDisclosure": null,
+            "isShippingRequired": true,
+            "shopPayEnabled": true,
+            "remote": null,
+            "ucp": {
+              "continueUrl": "https://cellavent.de/cart/c/hWNIqSmYMsW23p3nTCpJTwFH?key=fe4795cd61ad970242c31e364a0da7a6",
+              "paymentHandlers": [
+                {
+                  "id": "shopify.card",
+                  "name": "dev.shopify.card",
+                  "version": "2026-01-15",
+                  "spec": "https://ucp.dev/specification/payment-handler-guide",
+                  "schema": "https://shopify.dev/ucp/card-payment-handler/2026-01-15/config.json",
+                  "config": {
+                    "payment_methods": [
+                      {
+                        "type": "card",
+                        "enabled_card_brands": [
+                          "visa",
+                          "maestro",
+                          "master",
+                          "american_express",
+                          "unionpay"
+                        ]
+                      }
+                    ]
+                  },
+                  "__typename": "UcpPaymentHandler"
+                },
+                {
+                  "id": "shop_pay",
+                  "name": "dev.shopify.shop_pay",
+                  "version": "2026-01-23",
+                  "spec": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/spec.md",
+                  "schema": "https://shopify.dev/ucp/shop-pay-handler/2026-01-23/schema.json",
+                  "config": {
+                    "shop_id": "25790054481"
+                  },
+                  "__typename": "UcpPaymentHandler"
+                }
+              ],
+              "__typename": "UcpProposal"
+            }
+          },
+          "__typename": "NegotiationResultAvailable"
+        },
+        "errors": [
+          {
+            "code": "REDUCTION_INVALID_CODE",
+            "localizedMessage": "Gib einen gültigen Rabattcode oder Gutschein ein",
+            "nonLocalizedMessage": "Reduction code couldn't be mapped to neither a gift card or discount.",
+            "localizedMessageHtml": "Gib einen gültigen Rabattcode oder Gutschein ein",
+            "__typename": "InputValidationError"
+          },
+          {
+            "code": "BUYER_IDENTITY_MISSING_CONTACT_METHOD",
+            "localizedMessage": "Es fehlt eine gültige Kontaktmethode.",
+            "nonLocalizedMessage": "Missing a valid contact method.",
+            "localizedMessageHtml": "Es fehlt eine gültige Kontaktmethode.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "BUYER_IDENTITY_EMAIL_REQUIRED",
+            "localizedMessage": "Eine E-Mail ist erforderlich, wenn der Merchandise-Artikel im Rahmen eines Abonnements gekauft wird.",
+            "nonLocalizedMessage": "An email is required when the merchandise is purchased using a selling plan.",
+            "localizedMessageHtml": "Eine E-Mail ist erforderlich, wenn der Merchandise-Artikel im Rahmen eines Abonnements gekauft wird.",
+            "target": "$.buyerIdentity",
+            "__typename": "UnprocessableTermViolation"
+          },
+          {
+            "code": "TAX_NEW_TAX_MUST_BE_ACCEPTED",
+            "localizedMessage": "Die mit deiner Bestellung verbundenen Steuern haben sich geändert. Überprüfe sie und versuche es erneut.",
+            "nonLocalizedMessage": "A new tax line in the seller proposal must be accepted in order to continue.",
+            "localizedMessageHtml": "Die mit deiner Bestellung verbundenen Steuern haben sich geändert. Überprüfe sie und versuche es erneut.",
+            "target": "$",
+            "__typename": "AcceptNewTermViolation"
+          },
+          {
+            "code": "REQUIRED_ARTIFACTS_UNAVAILABLE",
+            "localizedMessage": "",
+            "nonLocalizedMessage": "Required artifacts are unavailable.",
+            "localizedMessageHtml": null,
+            "__typename": "RequiredArtifactsUnavailableViolation"
+          }
+        ]
+      },
+      "__typename": "Session"
+    }
+  }
+}

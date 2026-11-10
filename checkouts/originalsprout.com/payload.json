@@ -1,0 +1,97 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBP5LMn2hnpoq3WobtR6ySgPQzGXfGqWQ8NV8q_xXhxAkXpuZIM5ayzsX5581ykwZ6orZzR0peyoG8jxwxXgWflwws5v4sSOxFALgMgXrimtp0boQeJLLKe2zT8qx3n_85g6OGZs1FC8Wtnc5pE6sP9Jsj8lk6gwSxzs5qMh2Sipad0AQaAwvVBcjzq7r7cnBgfCT_eqq9OVRMnaw1DsJFYZAC33iR6P6t0w"
+    },
+    "queueToken": "A3LjMdRJfnSpn4VusC9j5up_zQLmgMwbZt6Zl34j9jc4em8tPj77hGLPr1e9Wlmp7AKEaToQmm2CSrSAY_QPb549qPcxMsh8vDKjK6fHj4Nimx9oqPPV8ICpCxzLrTS6F6UBGl7YMhta0k0fnKbq",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "4b37b367-94a2-4ad0-b2fd-7b2a3a04ae63",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/18395008041019",
+              "variantId": "gid://shopify/ProductVariant/18395008041019",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "43.99",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "123e6ede-88af-450a-97b0-165d991f003b",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/18395007254587",
+              "variantId": "gid://shopify/ProductVariant/18395007254587",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "45.99",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "45ed195e-cc34-4c72-97fa-d84cf89046dd",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/49553869603054",
+              "variantId": "gid://shopify/ProductVariant/49553869603054",
+              "properties": [
+                {
+                  "name": "_gift",
+                  "value": {
+                    "string": "100% discount"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "24.95",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

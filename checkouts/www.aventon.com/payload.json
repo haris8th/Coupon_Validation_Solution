@@ -1,0 +1,237 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBW5bs7LrEHkyGxvBsvXLoDTYWiBNI0yKT2OEPotHbndtn9YEnfQupQRCqkQp05tZ7pJnjEXlisYnISULbB2dSNvY1d3SbLc-KSPI2Q63UR4HkfRvqHK-ERtOGFRtqUNyLoMpwyXBjVT3N_cMJZQbRrqWX3P-FD5pWqSdZL5TBzbJeeXP5dGYhmJSRYuAsvU5uP7wCP07oKDhfMzObaUjYwp4iHET8"
+    },
+    "queueToken": "A6aOfU_e_YoHPpvtLDc2w9EUAT4_GFAGHSY7m18ArR42iLH_4Y8zYo817kLtuAjw99HUpuUFct90mQGASI9NCI2MmTeIL3I1xwCVwz34vimK7xhguWTShRgpY4GbhJ-mqu63pl5zeicPn6uqzyqHaBddFg==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "8f55b2d6-16cf-4128-93c2-c49ed5179b82",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/42466713338051",
+              "variantId": "gid://shopify/ProductVariant/42466713338051",
+              "properties": [
+                {
+                  "name": "_applyDiscountToAllVariants",
+                  "value": {
+                    "boolean": false
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_discountValue",
+                  "value": {
+                    "int": "100"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_discountType",
+                  "value": {
+                    "string": "Percent"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_productId",
+                  "value": {
+                    "string": "7601802150083"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_freeWith",
+                  "value": {
+                    "string": "All"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_isFreeProduct",
+                  "value": {
+                    "string": "true"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "64.99",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "06348578-2b34-4adf-8ba2-071b57262cc8",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/43252633927875",
+              "variantId": "gid://shopify/ProductVariant/43252633927875",
+              "properties": [
+                {
+                  "name": "_applyDiscountToAllVariants",
+                  "value": {
+                    "boolean": false
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_discountValue",
+                  "value": {
+                    "int": "100"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_discountType",
+                  "value": {
+                    "string": "Percent"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_productId",
+                  "value": {
+                    "string": "7621104140483"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_freeWith",
+                  "value": {
+                    "string": "All"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_isFreeProduct",
+                  "value": {
+                    "string": "true"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "114.99",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "ca59c02d-91bc-4b48-a6d8-7b76a27fc511",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/45012371538115",
+              "variantId": "gid://shopify/ProductVariant/45012371538115",
+              "properties": [
+                {
+                  "name": "_is_required_product",
+                  "value": {
+                    "string": "true"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_required_variant_id",
+                  "value": {
+                    "string": "45012371538115"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_auto_fulfillment",
+                  "value": {
+                    "string": "true"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "15.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "d42d8764-dc8f-4c9b-95da-d82226650d20",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/44285586997443",
+              "variantId": "gid://shopify/ProductVariant/44285586997443",
+              "properties": [
+                {
+                  "name": "_required_variant_ids",
+                  "value": {
+                    "string": "45012371538115"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_auto_fulfill_required_variant_ids",
+                  "value": {
+                    "string": "45012371538115"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "1799.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

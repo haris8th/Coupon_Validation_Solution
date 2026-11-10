@@ -1,0 +1,72 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBjsy2SD2t3aCLcnfSZyDK_EnyKqeRG_HaI-5Xzicz0qi_vNUeprLu9_T19yfY03D94t7N8P-vqu2HprziT-G6cDIBGoEpMjQn-5R5xOCkecDcv5OyybHPMZGAAn1v8p7Yt0QqYDoT6kRZBVZ2pUsU6u2iFG4VCUKunWwiqqv2FscRVn0veG_3yCdOedJGa17EzpLcpVoD7X9rlTxVs7KpifdRGKCBcODmjD50oAk"
+    },
+    "queueToken": "A0jmIhAxIPcPWSVLukAb72Onx4G6UOgRMiE3f6Ufz4IcOTCSaStTH0rK82frTrppwRm9z7wulMN2s_KZry_kmLsJHHATTYg2dwEsvdWYPUivx5tCDEz64z-7WsB6d7t6hkBbQUrUu1Q=",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "28310fe7-ae5c-433c-aeb6-4ff31bd5f0d3",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/45067840979080",
+              "variantId": "gid://shopify/ProductVariant/45067840979080",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "27.52",
+              "currencyCode": "EUR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "a028921d-beaa-414b-b47f-74cdaf295f10",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/46121465512072",
+              "variantId": "gid://shopify/ProductVariant/46121465512072",
+              "properties": [
+                {
+                  "name": "_PlanID",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "679.15",
+              "currencyCode": "EUR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

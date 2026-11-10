@@ -1,0 +1,423 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".brahmin.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1825528337.343961,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1795201942.768461,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGyRpWrAAEA1_DmrQyKVT6ZiIhrEBE61fM-c5UFlLNhcV-djczB82NUtfAWAD8cVuYqEI4oOuXaO8j8qL6oIhAhwdE:",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1825528330.683992,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "osano_consentmanager_uuid",
+      "value": "ef30a184-357b-480e-88bb-94fb631d86fc",
+      "domain": ".brahmin.com",
+      "path": "/",
+      "expires": 1825528333.490966,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "osano_consentmanager",
+      "value": "vr8InpmthFqsMdjZEDwx1f3pNje8MYG-19eNcDP_KWfFI-9VWAxSE0QjQHaVr4grybwgmhvnZcmsFRaSxG6I-YKDun9_9OVVJNu9tyhF8T196AcG70fWLUSksCcpkI2Mxn4ktuptLQXEDnHCxP4VcuS3hRWk41Q1K2xv0naCAFEDSWrzHq7hP6q0Fu1SX88nDNn8AyYTgId9oGkLWItKQzhvlianrB5OxRG_iTACkry9uu7Xj_wwHrZVVXiCZZ5FHGIq0djiQY3e0k37qZcjaj4fdwmlk5o9M_9SuIPZk9z42XDrOWw_NJL7-_szCkOVyB9Q3CpHUa0=",
+      "domain": ".brahmin.com",
+      "path": "/",
+      "expires": 1825528333.491994,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__blockify::first-access-url",
+      "value": "%7B%22url%22%3A%22https%3A%2F%2Fbrahmin.com%2F%22%7D",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGyRp_mAAEA9NqsUvaI4cjt2BK9kSjjX2kqk923ihLd5RgVk_UOhxCBgUU_u7ljpTAUQ6PXLuljGcMnEgH0eFwSm_g:",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1825528333.262935,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGyRp_rAAEAzD54uRUhA0d60nqd7ZNtLyr4nygWvgfym24vOv6oWA5zYzKvAWUEOarGFbJFKx1o2Pg4NT6d2tFaReU:",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1825528333.263,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "2d632e30-1f66-44e6-9b9b-fc4f728dde36",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1825524736,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3AMPS._PKSD_t_f_dnTHXOVqSoaToxGCWTPMHA_%7B%22consent_timestamp%22%3A%222026-11-06T19%3A12%3A10.960Z%22%2C%22consent_id%22%3A%22ef30a184-357b-480e-88bb-94fb631d86fc%22%7D%237504487c-d370-42c0-b119-b2fe3d87b781-1793992332",
+      "domain": ".brahmin.com",
+      "path": "/",
+      "expires": 1825549947.29683,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "checkout_continuity_service",
+      "value": "271d18fa-9cd2-486e-bc9f-cdc0df949b15",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1828552336.06111,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__blockify::analyzer",
+      "value": "%7B%22startTime%22%3A1793992332955%2C%22sessionId%22%3A%2226178d11-6b0f-4545-bcc1-8685e0518159%22%7D",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "2c.cId",
+      "value": "6aee269240687d7736d20915",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1828552336.440382,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIqPfwgxDac67P3oJljhkB%3Fkey%3Dde0acd0a2f9f62c25485b8907970f54a",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1801854742.148684,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__wid",
+      "value": "363661299",
+      "domain": ".brahmin.com",
+      "path": "/",
+      "expires": 1793992758,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__wid",
+      "value": "424123560",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1793992758,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "82f70a63-aaab-4c1c-9d25-b023754d023f",
+      "domain": ".brahmin.com",
+      "path": "/",
+      "expires": 1794082339,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "forterToken",
+      "value": "70da7410f3dc453b852b61116cc72993_1793992337026__UDF43-m4_31ck_",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1828552339,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%253A0-4c794702-5869-5058-635f-705f73ebc9d1.y5kfPKONWWReJO6PhWjxOZ%252FfF5FXVFgJA0Twxn8ybeY",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1825528339,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%253ATHlHAlhpUFhjX3Bfc-vJ0covK4k.XsCbKYCq%252BO7d5V8CMrxS%252BiTYjAEHB2YR7rltfMMcxx0",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1825528339,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id-v3",
+      "value": "s%253A.o6W7wkJsHSTU4%252BLlDruZ%252FwNjVcUZZMvakQpSatDoAgo",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1825528339,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id-v4",
+      "value": "s%253ACiQwMWExYjI0Ni1iOWFlLTc2YjktOTFjYy02ODZjYWU1OWMxMWYQAxoEQVBBQyBN.IZ8iJBrx9OY7rJ32evew0RUhgOn7GFVKcFPRQpscCTQ",
+      "domain": "brahmin.com",
+      "path": "/",
+      "expires": 1825528340,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "forterToken",
+      "value": "70da7410f3dc453b852b61116cc72993_1793992334438__UDF43-m4_17ck_",
+      "domain": ".brahmin.com",
+      "path": "/",
+      "expires": 1828552340,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.5230",
+      "value": "*",
+      "domain": ".brahmin.com",
+      "path": "/",
+      "expires": 1793994141,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.5230",
+      "value": "5757ee689a55d743.1793992340.1.1793992341.1793992340",
+      "domain": ".brahmin.com",
+      "path": "/",
+      "expires": 1828552341.441446,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://brahmin.com",
+      "localStorage": [
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "nosto:visit",
+          "value": "6aee269240687d7736d20916"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1793992332821"
+        },
+        {
+          "name": "a7f3c9e2b18d4056",
+          "value": "{\"v\":1,\"t\":\"39927pp61116o258o354pq3s0147nq07\",\"d\":false,\"f\":3}"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92, =T}U418pUc>:@iB -&+DB@CT'F_=:f\u007fERQM@X;cnN#''z{}0WA,n/}uwrIG8r_IkaxiAzWY9%C\"!ErEBqu@py|R1z&PQV*"
+        },
+        {
+          "name": "sa-user-id-v3",
+          "value": "s%3A.o6W7wkJsHSTU4%2BLlDruZ%2FwNjVcUZZMvakQpSatDoAgo"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,4a+O$,DE!O+5U[&8u2n:6aH 2XKWmY<&J%-3)-8zxYE2nIRu7@*^\u007fbJEj_7!FD#pU."
+        },
+        {
+          "name": "__rmco",
+          "value": "{\"channelIds\":{\"aff_mid\":\"39712\",\"attr_sid\":\"111632\"},\"scope\":\"\",\"version\":\"2\",\"productConsents\":{\"ranTrkInt\":true,\"ranTrkExt\":true,\"ranAut\":true,\"ranCGE\":true,\"rtbRet\":true,\"rtbPro\":true,\"cadTrk\":true,\"dspTrk\":true},\"execStatus\":1,\"consentSought\":false,\"sourceDomain\":\"brahmin.com\",\"rmPurposeConsents\":[],\"rmVendorConsents\":[],\"id\":\"1029d0d0-0e4b-4b83-bd39-d0fa4202a9a9\",\"scnt\":0,\"maxAge\":1793994142292}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIqPfwgxDac67P3oJljhkB\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIqPfwgxDac67P3oJljhkB\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "forterToken",
+          "value": "70da7410f3dc453b852b61116cc72993,1793992340372"
+        },
+        {
+          "name": "statsig.session_id.1543686840",
+          "value": "{\"sessionID\":\"ac953172-4fc4-48a4-882e-56ebac184eaf\",\"startTime\":1793992336074,\"lastUpdate\":1793992343527}"
+        },
+        {
+          "name": "osano_consentmanager_tattles",
+          "value": "{\"111\":{\"queue\":{},\"ignore\":{\"localStorage\":[\"TriplePixel\",\"TriplePixelU\",\"__tw__\",\"signInWithShop:cartSyncTransferAttemptedAt\",\"affirmsniffer\",\"recentlyViewed\",\"shopify:webmcp_adapter_loaded\",\"statsig.stable_id.1543686840\",\"statsig.session_id.1543686840\",\"TW_EXT_page^viewed_1793992336037\",\"TW_EXT_product^viewed_1793992336038\",\"EVENTS_MAP\",\"statsig.cached.evaluations.861768930\",\"statsig.last_modified_time.evaluations\",\"nosto:visit\",\"true_rand_gen_sequence.dat_tmp\",\"forterToken\",\"__test__\",\"auth-security_rand_salt_\",\"pst\",\"psc\",\"sa-user-id\",\"sa-user-id-v2\",\"sa-user-id-v3\",\"sa-user-id-v4\",\"tp_cart\",\"cartToken\",\"TW_EXT_product^added^to^cart_1793992342203\",\"kl-post-identification-sync-shopify\",\"rm_storage_test_22785381480368982\",\"rm_storage_test_43670622713492835\",\"rm_storage_test_4995490770068649\",\"rm_storage_test_7122421326019489\",\"rm_storage_test_8425620000393688\",\"rm_storage_test_4892426244288679\",\"rm_storage_test_48976059324275223\",\"rm_storage_test_40630881494950677\",\"__rmco\",\"rm_storage_test_5358585762939561\",\"rm_storage_test_75498753923009\",\"rm_storage_test_6798585958503216\",\"rm_storage_test_4138745666117899\",\"rm_storage_test_6686245844654988\",\"rm_storage_test_08216043133041007\",\"__rmid\",\"rm_storage_test_5059166602575832\",\"swell-test-item\",\"__$intc\",\"gorgias.version\",\"gorgias.language-loaded\",\"654d0d25-ac09-4a42-8376-1ef86f401d33\",\"49374f97-a369-4617-a0db-74da5ebcec56\",\"c624f73c-abf9-40f4-ab7d-85f5d3abc14f\",\"gorgias.ai-agent-state\",\"gorgias.storage-updated-at\",\"beacon\"]}}}"
+        },
+        {
+          "name": "ftr__gf",
+          "value": "{\"et\":1793992339238,\"us\":\"\\f\\u001c<+oRl\\u001dTJO\\u000es\\f\\u0006\\u001f\\n\\u0016@,ck\\u0004eK\\b_\\u000f\\nblU\"}"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-06T19:12:22.181Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-b246df45-B38F-4898-2362-28A18037C361\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"brahminusa.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-b246df45-B38F-4898-2362-28A18037C361\",\"event_date_time\":\"2026-11-06T19:12:22.181Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"2d632e30-1f66-44e6-9b9b-fc4f728dde36\",\"page_url\":\"https://brahmin.com/products/jennifer-pine-melbourne-115815102173\",\"currency\":\"USD\",\"product\":{\"product_id\":\"9565968204013\",\"product_title\":\"Jennifer\",\"variant_id\":\"50613157101805\",\"variant_title\":\"Pine Melbourne\",\"quantity\":1,\"variant_price\":365,\"product_vendor\":\"BRAHMIN\"}}}}}]"
+        },
+        {
+          "name": "swell-test-item",
+          "value": "true"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIqPfwgxDac67P3oJljhkB\""
+        },
+        {
+          "name": "pst",
+          "value": "1793992341331"
+        },
+        {
+          "name": "sa-user-id",
+          "value": "s%3A0-4c794702-5869-5058-635f-705f73ebc9d1.y5kfPKONWWReJO6PhWjxOZ%2FfF5FXVFgJA0Twxn8ybeY"
+        },
+        {
+          "name": "statsig.last_modified_time.evaluations",
+          "value": "{\"statsig.cached.evaluations.861768930\":1793992336575}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "__rmid",
+          "value": "52805ff4-e247-4463-8907-7b51c9383513:1801768342312"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,2Idf>3YZ)GCniM9Oj.`wZY{vJu4:. FO^.m^i%3ljR*uiU=lMj;Mj@DI{+O\\5Ba'>.I6875R;#,sS8.1|("
+        },
+        {
+          "name": "sa-user-id-v2",
+          "value": "s%3ATHlHAlhpUFhjX3Bfc-vJ0covK4k.XsCbKYCq%2BO7d5V8CMrxS%2BiTYjAEHB2YR7rltfMMcxx0"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,H\u007fqWg@+~Y 0z\\M]#aY-dK-,Q8kC5S<+)(TKH. Fey&[}m1qXjq\u007f%[mo*su%\\&;B&hz$@u>Ao+rG@(85nXz"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "recentlyViewed",
+          "value": "[{\"id\":\"9565968204013\",\"title\":\"Jennifer\",\"url\":\"/products/jennifer-pine-melbourne-115815102173\",\"image\":\"//brahmin.com/cdn/shop/files/1158-151-02173-1.jpg?v=1790779142\",\"color\":\"Pine Melbourne\",\"price\":\"365.00\"}]"
+        },
+        {
+          "name": "osano_consentmanager_uuid",
+          "value": "ef30a184-357b-480e-88bb-94fb631d86fc"
+        },
+        {
+          "name": "statsig.cached.evaluations.861768930",
+          "value": "{\"source\":\"Network\",\"data\":\"{\\\"feature_gates\\\":{\\\"70009104\\\":{\\\"name\\\":\\\"70009104\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"1579767121\\\":{\\\"name\\\":\\\"1579767121\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"1991306400\\\":{\\\"name\\\":\\\"1991306400\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"2441149960\\\":{\\\"name\\\":\\\"2441149960\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"2499364797\\\":{\\\"name\\\":\\\"2499364797\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"2WhNDXAoF9iXTDporlaZ0q:100.00:10\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"2843591856\\\":{\\\"name\\\":\\\"2843591856\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"3090634860\\\":{\\\"name\\\":\\\"3090634860\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"3269982013\\\":{\\\"name\\\":\\\"3269982013\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"3279196256\\\":{\\\"name\\\":\\\"3279196256\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"4017451054\\\":{\\\"name\\\":\\\"4017451054\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"1EvbhpRJ18Usxn4TapDNdg:100.00:1\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"4139716291\\\":{\\\"name\\\":\\\"4139716291\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]},\\\"4279199542\\\":{\\\"name\\\":\\\"4279199542\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"device_id\\\",\\\"secondary_exposures\\\":[]}},\\\"dynamic_configs\\\":{\\\"367862564\\\":{\\\"name\\\":\\\"367862564\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"prestart\\\",\\\"group\\\":\\\"prestart\\\",\\\"is_device_based\\\":true,\\\"id_type\\\":\\\"stableID\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[]},\\\"470561494\\\":{\\\"name\\\":\\\"470561494\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"inlineTargetingRules\\\",\\\"group\\\":\\\"inlineTargetingRules\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":true,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"3269982013\\\",\\\"gateValue\\\":\\\"false\\\",\\\"ruleID\\\":\\\"default\\\"}]},\\\"1070341002\\\":{\\\"name\\\":\\\"1070341002\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"inlineTargetingRules\\\",\\\"group\\\":\\\"inlineTargetingRules\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":true,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"3279196256\\\",\\\"gateValue\\\":\\\"false\\\",\\\"ruleID\\\":\\\"default\\\"}]},\\\"1087607236\\\":{\\\"name\\\":\\\"1087607236\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":true,\\\"passed\\\":false,\\\"id_type\\\":\\\"stableID\\\",\\\"secondary_exposures\\\":[]},\\\"1984400002\\\":{\\\"name\\\":\\\"1984400002\\\",\\\"value\\\":{\\\"alaViewportImpressionSampleRate\\\":1},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"generic_ari\\\",\\\"secondary_exposures\\\":[]},\\\"2042103365\\\":{\\\"name\\\":\\\"2042103365\\\",\\\"value\\\":{\\\"variant\\\":\\\"control\\\"},\\\"rule_id\\\":\\\"73YXx6m7FsD3kil9Md0cNJ\\\",\\\"group\\\":\\\"73YXx6m7FsD3kil9Md0cNJ\\\",\\\"group_name\\\":\\\"control\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":true,\\\"is_user_in_experiment\\\":true,\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"4017451054\\\",\\\"gateValue\\\":\\\"true\\\",\\\"ruleID\\\":\\\"1EvbhpRJ18Usxn4TapDNdg:100.00:1\\\"}]},\\\"2060916554\\\":{\\\"name\\\":\\\"2060916554\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"inlineTargetingRules\\\",\\\"group\\\":\\\"inlineTargetingRules\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":true,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"1991306400\\\",\\\"gateValue\\\":\\\"false\\\",\\\"ruleID\\\":\\\"default\\\"}]},\\\"2123354126\\\":{\\\"name\\\":\\\"2123354126\\\",\\\"value\\\":{\\\"names\\\":[\\\"afjs_popup_enable\\\",\\\"checkout_locale_in_url\\\",\\\"checkout_locale_in_url_v2\\\",\\\"dynamic_optimization_device_id_q2_2026\\\",\\\"afjs_instant_checkout_loader_enable\\\",\\\"pricing_experiment_lower_rep_apr_upfunnel\\\",\\\"afjs_instant_checkout_loader_express_enable\\\",\\\"afjs_ala_below_cart_interest_free\\\",\\\"afjs_ala_below_cart_ib_installment\\\",\\\"afjs_ala_interactive_render\\\"]},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"generic_ari\\\",\\\"secondary_exposures\\\":[]},\\\"2493480461\\\":{\\\"name\\\":\\\"2493480461\\\",\\\"value\\\":{\\\"Variant\\\":\\\"enabled\\\"},\\\"rule_id\\\":\\\"launchedGroup\\\",\\\"group\\\":\\\"launchedGroup\\\",\\\"group_name\\\":\\\"enabled\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"2499364797\\\",\\\"gateValue\\\":\\\"true\\\",\\\"ruleID\\\":\\\"2WhNDXAoF9iXTDporlaZ0q:100.00:10\\\"}]},\\\"2893580290\\\":{\\\"name\\\":\\\"2893580290\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"prestart\\\",\\\"group\\\":\\\"prestart\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[]},\\\"2946869560\\\":{\\\"name\\\":\\\"2946869560\\\",\\\"value\\\":{\\\"publicApiKeys\\\":[\\\"DGTIN84KO51T736G\\\",\\\"BU9X6NJSAEDHZHHN\\\",\\\"X48LJJN2T95ALUXJ\\\",\\\"YLGY3FDPTVVUOZKY\\\",\\\"LB3SI2PJYQLWFKDL\\\"]},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"generic_ari\\\",\\\"secondary_exposures\\\":[]},\\\"3148455142\\\":{\\\"name\\\":\\\"3148455142\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"prestart\\\",\\\"group\\\":\\\"prestart\\\",\\\"is_device_based\\\":true,\\\"id_type\\\":\\\"stableID\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[]},\\\"3446633318\\\":{\\\"name\\\":\\\"3446633318\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"prestart\\\",\\\"group\\\":\\\"prestart\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":false,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[]},\\\"3569783987\\\":{\\\"name\\\":\\\"3569783987\\\",\\\"value\\\":{},\\\"rule_id\\\":\\\"inlineTargetingRules\\\",\\\"group\\\":\\\"inlineTargetingRules\\\",\\\"is_device_based\\\":false,\\\"id_type\\\":\\\"device_id\\\",\\\"is_experiment_active\\\":true,\\\"is_user_in_experiment\\\":false,\\\"secondary_exposures\\\":[{\\\"gate\\\":\\\"4139716291\\\",\\\"gateValue\\\":\\\"false\\\",\\\"ruleID\\\":\\\"default\\\"}]},\\\"3716627837\\\":{\\\"name\\\":\\\"3716627837\\\",\\\"value\\\":{\\\"publicApiKeys\\\":[\\\"PCEH8L7P35BM1ER1\\\",\\\"X48LJJN2T95ALUXJ\\\",\\\"B0TLCOA43RTMSI5Z\\\",\\\"YLGY3FDPTVVUOZKY\\\",\\\"LB3SI2PJYQLWFKDL\\\"]},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"generic_ari\\\",\\\"secondary_exposures\\\":[]}},\\\"layer_configs\\\":{},\\\"sdkParams\\\":{},\\\"has_updates\\\":true,\\\"generator\\\":\\\"scrapi-nest\\\",\\\"time\\\":1793992092589,\\\"company_lcut\\\":1793992092589,\\\"evaluated_keys\\\":{\\\"stableID\\\":\\\"d58ce5f4-ae35-44b1-98ff-c3bf1ae7529a\\\",\\\"customIDs\\\":{\\\"device_id\\\":\\\"271d18fa-9cd2-486e-bc9f-cdc0df949b15\\\",\\\"generic_ari\\\":\\\"M39MLMUW0EIV22OT\\\"}},\\\"hash_used\\\":\\\"djb2\\\",\\\"derived_fields\\\":{\\\"ip\\\":\\\"202.47.43.137\\\",\\\"country\\\":\\\"PK\\\",\\\"browserName\\\":\\\"Chrome\\\",\\\"browserVersion\\\":\\\"131.0.0\\\",\\\"osName\\\":\\\"Windows\\\",\\\"osVersion\\\":\\\"10.0.0\\\",\\\"browser_name\\\":\\\"Chrome\\\",\\\"browser_version\\\":\\\"131.0.0\\\",\\\"os_name\\\":\\\"Windows\\\",\\\"os_version\\\":\\\"10.0.0\\\"},\\\"hashed_sdk_key_used\\\":\\\"3841296201\\\",\\\"can_record_session\\\":true,\\\"recording_blocked\\\":false,\\\"session_recording_rate\\\":1,\\\"param_stores\\\":{},\\\"target_app_used\\\":\\\"afjs\\\",\\\"full_checksum\\\":\\\"3421195577\\\"}\",\"receivedAt\":1793992336569,\"stableID\":\"d58ce5f4-ae35-44b1-98ff-c3bf1ae7529a\",\"fullUserHash\":\"2532126998\"}"
+        },
+        {
+          "name": "statsig.stable_id.1543686840",
+          "value": "\"d58ce5f4-ae35-44b1-98ff-c3bf1ae7529a\""
+        },
+        {
+          "name": "__$intc",
+          "value": "{\"startTime\":1793992338849,\"lastPersistTime\":1793992342573,\"counts\":{\"keyup\":1,\"click\":4,\"pointerrawupdate\":1,\"pointerout\":1,\"pointerover\":1,\"mouseout\":1,\"mouseover\":1,\"pointermove\":1,\"pointerdown\":1,\"mousedown\":1,\"focusout\":2,\"focusin\":1,\"pointerup\":1,\"mouseup\":1},\"nonTrustedLog\":[[\"click\",1793992339142],[\"click\",1793992339154],[\"click\",1793992339155]],\"keyboardLog\":[]}"
+        },
+        {
+          "name": "sa-user-id-v4",
+          "value": "s%3ACiQwMWExYjI0Ni1iOWFlLTc2YjktOTFjYy02ODZjYWU1OWMxMWYQAxoEQVBBQyBN.IZ8iJBrx9OY7rJ32evew0RUhgOn7GFVKcFPRQpscCTQ"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,D'|;D(_e`YIk?'ae'}\\D(=D-1j^>c};$>v]GC$fE{q`k%?DO{r$1vqAj\\V`17o+sr\\}y?143m}[|WG\u007f)+ab_<_ssa{w1Fgj};*4vA{ySOU)"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":\"deactivated\",\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":false,\"chatTitle\":\"BRAHMIN\",\"isConnected\":false,\"isChatOnline\":false,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"always-required\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":false,\"replyType\":\"reply-in-minutes\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1793992343352"
+        },
+        {
+          "name": "osano_consentmanager",
+          "value": "vr8InpmthFqsMdjZEDwx1f3pNje8MYG-19eNcDP_KWfFI-9VWAxSE0QjQHaVr4grybwgmhvnZcmsFRaSxG6I-YKDun9_9OVVJNu9tyhF8T196AcG70fWLUSksCcpkI2Mxn4ktuptLQXEDnHCxP4VcuS3hRWk41Q1K2xv0naCAFEDSWrzHq7hP6q0Fu1SX88nDNn8AyYTgId9oGkLWItKQzhvlianrB5OxRG_iTACkry9uu7Xj_wwHrZVVXiCZZ5FHGIq0djiQY3e0k37qZcjaj4fdwmlk5o9M_9SuIPZk9z42XDrOWw_NJL7-_szCkOVyB9Q3CpHUa0="
+        },
+        {
+          "name": "ftr__prdy",
+          "value": "{\"et\":1793992339244,\"us\":\"\\f\\u001c<+oRl\\u001dTJO\\u000es\\f\\u0006\\u001f\\n\\u0016@,ck\\u0004eK\\b_\\u000f\\nblU\"}"
+        },
+        {
+          "name": "psc",
+          "value": "5"
+        }
+      ]
+    }
+  ]
+}

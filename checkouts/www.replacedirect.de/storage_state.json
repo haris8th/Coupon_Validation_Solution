@@ -1,0 +1,109 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "DE",
+      "domain": "www.replacedirect.de",
+      "path": "/",
+      "expires": 1825559371.124813,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "EUR",
+      "domain": "www.replacedirect.de",
+      "path": "/",
+      "expires": 1795232971.284894,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG0IBxvAAEALtMFrEpKsG2g2ooNgA1w-eSWQaGm6s6s9-AsHeXhHHBdZ4pA8PY1jJ4fcglCYyvIMPLNXuBafzG2zYg:",
+      "domain": "www.replacedirect.de",
+      "path": "/",
+      "expires": 1825559363.571169,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaG0IB01AAEAMmLSF0v-YnpVSyU9IMjP6zRRHQ6D2CSqH4Ml90juFfirCEOTTkPUxVwrumcybRi3yTADxgeIH6QLlI0:",
+      "domain": "www.replacedirect.de",
+      "path": "/",
+      "expires": 1825559363.571292,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaG0IB02AAEAmRJNySohgqyK6vw5pFUf92BYbtaH-ZgGVbxeWmaLXJXAyNzVr2n80P8hVGD_PCoVhcuqLljSUkIx4v8:",
+      "domain": "www.replacedirect.de",
+      "path": "/",
+      "expires": 1825559363.571453,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIrG5QDw949wEq3EZTHRFD%3Fkey%3D13156f22e016342235aec93628be0210",
+      "domain": "www.replacedirect.de",
+      "path": "/",
+      "expires": 1801885769.545236,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_Ms4l3N6oTJiihX9oOImbsQ%231a8b8556-dc46-404d-a4bb-580a82725c31-1794023370",
+      "domain": ".replacedirect.de",
+      "path": "/",
+      "expires": 1825580974.833876,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.replacedirect.de",
+      "localStorage": [
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIrG5QDw949wEq3EZTHRFD\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIrG5QDw949wEq3EZTHRFD\",\"customerProfileId\":null,\"countryCode\":\"DE\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "algolia_config",
+          "value": "{\"app_id\":\"BNXUZ49PLL\",\"search_api_key\":\"6d97ae0adfaf19c169b568c5e091c337\",\"index_name\":\"shopify_RDDE_products\",\"useCookie\":false}"
+        },
+        {
+          "name": "algolia_analytics_options",
+          "value": "{\"partial\":true}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIrG5QDw949wEq3EZTHRFD\""
+        },
+        {
+          "name": "ubwc",
+          "value": "{\"widget_configs_A-iTCkDu9v3735bbyCyYwjjXRYL\":\"{\\\"data\\\":false,\\\"time\\\":1794023370821}\"}"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794282567924"
+        }
+      ]
+    }
+  ]
+}

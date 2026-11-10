@@ -1,0 +1,61 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEB9Jmqm-pc9fbuXL7UfdW0K3PBwkqh1OX6pSrTlE-RTdFBiv5eaUq9RG2eMATxSgPLf_EsxvNu4TgCvyTHD07bly7VRAXE7UjxgxE9QC-XfiJRNGYIKyg1IfchQsA38bhqxrIDRrvLFTTTqkb8x_V4Q49BAYe2b0x_dQvvcyHVCAXHSO-bIgKHYy0N7AJiTwxSKH8pDxrYlsQGrECWQRHHrddWZo8LZTQcaPc"
+    },
+    "queueToken": "A0GE3bzMP3tzon9JNml0a0dYSv2T5nX_WYBtg18UhdEhtr_QXoUkZTtQMKCpB5SSsw-k0EFH3mbEj2plCnXefRWnbXiwDu80ozyfRV2gFQaSk7gy2m7pNxh3QKuDtMLwAQ==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "44af9c34-e441-49ad-bbb9-58d698fb8eaf",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/50434069070090",
+              "variantId": "gid://shopify/ProductVariant/50434069070090",
+              "properties": [
+                {
+                  "name": "_orderno2",
+                  "value": {
+                    "string": "595.03"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_productid-magento",
+                  "value": {
+                    "string": "33004"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_slpt",
+                  "value": {
+                    "string": ""
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "8.90",
+              "currencyCode": "CHF"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

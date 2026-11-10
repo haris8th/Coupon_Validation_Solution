@@ -1,0 +1,374 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEB3iuFU_SNsQYBgKetHw_RgU1_vzPZWKVjVtrHtQt1V3rDR_wVTm1WkACvvZWsSvkV5FspEl-WkOaMZ9gKVf_OtprlxZFjL9nVVGyxo2XRRFMFCcJNec8Vk7Ne9rKO3PKOc0s12CkI49BndWS0hS-e0qKOcaeKCR6OhanZkzuaob-ZKk1mDUfBG-dx3zpWAEad3Teqo2CdPxgn7OUxUgTD-9Xd5rWZqA"
+    },
+    "queueToken": "A3IJhcglOPsovohROpeCCyGki4CbOniKE-PT88XtadJ3ADGFJU_Y36nD9zT63pZNG5U3cDX5L8T7mjYS-wyVaZS90tWj5un5bdap-Ye0qpoGJUUhY0y5CAdviXvOMECp-Q==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "0dad1b4f-d691-4aae-96f3-dfb0ba8b7a60",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/52245814247767",
+              "variantId": "gid://shopify/ProductVariant/52245814247767",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "12.99",
+              "currencyCode": "EUR"
+            }
+          },
+          "lineComponentsSource": "BUNDLES_STATIC_EXPAND",
+          "lineComponents": [
+            {
+              "stableId": "23e91223-774f-cdf6-67e9-9d20726f7637",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/52244625195351",
+                "digest": "f884a753a78f0cd510d7ebc453fd08d6",
+                "variantId": "gid://shopify/ProductVariant/52244625195351",
+                "title": "Tomatenmesser von Victorinox",
+                "untranslatedTitle": "Tomatenmesser von Victorinox",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/10423703077207",
+                  "vendor": "Victorinox",
+                  "productType": "Tomatenmesser",
+                  "disclosures": []
+                },
+                "productUrl": "/products/gefro-tomatenmesser",
+                "image": {
+                  "altText": "K\u00fcchenmesser mit rotem Griff und gezahnter Edelstahlklinge, geeignet zum Schneiden von Brot, Gem\u00fcse und Obst",
+                  "url": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/Tomatenmesser_packshot.png?v=1774448886",
+                  "one": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/Tomatenmesser_packshot_64x64.png?v=1774448886",
+                  "two": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/Tomatenmesser_packshot_128x128.png?v=1774448886",
+                  "four": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/Tomatenmesser_packshot_256x256.png?v=1774448886"
+                },
+                "properties": [],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "4.31",
+                  "currencyCode": "EUR"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "05a7f6eab35245e1cf7d9bf424d72f38",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "4.31",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "4.31",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "4.31",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "4.31",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "4.31",
+                    "currencyCode": "EUR"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "76ca7a52-6de1-f0cb-584f-21bce66ae85e",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/52239944909143",
+                "digest": "3a25edefd3760b6b1d885adea126edae",
+                "variantId": "gid://shopify/ProductVariant/52239944909143",
+                "title": "Salatw\u00fcrze - W\u00fcrzmischung f\u00fcr Salate",
+                "untranslatedTitle": "Salatw\u00fcrze - W\u00fcrzmischung f\u00fcr Salate",
+                "subtitle": "130g",
+                "untranslatedSubtitle": "130g",
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/10420531462487",
+                  "vendor": "GEFRO",
+                  "productType": "F\u00fcr den Salat",
+                  "disclosures": []
+                },
+                "productUrl": "/products/wuerzmischung-salatwuerze-fuer-salate",
+                "image": {
+                  "altText": "Dose GEFRO Klassik Salatw\u00fcrze mit rotem Deckel, f\u00fcr frische Salate und vielseitiges W\u00fcrzen in der K\u00fcche",
+                  "url": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/11030_0.webp?v=1775808672",
+                  "one": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/11030_0_64x64.webp?v=1775808672",
+                  "two": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/11030_0_128x128.webp?v=1775808672",
+                  "four": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/11030_0_256x256.webp?v=1775808672"
+                },
+                "properties": [],
+                "requiresShipping": true,
+                "options": [
+                  {
+                    "name": "Inhalt",
+                    "value": "130g"
+                  }
+                ],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "2.92",
+                  "currencyCode": "EUR"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "ef9fc6f04e3e726fa6dc5e94dac37b1b",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "2.92",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "2.92",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "2.92",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "2.92",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "2.92",
+                    "currencyCode": "EUR"
+                  },
+                  "unitPrice": {
+                    "price": {
+                      "amount": "22.46",
+                      "currencyCode": "EUR"
+                    },
+                    "measurement": {
+                      "referenceUnit": "KG",
+                      "referenceValue": 1
+                    }
+                  },
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "c56b0468-4bb3-937e-3850-18e34eab3128",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/52239943434583",
+                "digest": "e5723b342be09b5da41c6b72833530da",
+                "variantId": "gid://shopify/ProductVariant/52239943434583",
+                "title": "Fleischw\u00fcrze mit Kr\u00e4utern",
+                "untranslatedTitle": "Fleischw\u00fcrze mit Kr\u00e4utern",
+                "subtitle": "125g",
+                "untranslatedSubtitle": "125g",
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/10420529529175",
+                  "vendor": "GEFRO",
+                  "productType": "W\u00fcrzig & Herzhaft",
+                  "disclosures": []
+                },
+                "productUrl": "/products/fleischwuerze-mit-kraeutern",
+                "image": {
+                  "altText": "GEFRO Klassik Fleischw\u00fcrze in Dose, Gew\u00fcrzmischung f\u00fcr Fleischgerichte mit 17 Kr\u00e4utern und Gew\u00fcrzen, frontal gezeigt",
+                  "url": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/10913_0.webp?v=1775808446",
+                  "one": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/10913_0_64x64.webp?v=1775808446",
+                  "two": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/10913_0_128x128.webp?v=1775808446",
+                  "four": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/10913_0_256x256.webp?v=1775808446"
+                },
+                "properties": [],
+                "requiresShipping": true,
+                "options": [
+                  {
+                    "name": "Inhalt",
+                    "value": "125g"
+                  }
+                ],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "2.92",
+                  "currencyCode": "EUR"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "f516ea3ba44e5e407a2142957290fe71",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "2.92",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "2.92",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "2.92",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "2.92",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "2.92",
+                    "currencyCode": "EUR"
+                  },
+                  "unitPrice": {
+                    "price": {
+                      "amount": "23.36",
+                      "currencyCode": "EUR"
+                    },
+                    "measurement": {
+                      "referenceUnit": "KG",
+                      "referenceValue": 1
+                    }
+                  },
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "c3e84e3d-54e2-8753-6211-7b80e48db728",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/53308785721687",
+                "digest": "5d194fdac2f8150ab133c0d0e328f6ad",
+                "variantId": "gid://shopify/ProductVariant/53308785721687",
+                "title": "GEFRO Klare Suppe & universelle W\u00fcrze",
+                "untranslatedTitle": "GEFRO Klare Suppe & universelle W\u00fcrze",
+                "subtitle": "140g",
+                "untranslatedSubtitle": "140g",
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/10757750784343",
+                  "vendor": "GEFRO",
+                  "productType": "Klare Br\u00fchen",
+                  "disclosures": []
+                },
+                "productUrl": "/products/gefro-klare-suppe-universelle-wurze-copy",
+                "image": {
+                  "altText": "Dose Gefro Klassik Klare Suppe & universelle W\u00fcrze mit rotem Deckel, Produktverpackung freigestellt vor schwarzem Hintergrund",
+                  "url": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/13625_0.webp?v=1775811469",
+                  "one": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/13625_0_64x64.webp?v=1775811469",
+                  "two": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/13625_0_128x128.webp?v=1775811469",
+                  "four": "https://cdn.shopify.com/s/files/1/0939/1266/2359/files/13625_0_256x256.webp?v=1775811469"
+                },
+                "properties": [],
+                "requiresShipping": true,
+                "options": [
+                  {
+                    "name": "Inhalt",
+                    "value": "140g"
+                  }
+                ],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "2.84",
+                  "currencyCode": "EUR"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "b019e91b39f1473016f21b3d093f697e",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "2.84",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "2.84",
+                    "currencyCode": "EUR"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "2.84",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "2.84",
+                    "currencyCode": "EUR"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "2.84",
+                    "currencyCode": "EUR"
+                  },
+                  "unitPrice": {
+                    "price": {
+                      "amount": "0.41",
+                      "currencyCode": "EUR"
+                    },
+                    "measurement": {
+                      "referenceUnit": "L",
+                      "referenceValue": 1
+                    }
+                  },
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

@@ -1,0 +1,186 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBq6K_ePHEZmmu-HnQqUC38rxu_H2ZkoGwzg1I970MldnlWrBHJaJEURdvt4llkd2UXZHt6vVL6zQpxctLZdY8cI0GtGZiB9iV7Qezdza1H8X5z983aYwSnYzhda54LZiriCo7zokIlt_xuUcBcNWFPgkmS73OAHWGSWPdDcX9LEzcMVypY7kudktZH6h4-YhoWLYmH2kvYB4GUx9CfRmiS6Zz"
+    },
+    "queueToken": "A507Aiv4REVYxsgKpXT3l4HuZFSiRmZj1l2KbF6g9fCLBbe-lGAAZU9hK13RNEZZWfHhCHxj6LFw7SA_7U36G6ICzZ4txytg6qRfCiOnaw4t7h_LBjlGku1FZr8dtjWkoQ==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "23e14789-2ba9-4082-9253-2ad7a9f6d659",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/53522263146833",
+              "variantId": "gid://shopify/ProductVariant/53522263146833",
+              "properties": [],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "199.98",
+              "currencyCode": "GBP"
+            }
+          },
+          "lineComponentsSource": "BUNDLES_STATIC_EXPAND",
+          "lineComponents": [
+            {
+              "stableId": "99687a9d-17c0-4505-9d54-15127f845479",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/53389530923345",
+                "digest": "c4dd0fe4c5250a75ee68a696fdb43cee",
+                "variantId": "gid://shopify/ProductVariant/53389530923345",
+                "title": "12-month Hilo Subscription",
+                "untranslatedTitle": "12-month Hilo Subscription",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/10722752069969",
+                  "vendor": "Hilo",
+                  "productType": "bundle, virtual",
+                  "disclosures": []
+                },
+                "productUrl": "/en-gb/products/12monthhilosubscription",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/0990/8073/3009/files/Green_Gradient_Opacity_100__Usage_Secondary.svg?v=1775113504",
+                  "one": "https://cdn.shopify.com/s/files/1/0990/8073/3009/files/Green_Gradient_Opacity_100__Usage_Secondary_64x64.svg?v=1775113504",
+                  "two": "https://cdn.shopify.com/s/files/1/0990/8073/3009/files/Green_Gradient_Opacity_100__Usage_Secondary_128x128.svg?v=1775113504",
+                  "four": "https://cdn.shopify.com/s/files/1/0990/8073/3009/files/Green_Gradient_Opacity_100__Usage_Secondary_256x256.svg?v=1775113504"
+                },
+                "properties": [],
+                "requiresShipping": false,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "119.99",
+                  "currencyCode": "GBP"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "5b3aad1d1343091dab52321f8bf79a31",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "119.99",
+                    "currencyCode": "GBP"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "119.99",
+                    "currencyCode": "GBP"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "119.99",
+                    "currencyCode": "GBP"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "119.99",
+                    "currencyCode": "GBP"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "119.99",
+                    "currencyCode": "GBP"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            },
+            {
+              "stableId": "b466e2b1-3f33-f347-74dd-0c3361b6a7d4",
+              "merchandise": {
+                "id": "gid://shopify/ProductVariantMerchandise/53389530759505",
+                "digest": "d7be88f46d2dd6d74f26fa3587b6dbe7",
+                "variantId": "gid://shopify/ProductVariant/53389530759505",
+                "title": "Hilo Band - includes calibration cuff",
+                "untranslatedTitle": "Hilo Band - includes calibration cuff",
+                "subtitle": null,
+                "untranslatedSubtitle": null,
+                "compareAtPrice": null,
+                "product": {
+                  "id": "gid://shopify/Product/10722752004433",
+                  "vendor": "Hilo",
+                  "productType": "simple",
+                  "disclosures": []
+                },
+                "productUrl": "/en-gb/products/hilo-band-includes-calibration-cuff",
+                "image": {
+                  "altText": null,
+                  "url": "https://cdn.shopify.com/s/files/1/0990/8073/3009/files/Hero_3x_9ccfcf94-a427-4999-a74e-e3b2f4fe8bf5.png?v=1775129236",
+                  "one": "https://cdn.shopify.com/s/files/1/0990/8073/3009/files/Hero_3x_9ccfcf94-a427-4999-a74e-e3b2f4fe8bf5_64x64.png?v=1775129236",
+                  "two": "https://cdn.shopify.com/s/files/1/0990/8073/3009/files/Hero_3x_9ccfcf94-a427-4999-a74e-e3b2f4fe8bf5_128x128.png?v=1775129236",
+                  "four": "https://cdn.shopify.com/s/files/1/0990/8073/3009/files/Hero_3x_9ccfcf94-a427-4999-a74e-e3b2f4fe8bf5_256x256.png?v=1775129236"
+                },
+                "properties": [],
+                "requiresShipping": true,
+                "options": [],
+                "sellingPlan": null,
+                "giftCard": false
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "totalAmount": {
+                "value": {
+                  "amount": "79.99",
+                  "currencyCode": "GBP"
+                }
+              },
+              "recurringTotal": null,
+              "lineAllocations": [
+                {
+                  "stableId": "fb39e05da16b1d336ea62c4cf69d62a1",
+                  "quantity": 1,
+                  "totalAmountBeforeReductions": {
+                    "amount": "79.99",
+                    "currencyCode": "GBP"
+                  },
+                  "totalAmountAfterDiscounts": {
+                    "amount": "79.99",
+                    "currencyCode": "GBP"
+                  },
+                  "totalAmountAfterLineDiscounts": {
+                    "amount": "79.99",
+                    "currencyCode": "GBP"
+                  },
+                  "checkoutPriceAfterDiscounts": {
+                    "amount": "79.99",
+                    "currencyCode": "GBP"
+                  },
+                  "checkoutPriceBeforeReductions": {
+                    "amount": "79.99",
+                    "currencyCode": "GBP"
+                  },
+                  "unitPrice": null,
+                  "sale": null,
+                  "allocations": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

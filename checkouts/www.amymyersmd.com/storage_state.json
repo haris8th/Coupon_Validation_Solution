@@ -1,0 +1,787 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1825513816.23628,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1795191017.714373,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGxn82QAAEAhVc6ZyrxbCY5_MUXS6GhJ0CTKUKnI3UKuWxxyXV2u4oSM4O33x8BDhlHsk3XCyY5YVk2zr1S_J63QAc:",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1825517401.261588,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGxn8-YAAEAORE-piE1Q7eOyjjJwb4zHYPJBUWf9JwjLy20qLJpMNS5y8DFqrLMXWJsozxieY-nYktNInxyO4HFj_A:",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1825517401.261688,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGxn8-YAAEAHpZHAJ15iGN9FkrLSLByw629WRaqfoCOK8dpMPNWZj0kQZ1UDZhn3mzsey-T1Eow0U_0X5-eQpoR9M8:",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1825517401.261785,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tag_client_id",
+      "value": "359fa6fd-e19d-4f23-85d1-cb0d3b196959",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1825517409.498704,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIq7D35rRAAX5H1dwtYomx%3Fkey%3D935def8769d279976bf081c3ab891d99",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1801843816.236505,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tag_user_id",
+      "value": "63570894-2b24-4db0-a6e6-e0597f1a7130-1793981403041",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1828541403.888527,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://amymyersmd.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "tag_session",
+      "value": "e09f8adf-6dfd-4f20-8bcd-cfd78e0ac444-967674f8-f710-4c40-939f-6c0e05ca9e95-1793981405471",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1793983205.952452,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://amymyersmd.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "Shoplift_Session",
+      "value": "{\"isMerchant\":false,\"timestamp\":\"2026-11-06T16:10:04.276Z\",\"entryPage\":\"https://www.amymyersmd.com/\",\"lastSeen\":1793981404276}",
+      "domain": ".www.amymyersmd.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ig-location",
+      "value": "{\"country\":\"PK\",\"city\":\"Karachi\",\"continent\":\"AS\",\"latitude\":\"24.86\",\"longitude\":\"67.01\",\"region\":\"Sindh\",\"regionCode\":\"SD\"}",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1793985004.425559,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ig-id",
+      "value": "ig_0a3598e08b671b1f26bf093705837d76078d",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1825517404,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-fv",
+      "value": "1793981404432",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1825517404,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-vars",
+      "value": "{%22redirectedFrom%22:%22%22}",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1825517404,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-pv",
+      "value": "1",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1825517404,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "og_session_id",
+      "value": "43284e7635c511ecb063ba67b1afe658.289393.1793981406",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1828541407.334766,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gepix",
+      "value": "aHR0cHMlM0ElMkYlMkZ3d3cuYW15bXllcnNtZC5jb20lMkZ3ZWItcGl4ZWxzJTQwOGE1Y2E5YmN3NmIzZWY2ZjdwZTgyYWNkMGJtODcxMDU0YjElMkZjdXN0b20lMkZ3ZWItcGl4ZWwtMzA0NDE1NzUlNDAxJTJGc2FuZGJveCUyRm1vZGVybiUyRnByb2R1Y3RzJTJGdGhlLWF1dG9pbW11bmUtc29sdXRpb24tcHJvdG9jb2w=",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1794067809.438513,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__pp_sid",
+      "value": "gc7dAjHlQHW9WsH1_mw567mol",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1793983215,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://www.amymyersmd.com",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1796573409,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tag_user_id",
+      "value": "63570894-2b24-4db0-a6e6-e0597f1a7130-1793981403041",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1828541409.68938,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://amymyersmd.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "tag_session",
+      "value": "e09f8adf-6dfd-4f20-8bcd-cfd78e0ac444-967674f8-f710-4c40-939f-6c0e05ca9e95-1793981405471",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1793983216.203505,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://amymyersmd.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "__pp_pid",
+      "value": "Fmhf0lA0Pwek2LXZ_mw567mio",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1828541415.598593,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "359fa6fd-e19d-4f23-85d1-cb0d3b196959",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1825513809,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fermat_s",
+      "value": "mw567mqt.1bcnwv932yflegiv",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1793983215.705477,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scsrid_r",
+      "value": "",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1828109409,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "ut84HThykXMeES3SVYdqr83k9Kb2T8rb",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1828109409,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "ut84HThykXMeES3SVYdqr83k9Kb2T8rb",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1828109409,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU4yTTRabVF4TUdVdE1qYzBNUzAwTm1FNExUbGpOV1l0TnpWaU9EQXpaVEUzTTJObQ",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1825513807,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_swb",
+      "value": "58245c80-a70e-4171-901b-af3e8c164dff",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1828541410,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1796573410,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ketch_consent_v1_",
+      "value": "eyJhbmFseXRpY3MiOnsic3RhdHVzIjoiZ3JhbnRlZCIsImNhbm9uaWNhbFB1cnBvc2VzIjpbImFuYWx5dGljcyJdfSwiZXNzZW50aWFsX3NlcnZpY2VzIjp7InN0YXR1cyI6ImdyYW50ZWQiLCJjYW5vbmljYWxQdXJwb3NlcyI6WyJlc3NlbnRpYWxfc2VydmljZXMiXX0sInRhcmdldGVkX2FkdmVydGlzaW5nIjp7InN0YXR1cyI6ImdyYW50ZWQiLCJjYW5vbmljYWxQdXJwb3NlcyI6WyJiZWhhdmlvcmFsX2FkdmVydGlzaW5nIl19fQ%3D%3D",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1828541412,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gelo",
+      "value": "true",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1793981713.307019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_swb_consent_",
+      "value": "eyJjb2xsZWN0ZWRBdCI6MTc5Mzk4MTQxMiwiY29udGV4dCI6eyJjb25maWd1cmF0aW9uSWQiOiJZVzE1WDIxNVpYSnpYMjFrTDNkbFluTnBkR1ZmYzIxaGNuUmZkR0ZuTDNCeWIyUjFZM1JwYjI0dlpHVm1ZWFZzZEM5bGJpOHhOemt6T0RFeE5UVXciLCJpc3N1ZWRBdCI6MCwic291cmNlIjoibGVnYWxCYXNpc0RlZmF1bHQifSwiY29udHJvbGxlckNvZGUiOiIiLCJlbnZpcm9ubWVudENvZGUiOiJwcm9kdWN0aW9uIiwiaWRlbnRpdGllcyI6eyJzd2Jfd2Vic2l0ZV9zbWFydF90YWciOiI1ODI0NWM4MC1hNzBlLTQxNzEtOTAxYi1hZjNlOGMxNjRkZmYifSwianVyaXNkaWN0aW9uQ29kZSI6ImRlZmF1bHQiLCJwcm9wZXJ0eUNvZGUiOiJ3ZWJzaXRlX3NtYXJ0X3RhZyIsInB1cnBvc2VzIjp7ImFuYWx5dGljcyI6eyJhbGxvd2VkIjoidHJ1ZSIsImNvbGxlY3RlZEF0IjowLCJpc3N1ZWRBdCI6MCwibGVnYWxCYXNpc0NvZGUiOiJkaXNjbG9zdXJlIiwic291cmNlIjoiIn0sImVzc2VudGlhbF9zZXJ2aWNlcyI6eyJhbGxvd2VkIjoidHJ1ZSIsImNvbGxlY3RlZEF0IjowLCJpc3N1ZWRBdCI6MCwibGVnYWxCYXNpc0NvZGUiOiJkaXNjbG9zdXJlIiwic291cmNlIjoiIn0sInRhcmdldGVkX2FkdmVydGlzaW5nIjp7ImFsbG93ZWQiOiJ0cnVlIiwiY29sbGVjdGVkQXQiOjAsImlzc3VlZEF0IjowLCJsZWdhbEJhc2lzQ29kZSI6ImRpc2Nsb3N1cmUiLCJzb3VyY2UiOiIifX0sImludGVyYWN0aXZlIjpmYWxzZSwiY2FjaGVkQXQiOjE3OTM5ODE0MTN9",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1794586213,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "octane%2Fshopify%2Fuid",
+      "value": "122f4b8b7a7d60e9ac1e65edea94045855c18190632a96a33d4eddac0b05bc81e60233f9f375a81932977b319537cf18f8d1f3c89d6166ad692f4dd4",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1828541413.966667,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "octane%2Fshopify%2Fuid",
+      "value": "122f4b8b7a7d60e9ac1e65edea94045855c18190632a96a33d4eddac0b05bc81e60233f9f375a81932977b319537cf18f8d1f3c89d6166ad692f4dd4",
+      "domain": ".www.amymyersmd.com",
+      "path": "/",
+      "expires": 1828541413.967258,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-Http-shop_binding",
+      "value": "1a1cc42e6572137bbc053cbb8065f041cde2edb19e024af63f117e7665930718",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1793992214.070698,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_li_dcdm_c",
+      "value": ".amymyersmd.com",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi",
+      "value": "a8e0f76f36e3--01m6rszz928tgv95nayaf00yxy",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1828541414.692411,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi_js",
+      "value": "a8e0f76f36e3--01m6rszz928tgv95nayaf00yxy",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scida",
+      "value": "fkM1n6b94Z0tIxHRyw07GWlZ8ShkyiMT",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1828109415,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gegeo",
+      "value": "JTdCJTIyc3RhdHVzJTIyJTNBJTIyc3VjY2VzcyUyMiUyQyUyMmNvdW50cnklMjIlM0ElMjJQYWtpc3RhbiUyMiUyQyUyMmNvdW50cnlDb2RlJTIyJTNBJTIyUEslMjIlMkMlMjJtb2JpbGUlMjIlM0FmYWxzZSUyQyUyMnByb3h5JTIyJTNBZmFsc2UlMkMlMjJob3N0aW5nJTIyJTNBZmFsc2UlN0Q=",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1794067815.34075,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geffran",
+      "value": "1",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1794067815.343055,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "geuid",
+      "value": "0393addb-3752-480a-b285-b0e0d67d614b",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1809533415.348733,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gecntaos",
+      "value": "2",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1825517415.352816,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geaos",
+      "value": "true",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1793983215.355735,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geppv",
+      "value": "2",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1793985015.362235,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "cart2",
+      "value": "hWNIq7D35rRAAX5H1dwtYomx%3Fkey%3D935def8769d279976bf081c3ab891d99",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1795191015.594841,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gemark",
+      "value": "true",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1794067815.610264,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "fermat_session",
+      "value": "%7B%22id%22%3A%22mw567mqt.1bcnwv932yflegiv%22%2C%22ts%22%3A1793981415614%7D",
+      "domain": "www.amymyersmd.com",
+      "path": "/",
+      "expires": 1793983215.674698,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Shoplift_Essential",
+      "value": "{\"timestamp\":\"2026-11-06T16:10:16.818Z\",\"consentApproved\":true,\"hasConsentInteraction\":true,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-06T16:10:01.342Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}",
+      "domain": ".www.amymyersmd.com",
+      "path": "/",
+      "expires": 1825517416,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "Shoplift_Analytics",
+      "value": "{\"timestamp\":\"2026-11-06T16:10:16.818Z\",\"visitor\":{\"id\":\"d314a2d7-04bf-5f2e-9968-414b8aa9249f\",\"shop\":\"amymyersmd.myshopify.com\",\"createdAt\":\"2026-11-06T16:10:09.798Z\",\"shopifyAnalyticsId\":\"359fa6fd-e19d-4f23-85d1-cb0d3b196959\",\"device\":\"desktop\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"country\":\"PK\",\"needsPersistence\":false,\"storedAt\":\"2026-11-06T16:10:16.818Z\"},\"queue\":[]}",
+      "domain": ".www.amymyersmd.com",
+      "path": "/",
+      "expires": 1825517416,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3AMpS._PKSD_f_f_V*y8c2dbQee2RzRT1rb4qQ%238e0566ae-fff0-406e-b84c-0582b140ef73-1793981405",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1825539023.345801,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_getdran",
+      "value": "1",
+      "domain": ".amymyersmd.com",
+      "path": "/",
+      "expires": 1794154217.532906,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__cf_bm",
+      "value": ".7_wZaH7EDPq1LOPSMQZFKUmMUAmEQd1ngu1XKxNmFs-1793981425.844875-1.0.1.1-51azULZq2SHkmlFSshBU6R8WvWQAJLq02fJEoA0026SZ22MAQjsM.LZTX4yThQWL0K.NPyDtipFagoCXBmoyrXMHjro0SnHinu8hni.WodJm9XafQvf.OYZ0lbFyXWpb",
+      "domain": ".www.amymyersmd.com",
+      "path": "/",
+      "expires": 1793983224.33583,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.amymyersmd.com",
+      "localStorage": [
+        {
+          "name": "u_sclid",
+          "value": "pSR9Gv1T84SnqljgCPKIn4g4OaO7ICzsut84HThykXMeES3SVYdqr83k9Kb2T8rb"
+        },
+        {
+          "name": "ig-fv",
+          "value": "1793981404432"
+        },
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "_pxSessionStart",
+          "value": "1793981410975"
+        },
+        {
+          "name": "_pxPageVisited",
+          "value": "{\"dtCv3\":[\"/products/the-autoimmune-solution-protocol\"]}"
+        },
+        {
+          "name": "forms_visit_count",
+          "value": "1"
+        },
+        {
+          "name": "alia-jwt",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsYXN0VXNlcklEIjo5Mjc0NDExODA0LCJpYXQiOjE3OTM5ODE0MTF9.rfgCBETqDpVzYlbjwYWltscfE39DU94-pwmetRQXH-w"
+        },
+        {
+          "name": "user-flow-v2-8485843457",
+          "value": "{\"state\":{\"_version\":1,\"steps\":[{\"step\":\"popup\",\"popupStepID\":\"fe28d446-6f7b-4a89-9abf-1aeb5c885895\",\"floatingButton\":false,\"timestamp\":1793981415324},{\"step\":\"minimized\",\"timestamp\":1793981416129}]},\"updatedAt\":\"2026-11-06T16:10:16.129Z\"}"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1793981407541"
+        },
+        {
+          "name": "forms_previous_session_id",
+          "value": "a79017e6-6b54-4f5b-9c09-a9b836bc597f"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,825ZO%o`y\u007f}]LrYZ3ig*JTcGo'ylS-6\u007f/1\\<?A0Fh,wbB|6nm95fM2`mc/v_p[+mByIUM>kSk\u007flkuAN`)Sv6!Ph.B(x),s5[Y3FI<Y3Ow,Fmu2}*qf0[OT\u007f?a,L{GMYb_]%jl]|'lI2[wS@CL,U)1m)ho`eqvB5 ,d]'1|:Xaf)at[Av\"mSR11>t!LG44\\o#t&6Gy)`(k]W~L~C%9\",a4sav&?/@1TR3\\hXITn!Klb\\gp'ux1n0KhZi\\r`b;75h_!uS]Lv77*LHOH\\FoW>bC&]h6ok+n\u007f6H4x=A/F#V=@(BSE=\u007fuG9\\q[4mVaW*g"
+        },
+        {
+          "name": "alia-user-actions",
+          "value": "[{\"merchantID\":4278,\"flowID\":263936,\"segmentID\":9294,\"type\":\"popupStep\",\"data\":{\"type\":\"popupStep\",\"stepID\":\"fe28d446-6f7b-4a89-9abf-1aeb5c885895\",\"stepIndex\":0,\"isFloatingButton\":false,\"reason\":{\"type\":\"trigger\",\"triggerType\":\"basic\",\"triggerID\":\"8ce10bad-0fad-4cf6-a83c-79dd657ed7bf\"}},\"createdAt\":\"2026-11-06T16:10:18.411Z\",\"id\":12819573239,\"userID\":9274411804},{\"merchantID\":4278,\"flowID\":263936,\"segmentID\":9294,\"type\":\"popupClose\",\"data\":{\"type\":\"popupClose\",\"reason\":{\"type\":\"escapeKey\"}},\"createdAt\":\"2026-11-06T16:10:18.974Z\",\"id\":12819573588,\"userID\":9274411804}]"
+        },
+        {
+          "name": "Shoplift_ClientId",
+          "value": "359fa6fd-e19d-4f23-85d1-cb0d3b196959"
+        },
+        {
+          "name": "algolia_analytics_clicked_objects",
+          "value": "[{\"index\":\"shopify_products\",\"objectIDs\":[\"41176306319463\"],\"currency\":\"USD\",\"eventName\":\"Add To Cart\"}]"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU4yTTRabVF4TUdVdE1qYzBNUzAwTm1FNExUbGpOV1l0TnpWaU9EQXpaVEUzTTJObQ\",\"expires\":\"2027-11-06T15:10:07.967Z\"}"
+        },
+        {
+          "name": "alia-test",
+          "value": "test"
+        },
+        {
+          "name": "lastCartToken",
+          "value": "hWNIq7D35rRAAX5H1dwtYomx?key=935def8769d279976bf081c3ab891d99"
+        },
+        {
+          "name": "persist:friendbuy-msdk-06192019-root",
+          "value": "{\"merchant\":\"{\\\"merchantId\\\":\\\"1e973a1e-7ca9-46a5-b067-46a9167c447a\\\"}\",\"tracker\":\"{\\\"isAuthenticated\\\":false,\\\"tracker\\\":\\\"eyJhbGciOiJSUzI1NiJ9.MWU5NzNhMWUtN2NhOS00NmE1LWIwNjctNDZhOTE2N2M0NDdhOjg1YTgwMzJlLTU2NTUtNGQyOS05ODg5LTIxYjYyZDFjZjA5Zjo4ZDFhOTQ5Yy00N2Q4LTQzZWItYWU2NS1hNDE0Njg1YTZkZmI6Ond3dy5hbXlteWVyc21kLmNvbToxNzkzOTgxNDExOjo6.Wk52AB06zXKV0tmtKnmNUf8dFvHKo6r7b_OUKNta9uYdIrGWvsIxahP4rz4hAQ_HKOLITpL5yViT8Y3mIV5hoe_O61-1qaWfDwWmgC57MPxGxc1IJw-jgd89fPrW8bdQ55T6JfYCftNrVn2wACBSzV0i2kLGTdkz1FvQLjw70JY\\\",\\\"profile\\\":{\\\"merchantId\\\":\\\"1e973a1e-7ca9-46a5-b067-46a9167c447a\\\",\\\"profileId\\\":\\\"85a8032e-5655-4d29-9889-21b62d1cf09f\\\"},\\\"age\\\":\\\"2026-11-06T16:10:09.767Z\\\"}\",\"utm\":\"{\\\"searchUtm\\\":{\\\"updatedOn\\\":0,\\\"values\\\":{}},\\\"customUtm\\\":{\\\"values\\\":{}}}\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "OG_STATE",
+          "value": "{\"sessionId\":\"43284e7635c511ecb063ba67b1afe658.289393.1793981406\",\"optedin\":[],\"optedout\":[],\"productOffer\":{},\"firstOrderPlaceDate\":{},\"productToSubscribe\":{}}"
+        },
+        {
+          "name": "_li_duid",
+          "value": "a8e0f76f36e3--01m6rszz928tgv95nayaf00yxy"
+        },
+        {
+          "name": "_gemark",
+          "value": "true"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIq7D35rRAAX5H1dwtYomx\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIq7D35rRAAX5H1dwtYomx\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "algolia_analytics_options",
+          "value": "{\"partial\":true}"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-06T16:10:13.739Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-b1a02240-6064-414F-78B4-9C97AC5A1AFD\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"amymyersmd.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-b1a02240-6064-414F-78B4-9C97AC5A1AFD\",\"event_date_time\":\"2026-11-06T16:10:13.739Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"359fa6fd-e19d-4f23-85d1-cb0d3b196959\",\"page_url\":\"https://www.amymyersmd.com/products/the-autoimmune-solution-protocol\",\"currency\":\"USD\",\"product\":{\"product_id\":\"7199577735271\",\"product_title\":\"The Autoimmune Solution\u2122 Protocol\",\"variant_id\":\"41176306319463\",\"variant_title\":\"The Autoimmune Solution\u2122 Protocol\",\"quantity\":1,\"variant_price\":425.46,\"product_vendor\":\"Amy Myers MD\"}}}}}]"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIq7D35rRAAX5H1dwtYomx\""
+        },
+        {
+          "name": "alia-storage-since",
+          "value": "1793981408344"
+        },
+        {
+          "name": "alia-tracking-allowed-amymyersmd.myshopify.com",
+          "value": "true"
+        },
+        {
+          "name": "alia-popup-ground",
+          "value": "{\"lastCloseTime\":1793981416129,\"lastTriggerTime\":1793981415324}"
+        },
+        {
+          "name": "shoplift_last_pageview",
+          "value": "{\"at\":1793981405439,\"loc\":\"/products/the-autoimmune-solution-protocol\"}"
+        },
+        {
+          "name": "algolia_analytics_purchase_objects",
+          "value": "[{\"index\":\"shopify_products\",\"objectIDs\":[\"41176306319463\"],\"currency\":\"USD\",\"eventName\":\"Add To Cart\"}]"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://www.amymyersmd.com/products/the-autoimmune-solution-protocol\",\"exp\":1796573409795}"
+        },
+        {
+          "name": "storage-compatibility-test",
+          "value": "1"
+        },
+        {
+          "name": "ig-vars",
+          "value": "{\"redirectedFrom\":\"\"}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "alia-user-4278",
+          "value": "{\"user\":{\"id\":9274411804,\"profile\":{\"properties\":{},\"prismMap\":{},\"history\":[[\"https://www.amymyersmd.com/products/the-autoimmune-solution-protocol\"]]}}}"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,_vu1sIY^dtt`dvpjc>KB7|.4VNkuw,rrg&#1 yl;9QqCEyU$ uV;wrt~]Ww$6L]'IU{B*ijv|j8%qQNz*\\"
+        },
+        {
+          "name": "_swb_consent_",
+          "value": "eyJjb2xsZWN0ZWRBdCI6MTc5Mzk4MTQxMiwiY29udGV4dCI6eyJjb25maWd1cmF0aW9uSWQiOiJZVzE1WDIxNVpYSnpYMjFrTDNkbFluTnBkR1ZmYzIxaGNuUmZkR0ZuTDNCeWIyUjFZM1JwYjI0dlpHVm1ZWFZzZEM5bGJpOHhOemt6T0RFeE5UVXciLCJpc3N1ZWRBdCI6MCwic291cmNlIjoibGVnYWxCYXNpc0RlZmF1bHQifSwiY29udHJvbGxlckNvZGUiOiIiLCJlbnZpcm9ubWVudENvZGUiOiJwcm9kdWN0aW9uIiwiaWRlbnRpdGllcyI6eyJzd2Jfd2Vic2l0ZV9zbWFydF90YWciOiI1ODI0NWM4MC1hNzBlLTQxNzEtOTAxYi1hZjNlOGMxNjRkZmYifSwianVyaXNkaWN0aW9uQ29kZSI6ImRlZmF1bHQiLCJwcm9wZXJ0eUNvZGUiOiJ3ZWJzaXRlX3NtYXJ0X3RhZyIsInByb3RvY29scyI6e30sInB1cnBvc2VzIjp7ImFuYWx5dGljcyI6eyJhbGxvd2VkIjoidHJ1ZSIsImNvbGxlY3RlZEF0IjowLCJpc3N1ZWRBdCI6MCwibGVnYWxCYXNpc0NvZGUiOiJkaXNjbG9zdXJlIiwic291cmNlIjoiIn0sImVzc2VudGlhbF9zZXJ2aWNlcyI6eyJhbGxvd2VkIjoidHJ1ZSIsImNvbGxlY3RlZEF0IjowLCJpc3N1ZWRBdCI6MCwibGVnYWxCYXNpc0NvZGUiOiJkaXNjbG9zdXJlIiwic291cmNlIjoiIn0sInRhcmdldGVkX2FkdmVydGlzaW5nIjp7ImFsbG93ZWQiOiJ0cnVlIiwiY29sbGVjdGVkQXQiOjAsImlzc3VlZEF0IjowLCJsZWdhbEJhc2lzQ29kZSI6ImRpc2Nsb3N1cmUiLCJzb3VyY2UiOiIifX0sInZlbmRvckNvbnNlbnRzIjp7fSwiaW50ZXJhY3RpdmUiOmZhbHNlLCJjYWNoZWRBdCI6MTc5Mzk4MTQxM30="
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,U3>C^.?=OKZe=`b/!a<pfZMZ[zWl$c^(,:D|'pxwxGJ`BJBk9#9;_R88mDmKhSg3pI=f01:em!tK!KO$9O"
+        },
+        {
+          "name": "_swb_consent__metadata",
+          "value": "eyJpYXQiOjE3OTM5ODE0MTMsImV4cCI6MTc5NDA2NzgxM30="
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "pSR9Gv1T84SnqljgCPKIn4g4OaO7ICzsut84HThykXMeES3SVYdqr83k9Kb2T8rb"
+        },
+        {
+          "name": "blotoutWallet|https://hrphl.amymyersmd.com",
+          "value": "{\"lastSeenToken\":\"hWNIq7D35rRAAX5H1dwtYomx?key=935def8769d279976bf081c3ab891d99\"}"
+        },
+        {
+          "name": "_pxPixelSent",
+          "value": "{\"dtCv3\":{\"\":{\"pixelSent\":true,\"sentAt\":1793981412746}}}"
+        },
+        {
+          "name": "forms_session_id",
+          "value": "a79017e6-6b54-4f5b-9c09-a9b836bc597f"
+        },
+        {
+          "name": "forms_session_expires_at",
+          "value": "1793983209542"
+        },
+        {
+          "name": "shoplift_last_pageview_at",
+          "value": "1793981405439"
+        },
+        {
+          "name": "_workerCartCache",
+          "value": "{\"hWNIq7D35rRAAX5H1dwtYomx?key=935def8769d279976bf081c3ab891d99\":{\"currency\":\"USD\",\"value\":425.46,\"contents\":[{\"id\":\"7199577735271\",\"variantId\":\"41176306319463\",\"sku\":\"AISP-10-K\",\"quantity\":1,\"item_price\":425.46,\"title\":\"The Autoimmune Solution\u2122 Protocol\",\"image\":\"https://cdn.shopify.com/s/files/1/2282/7323/files/Autoimmune-Protocol-Guides_PDP_White.png?v=1785501442\",\"brand\":\"Amy Myers MD\",\"category\":\"Protocol\",\"url\":\"https://www.amymyersmd.com/products/the-autoimmune-solution-protocol?variant=41176306319463\",\"type\":\"product\"}],\"checkoutUrl\":\"https://www.amymyersmd.com/checkouts/cn/hWNIq7D35rRAAX5H1dwtYomx?key=935def8769d279976bf081c3ab891d99\"}}"
+        },
+        {
+          "name": "algolia_config",
+          "value": "{\"app_id\":\"ONZ3K35YAU\",\"search_api_key\":\"d6475eeb0f9a6bdfe8ab26bd5f0e5930\",\"index_name\":\"shopify_products\",\"useCookie\":false}"
+        },
+        {
+          "name": "_workerStoreMultiple",
+          "value": "{\"https://hrphl.amymyersmd.com\":{\"edgeTag\":{\"consent\":{\"all\":true},\"consentCategories\":{\"all\":true},\"storageId\":0}}}"
+        },
+        {
+          "name": "Shoplift_Analytics",
+          "value": "{\"timestamp\":\"2026-11-06T16:10:16.818Z\",\"visitor\":{\"id\":\"d314a2d7-04bf-5f2e-9968-414b8aa9249f\",\"shop\":\"amymyersmd.myshopify.com\",\"createdAt\":\"2026-11-06T16:10:09.798Z\",\"shopifyAnalyticsId\":\"359fa6fd-e19d-4f23-85d1-cb0d3b196959\",\"device\":\"desktop\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"country\":\"PK\",\"needsPersistence\":false,\"storedAt\":\"2026-11-06T16:10:16.818Z\"},\"queue\":[]}"
+        },
+        {
+          "name": "_replo_sid",
+          "value": "{\"sessionId\":\"f5f4693d-e7a4-4dd7-baea-9760e70df20f\",\"reploId\":\"128e65e2-ad99-4b7b-b12d-9d94e9ceab61\",\"createdAt\":1793981409215,\"expiresAt\":1793983215195,\"conversionsCounter\":0,\"isEntryPage\":false}"
+        },
+        {
+          "name": "Shoplift_Essential",
+          "value": "{\"timestamp\":\"2026-11-06T16:10:16.818Z\",\"consentApproved\":true,\"hasConsentInteraction\":true,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-06T16:10:01.342Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}"
+        },
+        {
+          "name": "alia-consent-amymyersmd.myshopify.com",
+          "value": "{\"required\":false,\"source\":\"shopify\",\"regions\":{\"mode\":\"shopify\",\"countries\":[]}}"
+        },
+        {
+          "name": "upcart-traffic-allocation-random",
+          "value": "0"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,+&y ^D4.ux@wSOn%%~J<\\_]AK]H<<`u|c>$yyi\u007f;nv^;8Le4Rpk\u007fEX5kU(4AGu=hin?s\\Rc-:\"hE_c@}y?~Bl$}eZ+:/<t^enGYQ\\*KS)6zq"
+        },
+        {
+          "name": "geuid",
+          "value": "0393addb-3752-480a-b285-b0e0d67d614b"
+        },
+        {
+          "name": "ig-id",
+          "value": "ig_0a3598e08b671b1f26bf093705837d76078d"
+        },
+        {
+          "name": "_ketch_consent_v1_",
+          "value": "eyJhbmFseXRpY3MiOnsic3RhdHVzIjoiZ3JhbnRlZCIsImNhbm9uaWNhbFB1cnBvc2VzIjpbImFuYWx5dGljcyJdfSwiZXNzZW50aWFsX3NlcnZpY2VzIjp7InN0YXR1cyI6ImdyYW50ZWQiLCJjYW5vbmljYWxQdXJwb3NlcyI6WyJlc3NlbnRpYWxfc2VydmljZXMiXX0sInRhcmdldGVkX2FkdmVydGlzaW5nIjp7InN0YXR1cyI6ImdyYW50ZWQiLCJjYW5vbmljYWxQdXJwb3NlcyI6WyJiZWhhdmlvcmFsX2FkdmVydGlzaW5nIl19fQ=="
+        }
+      ]
+    }
+  ]
+}

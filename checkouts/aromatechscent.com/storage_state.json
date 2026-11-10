@@ -1,0 +1,763 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1825785500.737204,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1795459101.267776,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHBmlZYAAEApwPFl77nJpS1_SRMxpnpBdo5p2mq1OTFfo6Oy4Aw73lGO489ofRWxfMvlRUjjOtvuz0J_gIQTI7rvj8:",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1825785480.288779,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHBmlgeAAEA1Tu0Qa5YMqSj1K-sXHaq25NOysJqVLYy3MGjArY77OA2JoY9wPNnfXsqtkHrBnKV2csUH3evDJd5bRU:",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1825785480.288843,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHBmlgeAAEAxARIWGjGEqOi7Rwv8S5v1DTzoOuXvdoTjcwF0KNHcenXKXuyhjBWdKEkZn8m0WUzwB6MEGX41_N_6X8:",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1825785480.288903,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxPwzysiYjcnWJqgOVDOt%3Fkey%3D1bfe076082ba43f574235870b09a4a67",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1802111899.938053,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_heatVid_3308",
+      "value": "611091338052240089",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1794335885,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hm_source",
+      "value": "unknown",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1794335885,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vUUID_3308",
+      "value": "ab0ed7b7-7bb0-4396-bea5-74a8baf162f1",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1794335885,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_id.3308.YXJvbWF0",
+      "value": "2uqe26eiqu22aiqq.1794249485.",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1794379085,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Shoplift_Session",
+      "value": "{\"isMerchant\":false,\"timestamp\":\"2026-11-09T18:38:06.719Z\",\"entryPage\":\"https://aromatechscent.com/\",\"lastSeen\":1794249486719}",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tag_user_id",
+      "value": "007dcf1c-e95f-44fb-9c78-f695fdeec0e7-1794249488230",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1828809488.727835,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://aromatechscent.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "tag_session",
+      "value": "0d446cd6-5bfa-4021-b696-b3561a5f5a70-cc7a04eb-bf27-4d18-9819-f89114f6f88a-1794249488390",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1794251290.486862,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://aromatechscent.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "Shoplift_Essential",
+      "value": "{\"timestamp\":\"2026-11-09T18:38:10.076Z\",\"consentApproved\":true,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T18:38:00.434Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1825785490,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "Shoplift_Analytics",
+      "value": "{\"timestamp\":\"2026-11-09T18:38:10.076Z\",\"visitor\":null,\"queue\":[]}",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1825785490,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_heatIdvUpdated_3308",
+      "value": "1794249490117",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1794335890,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "59f57762-a29d-4689-b3c4-c696647058f6",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1825785490,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fermat_s",
+      "value": "mw9ltjbf.x8koul9lbgkx8vae",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1794251298.008859,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fermat_identify",
+      "value": "mw9ltjbf.x8koul9lbgkx8vae",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1794335892.266285,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shd_s",
+      "value": "e36dfb5e-65bb-4ff2-a0df-8cd48c963280",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1794251298.032539,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shd_y",
+      "value": "59f57762-a29d-4689-b3c4-c696647058f6",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1825353498.077021,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_aa4",
+      "value": "MjAyLjQ3LjQzLjEzNw",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1794253092.463432,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU0yWTNaV1k0TW1VdE1EVTNPQzAwTURsakxXRTBOVGN0WTJJNVpUQm1ZMk0zTlRneQ",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1825785490,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_aa6",
+      "value": "NA",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1794253093.177228,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_aid",
+      "value": "f242f833-24d8-4431-9853-035369f2a85e",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1828809494.338323,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=d2274927-9e27-4eaa-9040-eab1a7c690dd&rum=1&id=86c63d18-bfa1-4c5f-a691-bf4056787322&created=1794249483702&expire=1794250396125&logs=1",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1825785496,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "fermat_session",
+      "value": "%7B%22id%22%3A%22mw9ltjbf.x8koul9lbgkx8vae%22%2C%22ts%22%3A1794249497887%7D",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1794251297.989416,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mf_user",
+      "value": "950e48f435fe7540362644c60586402f|",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1802025500,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1794249498671.7496460518",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1802025498,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart2",
+      "value": "hWNIxPwzysiYjcnWJqgOVDOt%3Fkey%3D1bfe076082ba43f574235870b09a4a67",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1795459099.790484,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1794249499935.c40eeba2-39c0-4a3f-9dfc-2190a6c18b24",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1802025499,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_rmypjcyRThi39XbSYkCrcA_%7B%7D%23f116d1bd-28d0-42b3-9bd0-3b24e9aa62ee-1794249485",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": 1825807100.9432,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "addshoppers.com",
+      "value": "2%7C1%3A0%7C10%3A1794249499%7C15%3Aaddshoppers.com%7C44%3AZjVhMmNmNjg2ZTcxNGJhZDk4MzRmNDEyZDllYTNiYTg%3D%7C4bbcbe73e87a0a8bfd9c2da4006c418eb183c25ff7c1fb361e17f7ca7af0a34f",
+      "domain": "aromatechscent.com",
+      "path": "/",
+      "expires": 1828809500.607348,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mf_05d87ab3-dea4-4a85-aa90-367ac7e0b572",
+      "value": "06887de3a7a3a12d5e514dddfbd90232|11091841e801798ec9c9de63241431f2536528c9.-2960411068.1794249498542|1794249500436||1||||0|19.21|3.52539|0|",
+      "domain": ".aromatechscent.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://aromatechscent.com",
+      "localStorage": [
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionCount",
+          "value": "1"
+        },
+        {
+          "name": "trackedCompleteOrderSourceId",
+          "value": "null"
+        },
+        {
+          "name": "_heatCartSyncedVid",
+          "value": "611091338052240089"
+        },
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "tabId",
+          "value": "c117cb2b-9884-4ea5-9b8d-ca22c3cebb40"
+        },
+        {
+          "name": "asCartContents",
+          "value": "{\"contents\":[{\"product_name\":\"The Cobalt Bundle\",\"price\":145,\"image\":\"https://cdn.shopify.com/s/files/1/1629/7465/files/Aromatech-BlueBundle.png\",\"quantity\":1,\"sku\":\"https://aromatechscent.com/products/the-cobalt-bundle\"}],\"timestamp\":1794249500881}"
+        },
+        {
+          "name": "gdprCache",
+          "value": "{\"version\":null,\"lqch\":null,\"lqcl\":null,\"prc\":\"\",\"isEnabledAll\":\"{\\\"disable\\\":1,\\\"enable_all_countries\\\":0,\\\"status\\\":\\\"error\\\"}\",\"getCookieConsentSettings\":null,\"cbvIncr\":\"0\",\"countryDetection\":\"{\\\"country\\\":\\\"PK\\\",\\\"state\\\":\\\"SD\\\",\\\"city\\\":\\\"Karachi\\\",\\\"region\\\":\\\"Sindh\\\",\\\"regionCode\\\":\\\"SD\\\",\\\"add_info\\\":3392088969}\",\"footer\":\"0\"}"
+        },
+        {
+          "name": "Shoplift_ClientId",
+          "value": "59f57762-a29d-4689-b3c4-c696647058f6"
+        },
+        {
+          "name": "usi_prod_image_1",
+          "value": "{\"value\":\"https://aromatechscent.com/cdn/shop/files/Aromatech-BlueBundle.png?v=1791205054&width=1000\",\"usi_expires\":1794854300869}"
+        },
+        {
+          "name": "tvsci_session_tvscientific-pix-o-f14b57c0-1ce5-45f5-bbd7-781f48b1fb84",
+          "value": "{\"timestamp\":1794249496369}"
+        },
+        {
+          "name": "gorgias.conversation-starters-timeout-cohort",
+          "value": "5000"
+        },
+        {
+          "name": "gorgias.guest-id",
+          "value": "59f57762-a29d-4689-b3c4-c696647058f6"
+        },
+        {
+          "name": "vUUID",
+          "value": "ab0ed7b7-7bb0-4396-bea5-74a8baf162f1"
+        },
+        {
+          "name": "usi_cart",
+          "value": "{\"value\":\"[{\\\"quantity\\\":\\\"1\\\"}]\",\"usi_expires\":1794854300862}"
+        },
+        {
+          "name": "asProductViewHistory",
+          "value": "[{\"time\":1794249487914,\"url\":\"https://aromatechscent.com/products/the-cobalt-bundle\",\"product\":{\"product_name\":\"The Cobalt Bundle\",\"image\":\"https://aromatechscent.com/cdn/shop/files/Aromatech-BlueBundle.png\",\"quantity\":1,\"sku\":\"https://aromatechscent.com/products/the-cobalt-bundle\"}}]"
+        },
+        {
+          "name": "usi_prod_product_type_1",
+          "value": "{\"value\":\"diff\",\"usi_expires\":1794854300870}"
+        },
+        {
+          "name": "usi_mixed_cart",
+          "value": "{\"value\":\"1\",\"usi_expires\":1794854300871}"
+        },
+        {
+          "name": "_mr_vid",
+          "value": "2uqe26eiqu22aiqq"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionId",
+          "value": "1794249498"
+        },
+        {
+          "name": "asTimeOnSiteValue",
+          "value": "2143"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-09T18:38:17.785Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-c19acdc5-D9AF-4209-89E4-923F9CD9F200\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"aromatech-systems-canada.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-c19acdc5-D9AF-4209-89E4-923F9CD9F200\",\"event_date_time\":\"2026-11-09T18:38:17.785Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"59f57762-a29d-4689-b3c4-c696647058f6\",\"page_url\":\"https://aromatechscent.com/products/the-cobalt-bundle\",\"currency\":\"USD\",\"product\":{\"product_id\":\"8176999137382\",\"product_title\":\"The Cobalt Bundle\",\"variant_id\":\"46672539844710\",\"variant_title\":\"60ml\",\"quantity\":1,\"variant_price\":145,\"product_vendor\":\"AromaTech\"}}}}}]"
+        },
+        {
+          "name": "usi_prod_quantity_1",
+          "value": "{\"value\":\"1\",\"usi_expires\":1794854300870}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--lastDlPushTimestamp",
+          "value": "1794249499"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxPwzysiYjcnWJqgOVDOt\""
+        },
+        {
+          "name": "_entryExPage",
+          "value": "https://aromatechscent.com/products/the-cobalt-bundle"
+        },
+        {
+          "name": "asTimeOnSiteSetTime",
+          "value": "1794249501173"
+        },
+        {
+          "name": "_heatDeviceType",
+          "value": "2"
+        },
+        {
+          "name": "shoplift_last_pageview",
+          "value": "{\"at\":1794249487899,\"loc\":\"/products/the-cobalt-bundle\"}"
+        },
+        {
+          "name": "asMintyShopifyBridgeQueue",
+          "value": "[{\"source\":\"minty-shopify-app\",\"type\":\"MINTY_SHOPIFY_APP_CP_TAG\",\"event\":{\"id\":\"sh-c19a8047-3102-461F-44DE-696A2B831C43\",\"name\":\"product_viewed\",\"data\":{\"productVariant\":{\"price\":{\"amount\":145,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"The Cobalt Bundle\",\"vendor\":\"AromaTech\",\"id\":\"8176999137382\",\"untranslatedTitle\":\"The Cobalt Bundle\",\"url\":\"/products/the-cobalt-bundle\",\"type\":\"Set\"},\"id\":\"46672539844710\",\"image\":{\"src\":\"//aromatechscent.com/cdn/shop/files/Aromatech-BlueBundle.png?v=1791205054\"},\"sku\":\"AmbMini-Blue-BND\",\"title\":\"60ml\",\"untranslatedTitle\":\"60ml\"}},\"type\":\"standard\",\"timestamp\":\"2026-11-09T18:38:07.914Z\",\"context\":{\"document\":{\"location\":{\"href\":\"https://aromatechscent.com/products/the-cobalt-bundle\",\"hash\":\"\",\"host\":\"aromatechscent.com\",\"hostname\":\"aromatechscent.com\",\"origin\":\"https://aromatechscent.com\",\"pathname\":\"/products/the-cobalt-bundle\",\"port\":\"\",\"protocol\":\"https:\",\"search\":\"\"},\"referrer\":\"\",\"characterSet\":\"UTF-8\",\"title\":\"The Cobalt Bundle \u2013 AromaTech\"},\"navigator\":{\"language\":\"en-US\",\"cookieEnabled\":true,\"languages\":[\"en-US\",\"en\"],\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"},\"window\":{\"innerHeight\":768,\"innerWidth\":1366,\"outerHeight\":856,\"outerWidth\":1382,\"pageXOffset\":0,\"pageYOffset\":0,\"location\":{\"href\":\"https://aromatechscent.com/products/the-cobalt-bundle\",\"hash\":\"\",\"host\":\"aromatechscent.com\",\"hostname\":\"aromatechscent.com\",\"origin\":\"https://aromatechscent.com\",\"pathname\":\"/products/the-cobalt-bundle\",\"port\":\"\",\"protocol\":\"https:\",\"search\":\"\"},\"origin\":\"https://aromatechscent.com\",\"screen\":{\"height\":768,\"width\":1366},\"screenX\":10,\"screenY\":10,\"scrollX\":0,\"scrollY\":0}},\"seq\":1,\"clientId\":\"59f57762-a29d-4689-b3c4-c696647058f6\"},\"cart\":null,\"queuedAt\":1794249490795},{\"source\":\"minty-shopify-app\",\"type\":\"MINTY_SHOPIFY_APP_CP_TAG\",\"event\":{\"id\":\"sh-c19acdc5-D9AF-4209-89E4-923F9CD9F200\",\"name\":\"product_added_to_cart\",\"data\":{\"cartLine\":{\"cost\":{\"totalAmount\":{\"amount\":145,\"currencyCode\":\"USD\"}},\"merchandise\":{\"id\":\"46672539844710\",\"image\":{\"src\":\"https://cdn.shopify.com/s/files/1/1629/7465/files/Aromatech-BlueBundle.png?v=1791205054\"},\"price\":{\"amount\":145,\"currencyCode\":\"USD\"},\"product\":{\"id\":\"8176999137382\",\"title\":\"The Cobalt Bundle\",\"vendor\":\"AromaTech\",\"type\":\"Set\",\"untranslatedTitle\":\"The Cobalt Bundle\",\"url\":\"/products/the-cobalt-bundle?variant=46672539844710\"},\"sku\":\"AmbMini-Blue-BND\",\"title\":\"60ml\",\"untranslatedTitle\":\"60ml\"},\"quantity\":1}},\"type\":\"standard\",\"timestamp\":\"2026-11-09T18:38:17.785Z\",\"context\":{\"document\":{\"location\":{\"href\":\"https://aromatechscent.com/products/the-cobalt-bundle\",\"hash\":\"\",\"host\":\"aromatechscent.com\",\"hostname\":\"aromatechscent.com\",\"origin\":\"https://aromatechscent.com\",\"pathname\":\"/products/the-cobalt-bundle\",\"port\":\"\",\"protocol\":\"https:\",\"search\":\"\"},\"referrer\":\"\",\"characterSet\":\"UTF-8\",\"title\":\"The Cobalt Bundle \u2013 AromaTech\"},\"navigator\":{\"language\":\"en-US\",\"cookieEnabled\":true,\"languages\":[\"en-US\",\"en\"],\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"},\"window\":{\"innerHeight\":768,\"innerWidth\":1366,\"outerHeight\":856,\"outerWidth\":1382,\"pageXOffset\":0,\"pageYOffset\":1234,\"location\":{\"href\":\"https://aromatechscent.com/products/the-cobalt-bundle\",\"hash\":\"\",\"host\":\"aromatechscent.com\",\"hostname\":\"aromatechscent.com\",\"origin\":\"https://aromatechscent.com\",\"pathname\":\"/products/the-cobalt-bundle\",\"port\":\"\",\"protocol\":\"https:\",\"search\":\"\"},\"origin\":\"https://aromatechscent.com\",\"screen\":{\"height\":768,\"width\":1366},\"screenX\":10,\"screenY\":10,\"scrollX\":0,\"scrollY\":1234}},\"seq\":1,\"clientId\":\"59f57762-a29d-4689-b3c4-c696647058f6\"},\"cart\":null,\"queuedAt\":1794249497840}]"
+        },
+        {
+          "name": "redo_fees",
+          "value": "{\"expiry\":1794249850466,\"value\":{\"error\":\"The shop disabled coverage\"}}"
+        },
+        {
+          "name": "asPageViews",
+          "value": "1"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "usi_prod_msrp_1",
+          "value": "{\"value\":\"199.00\",\"usi_expires\":1794854300870}"
+        },
+        {
+          "name": "_heatmap_event_tag",
+          "value": "[{\"type\":\"object\",\"tag\":{\"partner\":\"shoplift\",\"experiment_id\":\"01a1b178-10bf-7f09-9a2e-3c65be1c26c1\",\"experiment_name\":\"Paid Social - Redirect Test\",\"variant_friendly_name\":\"Paid Social - Redirect Test\",\"variant_id\":\"control\",\"variations\":[{\"name\":\"Holiday Promotions\",\"id\":\"01a1ad2c-3acc-7594-b5f3-fa7d67eab27f\",\"isControl\":true,\"type\":\"urlRedirect\",\"percentage\":59.28143755819107,\"changes\":[]},{\"name\":\"Home Page\",\"id\":\"01a1ad2c-5ccf-7297-8f5a-fe923f59d873\",\"isControl\":false,\"type\":\"urlRedirect\",\"percentage\":40.71856244180893,\"changes\":[]}],\"test_type\":\"urlRedirect\"},\"persistent\":true,\"_idv\":\"611091338052240089\"}]"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "__hmVisitHistory_3308",
+          "value": "{\"v\":1,\"first\":1794249485,\"seq\":1,\"prevIdv\":\"\",\"prevT\":0,\"lastCart\":0,\"lastCheckout\":0,\"lastPurchase\":0,\"purchases\":0,\"recent\":[],\"cur\":{\"idv\":\"611091338052240089\",\"t\":1794249485,\"te\":1794249500,\"pg\":{\"p611091338052160057\":{\"h\":0,\"c\":0,\"s\":0,\"d\":2451,\"p\":0},\"p611091338101160033\":{\"h\":65874491,\"c\":1,\"s\":292,\"d\":11528,\"p\":1}},\"hs\":[65874491],\"pp\":[65874491],\"ev\":1,\"rv\":0,\"orders\":[],\"cartAt\":1794249499,\"checkoutAt\":0,\"purchaseAt\":0},\"snap\":{\"idv\":\"611091338052240089\",\"tags\":{\"hmh_v\":\"1\",\"hmh_seq\":\"1\",\"hmh_t\":\"1794249485\",\"hmh_first\":\"1794249485\",\"hmh_lc\":\"0\",\"hmh_lk\":\"0\",\"hmh_lp\":\"0\",\"hmh_np\":\"0\"},\"delivered\":false}}"
+        },
+        {
+          "name": "isOnCart",
+          "value": "true"
+        },
+        {
+          "name": "usi_prod_link_1",
+          "value": "{\"value\":\"https://aromatechscent.com/products/the-cobalt-bundle?variant=46672539844710\",\"usi_expires\":1794854300866}"
+        },
+        {
+          "name": "shoplift_last_pageview_at",
+          "value": "1794249487899"
+        },
+        {
+          "name": "_workerCartCache",
+          "value": "{\"hWNIxPwzysiYjcnWJqgOVDOt?key=1bfe076082ba43f574235870b09a4a67\":{\"currency\":\"USD\",\"value\":145,\"contents\":[{\"id\":\"8176999137382\",\"variantId\":\"46672539844710\",\"sku\":\"AmbMini-Blue-BND\",\"quantity\":1,\"item_price\":145,\"title\":\"The Cobalt Bundle - 60ml\",\"image\":\"https://cdn.shopify.com/s/files/1/1629/7465/files/Aromatech-BlueBundle.png?v=1791205054\",\"brand\":\"AromaTech\",\"category\":\"Set\",\"url\":\"https://aromatechscent.com/products/the-cobalt-bundle?variant=46672539844710\",\"type\":\"product\"}],\"checkoutUrl\":\"https://aromatechscent.com/checkouts/cn/hWNIxPwzysiYjcnWJqgOVDOt?key=1bfe076082ba43f574235870b09a4a67\"}}"
+        },
+        {
+          "name": "_entryEnPage",
+          "value": "https://aromatechscent.com"
+        },
+        {
+          "name": "redo.anonymous_shopper_id",
+          "value": "004200d1-f70e-4ada-ad6e-b73b130b1dd0"
+        },
+        {
+          "name": "Shoplift_Essential",
+          "value": "{\"timestamp\":\"2026-11-09T18:38:10.076Z\",\"consentApproved\":true,\"hasConsentInteraction\":false,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T18:38:00.434Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[],\"isFirstLoad\":false}"
+        },
+        {
+          "name": "jdgm_widget_interactions",
+          "value": "{\"8176999137382\":{\"preview_badge--viewed\":1}}"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":{\"activated\":\"idle\"},\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":true,\"chatTitle\":\"AromTech Support \",\"isConnected\":false,\"isChatOnline\":true,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"optional\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":true,\"replyType\":\"reply-dynamic\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "heatmapHsrVid",
+          "value": "611091338052240089"
+        },
+        {
+          "name": "usi_pv_count",
+          "value": "{\"value\":\"1\",\"usi_expires\":1794271099187}"
+        },
+        {
+          "name": "usi_prod_name_1",
+          "value": "{\"value\":\"The Cobalt Bundle\",\"usi_expires\":1794854300869}"
+        },
+        {
+          "name": "usi_cart_count",
+          "value": "{\"value\":1,\"usi_expires\":1794854300871}"
+        },
+        {
+          "name": "hutk_data",
+          "value": "{}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "u3MR8skAwjDzfjkz4JybT"
+        },
+        {
+          "name": "_heatmapConfigs",
+          "value": "{\"_heatIdVisit\":{\"idVisit\":\"611091338052240089\",\"_heatIdvUpdated\":1794249490117},\"_userJourney\":null,\"leadConvCount\":0,\"_heatEventsCount\":1,\"window.isReturningUser\":0,\"heatmapTracking\":{\"events\":{\"track\":true,\"rate\":100},\"record\":{\"track\":true,\"rate\":100},\"checkoutLinkRules\":[{\"match\":\"hoshart.com\",\"selector\":\".cart-summary-aside a\"},{\"match\":\"haushaltsmagazin\",\"selector\":\"a.based_on_country\"},{\"match\":[\"thecatvetreport\",\"catproductinsider\"],\"selector\":\"a[href*='trypurestream']\"},{\"match\":\"hautgesundheit-aktuell.com\",\"selector\":\"a[href*='hautliebe.de']\"},{\"match\":\"pawstested.com\",\"selector\":\"a[href*='thetenace.com']\"},{\"match\":\"thetenace.com\",\"selector\":\"a[href*='pawstested.com']\"},{\"match\":\"myhealthstandard.com\",\"selector\":\"a[data-id^='fkt-button-']\"},{\"match\":\"vahrelo.com\",\"selector\":\"a[href*='grillgearinsider.com']\"},{\"match\":\"grillgearinsider.com\",\"selector\":\"a[href*='vahrelo.com']\"},{\"match\":\"rejuvacare.com\",\"selector\":\"a[href*='smarthealthpractices.com']\"},{\"match\":\"smarthealthpractices.com\",\"selector\":\"a[href*='rejuvacare.com']\"},{\"match\":\"myhealthyshape.com\",\"selector\":\"a.btn.btn-v2[href*='pdp-glp1-patches-v1'], a.btn.btn-v2[href*='pages/pdp-big4'], a.btn.btn-v2[href*='top5-glp-1-patches']\"},{\"match\":\"pawstested.com\",\"selector\":\"a[href*='catvetinsider.com']\"},{\"match\":\"catvetinsider.com\",\"selector\":\"a[href*='pawstested.com']\"},{\"match\":\"catvetinsider.com\",\"selector\":\"a[href*='thetenace.com']\"},{\"match\":\"catvetinsider.com\",\"selector\":\"a[href*='pawstested.com']\"},{\"match\":\"wellness-informed.co.uk\",\"selector\":\"a[href*='optimiise.com']\"},{\"match\":\"optimiise.com\",\"selector\":\"a[href*='wellness-informed.co.uk']\"},{\"match\":\"uromend.com\",\"selector\":\"a[href*='prostatehealthreport.com']\"},{\"match\":\"prostatehealthreport.com\",\"selector\":\"a[href*='uromend.com']\"},{\"match\":\"obseu.yougreencolumn.com\",\"selector\":\"a[href*='us.loopearplugs.com']\"},{\"match\":\"us.loopearplugs.com\",\"selector\":\"a[href*='obseu.yougreencolumn.com']\"},{\"match\":\"tryheatmap.ai\",\"selector\":\"a[href*='heatmap.com']\"},{\"match\":\"heatmap.com\",\"selector\":\"a[href*='tryheatmap.ai']\"},{\"match\":\"heatmapcore.com\",\"selector\":\"a[href*='heatmap.com']\"},{\"match\":\"heatmap.com\",\"selector\":\"a[href*='heatmapcore.com']\"}],\"elTagging\":[],\"survey\":{\"3444\":true},\"unique_ids\":{\"3193\":true,\"3226\":true,\"3241\":true,\"3268\":true,\"3276\":true,\"3308\":true,\"3599\":true}},\"_heatMapEnvRecord\":{\"HEATMAPURL\":\"https://dashboard.heatmap.com\",\"S3URL\":\"https://heatmap-project-2022.s3.us-west-2.amazonaws.com/\",\"CONFIGURL\":\"https://dashboard.heatmap.com\",\"KINESISGATEWAY\":\"https://kinesis.heatmap.com/data\",\"KINESISSTREAM\":\"kinesisForProduction\",\"WEBSOCKET\":\"wss://vst.heatmap.com\",\"CIP\":\"0.0.0.0.0\",\"HEATMAPS\":[],\"IDSITE\":3308},\"_heatmapConfigUrl\":\"https://dashboard.heatmap.com\"}"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1794249484401"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,q;E8&#&kZtx9Pe:n=kA]F{B#~){~!sWi=*\\+.FLADX~%b*MEdZm6i}] ^.)bdLf2:\\7-t)xYW!;Ms3DfJ-P7_83&2@YAp{M"
+        },
+        {
+          "name": "trackedSourceId",
+          "value": "\"hWNIxPwzysiYjcnWJqgOVDOt\""
+        },
+        {
+          "name": "TW_EXT_product^added^to^cart_1794249497839",
+          "value": "{\"i\":\"sh-c19acdc5-D9AF-4209-89E4-923F9CD9F200\",\"t\":1794249497839}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cart",
+          "value": "[{\"id\":\"AmbMini-Blue-BND\",\"name\":\"The Cobalt Bundle\",\"brand\":\"AromaTech\",\"category\":\"Set\",\"position\":0,\"price\":\"145.00\",\"quantity\":\"1\",\"productId\":\"8176999137382\",\"variantId\":\"46672539844710\",\"url\":\"/products/the-cobalt-bundle?variant=46672539844710\",\"list\":\"\",\"variant\":\"60ml\",\"image\":\"https://cdn.shopify.com/s/files/1/1629/7465/files/Aromatech-BlueBundle.png?v=1791205054\"}]"
+        },
+        {
+          "name": "_heatHsr",
+          "value": "65874491"
+        },
+        {
+          "name": "lastSeenErrorReceiptId",
+          "value": "undefined"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU0yWTNaV1k0TW1VdE1EVTNPQzAwTURsakxXRTBOVGN0WTJJNVpUQm1ZMk0zTlRneQ\",\"expires\":\"2027-11-09T18:38:10.256Z\"}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageUrl",
+          "value": "https://aromatechscent.com/products/the-cobalt-bundle"
+        },
+        {
+          "name": "usi_subtotal",
+          "value": "{\"value\":\"145.00\",\"usi_expires\":1794854300861}"
+        },
+        {
+          "name": "redo_autocheck",
+          "value": "{\"expiry\":1794251290436,\"value\":{\"autocheck\":{\"teamId\":\"69f0f987666b24e2e959f14d\",\"widgetSlug\":\"z4av4tzf1wmpa55\",\"icon\":\"gift\",\"iconColor\":\"\",\"iconBackgroundColor\":\"\",\"displayIcon\":false,\"storefrontAccessToken\":\"e85ba0956acc9878ee143c361df51698\",\"multistorefront\":[],\"toggleTextOptions\":{},\"exchangeBannerShowDoneButton\":true,\"disableRedoForCustomer\":false,\"respectForcedRemovalDuringEnsure\":false,\"redoAutoCheck\":true,\"selector\":\"\",\"paidModel\":\"customer_paid\",\"textColor\":\"#000000\",\"coverage\":{\"exchange\":false,\"refund\":false,\"storeCredit\":false},\"enabled\":true,\"logo\":\"\",\"coverageEnabled\":false,\"finalSaleTags\":[\"final-sale\"],\"protectionExcludeTags\":[],\"coverageExcludeCollections\":[],\"coverageExcludeDiscountCodes\":[],\"coverageExcludeProperties\":[],\"coverageExcludedVariantMetafields\":[],\"returnsCoverageExcludedSkus\":[],\"discountCodePartialMatch\":false,\"hideCheckboxBranding\":false,\"hideCheckbox\":true,\"hideCheckboxPrice\":false,\"attachmentStrategy\":\"checkout-button-product\",\"toggleSubtextEnabled\":true,\"countries\":[\"US\"],\"countriesPackageProtection\":[\"US\"],\"countriesFinalSaleReturns\":[],\"predictedCountry\":\"CA\",\"modalTextAdjustments\":{},\"infoModal\":{\"enableTopLayerModalApi\":true,\"version\":\"v2\"},\"shopSiteUseCartDiscounts\":false,\"excludeProductTags\":[],\"excludeProductSkus\":[],\"cartValueCalculationMethod\":\"cart_value_post_discount\",\"excludedItemProperties\":[],\"cartToggle\":{\"enabled\":true,\"cartReplaceItems\":false},\"widgetConfigs\":[],\"groupNearbyToggleElementsTogether\":true,\"hideRedoProduct\":{\"cartCountModifications\":[],\"cartDiscountModifications\":[],\"cartPriceModifications\":[],\"enabled\":true},\"packageProtection\":{\"coverageEnabled\":false,\"packageProtectionPlusEnabled\":false,\"percentage\":0,\"splitProducts\":false,\"minPrice\":0,\"packageProtectionPlusMerchantPaidPerOrderEnabled\":false,\"shouldRecordPackageProtectionExposure\":false,\"coverageExcludedCollections\":[],\"internationalInsurance\":{\"providerName\":\"UPSCIA\",\"termsUrl\":\"https://www.insureshield.com/content/terms-and-conditions/REDO_TermsandConditions.pdf\",\"ratePer100\":0.8,\"minimumPremium\":0},\"coverageExcludedVariantMetafields\":[]},\"packageProtectionAutoCheck\":true,\"setCheckoutToggleBasedOnOptInCartAttribute\":true,\"openShadowRoot\":false,\"checkoutExtensionEnabled\":false,\"fraudZipCoverageExclusionStrategy\":\"NO_OP\",\"forceIPAddressLocation\":false,\"excludePickup\":false,\"preProtectedOrdersEnabled\":false,\"internationalReturnsPricing\":[],\"currencyExchangeRate\":1,\"finalSaleReturns\":{\"coverageEnabled\":false,\"coverageValidTags\":[],\"coverageValidCollections\":[],\"coverageValidCollectionTitles\":[],\"percentage\":0,\"minPrice\":0,\"maxPrice\":0,\"allCovered\":false,\"allEligible\":false},\"customerAccounts\":{\"enabled\":false,\"saveForLaterPanel\":{\"enabled\":false}},\"customerWidgetEnabled\":false,\"chatWidgetScriptTagInstalled\":false,\"contextual\":{\"enabled\":false},\"reviews\":{\"enabled\":false},\"orderTrackingLogin\":{\"enabled\":true,\"settings\":{\"allowTrackingCodeOnlyAccess\":false,\"backgroundColor\":\"#FFFFFF\",\"backgroundImageUrl\":\"https://data.getredo.com/redo/Extract_still_2_4k_202602171004_29436225d55c.jpeg\",\"cardBackgroundColor\":\"#FFFFFF\",\"cardBorderRadius\":0,\"cardBorderWidth\":0,\"cardBorderColor\":\"#D6D6D6\",\"cardShadowEnabled\":true,\"titleText\":\"TRACK YOUR ORDER\",\"titleColor\":\"#0F172A\",\"buttonText\":\"TRACK ORDER\",\"emailLabel\":\"Email or Zip Code\",\"emailPlaceholder\":\"Enter Email or Zip...\",\"orderLabel\":\"Order # or Tracking #\",\"orderPlaceholder\":\"Enter Order or Tracking #...\"},\"loadingBackgroundColor\":null},\"brandKit\":{\"font\":{\"bodyFontFamily\":\"GT America Trial Rg\",\"fontFamily\":\"Arial\",\"headerFontFamily\":\"Optima\",\"hierarchy\":{\"body\":{\"fontSizePx\":16,\"fontWeight\":\"regular\"},\"h1\":{\"fontSizePx\":48,\"fontWeight\":\"bold\"},\"h2\":{\"fontSizePx\":36,\"fontWeight\":\"semibold\"},\"h3\":{\"fontSizePx\":30,\"fontWeight\":\"regular\"},\"subtext\":{\"fontSizePx\":14,\"fontWeight\":\"regular\"}}},\"images\":{\"bannerUrl\":\"\",\"faviconUrl\":\"\",\"logoBannerUrl\":\"\",\"logoUrl\":\"\"},\"buttons\":{\"primary\":{\"backgroundColor\":\"#1e1e1e\",\"border\":{\"cornerRadiusPx\":24,\"stroke\":{\"color\":\"#1e1e1e00\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":10,\"textColor\":\"#fffcf3\"},\"secondary\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":1}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"},\"tertiary\":{\"border\":{\"cornerRadiusPx\":8,\"stroke\":{\"color\":\"#000000\",\"weightPx\":0}},\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#000000\"}},\"colors\":{\"accent\":\"#000000\",\"background\":\"#ffffff\"},\"customFontFamilies\":[{\"_id\":\"dda6110d-1363-4475-a9f8-0a76e00b45ef\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"Optima\",\"styles\":[{\"_id\":\"26cefaf0-e526-41bd-9780-3785d2496875\",\"fontFileUrl\":\"https://data.getredo.com/redo/Optima_Medium_1eeaf5b5a479.ttf\",\"fontName\":\"Optima\",\"fontStyle\":\"Medium\",\"italic\":false,\"weight\":\"550\"}]},{\"_id\":\"6585a295-d007-4bba-9277-90ddccbe4ee4\",\"fallbackFont\":\"sans-serif\",\"fontFamily\":\"GT America Trial Rg\",\"styles\":[{\"_id\":\"adeb91be-e94a-4081-b518-9c67484d40e9\",\"fontFileUrl\":\"https://data.getredo.com/redo/GT_America_Standard_Regular_Trial_f028c112157e.otf\",\"fontName\":\"GT America Trial Rg\",\"fontStyle\":\"Regular\",\"italic\":false,\"weight\":\"400\"}]}],\"inputs\":{\"backgroundColor\":\"#ffffff\",\"border\":{\"cornerRadiusPx\":0,\"stroke\":{\"color\":\"#1e1e1e\",\"weightPx\":1}},\"errorColor\":\"#ff0000\",\"fontReference\":\"body\",\"paddingPx\":8,\"textColor\":\"#1e1e1e\"}},\"extendedWarranties\":{\"enabled\":false,\"cartToggleExperience\":\"toggle\",\"pdpRenderMethod\":\"app_block\",\"popupExperience\":\"disabled\"},\"concierge\":{\"enabled\":false,\"placeConciergeProductForm\":false},\"marketing\":{\"enabled\":false,\"subscribeFromSaveForLater\":false,\"numEmbeddedFormsConfigured\":0,\"hasPublishedSignupForms\":false,\"hasEnabledNonEmbeddedSpotlights\":false},\"recover\":{\"enabled\":false},\"checkoutDeliveryEstimates\":{\"enabled\":false},\"conversion\":{\"enabled\":false},\"hsa\":{\"enabled\":false},\"loyalty\":{\"enabled\":false},\"useBuyNowCoverage\":false,\"autoNavigateToCheckoutAfterTimeout\":true,\"checkoutMethod\":\"navigate_after_add\",\"rescueCheckoutButtonsEnabled\":false,\"shouldNotUseStorefrontApi\":false,\"disableBusinessAccountInStorefront\":false,\"preventPageRefreshAfterCartAdd\":false,\"dispatchResizeAfterItemsPlaced\":false,\"purpleDotEnabled\":false,\"dynamicCoverageTransformFunctionEnabled\":false,\"billing\":{\"status\":\"up_to_date\"},\"localizationTextOverrides\":[],\"localizationGroups\":[],\"storefrontLoggingAllowedPercentage\":4,\"visitorObservationEnabled\":true,\"storefrontConsentEnabled\":false,\"localizationObjectId\":\"autocheck-69f0f987666b24e2e959f14d\",\"customerTagTextOverride\":{\"customerTags\":[],\"enabled\":false},\"cartResponseCaptureEnabled\":true,\"coverageProductIds\":[]},\"currency\":\"USD\",\"customerId\":null,\"language\":\"en\",\"country\":\"US\"}}"
+        },
+        {
+          "name": "_heatidL",
+          "value": "611091338101160033"
+        },
+        {
+          "name": "emotive_popup_show_count",
+          "value": "1"
+        },
+        {
+          "name": "usi_pids",
+          "value": "{\"value\":\"46672539844710\",\"usi_expires\":1794854300862}"
+        },
+        {
+          "name": "heatmapDebugger",
+          "value": "{\"heatmapDCPageLoadTime\":0,\"heatmapDCVisit\":0,\"heatmapDCLogHSR\":0,\"preprocessorLT\":\"1102ms\"}"
+        },
+        {
+          "name": "heatmap_page_count_611091338052240089",
+          "value": "1"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxPwzysiYjcnWJqgOVDOt\"},{\"postPurchaseInquiryStatus\":\"disabled\",\"setShippingAddressAsDefault\":false}],[{\"id\":\"hWNIxPwzysiYjcnWJqgOVDOt\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--params",
+          "value": "{\"user_id\":\"u3MR8skAwjDzfjkz4JybT\",\"session_id\":\"1794249498\",\"session_count\":\"1\",\"session_landing_page_url\":\"https://aromatechscent.com/products/the-cobalt-bundle\",\"session_landing_page_title\":\"The Cobalt Bundle \u2013 AromaTech\",\"market_id\":\"8552550\",\"locale_country_code\":\"US\"}"
+        },
+        {
+          "name": "cartTotal",
+          "value": "145"
+        },
+        {
+          "name": "_user_agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "csmConsentIdentifier",
+          "value": "{\"consentIdentifier\":\"984392dd95f5fe26725f5d5b65d4b8f10a68817d4a95d04386e28ca95d2a6770\",\"createdAt\":\"2026-11-09T18:38:18.255Z\",\"expiresAt\":\"2027-11-09T18:38:18.255Z\"}"
+        },
+        {
+          "name": "heatmap_id_site",
+          "value": "3308"
+        },
+        {
+          "name": "usi_entry_url_1",
+          "value": "{\"value\":\"https://aromatechscent.com/products/the-cobalt-bundle\",\"usi_expires\":1794271099184}"
+        },
+        {
+          "name": "hCart",
+          "value": "true"
+        },
+        {
+          "name": "pap_unique_user_id",
+          "value": "7d152683-5784-4fc6-9952-fd58587541cf"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageTitle",
+          "value": "The Cobalt Bundle \u2013 AromaTech"
+        },
+        {
+          "name": "userMaxScroll",
+          "value": "292"
+        },
+        {
+          "name": "redo.rolling_session",
+          "value": "{\"id\":\"redo-17f3f278-9117-45ea-a8f0-82e91049236f\",\"lastActivityMs\":1794249489181}"
+        },
+        {
+          "name": "usi_prod_price_1",
+          "value": "{\"value\":\"145.00\",\"usi_expires\":1794854300870}"
+        },
+        {
+          "name": "_heatVid",
+          "value": "611091338052240089"
+        },
+        {
+          "name": "jdgm_thumb_votes",
+          "value": "{}"
+        },
+        {
+          "name": "enHsr",
+          "value": "0"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,F<yrW<}Z(g;JO_*%2Oc.vobKxnbAGJ97nQaz;)GJdeTE7Q}suoC^L9fZff)>e.yqbv`S].azd0+s,{wtx_"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,;zSX^._J_Z-CKEM\"`dA( Le y^t9i\u007f%l[BI2\u007f,?ylF{R@]rzY{9Gltd^22^!Le7\\L.3GlLZ=GS$24}H;,y"
+        },
+        {
+          "name": "usi_referrer_url",
+          "value": "{\"value\":\"direct traffic\",\"usi_expires\":1794271099186}"
+        },
+        {
+          "name": "TW_EXT_product^viewed_1794249490788",
+          "value": "{\"i\":\"sh-c19a8047-3102-461F-44DE-696A2B831C43\",\"t\":1794249490788}"
+        },
+        {
+          "name": "heatmap_recording_auth",
+          "value": "{\"shouldRecord\":false,\"groupRecordingId\":null,\"idVisit\":\"611091338052240089\",\"timestamp\":1794249497744,\"expiryHours\":24}"
+        },
+        {
+          "name": "product_viewed",
+          "value": "true"
+        },
+        {
+          "name": "usi_prod_pid_1",
+          "value": "{\"value\":\"46672539844710\",\"usi_expires\":1794854300867}"
+        },
+        {
+          "name": "Shoplift_Analytics",
+          "value": "{\"timestamp\":\"2026-11-09T18:38:10.076Z\",\"visitor\":null,\"queue\":[{\"timestamp\":\"2026-11-09T18:38:05.033Z\",\"type\":5,\"cart\":{\"token\":\"hWNIxPwzysiYjcnWJqgOVDOt?key=1bfe076082ba43f574235870b09a4a67\",\"total_price\":0,\"total_discount\":0,\"currency\":\"USD\",\"items_subtotal_price\":0,\"items\":[]}},{\"timestamp\":\"2026-11-09T18:38:07.125Z\",\"type\":5,\"cart\":{\"token\":\"hWNIxPwzysiYjcnWJqgOVDOt?key=1bfe076082ba43f574235870b09a4a67\",\"total_price\":0,\"total_discount\":0,\"currency\":\"USD\",\"items_subtotal_price\":0,\"items\":[]}}]}"
+        },
+        {
+          "name": "_workerStoreMultiple",
+          "value": "{\"https://gvlss.aromatechscent.com\":{\"edgeTag\":{\"consent\":{\"all\":true},\"consentCategories\":{\"all\":true},\"storageId\":2}}}"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,CBTNr@X1P;;5GH]\\*zAh+7*0a|`@0\u007fi7(fCTG()rSVeCz6R0?)N`'[BN;Fw0EQG[A_]*@8!tSZhNq8U]){Sj^%W(yD0z1Z2Y;aQFV@5{d%X}"
+        },
+        {
+          "name": "TW_EXT_page^viewed_1794249490442",
+          "value": "{\"i\":\"sh-c19a8031-10A4-4F38-A406-7D9195C76821\",\"t\":1794249490442}"
+        },
+        {
+          "name": "redo.anonymous_shopify_session_id",
+          "value": "redo-17f3f278-9117-45ea-a8f0-82e91049236f"
+        },
+        {
+          "name": "usi_si",
+          "value": "{\"value\":\"dabj8w_1794249501\",\"usi_expires\":1794335900865}"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1794249495922"
+        },
+        {
+          "name": "asHasViewedProductPage",
+          "value": "true"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cookies",
+          "value": "{\"_fbp\":\"fb.1.1794249498671.7496460518\",\"_rdt_uuid\":\"1794249499935.c40eeba2-39c0-4a3f-9dfc-2190a6c18b24\"}"
+        },
+        {
+          "name": "_HEATMAP_LAST_ELEMENT_CLICKED",
+          "value": "{\"ti\":5903,\"ty\":2,\"s\":\"div#the-cobalt-bundle > div > div > product-rerender > div > safe-sticky > div > div:nth-child(5) > product-form > form > div > div > buy-buttons > div > div > button > button-content\",\"x\":998,\"y\":996,\"ax\":675,\"ay\":1694,\"name\":\"BUTTON-CONTENT\",\"rus\":\"div#the-cobalt-bundle > div > div > product-rerender > div > safe-sticky > div > div:nth-child(5) > product-form > form > div > div > buy-buttons > div > div > button > button-content\",\"rud\":19,\"ruap\":\"body.features--zoom-image.black-label.template-product.jdgm-buyer-badge--removed > main#main > section:nth-child(2) > div#the-cobalt-bundle > div > div > product-rerender > div > safe-sticky > div > div:nth-child(5) > product-form > form > div > div > buy-buttons > div > div > button > button-content\",\"hsr\":65874491,\"idl\":\"611091338101160033\"}"
+        }
+      ]
+    }
+  ]
+}

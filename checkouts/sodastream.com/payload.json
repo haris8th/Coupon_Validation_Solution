@@ -1,0 +1,61 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBH_6Pq_D_WWGKl8wGeMUOdcapItNopOOlUKju-ZXx29Pn2fPve8rl2NQ4THLT1kR6Xucoy4oO6tPqLRdF4yb6UAcMJJL6Vb0e25oZKKwgnJE_WjLyyRdnZH0prEwVKkCY4Wovf5B6yd1cwsTmymxnq5AlJaAnDVNY43C3Fu75SmgwUsdUZLgPNDfY009c2x7WqFT6ghs-CirxipMzLKI1AZxbmZs"
+    },
+    "queueToken": "Az1uOpVhkkcPTrIYKXfBCMn8XwC5KXCmz3bMjrHy0pN_E18zmJdJfvk0KvL_aos3Z9MWMFfiyFlY8BucowVY5nnM1obTyM3bfK23POKC5rXoQaV1G0ns3LzG3PHRCw==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "6dbb4fdd-dad4-45a2-b5f1-aed09cd26a7e",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/43679971016746",
+              "variantId": "gid://shopify/ProductVariant/43679971016746",
+              "properties": [
+                {
+                  "name": "_co2_combined",
+                  "value": {
+                    "boolean": true
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_subscription_type",
+                  "value": {
+                    "string": "exchange"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_shopify_non_subscription_item",
+                  "value": {
+                    "boolean": true
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": "gid://shopify/SellingPlan/2114388010",
+              "sellingPlanDigest": "31a186749b4712cc051dc75c2841406a"
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 3
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "50.97",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

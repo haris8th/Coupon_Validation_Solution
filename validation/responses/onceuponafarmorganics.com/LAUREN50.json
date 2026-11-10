@@ -1,0 +1,2606 @@
+{
+  "errors": [
+    {
+      "message": "Variable `$merchandise` of type `MerchandiseTermInput` was provided invalid value for `merchandiseLines.0.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.2.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.3.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.4.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.5.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.6.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.7.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.8.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.9.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.10.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.11.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.12.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.13.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.14.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.15.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.16.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.17.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.18.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.0.merchandise.productVariantReference.properties.19.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.2.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.3.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.4.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.5.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.6.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.7.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.8.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.9.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.10.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.11.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.12.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.13.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.14.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.15.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.16.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.17.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.18.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.1.merchandise.productVariantReference.properties.19.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.0.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.1.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.2.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.3.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.4.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.5.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.6.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.7.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), `merchandiseLines.2.merchandise.productVariantReference.properties.8.visible` (Field `visible` is not defined by type `MerchandisePropertyInput`), Too many execution errors, max error limit reached. Results truncated",
+      "locations": [
+        {
+          "line": 1,
+          "column": 161
+        }
+      ],
+      "extensions": {
+        "code": "INVALID_VARIABLE",
+        "value": {
+          "merchandiseLines": [
+            {
+              "stableId": "c9cd348c-b748-4746-8417-d8589a76c036",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41960984805458",
+                  "variantId": "gid://shopify/ProductVariant/41960984805458",
+                  "properties": [
+                    {
+                      "name": "_rc_bundle",
+                      "value": {
+                        "string": "dnXiTg8EA:7617281851474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_variant",
+                      "value": {
+                        "string": "42504035041362"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_parent",
+                      "value": {
+                        "string": "build-a-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_collection_id",
+                      "value": {
+                        "string": "296499085394"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_title",
+                      "value": {
+                        "string": "Baby Starter Box | SKU: DTC10375-32A"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_group",
+                      "value": {
+                        "string": "dnXiTg8EA (12/12)"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_image",
+                      "value": {
+                        "string": "//onceuponafarmorganics.com/cdn/shop/files/Baby_Starter_Pack_Lifestyle_Image.png?v=1786036931&width=250"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_url",
+                      "value": {
+                        "string": "/products/baby-starter-box?variant=42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_variant_title",
+                      "value": {
+                        "string": "32 Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_handle",
+                      "value": {
+                        "string": "baby-starter-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_variant_id",
+                      "value": {
+                        "string": "42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_delivery_frequency",
+                      "value": {
+                        "string": "1 Week"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_type",
+                      "value": {
+                        "string": "Variety Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_size",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_capacity",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_id",
+                      "value": {
+                        "string": "homepage-best-seller-section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_name",
+                      "value": {
+                        "string": "Homepage Best Seller Section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_index",
+                      "value": {
+                        "string": "2"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gtm_item_id",
+                      "value": {
+                        "string": "7614954995794"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2527297618",
+                  "sellingPlanDigest": "731f77fd0e52a990893c480e538e79fb"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 3
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "9.09",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "abfa1fda-90cc-4285-b9c1-52e7c608a3ee",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41960919793746",
+                  "variantId": "gid://shopify/ProductVariant/41960919793746",
+                  "properties": [
+                    {
+                      "name": "_rc_bundle",
+                      "value": {
+                        "string": "dnXiTg8EA:7617281851474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_variant",
+                      "value": {
+                        "string": "42504035041362"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_parent",
+                      "value": {
+                        "string": "build-a-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_collection_id",
+                      "value": {
+                        "string": "296498856018"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_title",
+                      "value": {
+                        "string": "Baby Starter Box | SKU: DTC10375-32A"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_group",
+                      "value": {
+                        "string": "dnXiTg8EA (11/12)"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_image",
+                      "value": {
+                        "string": "//onceuponafarmorganics.com/cdn/shop/files/Baby_Starter_Pack_Lifestyle_Image.png?v=1786036931&width=250"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_url",
+                      "value": {
+                        "string": "/products/baby-starter-box?variant=42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_variant_title",
+                      "value": {
+                        "string": "32 Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_handle",
+                      "value": {
+                        "string": "baby-starter-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_variant_id",
+                      "value": {
+                        "string": "42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_delivery_frequency",
+                      "value": {
+                        "string": "1 Week"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_type",
+                      "value": {
+                        "string": "Variety Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_size",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_capacity",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_id",
+                      "value": {
+                        "string": "homepage-best-seller-section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_name",
+                      "value": {
+                        "string": "Homepage Best Seller Section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_index",
+                      "value": {
+                        "string": "2"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gtm_item_id",
+                      "value": {
+                        "string": "7614954995794"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2527297618",
+                  "sellingPlanDigest": "731f77fd0e52a990893c480e538e79fb"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 3
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "9.09",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "b074e4e9-7900-49bf-8f2b-1e2f3647f6a8",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41960914092114",
+                  "variantId": "gid://shopify/ProductVariant/41960914092114",
+                  "properties": [
+                    {
+                      "name": "_rc_bundle",
+                      "value": {
+                        "string": "dnXiTg8EA:7617281851474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_variant",
+                      "value": {
+                        "string": "42504035041362"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_parent",
+                      "value": {
+                        "string": "build-a-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_collection_id",
+                      "value": {
+                        "string": "296498856018"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_title",
+                      "value": {
+                        "string": "Baby Starter Box | SKU: DTC10375-32A"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_group",
+                      "value": {
+                        "string": "dnXiTg8EA (10/12)"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_image",
+                      "value": {
+                        "string": "//onceuponafarmorganics.com/cdn/shop/files/Baby_Starter_Pack_Lifestyle_Image.png?v=1786036931&width=250"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_url",
+                      "value": {
+                        "string": "/products/baby-starter-box?variant=42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_variant_title",
+                      "value": {
+                        "string": "32 Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_handle",
+                      "value": {
+                        "string": "baby-starter-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_variant_id",
+                      "value": {
+                        "string": "42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_delivery_frequency",
+                      "value": {
+                        "string": "1 Week"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_type",
+                      "value": {
+                        "string": "Variety Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_size",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_capacity",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_id",
+                      "value": {
+                        "string": "homepage-best-seller-section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_name",
+                      "value": {
+                        "string": "Homepage Best Seller Section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_index",
+                      "value": {
+                        "string": "2"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gtm_item_id",
+                      "value": {
+                        "string": "7614954995794"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2527297618",
+                  "sellingPlanDigest": "731f77fd0e52a990893c480e538e79fb"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 3
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "9.09",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "4d39aec7-1030-4aa9-89e3-2091f67b4641",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41960908259410",
+                  "variantId": "gid://shopify/ProductVariant/41960908259410",
+                  "properties": [
+                    {
+                      "name": "_rc_bundle",
+                      "value": {
+                        "string": "dnXiTg8EA:7617281851474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_variant",
+                      "value": {
+                        "string": "42504035041362"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_parent",
+                      "value": {
+                        "string": "build-a-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_collection_id",
+                      "value": {
+                        "string": "296498856018"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_title",
+                      "value": {
+                        "string": "Baby Starter Box | SKU: DTC10375-32A"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_group",
+                      "value": {
+                        "string": "dnXiTg8EA (9/12)"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_image",
+                      "value": {
+                        "string": "//onceuponafarmorganics.com/cdn/shop/files/Baby_Starter_Pack_Lifestyle_Image.png?v=1786036931&width=250"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_url",
+                      "value": {
+                        "string": "/products/baby-starter-box?variant=42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_variant_title",
+                      "value": {
+                        "string": "32 Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_handle",
+                      "value": {
+                        "string": "baby-starter-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_variant_id",
+                      "value": {
+                        "string": "42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_delivery_frequency",
+                      "value": {
+                        "string": "1 Week"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_type",
+                      "value": {
+                        "string": "Variety Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_size",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_capacity",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_id",
+                      "value": {
+                        "string": "homepage-best-seller-section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_name",
+                      "value": {
+                        "string": "Homepage Best Seller Section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_index",
+                      "value": {
+                        "string": "2"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gtm_item_id",
+                      "value": {
+                        "string": "7614954995794"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2527297618",
+                  "sellingPlanDigest": "731f77fd0e52a990893c480e538e79fb"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 3
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "9.09",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "7ea6471e-d63c-490b-8cd2-ad99cce94eb7",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41960946171986",
+                  "variantId": "gid://shopify/ProductVariant/41960946171986",
+                  "properties": [
+                    {
+                      "name": "_rc_bundle",
+                      "value": {
+                        "string": "dnXiTg8EA:7617281851474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_variant",
+                      "value": {
+                        "string": "42504035041362"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_parent",
+                      "value": {
+                        "string": "build-a-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_collection_id",
+                      "value": {
+                        "string": "296498856018"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_title",
+                      "value": {
+                        "string": "Baby Starter Box | SKU: DTC10375-32A"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_group",
+                      "value": {
+                        "string": "dnXiTg8EA (8/12)"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_image",
+                      "value": {
+                        "string": "//onceuponafarmorganics.com/cdn/shop/files/Baby_Starter_Pack_Lifestyle_Image.png?v=1786036931&width=250"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_url",
+                      "value": {
+                        "string": "/products/baby-starter-box?variant=42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_variant_title",
+                      "value": {
+                        "string": "32 Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_handle",
+                      "value": {
+                        "string": "baby-starter-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_variant_id",
+                      "value": {
+                        "string": "42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_delivery_frequency",
+                      "value": {
+                        "string": "1 Week"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_type",
+                      "value": {
+                        "string": "Variety Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_size",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_capacity",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_id",
+                      "value": {
+                        "string": "homepage-best-seller-section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_name",
+                      "value": {
+                        "string": "Homepage Best Seller Section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_index",
+                      "value": {
+                        "string": "2"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gtm_item_id",
+                      "value": {
+                        "string": "7614954995794"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2527297618",
+                  "sellingPlanDigest": "731f77fd0e52a990893c480e538e79fb"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 2
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "6.06",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "0c05ba3a-9055-4a4d-a24c-626f88f5c17e",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41960922906706",
+                  "variantId": "gid://shopify/ProductVariant/41960922906706",
+                  "properties": [
+                    {
+                      "name": "_rc_bundle",
+                      "value": {
+                        "string": "dnXiTg8EA:7617281851474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_variant",
+                      "value": {
+                        "string": "42504035041362"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_parent",
+                      "value": {
+                        "string": "build-a-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_collection_id",
+                      "value": {
+                        "string": "296498856018"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_title",
+                      "value": {
+                        "string": "Baby Starter Box | SKU: DTC10375-32A"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_group",
+                      "value": {
+                        "string": "dnXiTg8EA (7/12)"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_image",
+                      "value": {
+                        "string": "//onceuponafarmorganics.com/cdn/shop/files/Baby_Starter_Pack_Lifestyle_Image.png?v=1786036931&width=250"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_url",
+                      "value": {
+                        "string": "/products/baby-starter-box?variant=42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_variant_title",
+                      "value": {
+                        "string": "32 Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_handle",
+                      "value": {
+                        "string": "baby-starter-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_variant_id",
+                      "value": {
+                        "string": "42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_delivery_frequency",
+                      "value": {
+                        "string": "1 Week"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_type",
+                      "value": {
+                        "string": "Variety Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_size",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_capacity",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_id",
+                      "value": {
+                        "string": "homepage-best-seller-section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_name",
+                      "value": {
+                        "string": "Homepage Best Seller Section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_index",
+                      "value": {
+                        "string": "2"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gtm_item_id",
+                      "value": {
+                        "string": "7614954995794"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2527297618",
+                  "sellingPlanDigest": "731f77fd0e52a990893c480e538e79fb"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 2
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "6.06",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "e899272a-689b-4668-ad28-edae78b491d1",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41960919007314",
+                  "variantId": "gid://shopify/ProductVariant/41960919007314",
+                  "properties": [
+                    {
+                      "name": "_rc_bundle",
+                      "value": {
+                        "string": "dnXiTg8EA:7617281851474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_variant",
+                      "value": {
+                        "string": "42504035041362"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_parent",
+                      "value": {
+                        "string": "build-a-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_collection_id",
+                      "value": {
+                        "string": "296498856018"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_title",
+                      "value": {
+                        "string": "Baby Starter Box | SKU: DTC10375-32A"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_group",
+                      "value": {
+                        "string": "dnXiTg8EA (6/12)"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_image",
+                      "value": {
+                        "string": "//onceuponafarmorganics.com/cdn/shop/files/Baby_Starter_Pack_Lifestyle_Image.png?v=1786036931&width=250"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_url",
+                      "value": {
+                        "string": "/products/baby-starter-box?variant=42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_variant_title",
+                      "value": {
+                        "string": "32 Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_handle",
+                      "value": {
+                        "string": "baby-starter-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_variant_id",
+                      "value": {
+                        "string": "42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_delivery_frequency",
+                      "value": {
+                        "string": "1 Week"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_type",
+                      "value": {
+                        "string": "Variety Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_size",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_capacity",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_id",
+                      "value": {
+                        "string": "homepage-best-seller-section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_name",
+                      "value": {
+                        "string": "Homepage Best Seller Section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_index",
+                      "value": {
+                        "string": "2"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gtm_item_id",
+                      "value": {
+                        "string": "7614954995794"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2527297618",
+                  "sellingPlanDigest": "731f77fd0e52a990893c480e538e79fb"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 2
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "6.06",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "bbfa1775-ac37-45ab-812f-c10cf94968ca",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41960917074002",
+                  "variantId": "gid://shopify/ProductVariant/41960917074002",
+                  "properties": [
+                    {
+                      "name": "_rc_bundle",
+                      "value": {
+                        "string": "dnXiTg8EA:7617281851474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_variant",
+                      "value": {
+                        "string": "42504035041362"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_parent",
+                      "value": {
+                        "string": "build-a-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_collection_id",
+                      "value": {
+                        "string": "296498856018"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_title",
+                      "value": {
+                        "string": "Baby Starter Box | SKU: DTC10375-32A"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_group",
+                      "value": {
+                        "string": "dnXiTg8EA (5/12)"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_image",
+                      "value": {
+                        "string": "//onceuponafarmorganics.com/cdn/shop/files/Baby_Starter_Pack_Lifestyle_Image.png?v=1786036931&width=250"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_url",
+                      "value": {
+                        "string": "/products/baby-starter-box?variant=42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_variant_title",
+                      "value": {
+                        "string": "32 Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_handle",
+                      "value": {
+                        "string": "baby-starter-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_variant_id",
+                      "value": {
+                        "string": "42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_delivery_frequency",
+                      "value": {
+                        "string": "1 Week"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_type",
+                      "value": {
+                        "string": "Variety Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_size",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_capacity",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_id",
+                      "value": {
+                        "string": "homepage-best-seller-section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_name",
+                      "value": {
+                        "string": "Homepage Best Seller Section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_index",
+                      "value": {
+                        "string": "2"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gtm_item_id",
+                      "value": {
+                        "string": "7614954995794"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2527297618",
+                  "sellingPlanDigest": "731f77fd0e52a990893c480e538e79fb"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 3
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "9.09",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "b8974afb-f9e0-4add-806f-2677d775a233",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41960911339602",
+                  "variantId": "gid://shopify/ProductVariant/41960911339602",
+                  "properties": [
+                    {
+                      "name": "_rc_bundle",
+                      "value": {
+                        "string": "dnXiTg8EA:7617281851474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_variant",
+                      "value": {
+                        "string": "42504035041362"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_parent",
+                      "value": {
+                        "string": "build-a-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_collection_id",
+                      "value": {
+                        "string": "296498856018"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_title",
+                      "value": {
+                        "string": "Baby Starter Box | SKU: DTC10375-32A"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_group",
+                      "value": {
+                        "string": "dnXiTg8EA (4/12)"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_image",
+                      "value": {
+                        "string": "//onceuponafarmorganics.com/cdn/shop/files/Baby_Starter_Pack_Lifestyle_Image.png?v=1786036931&width=250"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_url",
+                      "value": {
+                        "string": "/products/baby-starter-box?variant=42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_variant_title",
+                      "value": {
+                        "string": "32 Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_handle",
+                      "value": {
+                        "string": "baby-starter-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_variant_id",
+                      "value": {
+                        "string": "42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_delivery_frequency",
+                      "value": {
+                        "string": "1 Week"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_type",
+                      "value": {
+                        "string": "Variety Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_size",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_capacity",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_id",
+                      "value": {
+                        "string": "homepage-best-seller-section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_name",
+                      "value": {
+                        "string": "Homepage Best Seller Section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_index",
+                      "value": {
+                        "string": "2"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gtm_item_id",
+                      "value": {
+                        "string": "7614954995794"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2527297618",
+                  "sellingPlanDigest": "731f77fd0e52a990893c480e538e79fb"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 3
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "9.09",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "c8859d27-0e58-4392-bfa8-ea7b170190ab",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41960905211986",
+                  "variantId": "gid://shopify/ProductVariant/41960905211986",
+                  "properties": [
+                    {
+                      "name": "_rc_bundle",
+                      "value": {
+                        "string": "dnXiTg8EA:7617281851474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_variant",
+                      "value": {
+                        "string": "42504035041362"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_parent",
+                      "value": {
+                        "string": "build-a-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_collection_id",
+                      "value": {
+                        "string": "296498856018"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_title",
+                      "value": {
+                        "string": "Baby Starter Box | SKU: DTC10375-32A"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_group",
+                      "value": {
+                        "string": "dnXiTg8EA (3/12)"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_image",
+                      "value": {
+                        "string": "//onceuponafarmorganics.com/cdn/shop/files/Baby_Starter_Pack_Lifestyle_Image.png?v=1786036931&width=250"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_url",
+                      "value": {
+                        "string": "/products/baby-starter-box?variant=42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_variant_title",
+                      "value": {
+                        "string": "32 Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_handle",
+                      "value": {
+                        "string": "baby-starter-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_variant_id",
+                      "value": {
+                        "string": "42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_delivery_frequency",
+                      "value": {
+                        "string": "1 Week"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_type",
+                      "value": {
+                        "string": "Variety Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_size",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_capacity",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_id",
+                      "value": {
+                        "string": "homepage-best-seller-section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_name",
+                      "value": {
+                        "string": "Homepage Best Seller Section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_index",
+                      "value": {
+                        "string": "2"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gtm_item_id",
+                      "value": {
+                        "string": "7614954995794"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2527297618",
+                  "sellingPlanDigest": "731f77fd0e52a990893c480e538e79fb"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 3
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "9.09",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "3ca5349a-111c-4e63-8fc9-7532022d6585",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41960899772498",
+                  "variantId": "gid://shopify/ProductVariant/41960899772498",
+                  "properties": [
+                    {
+                      "name": "_rc_bundle",
+                      "value": {
+                        "string": "dnXiTg8EA:7617281851474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_variant",
+                      "value": {
+                        "string": "42504035041362"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_parent",
+                      "value": {
+                        "string": "build-a-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_collection_id",
+                      "value": {
+                        "string": "296498856018"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_title",
+                      "value": {
+                        "string": "Baby Starter Box | SKU: DTC10375-32A"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_group",
+                      "value": {
+                        "string": "dnXiTg8EA (2/12)"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_image",
+                      "value": {
+                        "string": "//onceuponafarmorganics.com/cdn/shop/files/Baby_Starter_Pack_Lifestyle_Image.png?v=1786036931&width=250"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_url",
+                      "value": {
+                        "string": "/products/baby-starter-box?variant=42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_variant_title",
+                      "value": {
+                        "string": "32 Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_handle",
+                      "value": {
+                        "string": "baby-starter-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_variant_id",
+                      "value": {
+                        "string": "42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_delivery_frequency",
+                      "value": {
+                        "string": "1 Week"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_type",
+                      "value": {
+                        "string": "Variety Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_size",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_capacity",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_id",
+                      "value": {
+                        "string": "homepage-best-seller-section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_name",
+                      "value": {
+                        "string": "Homepage Best Seller Section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_index",
+                      "value": {
+                        "string": "2"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gtm_item_id",
+                      "value": {
+                        "string": "7614954995794"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2527297618",
+                  "sellingPlanDigest": "731f77fd0e52a990893c480e538e79fb"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 2
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "6.06",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            },
+            {
+              "stableId": "27ec9de9-7ed9-4a0e-b9f8-8a58fa7bab14",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41960921727058",
+                  "variantId": "gid://shopify/ProductVariant/41960921727058",
+                  "properties": [
+                    {
+                      "name": "_rc_bundle",
+                      "value": {
+                        "string": "dnXiTg8EA:7617281851474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_variant",
+                      "value": {
+                        "string": "42504035041362"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_parent",
+                      "value": {
+                        "string": "build-a-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_rc_bundle_collection_id",
+                      "value": {
+                        "string": "296498856018"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_title",
+                      "value": {
+                        "string": "Baby Starter Box | SKU: DTC10375-32A"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_sb_bundle_group",
+                      "value": {
+                        "string": "dnXiTg8EA (1/12)"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_image",
+                      "value": {
+                        "string": "//onceuponafarmorganics.com/cdn/shop/files/Baby_Starter_Pack_Lifestyle_Image.png?v=1786036931&width=250"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_url",
+                      "value": {
+                        "string": "/products/baby-starter-box?variant=42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_variant_title",
+                      "value": {
+                        "string": "32 Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_handle",
+                      "value": {
+                        "string": "baby-starter-box"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_bundle_parent_variant_id",
+                      "value": {
+                        "string": "42877652795474"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_purchase_type",
+                      "value": {
+                        "string": "subscription"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_delivery_frequency",
+                      "value": {
+                        "string": "1 Week"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_type",
+                      "value": {
+                        "string": "Variety Pack"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_size",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_box_capacity",
+                      "value": {
+                        "string": "32"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_id",
+                      "value": {
+                        "string": "homepage-best-seller-section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_item_list_name",
+                      "value": {
+                        "string": "Homepage Best Seller Section"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_index",
+                      "value": {
+                        "string": "2"
+                      },
+                      "visible": false
+                    },
+                    {
+                      "name": "_gtm_item_id",
+                      "value": {
+                        "string": "7614954995794"
+                      },
+                      "visible": false
+                    }
+                  ],
+                  "sellingPlanId": "gid://shopify/SellingPlan/2527297618",
+                  "sellingPlanDigest": "731f77fd0e52a990893c480e538e79fb"
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 3
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "9.09",
+                  "currencyCode": "USD"
+                }
+              },
+              "lineComponentsSource": null,
+              "lineComponents": []
+            }
+          ]
+        },
+        "problems": [
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              3,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              4,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              5,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              6,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              7,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              8,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              9,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              10,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              11,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              12,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              13,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              14,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              15,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              16,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              17,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              18,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              19,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              3,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              4,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              5,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              6,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              7,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              8,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              9,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              10,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              11,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              12,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              13,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              14,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              15,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              16,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              17,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              18,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              1,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              19,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              0,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              1,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              2,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              3,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              4,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              5,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              6,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              7,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              2,
+              "merchandise",
+              "productVariantReference",
+              "properties",
+              8,
+              "visible"
+            ],
+            "explanation": "Field `visible` is not defined by type `MerchandisePropertyInput`."
+          },
+          {
+            "path": [],
+            "explanation": "Too many execution errors, max error limit reached. Results truncated"
+          }
+        ]
+      }
+    }
+  ]
+}

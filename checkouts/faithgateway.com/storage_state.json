@@ -1,0 +1,463 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".faithgateway.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1825788661.050591,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1795462261.276748,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHByrcDAAEAn97HlLbD4hM4tDcYQqQbEwIqto_v_Yoz5uH2th1UfBserh7QjfV9za2gERQLLdlbo2rtayKGqiEAZDA:",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1825788650.352262,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHByrdEAAEA8XA5oiqAKyFuh2kB5vZrGvXoitOnt-qw27oWx8ybIAswxdqe1HCHcMkOX3q6A4KDkGaNIxj5-tjuAOo:",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1825788650.352368,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHByrdFAAEAdmjJncis5UKky8i1wWjeM5S-d5wfw-CbBs-yfUVH7sw40jEOPSdSs8mXnrQQC123VndzW5f03yaHbQc:",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1825788650.352461,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_vwo_uuid_v2",
+      "value": "DB56A4884209835333855F70F8C78B8EC|90c22d9438568cda37f51d9ff1c8040b",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1825875052,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "13e2ce7d-255a-4ac1-a0e5-e5e025831303",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1794342654,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rsession",
+      "value": "d1c28878558a746f",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1794254455,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ruid",
+      "value": "eyJ1dWlkIjoiYmJiMGFjNzEtNjE2YS00ZWNiLWI3YTMtMzg2ODIyZmMzMDBmIn0%3D",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1828812654.143439,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attn_eat_id",
+      "value": "ed198535b5d2488e9107b22d7aec34ac",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1827948652.450271,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://faithgateway.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU1HSXlNREl3TXpndE1URTBOUzAwWm1ObUxUaGhORFV0TVRrNVptSXpObUU1WXpFdw",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1825788653,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_id",
+      "value": "0117369fd9aa409688744c178d9d6cb2",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1827948655,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_session_id",
+      "value": "61cf3761eea04a5daaf12f07e282b517",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1794254458,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzk0MjUyNjU1NDY3LFwidW9cIjoxNzk0MjUyNjU1NDY3LFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjAxMTczNjlmZDlhYTQwOTY4ODc0NGMxNzhkOWQ2Y2IyXCJ9IiwiZWF0Ijoie1wiY29cIjoxNzk0MjUyNjU1NDU1LFwidW9cIjoxNzk0MjUyNjU1NDU1LFwibWFcIjozNjUwLFwiaW5cIjp0cnVlLFwidmFsXCI6XCJodHRwczovL3ZrcmJsLmZhaXRoZ2F0ZXdheS5jb21cIn0ifQ==",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1827948655,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1794252655471",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1827948655,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_bopd_",
+      "value": "browser",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1827948655,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1794259855,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.0856",
+      "value": "ca88b3d09ee82902.1794252656.1.1794252656.1794252656",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1828812656.186249,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.0856",
+      "value": "*",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1794254456,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "1",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1794254455,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "ORGANIC",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1794254455,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1794252656068.8631630914",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1802028656,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_Elevar-apex",
+      "value": "[1%2C%2298821e57-c596-48e0-be77-b616a55220f0%22%2C%221794252656%22%2C%221%22%2C%221794252656%22%2C{%22market_id%22:%22264732808%22%2C%22locale_country_code%22:%22US%22}%2C[]%2C%22{%5C%22_fbp%5C%22:%5C%22fb.1.1794252656068.8631630914%5C%22}%22%2C0]",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1825788660,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "twk_idm_key",
+      "value": "lrPFOetfj6v_yjfL4e5wD",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TawkConnectionTime",
+      "value": "0",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxVJPH4v4DrXC0BlpmkmR%3Fkey%3Dc89c58c4f05b56c67df3679abccfa05b",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1802115060.443098,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wishlist_id",
+      "value": "4413096047jh6l30ca3qd",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1825788657,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bookmarkeditems",
+      "value": "{\"items\":[]}",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1825788657,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wishlist_customer_id",
+      "value": "0",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1825788657,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sailthru_pageviews",
+      "value": "1",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1794254458.554314,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_r_experiment_14209",
+      "value": "%7B%22cartToken%22%3A%22hWNIxVJPH4v4DrXC0BlpmkmR%3Fkey%3Dc89c58c4f05b56c67df3679abccfa05b%22%2C%22experiment%22%3A%7B%22experimentId%22%3A%2214209%22%2C%22selectedInstance%22%3A%7B%22id%22%3A%2221172%22%2C%22alias_name%22%3A%222-up%22%2C%22element_id%22%3A%22272876%22%2C%22traffic%22%3A%2250%22%7D%2C%22unselectedInstances%22%3A%5B%7B%22id%22%3A%2221171%22%2C%22alias_name%22%3A%221-up%22%2C%22element_id%22%3A%2213509%22%2C%22traffic%22%3A%2250%22%7D%5D%7D%7D",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1795462258,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sailthru_content",
+      "value": "904d9b40f9ca4cba1345a8860f9466f6",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1825788659.923697,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sailthru_visitor",
+      "value": "acdce650-60d1-486a-974c-10f690eb5b76",
+      "domain": "faithgateway.com",
+      "path": "/",
+      "expires": 1825788659.927775,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_DW3ObH5tT5KIo0nb-M*WuA%237ecefc12-5f83-46ac-aeb4-68d9069cdf7c-1794252650",
+      "domain": ".faithgateway.com",
+      "path": "/",
+      "expires": 1825810287.21305,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://faithgateway.com",
+      "localStorage": [
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionCount",
+          "value": "1"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageTitle",
+          "value": "People of His Presence \u2013 FaithGateway"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "98821e57-c596-48e0-be77-b616a55220f0"
+        },
+        {
+          "name": "algolia_analytics_purchase_objects",
+          "value": "[{\"index\":\"PROD_FGproducts\",\"objectIDs\":[\"67796764000392\"],\"currency\":\"USD\",\"eventName\":\"Add To Cart\",\"eventType\":\"conversion\",\"userToken\":\"u3vrg7z9332r61asjy4q\",\"eventSubtype\":\"addToCart\"}]"
+        },
+        {
+          "name": "sessionIdTimestamp",
+          "value": "1794252654072"
+        },
+        {
+          "name": "algolia_analytics_clicked_objects",
+          "value": "[]"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "sessionIdSelector",
+          "value": "0a87d10d-68fd-443f-9559-b3ab21e4d207"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cart",
+          "value": "[{\"id\":\"9781512777574\",\"name\":\"People of His Presence\",\"brand\":\"Benjamin Brown\",\"category\":\"Softcover\",\"position\":0,\"price\":\"11.89\",\"quantity\":\"1\",\"productId\":\"15450793541768\",\"variantId\":\"67796764000392\",\"url\":\"/products/people-of-his-presence?variant=67796764000392\",\"list\":\"\",\"variant\":\"Softcover\",\"image\":\"https://cdn.shopify.com/s/files/1/0044/1309/6047/files/9781512777574.jpg?v=1793337695\"}]"
+        },
+        {
+          "name": "smartwishlist_config",
+          "value": "{\"add_tooltip_text\":\"Add to &lt;a href=&#039;/a/wishlist&#039;&gt;Wishlist&lt;/a&gt;. Note, items will&lt;/br&gt; only be saved permanently in your&lt;/br&gt; &lt;a href=&#039;/a/wishlist&#039;&gt;Wishlist&lt;/a&gt; if you are logged in.\",\"remove_tooltip_text\":\"Remove from &lt;a href=&#039;/a/wishlist&#039;&gt;Wishlist&lt;/a&gt;\",\"wishlist_icon_color\":\"#cb0100\",\"wishlist_icon_hover_color\":\"#cb0100\",\"wishlist_icon_name\":\"heart-o\",\"wishlist_icon_hover_name\":\"heart\",\"extra_icon_class_name\":\"\",\"extra_icon_hover_class_name\":\"\",\"use_extra_icon\":\"0\",\"display_item_count\":\"0\",\"use_custom_location\":\"0\",\"custom_location\":null,\"tooltip_offset_x\":\"0px\",\"tooltip_offset_y\":\"0px\",\"proxy_base\":\"/a/wishlist\",\"tooltip_position\":\"top\",\"display_tooltip\":\"1\",\"display_topbadge\":\"1\",\"topbadge_color\":\"#ffffff\",\"topbadge_background_color\":\"#000000\",\"topbadge_padding\":\"2px 6px\",\"enable_accounts\":\"1\",\"force_login\":\"0\",\"extra_css_product\":\".unbookmarked {\\n    color: #cb0100 !important;\\n}\\n\\n.unbookmarked:hover {\\n    color:  #cb0100;\\n}\\n\\n.bookmarked {\\n    color:  #cb0100;\\n}\\n\\n.bookmarked:hover {\\n    color:  #cb0100;\\n}\\n\\n\\n.tooltip-store-theme {\\n\\tborder-radius: 5px !important; \\n\\tborder: 1px solid #a79c9d !important;\\n\\tbackground: #a79c9d !important;\\n\\tcolor: #ffffff !important;\\n}\\n\\n.tooltipster-content a {\\n    color: #ffffff;\\n    text-decoration: underline;\\n}\\n\\n.tooltipster-content a:hover {\\n    color: #ffffff;\\n    text-decoration: underline;\\n}\\n\\n.tooltipster-content a:visited {\\n    color: #ffffff;\\n    text-decoration: underline;\\n}\\n\\n.tooltip-store-theme .tooltipster-content {\\n    font-family: inherit !important;\\n    font-size: 12px !important;\\n}.smartwishlist{cursor:pointer;}\",\"display_tooltip_productpage\":\"1\",\"use_autosetup\":\"0\",\"display_fixed_link\":\"0\",\"swfl_html\":\"&lt;i class=&quot;fa fa-heart-o&quot;&gt;&lt;/i&gt; My Wishlist\",\"swfl_text\":\"&lt;i class=&quot;fa fa-heart-o&quot;&gt;&lt;/i&gt; My Wishlist\",\"swfl_orientation_desktop\":\"vertical\",\"swfl_position_desktop\":\"left\",\"swfl_margin_desktop\":\"bottom\",\"swfl_margin_value_desktop\":\"40%\",\"swfl_background_color\":\"#31B0D5\",\"swfl_text_color\":\"#fff\",\"swpbutton_type\":\"2\",\"swpbutton_add_text\":\"Add to Wishlist\",\"swpbutton_remove_text\":\"Remove from Wishlist\",\"swpbutton_font_family\":\"inherit\",\"swpbutton_label_fontsize\":\"14px\",\"swpbutton_icon_fontsize\":\"14px\",\"swpbutton3_color\":\"#ffffff\",\"swpbutton3_background_color\":\"#37478e\",\"swpbutton3_radius\":\"4px\",\"swpbutton3_width_desktop\":\"200px\",\"swpbutton3_width_mobile\":\"100%\",\"swpbutton3_height\":\"40px\",\"optimize_swpbutton_mobile\":\"1\",\"mobile_max_width\":\"500px\",\"disable_notification\":\"0\",\"ga4_enabled\":0,\"ga4_addtocart_enabled\":0,\"ga4_viewwishlist_enabled\":0,\"wishlist_items\":[]}"
+        },
+        {
+          "name": "_rsession",
+          "value": "tPLTEEYbCwF3QxTxGieDWMP3AEyfgsmV5647vdjpPDsC4QAVpRabA3VEaceDhMzmabwceyJkMWMyODg3ODU1OGE3NDZmIjp7ImlkIjoiZDFjMjg4Nzg1NThhNzQ2ZiIsImZpcnN0X2FjdGl2ZSI6MTc5NDI1MjY1NDEyMywibGFzdF9hY3RpdmUiOjE3OTQyNTI2NTQyNTgsImdlb2xvY2F0aW9uIjp7ImNpdHlfbmFtZSI6IkthcmFjaGkiLCJjb250aW5lbnRfY29kZSI6IkFTIiwiY29udGluZW50X25hbWUiOiJBc2lhIiwiY291bnRyeV9jb2RlIjoiUEsiLCJjb3VudHJ5X25hbWUiOiJQYWtpc3RhbiIsImxhdGl0dWRlIjoyNC44NjA4LCJsb25naXR1ZGUiOjY3LjAxMDQsInBvc3RhbF9jb2RlIjoiNzQwMDAiLCJwcm92aW5jZV9jb2RlIjoiU0QiLCJwcm92aW5jZV9uYW1lIjoiU2luZGgifX19"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU1HSXlNREl3TXpndE1URTBOUzAwWm1ObUxUaGhORFV0TVRrNVptSXpObUU1WXpFdw\",\"expires\":\"2027-11-09T19:30:53.354Z\"}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageUrl",
+          "value": "https://faithgateway.com/products/people-of-his-presence?variant=67796764000392"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794511853960"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxVJPH4v4DrXC0BlpmkmR\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxVJPH4v4DrXC0BlpmkmR\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "algolia_config",
+          "value": "{\"app_id\":\"0IZ6GTNJFS\",\"search_api_key\":\"0d6b793d07cd113ac19a5747b76c2259\",\"index_name\":\"PROD_FGproducts\",\"indexing_mode\":\"variant\",\"useCookie\":false}"
+        },
+        {
+          "name": "_renriched",
+          "value": "[{\"admin_graphql_api_id\":\"gid://shopify/Product/15450793541768\",\"body_html\":\"\",\"created_at\":\"2026-10-30T05:21:33Z\",\"description\":\"People of His Presence provides a comprehensive yet straightforward approach to praise and worship for the local church. Learn how to approach the presence of God and discover the benefits of a fruit-filled worshiping life. A must read for pastors, worship teams, and believers of all ages who want to become the kind of worshipers God desires!\",\"handle\":\"people-of-his-presence\",\"id\":15450793541768,\"image\":{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/52482017427592\",\"alt\":\"9781512777574\",\"height\":1200,\"id\":52482017427592,\"position\":1,\"product_id\":15450793541768,\"src\":\"https://cdn.shopify.com/s/files/1/0044/1309/6047/files/9781512777574.jpg?v=1793337695\",\"variant_ids\":[67796764000392],\"width\":800},\"images\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/52482017427592\",\"alt\":\"9781512777574\",\"height\":1200,\"id\":52482017427592,\"position\":1,\"product_id\":15450793541768,\"src\":\"https://cdn.shopify.com/s/files/1/0044/1309/6047/files/9781512777574.jpg?v=1793337695\",\"variant_ids\":[67796764000392],\"width\":800}],\"options\":[{\"id\":17922683928712,\"name\":\"Format\",\"position\":1,\"product_id\":15450793541768,\"values\":[\"Softcover\"]}],\"product_type\":\"Softcover\",\"published_at\":\"2026-11-03T16:32:34Z\",\"status\":\"ready\",\"tags\":\"age range: adult, author: benjamin brown, english, fg-christian living, fg-spiritual growth, new-release, pod, pub group: westbow press, rel012040, rel012120, rel055020, softcover, westbow press\",\"template_suffix\":null,\"title\":\"People of His Presence\",\"updated_at\":\"2026-11-03T16:32:35Z\",\"variant_ids\":[{\"id\":67796764000392}],\"vendor\":\"Benjamin Brown\",\"variants\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/67796764000392\",\"barcode\":\"9781512777574\",\"compare_at_price\":\"16.99\",\"created_at\":\"2026-10-30T05:21:33Z\",\"fulfillment_service\":\"\",\"grams\":295,\"id\":67796764000392,\"image_id\":52482017427592,\"inventory_management\":\"shopify\",\"inventory_policy\":\"continue\",\"inventory_quantity\":20000,\"option1\":\"Softcover\",\"option2\":null,\"option3\":null,\"position\":1,\"price\":\"11.89\",\"product_id\":15450793541768,\"requires_shipping\":true,\"sku\":\"9781512777574\",\"tax_code\":\"PB100000\",\"taxable\":true,\"title\":\"Softcover\",\"updated_at\":\"2026-10-31T07:38:13Z\",\"weight\":0.65,\"weight_unit\":\"pounds\",\"link\":\"https://faithgateway.com/products/people-of-his-presence?variant=67796764000392\"}],\"collection_ids\":[314204422280,512184877192,82461786223,82463981679,82464211055,82464538735,82464964719,82469716079],\"cache_info\":{\"loaded_options\":{\"metafields\":true,\"variant_metafields\":false,\"selling_plans\":false,\"shopify_selling_plans_loaded\":false,\"country_code\":false,\"locale\":false},\"cached_at_time\":1793909161,\"cache_key\":\"pro_bt#74eca7fc1698ee0b865af577bb9173e1\",\"cache_key_readable\":\"pro_bt#user_id:5647#shopify_product_id:\\\"15450793541768\\\"#user_id:\\\"5647\\\"\",\"metafields_format\":\"reb-21448\"},\"link\":\"https://faithgateway.com/products/people-of-his-presence\",\"owner\":5647,\"selected_variant\":{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/67796764000392\",\"barcode\":\"9781512777574\",\"compare_at_price\":\"16.99\",\"created_at\":\"2026-10-30T05:21:33Z\",\"fulfillment_service\":\"\",\"grams\":295,\"id\":67796764000392,\"image_id\":52482017427592,\"inventory_management\":\"shopify\",\"inventory_policy\":\"continue\",\"inventory_quantity\":20000,\"option1\":\"Softcover\",\"option2\":null,\"option3\":null,\"position\":1,\"price\":\"11.89\",\"product_id\":15450793541768,\"requires_shipping\":true,\"sku\":\"9781512777574\",\"tax_code\":\"PB100000\",\"taxable\":true,\"title\":\"Softcover\",\"updated_at\":\"2026-10-31T07:38:13Z\",\"weight\":0.65,\"weight_unit\":\"pounds\",\"link\":\"https://faithgateway.com/products/people-of-his-presence?variant=67796764000392\"},\"selected_variant_id\":67796764000392,\"selected_product_id\":15450793541768,\"option1\":\"Softcover\",\"option2\":null,\"option3\":null,\"quantity\":1,\"properties\":{},\"reviews\":{},\"timestamp\":1794252655266}]"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionId",
+          "value": "1794252656"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--params",
+          "value": "{\"market_id\":\"264732808\",\"locale_country_code\":\"US\",\"user_id\":\"98821e57-c596-48e0-be77-b616a55220f0\",\"session_id\":\"1794252656\",\"session_count\":\"1\",\"session_landing_page_url\":\"https://faithgateway.com/products/people-of-his-presence?variant=67796764000392\",\"session_landing_page_title\":\"People of His Presence \u2013 FaithGateway\"}"
+        },
+        {
+          "name": "algolia_analytics_options",
+          "value": "{\"partial\":true}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cookies",
+          "value": "{\"_fbp\":\"fb.1.1794252656068.8631630914\"}"
+        },
+        {
+          "name": "swell-test-item",
+          "value": "true"
+        },
+        {
+          "name": "_ruid",
+          "value": "tPLTEEYbCwF3QxTxGieDWMP3AEyfgsmV5647vdjpPDsC4QAVpRabA3VEaceDhMzmabwceyJ1dWlkIjoiYmJiMGFjNzEtNjE2YS00ZWNiLWI3YTMtMzg2ODIyZmMzMDBmIiwic2Vzc2lvbiI6eyJpZCI6ImQxYzI4ODc4NTU4YTc0NmYiLCJmaXJzdF9hY3RpdmUiOjE3OTQyNTI2NTQxMjMsImxhc3RfYWN0aXZlIjoxNzk0MjUyNjU0MTIzfSwiZmlyc3RfYWN0aXZlIjp7InVybCI6Imh0dHBzOi8vZmFpdGhnYXRld2F5LmNvbS9wcm9kdWN0cy9wZW9wbGUtb2YtaGlzLXByZXNlbmNlIiwidGltZXN0YW1wIjoxNzk0MjUyNjU0MTQyLCJyZWZlcnJlciI6IiJ9LCJsYXN0X2FjdGl2ZSI6eyJ1cmwiOiJodHRwczovL2ZhaXRoZ2F0ZXdheS5jb20vcHJvZHVjdHMvcGVvcGxlLW9mLWhpcy1wcmVzZW5jZSIsInRpbWVzdGFtcCI6MTc5NDI1MjY1NDE0MiwicmVmZXJyZXIiOiIifX0="
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--lastDlPushTimestamp",
+          "value": "1794252656"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxVJPH4v4DrXC0BlpmkmR\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "cookies": [
+    {
+      "name": "sa_shop-pxl",
+      "value": "true",
+      "domain": "koraorganics.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "AU",
+      "domain": "koraorganics.com",
+      "path": "/",
+      "expires": 1825791783.747019,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "AUD",
+      "domain": "koraorganics.com",
+      "path": "/",
+      "expires": 1795465384.881742,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHB-lcsAAEAFjWlxtzHmvTPkIkGQFGwRv62Tp4l5esXKhibk7Z6QNJLP7dfFgCuu67VR6DyZZngU1a41TeqMaxfYn0:",
+      "domain": "koraorganics.com",
+      "path": "/",
+      "expires": 1825791771.81364,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHB-liaAAEA_r_qhyEmxTpm9ncssLXHsAaQf3c3dekQjq_uFsN2MNEIFUvzGuexYffNrYikZTRFF6Ej1Yvvhh2AEJU:",
+      "domain": "koraorganics.com",
+      "path": "/",
+      "expires": 1825791771.813716,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHB-liaAAEAD-cZYxMkZKM5tdPr520q8Yv6YSWbOasNkxfKCmeIIM071RyxSs-Zqyif7f40AL8H_sOzhUDAuHmHx4E:",
+      "domain": "koraorganics.com",
+      "path": "/",
+      "expires": 1825791771.813789,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shg_session_id",
+      "value": "14b312cb-b493-4f9f-ae92-e33035d7147e",
+      "domain": "koraorganics.com",
+      "path": "/",
+      "expires": 1794257576,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shg_user_id",
+      "value": "6d433e3e-52c7-4a3c-adf8-3c0b0cf765e7",
+      "domain": "koraorganics.com",
+      "path": "/",
+      "expires": 1828815772.533748,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_reidsn",
+      "value": "i_1.13",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1794342178.436848,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gemark",
+      "value": "true",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1794342178.441012,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pandectes_gdpr",
+      "value": "eyJjb3VudHJ5Ijp7ImNvZGUiOiJQSyIsInN0YXRlIjoiU0QiLCJkZXRlY3RlZCI6MTc5NDI1NTc3OH0sInN0YXR1cyI6IiIsInRpbWVzdGFtcCI6bnVsbCwicHJlZmVyZW5jZXMiOm51bGx9",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1796847778.603318,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "4ace01dd-4ba5-44ee-a495-bfd9da5e211a",
+      "domain": "koraorganics.com",
+      "path": "/",
+      "expires": 1825791779,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_geppv",
+      "value": "1",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1794259379.381479,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gecntaos",
+      "value": "1",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1825791779.387385,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gecpv",
+      "value": "1",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1794257219.405611,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gegeo",
+      "value": "JTdCJTIyc3RhdHVzJTIyJTNBJTIyc3VjY2VzcyUyMiUyQyUyMmNvdW50cnklMjIlM0ElMjJQYWtpc3RhbiUyMiUyQyUyMmNvdW50cnlDb2RlJTIyJTNBJTIyUEslMjIlMkMlMjJtb2JpbGUlMjIlM0FmYWxzZSUyQyUyMnByb3h5JTIyJTNBZmFsc2UlMkMlMjJob3N0aW5nJTIyJTNBZmFsc2UlN0Q=",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1794342179.567036,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geffran",
+      "value": "1",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1794342179.569612,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geuid",
+      "value": "167cc24c-f884-4129-9032-21525a47a6b5-1794255779572",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1825359779.576289,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geran",
+      "value": "1",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1794428579.579744,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_li_dcdm_c",
+      "value": ".koraorganics.com",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi",
+      "value": "52ccb975ba34--01m70zmy5dw8kv3t0k988vvfhh",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1828815780.0154,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lc2_fpi_js",
+      "value": "52ccb975ba34--01m70zmy5dw8kv3t0k988vvfhh",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scsrid_r",
+      "value": "",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1828383780,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "rg2NlTFZIL4gISGzefjxe8cSSS4Pgerv",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1828383780,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "rg2NlTFZIL4gISGzefjxe8cSSS4Pgerv",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1828383780,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxaaTb6kKsGF1UXkALfvP%3Fkey%3De0896e0fe48dbe835a3d85315cb6ca97",
+      "domain": "koraorganics.com",
+      "path": "/",
+      "expires": 1802118179.978225,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_geffresponse",
+      "value": "2",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1794860580.997246,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_NJHcFuPHQyKxyjG1-2h5Sw_%7B%7D%2346a4898c-33f5-49bb-bb1a-0146d5299ca2-1794255774",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1825813383.747518,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_getdran",
+      "value": "1",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1794428582.579522,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gers",
+      "value": "1",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1794428583.967573,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_geklidran",
+      "value": "true",
+      "domain": ".koraorganics.com",
+      "path": "/",
+      "expires": 1794256087.748476,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://koraorganics.com",
+      "localStorage": [
+        {
+          "name": "u1st_pathDependentPatterns",
+          "value": "{\"patterns\":[],\"ts\":1794255780279}"
+        },
+        {
+          "name": "u_sclid",
+          "value": "rufZTclbv-uIjtN5yfstIl37ldaXg3kcrg2NlTFZIL4gISGzefjxe8cSSS4Pgerv"
+        },
+        {
+          "name": "_shg_visitor_details",
+          "value": "{\"first_visit_timestamp\":1794255772533,\"last_visit_timestamp\":1794255776102}"
+        },
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "_geuid",
+          "value": "167cc24c-f884-4129-9032-21525a47a6b5-1794255779572"
+        },
+        {
+          "name": "gt_autoswitch",
+          "value": "1"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,JFhy}WKI-x9j}g#:kS;GAi|b\u007fz^\"l?2Mck+C\"gYs:,\u007f$wZ{?fpWbb+\u007fX,^oz\"O5\u007f-RbEx\\96J[~iw)p&l.{qC&nw&g|q4x!"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,?0s%M+qAjyP6 <D$G9&;knz\"^Tj$v/DBKk\\0/QoyDz*w7eEile=<{qm7Mb+{p1#=r+%ljkR3S!zWv^]vu!"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,.2\\\u007f&(VEmVdU-4GR=pPdclPU+Pzk_j,FHZ\u007f8{.IdgsD]ChYJ!St@Y}a_1+6quV5HNjzhO.As|ZOt\\]_863"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,58E~Fc&|2>T\u007f,7I5zGEEIE^h><?\u007fuB[W;^Ai0Q:\u007fcYHWlfb']`.%hf6,F_2i.NgSF|"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794514979318"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "rufZTclbv-uIjtN5yfstIl37ldaXg3kcrg2NlTFZIL4gISGzefjxe8cSSS4Pgerv"
+        },
+        {
+          "name": "_li_duid",
+          "value": "52ccb975ba34--01m70zmy5dw8kv3t0k988vvfhh"
+        },
+        {
+          "name": "_gemark",
+          "value": "true"
+        },
+        {
+          "name": "algolia_config",
+          "value": "{\"app_id\":\"JPVXP5NPGR\",\"search_api_key\":\"754da07ca1e28fb46e269110635cebbd\",\"index_name\":\"shopify_au_products\",\"useCookie\":false}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxaaTb6kKsGF1UXkALfvP\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxaaTb6kKsGF1UXkALfvP\",\"customerProfileId\":null,\"countryCode\":\"AU\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,*. 2!7u=JNEC6)F-GD$vb9D=C1wp4w@@qTe=3@\u007fp[7y8tid6#R+|cqm\\y&)t17{s&[|(S h,g4@Xf.9dH1]}WzfBl2mr2t1l!J6k)VWZ:~3v?q'!@g~W-cY|uiQ\\6(CFtE%9h0N$"
+        },
+        {
+          "name": "algolia_analytics_options",
+          "value": "{\"partial\":true}"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-09T20:23:01.036Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-c1fa96da-84BB-4C73-A473-08FEAC8F567B\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"kora-organics-by-miranda-kerr.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-c1fa96da-84BB-4C73-A473-08FEAC8F567B\",\"event_date_time\":\"2026-11-09T20:23:01.036Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"4ace01dd-4ba5-44ee-a495-bfd9da5e211a\",\"page_url\":\"https://koraorganics.com/products/turmeric-glow-foaming-cleanser\",\"currency\":\"AUD\",\"product\":{\"product_id\":\"6726660784246\",\"product_title\":\"Turmeric Glow Foaming Cleanser\",\"variant_id\":\"40115806961782\",\"variant_title\":\"150mL / 5.0 fl oz\",\"quantity\":1,\"variant_price\":66,\"product_vendor\":\"KORA Organics\"}}}}}]"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxaaTb6kKsGF1UXkALfvP\""
+        },
+        {
+          "name": "sa_email",
+          "value": "null"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBXS8GYo_RrB0LNB_ad7Xx5G-dTjQNL3rDvc_U3OfxdvF8DUoVMEny97RhnjmwRJuY-6ug43uxajjScANaEzDk7Od7I_xYh28qII39TFUh7v_n-O3yaQ__o0qVBCUQdRCo8D7SyXEck-ASKF2VtvMC3Q6lXfhJp0ime9Uh1Cn-UM-Yo0kIFciNhlx-0I10Tm393r3r7nMRJS1kmyaw7YI1"
+    },
+    "queueToken": "A4lojwhc2kcJ3fIyso8Pp0mPuvZJGH5shblmJnL5Uq0WUjx-Jcu2z44Sinso1VQz_2GK3HK1Ooheul66F993zK7EVWPfwmEOee1isUGhbikKWZG2svXu5Lr1fD9d",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "bbeaf67f-d397-4c50-b42a-459049f9132a",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/43379644563591",
+              "variantId": "gid://shopify/ProductVariant/43379644563591",
+              "properties": [
+                {
+                  "name": "\ud83c\udff7\ufe0f Original price",
+                  "value": {
+                    "string": "Rs.5,595.00"
+                  },
+                  "visible": true
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "4395.00",
+              "currencyCode": "PKR"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

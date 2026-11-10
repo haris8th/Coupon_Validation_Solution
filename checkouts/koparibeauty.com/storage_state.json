@@ -1,0 +1,543 @@
+{
+  "cookies": [
+    {
+      "name": "utm_post",
+      "value": "false",
+      "domain": "koparibeauty.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "koparibeauty.com",
+      "path": "/",
+      "expires": 1825791793.274771,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "koparibeauty.com",
+      "path": "/",
+      "expires": 1795465417.475636,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHB-mEhAAEAz1-RunCX7quzhe9pPy_WPrMrleBRpw_KlLAdU6GNcpP0uT6DMXHfjgm2mSL7tOsw_gjMh5IVhiPZ8D8:",
+      "domain": "koparibeauty.com",
+      "path": "/",
+      "expires": 1825791774.422136,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "Shoplift_Session",
+      "value": "{\"isMerchant\":false,\"timestamp\":\"2026-11-09T20:22:54.545Z\",\"testCategory\":\"global\",\"testReservations\":{\"global:autoApi\":{\"testId\":\"019b6fd7-4784-7f59-a2f9-2a89c372ac48\",\"hypothesisId\":\"753165ee-daa7-47be-a708-cc9d70c2273e\",\"testType\":\"basicScript\",\"reservationType\":\"immediate\",\"isThemeTest\":false,\"themeId\":137028698199,\"createdAt\":\"2026-11-09T20:22:54.544Z\",\"isRealized\":true,\"entryCriteriaKey\":\"global:autoApi\"}},\"rolledEntryCriteria\":[\"global\"]}",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxaa2u1HD4grwO7v1QiIN%3Fkey%3D735bae539cfe80e7f6ea752c1bc7a309",
+      "domain": "koparibeauty.com",
+      "path": "/",
+      "expires": 1802118192.761482,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CookieConsent",
+      "value": "{stamp:%27-1%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27implied%27%2Cver:1%2Cutc:1794255776877%2Cregion:%27PK%27}",
+      "domain": "koparibeauty.com",
+      "path": "/",
+      "expires": 1796847776,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "reeview_uid",
+      "value": "e81bc9b1-a7b0-4e41-b46a-ced19593f90e",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1795465379,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "msai_user_id",
+      "value": "ffdafa5d-2251-4847-8eb4-fb9560f2eebd",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1825791780,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "msai_bucketed_experiments",
+      "value": "{\"DdTdvCNOCCDF\":\"SjJ3cOBQ2DrT\",\"865XF0jiYUJH\":\"M34rAFclGaim\"}",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1825791780,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHB-oDhAAEAftnnThQgQuVNuL5iZW65u1zqePLUWklDsdXlTFjsnASt4QbSxcbY0hzdsel-eWsD2BgjtBE8I_rKxXI:",
+      "domain": "koparibeauty.com",
+      "path": "/",
+      "expires": 1825791782.154094,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHB-oDnAAEAOGb1_5sz_eH1oKe5kOupyu7l_50NHaa4U211K9k_ivnz9E7jKRXxz1_NgGVDeOCLLSHL0W4IiE8t92A:",
+      "domain": "koparibeauty.com",
+      "path": "/",
+      "expires": 1825791782.154206,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_axwrt",
+      "value": "48bc7f10-05ed-4c87-a2e4-610716e066fb",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1825791783,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ugc_vid_52a42a99-cfc3-427b-a7c4-09439029ecbc",
+      "value": "a2aff997-b29b-44c0-a59b-daed3c62c840",
+      "domain": "koparibeauty.com",
+      "path": "/",
+      "expires": 1825791783,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://koparibeauty.com",
+      "domain": "koparibeauty.com",
+      "path": "/",
+      "expires": 1796847783,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "48bc7f10-05ed-4c87-a2e4-610716e066fb",
+      "domain": "koparibeauty.com",
+      "path": "/",
+      "expires": 1825791783,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cebs",
+      "value": "1",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "koparibeauty.com",
+      "path": "/",
+      "expires": 1796847784,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "reeview_unique_uid",
+      "value": "616ad9d6-57d7-431e-9cf0-a31f7b50809f",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1794342185,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "reeview_tracks_views",
+      "value": "%5B%22c5693743%22%5D",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1794342185,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ce.clock_data",
+      "value": "298%2C202.47.43.137%2C1%2Cf51bb482c660d0eeadd1f058058a2b35%2CChrome%2CPK%2CDirect%20Traffic%2C",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1794342186,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "cebsp_",
+      "value": "1",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_mpxl_guid",
+      "value": "5edee54b-dc7b-11f1-949d-fb0aac1937f0",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1825791788.2182,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ce.seg.targeting",
+      "value": "NoRgNA3gRALFBcwCsAOADGpBdMUDsC0AdgK4C2ARgKYBOCauAxiTTVUYwJ4JQCqAygBEoAXxFhSAG0kSS02dKxA%3D",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1825791791,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ce.s",
+      "value": "v~9032eaefe4759164d277bf67791e4b1e56467961~vir~new~lva~1794255784049~vpv~0~v11.cs~426323~v11.s~5f8e85a0-dc7b-11f1-9aeb-7f686c2e9363~v11.vs~9032eaefe4759164d277bf67791e4b1e56467961~v11.sla~1794255786757~v11.ws~1~v11.wr~3~v11.ss~1794255786779~v11ls~5f8e85a0-dc7b-11f1-9aeb-7f686c2e9363~vdva~1794268799999~v11e~1~gtrk.la~mw9pklqi~gtrk.cnv~18r9~v11nv~0~lcw~1794255792138",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1825791792,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ax_visitor",
+      "value": "%7B%22firstVisitTs%22%3A1794255783652%2C%22lastVisitTs%22%3Anull%2C%22currentVisitStartTs%22%3A1794255783652%2C%22ts%22%3A1794255792209%2C%22visitCount%22%3A1%7D",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1825791792,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ps_session",
+      "value": "4LEZifEEp2MnF8V7UUWTa",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1794342192,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ps_session_site_visit",
+      "value": "%7B%22sessionId%22%3A%229fd25985-57a6-437c-8c65-70ce1dcb3eda%22%2C%22startTime%22%3A1794255792607%7D",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1828815792,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ps_site_visit",
+      "value": "true",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1828815792,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3AMPS._PKSD_f_f_ifObdzcsRyG6YtvDgUOTtw_%7B%7D%230354dcf1-0159-42d0-adbf-7a66107d0446-1794255792",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1825813393.275389,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Shoplift_Essential",
+      "value": "{\"timestamp\":\"2026-11-09T20:23:17.049Z\",\"consentApproved\":true,\"hasConsentInteraction\":true,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T20:22:54.527Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[{\"createdAt\":\"2026-11-09T20:22:54.545Z\",\"testId\":\"019b6fd7-4784-7f59-a2f9-2a89c372ac48\",\"hypothesisId\":\"753165ee-daa7-47be-a708-cc9d70c2273e\",\"isThemeTest\":false,\"themeId\":137028698199,\"isSaved\":false,\"isInvalid\":false,\"shouldSendToGa\":true,\"testType\":\"basicScript\",\"assignedTo\":\"variant\",\"testTitle\":\"Reviews stars on collection page\"}],\"isFirstLoad\":false}",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1825791797,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "Shoplift_Analytics",
+      "value": "{\"timestamp\":\"2026-11-09T20:23:17.049Z\",\"visitor\":null,\"queue\":[]}",
+      "domain": ".koparibeauty.com",
+      "path": "/",
+      "expires": 1825791797,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://koparibeauty.com",
+      "localStorage": [
+        {
+          "name": "ce_csp_transport_check",
+          "value": "1794342186732|worker"
+        },
+        {
+          "name": "ps_acorn_storefront_pixel_contract_v1",
+          "value": "{\"version\":1,\"writerVersion\":\"2026-08-28.1\",\"privacyPurpose\":\"marketing\"}"
+        },
+        {
+          "name": "user-flow-v2-8592346320",
+          "value": "{\"state\":{\"_version\":1,\"steps\":[{\"step\":\"popup\",\"popupStepID\":\"5ad94fe7-f324-433c-931a-b2c55f159af2\",\"floatingButton\":false,\"timestamp\":1794255792418},{\"step\":\"minimized\",\"timestamp\":1794255793431}]},\"updatedAt\":\"2026-11-09T20:23:13.431Z\"}"
+        },
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "msai_user_id",
+          "value": "ffdafa5d-2251-4847-8eb4-fb9560f2eebd"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "48bc7f10-05ed-4c87-a2e4-610716e066fb"
+        },
+        {
+          "name": "alia-jwt",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsYXN0VXNlcklEIjo5Mzk3Nzk1NTQ0LCJpYXQiOjE3OTQyNTU3ODJ9.mQsZgkrJO4OiE9g0QLHc2EC6xbgL2wN2JmvFlmxHLdI"
+        },
+        {
+          "name": "_axwrt_backup",
+          "value": "{\"value\":\"48bc7f10-05ed-4c87-a2e4-610716e066fb\",\"setTs\":null,\"expiresAt\":1825791783645}"
+        },
+        {
+          "name": "ps_session_activity",
+          "value": "{\"sessionId\":\"9fd25985-57a6-437c-8c65-70ce1dcb3eda\",\"sessionStartTime\":\"2026-11-09T20:23:12.607Z\",\"pageEvents\":[],\"popupEvents\":[],\"seedValues\":{\"aiDataCollection\":0.5534817577975704,\"networkRecognitionSessionData\":0.7479618702922693}}"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,.P1s#P;-Tyjl*R&Sm]rjmBB>uv@G\";pNYYl)4s?aW/y##Qo\"K&3QgJ q!p(vGD*KSdNxUxA%3z\\M\u007flU/uSE4(kP-5$(=!O["
+        },
+        {
+          "name": "alia-user-actions",
+          "value": "[{\"userID\":9397795544,\"merchantID\":4390,\"flowID\":327145,\"segmentID\":31687,\"data\":{\"type\":\"popupStep\",\"stepID\":\"5ad94fe7-f324-433c-931a-b2c55f159af2\",\"stepIndex\":0,\"isFloatingButton\":false,\"reason\":{\"type\":\"trigger\",\"triggerType\":\"basic\",\"triggerID\":\"a6c8269d-f2b9-4df8-88fd-ac5d5b171a61\"}},\"type\":\"popupStep\",\"createdAt\":\"2026-11-09T20:23:12.423Z\"},{\"userID\":9397795544,\"merchantID\":4390,\"flowID\":327145,\"segmentID\":31687,\"data\":{\"type\":\"popupClose\",\"reason\":{\"type\":\"escapeKey\"}},\"type\":\"popupClose\",\"createdAt\":\"2026-11-09T20:23:13.432Z\"}]"
+        },
+        {
+          "name": "uw-uid",
+          "value": "97a0601d-f980-469a-b4c2-8d10b8791844"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cart",
+          "value": "[]"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,+5z|^|$t>fiD#uU\",puyq!osl5i6m,]@B<\"AHMRjU!q_9gTFG66x(jjFt^2X-n_v8S"
+        },
+        {
+          "name": "alia-test",
+          "value": "test"
+        },
+        {
+          "name": "v11.fsvd",
+          "value": "{\"notModifiedUrl\":\"https://koparibeauty.com/products/sun-veil-illuminating-elixir-face-spf-38\",\"url\":\"koparibeauty.com/products/*\",\"ref\":\"\",\"utm\":[]}"
+        },
+        {
+          "name": "ce_bot_detector",
+          "value": "{\"visits\":0,\"clicks\":1,\"firstVisitTime\":1794255791883,\"detected\":false}"
+        },
+        {
+          "name": "di_pmt_wt",
+          "value": "mw9pknph_0.zbmiegd9uy"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxaa2u1HD4grwO7v1QiIN\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxaa2u1HD4grwO7v1QiIN\",\"customerProfileId\":null,\"countryCode\":\"US\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "msai_uj",
+          "value": "{\"DdTdvCNOCCDF\":{\"SjJ3cOBQ2DrT\":{}},\"865XF0jiYUJH\":{\"M34rAFclGaim\":{}},\"events\":[{\"id\":\"f5f550f4-25d6-409f-8b6e-577cb3505692\",\"type\":\"pageview\",\"ts\":1794255780177,\"path\":\"/products/sun-veil-illuminating-elixir-face-spf-38\",\"metrics\":[\"mdbQefZGxmaoas2HzStEL5\",\"47bwNncoQqxYhDDZer6Sbc\"]},{\"id\":\"b13314f1-5a9a-4245-968a-91adf9f5ec8e\",\"type\":\"click\",\"ts\":1794255785926,\"path\":\"/products/sun-veil-illuminating-elixir-face-spf-38\",\"metrics\":[\"5884iJrgxicgfVRpFkdsaA\"]},{\"id\":\"a45e9cf0-b9e3-431a-8919-709552f162a5\",\"type\":\"click\",\"ts\":1794255785956,\"path\":\"/products/sun-veil-illuminating-elixir-face-spf-38\",\"metrics\":[\"5884iJrgxicgfVRpFkdsaA\"]},{\"id\":\"115d1173-ec89-4573-83dd-b963769ebdbb\",\"type\":\"scroll\",\"ts\":1794255788403,\"path\":\"/products/sun-veil-illuminating-elixir-face-spf-38\",\"value\":10},{\"id\":\"48a6c4f7-bb95-4903-bae0-98ae1ba7630c\",\"type\":\"scroll\",\"ts\":1794255788408,\"path\":\"/products/sun-veil-illuminating-elixir-face-spf-38\",\"value\":20},{\"id\":\"e669337f-0f54-4542-bac1-eae82f7d7f99\",\"type\":\"scroll\",\"ts\":1794255788413,\"path\":\"/products/sun-veil-illuminating-elixir-face-spf-38\",\"value\":30},{\"id\":\"d9ce0234-72e3-41d2-8f37-0ddeda4a5ddc\",\"type\":\"scroll\",\"ts\":1794255788417,\"path\":\"/products/sun-veil-illuminating-elixir-face-spf-38\",\"value\":40},{\"id\":\"b0e6ee83-67f2-4410-8915-a3df39e13178\",\"type\":\"scroll\",\"ts\":1794255788422,\"path\":\"/products/sun-veil-illuminating-elixir-face-spf-38\",\"value\":50},{\"id\":\"1f1fa68c-6c1d-4a0c-8940-1a36bab73ea9\",\"type\":\"click\",\"ts\":1794255790334,\"path\":\"/products/sun-veil-illuminating-elixir-face-spf-38\",\"metrics\":[\"5884iJrgxicgfVRpFkdsaA\"]},{\"id\":\"9d9de1b6-6b11-45ce-9dc1-50551e75d73c\",\"type\":\"click\",\"ts\":1794255790345,\"path\":\"/products/sun-veil-illuminating-elixir-face-spf-38\",\"metrics\":[\"5884iJrgxicgfVRpFkdsaA\"]},{\"id\":\"6c94373a-5fbb-45cf-8400-60609b7842c5\",\"type\":\"click\",\"ts\":1794255791950,\"path\":\"/products/sun-veil-illuminating-elixir-face-spf-38\",\"metrics\":[\"5884iJrgxicgfVRpFkdsaA\",\"cmNjNRqYnKVwDonZtVnsQf\"]}]}"
+        },
+        {
+          "name": "msai_bucketed_experiments",
+          "value": "{\"DdTdvCNOCCDF\":\"SjJ3cOBQ2DrT\",\"865XF0jiYUJH\":\"M34rAFclGaim\"}"
+        },
+        {
+          "name": "uw-tunings-checksum",
+          "value": "e74159ffc4b0d68004ee742bc1e8b398882c5aaf1d7eb6844e7e2f1f0b3c6986"
+        },
+        {
+          "name": "alia-storage-since",
+          "value": "1794255781079"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxaa2u1HD4grwO7v1QiIN\""
+        },
+        {
+          "name": "ps_network_recognition_returning_reveal",
+          "value": "{\"factId\":\"b45387c8-3b8c-5265-83f3-e19436620640\",\"expiresAt\":1794342192623}"
+        },
+        {
+          "name": "alia-user-4390",
+          "value": "{\"user\":{\"id\":9397795544,\"profile\":{\"properties\":{},\"prismMap\":{\"42c085c8-1193-4262-9726-bcd9de8d1986\":{\"variantID\":\"alia-iexyfhhgle5zctdz\"}},\"history\":[[\"https://koparibeauty.com/products/sun-veil-illuminating-elixir-face-spf-38\"]]}}}"
+        },
+        {
+          "name": "uw-icon-locales",
+          "value": "{\"version\":\"2026-11-04-11-38-25\",\"en-US\":{\"widget\":{\"html_lst_title\":\"Translations Menu\",\"html_title\":\"Accessibility Menu\",\"text_icon_small\":\"Accessibility\",\"text_icon_large\":\"Accessibility</br>Menu\",\"new_tab\":\"opens in a new tab\",\"new_tab_substring\":\"new tab\",\"new_window_substring\":\"new window\",\"broken_links\":{\"target_site_not_available\":\"target website may not be available\"}},\"skip_links\":{\"open_accessibility_nav\":\"Open the Accessible Navigation Menu\",\"open_accessibility_menu\":\"Open the accessibility menu\",\"skip\":\"Skip to main content\",\"enable_visually_impaired\":\"Enable accessibility for low vision\",\"disable_visually_impaired\":\"Disable accessibility for low vision\",\"title\":\"Quick Accessibility Options\"}}}"
+        },
+        {
+          "name": "alia-popup-ground",
+          "value": "{\"lastTriggerTime\":1794255792418}"
+        },
+        {
+          "name": "__paypal-httpswwwpaypalcomsdkjscomponentsbuttonscommitfalsecurrencyUSDlocaleenUSclientidAbasDhzlU0HbpiStJiN1KRJcNJJ7xYBip7JJoMO0GQpLi8ePNgdbLXkC7KMeyTg8tnAKW4WKrh9qmfmerchantidK4EUH96QM57X2intentauthorize_storage__",
+          "value": "{\"id\":\"uid_be0259916b_mja6mjm6mdm\",\"funding\":{},\"__session__\":{\"guid\":\"uid_523cce64b0_mja6mjm6mdm\",\"created\":1794255783065}}"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://koparibeauty.com/products/sun-veil-illuminating-elixir-face-spf-38\",\"exp\":1796847784027}"
+        },
+        {
+          "name": "_applovin_pixel_version",
+          "value": "s/3.6.57"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "ps_acorn_storefront_pixel_ready_v1",
+          "value": "1"
+        },
+        {
+          "name": "alia-tracking-allowed-kopari.myshopify.com",
+          "value": "true"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,'g3(pm7)a2WwS%\\t/HEe[1/3F8*!9>2z\"u0KSX%/q][@^YXT^:}eHDw_~lq8-TSOQ/tC{5XD]VB[:anY8e"
+        },
+        {
+          "name": "msai_analytics_session_count",
+          "value": "{\"sessions\":1,\"events\":19,\"events_by_type\":{\"pageview\":2,\"click\":5,\"revenue\":0,\"variant_segment_executed\":2,\"other\":10}}"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_",
+          "value": "data:application/zip;base92,;rx-63\\?a2UnwwV4jI5L]F~xm,X61FpR6.x3?vQ?z6hDy2{gqV/=B9QYjfn*28(=_fiy5_[?|}$}MtZW;f"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,qX':05iq#$3kA3gu`/{h}OuMs{N.Do#-?=PO8Y cVE{WLX3|RnN?tJ2xbqp@VQRQp I1\u007f^nw2y]!=*1pZa"
+        },
+        {
+          "name": "ce_segment_visit_history",
+          "value": "{\"version\":3,\"pages\":[]}"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794514982290"
+        },
+        {
+          "name": "refId",
+          "value": "data:application/zip;base92,RIIeUH4u8M:@Q\\r?sJj :)Gq:wx4#MN]QN+\\G)6@Kn_BMS0M`#?\\IZfDn?&C1u%Hyh/[D~P,]8\u007fXJ,Jom z#3\u007fPCk?c<,@>OT'R;#Q{p43hiH#<sy8pZyQUd2$oI#"
+        },
+        {
+          "name": "ps_network_recognition_observation",
+          "value": "{\"factId\":\"8b825e66-7221-5b62-a9c8-a3d325bf5015\",\"occurredAt\":\"2026-11-09T20:23:12.620Z\",\"attempts\":0,\"done\":false,\"expiresAt\":1794342192620}"
+        },
+        {
+          "name": "ce_fvd",
+          "value": "{\"landingUrl\":\"https://koparibeauty.com/products/sun-veil-illuminating-elixir-face-spf-38\",\"referrer\":\"\",\"time\":1794255784054,\"utm\":[],\"dailyVisitTime\":1794255784055,\"userData\":[]}"
+        },
+        {
+          "name": "Shoplift_Analytics",
+          "value": "{\"timestamp\":\"2026-11-09T20:23:17.049Z\",\"visitor\":null,\"queue\":[{\"timestamp\":\"2026-11-09T20:23:17.049Z\",\"type\":5,\"cart\":{\"token\":\"hWNIxaa2u1HD4grwO7v1QiIN?key=735bae539cfe80e7f6ea752c1bc7a309\",\"total_price\":3000,\"total_discount\":0,\"currency\":\"USD\",\"items_subtotal_price\":3000,\"items\":[{\"quantity\":1,\"variant_id\":40423633551447,\"key\":\"40423633551447:4b395aeaf29fbd6c7e6b2251edb5e905\",\"price\":3000,\"final_line_price\":3000,\"sku\":\"SSS-0030\",\"product_id\":6974207295575}]}}]}"
+        },
+        {
+          "name": "_replo_sid",
+          "value": "{\"sessionId\":\"2687587b-752b-4b7f-848f-9141a31e7c73\",\"reploId\":\"b792b281-0825-4c7a-8a12-1744f93bba85\",\"createdAt\":1794255782308,\"expiresAt\":1794257592181,\"conversionsCounter\":0,\"isEntryPage\":false}"
+        },
+        {
+          "name": "uw-tunings",
+          "value": "{\"tunings\":{\"widget_no_follow\":true,\"widget_language\":null,\"widget_icon_type\":null,\"widget_icon_size\":null,\"widget_color\":\"#57EAE8\",\"widget_custom_trigger\":\"accessibilityWidget\",\"widget_layout\":\"mini\",\"accessibility_url\":\"https://koparibeauty.com/pages/accessibility\",\"accessibility_link_text\":\"Our Accessibility Policy\",\"accessibility_link_enabled\":\"on\",\"widget_position_mobile\":\"6\",\"widget_position\":\"2\",\"screenReaderVersion\":\"v2\",\"site_name\":\"koparibeauty.com\",\"isLAUser\":false,\"widget_no_report\":true,\"new_art_pages_widget_manage\":true,\"dynamic_alpine_images_processing\":true,\"new_login\":true,\"new_manage\":true},\"services\":{\"siteId\":3789811,\"userId\":522479,\"noManage\":false,\"noLogo\":false,\"paidAi\":true},\"remediation\":{},\"remediationV2\":{\"strategy\":\"AUTO\",\"consolidated\":\"https://cdn.userway.org/remediations/consolidated/3789811/dFA08ZorwsuPqwio.json\",\"version\":0},\"imageAlt\":{\"version\":\"ALTS_V2\",\"resourceHash\":\"X5mjtD8BDxk9wnkr\",\"tier\":\"PAID_QUOTA_TIER\",\"quota\":5000,\"usage\":2945,\"state\":\"ALTS_ON\",\"missingAlts\":[]},\"widgetCustomLanguages\":[],\"invalidAccountId\":false,\"existingWidgetType\":\"free\"}"
+        },
+        {
+          "name": "ps_network_recognition_adoption",
+          "value": "{\"sessionId\":\"4LEZifEEp2MnF8V7UUWTa\",\"attempted\":true,\"expiresAt\":1794342192625}"
+        },
+        {
+          "name": "Shoplift_Essential",
+          "value": "{\"timestamp\":\"2026-11-09T20:23:17.049Z\",\"consentApproved\":true,\"hasConsentInteraction\":true,\"debugMode\":false,\"initialState\":{\"createdAt\":\"2026-11-09T20:22:54.527Z\",\"utmSource\":\"\",\"utmMedium\":\"\",\"utmCampaign\":\"\",\"utmContent\":\"\",\"referrer\":\"\",\"device\":\"desktop\"},\"visitorTests\":[{\"createdAt\":\"2026-11-09T20:22:54.545Z\",\"testId\":\"019b6fd7-4784-7f59-a2f9-2a89c372ac48\",\"hypothesisId\":\"753165ee-daa7-47be-a708-cc9d70c2273e\",\"isThemeTest\":false,\"themeId\":137028698199,\"isSaved\":false,\"isInvalid\":false,\"shouldSendToGa\":true,\"testType\":\"basicScript\",\"assignedTo\":\"variant\",\"testTitle\":\"Reviews stars on collection page\"}],\"isFirstLoad\":false}"
+        },
+        {
+          "name": "alia-consent-kopari.myshopify.com",
+          "value": "{\"required\":false,\"source\":\"shopify\",\"regions\":{\"mode\":\"shopify\",\"countries\":[]}}"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,Fm6cPX16pJ*{XUG!N,k^Nf$+\u007fMe;w22 .KtaJI]k\\swV<6MQ1m0@z~[-y^OzJ\\!@R}N>H95Lj\\5,t p:z${&08/` Y<FGp'`Ne2W]Q]*UqX]"
+        },
+        {
+          "name": "alia-cart",
+          "value": "{\"token\":\"hWNIxaa2u1HD4grwO7v1QiIN?key=735bae539cfe80e7f6ea752c1bc7a309\",\"note\":\"\",\"attributes\":{},\"original_total_price\":0,\"total_price\":0,\"total_discount\":0,\"total_weight\":0,\"item_count\":0,\"items\":[],\"requires_shipping\":false,\"currency\":\"USD\",\"items_subtotal_price\":0,\"cart_level_discount_applications\":[],\"discount_codes\":[]}"
+        },
+        {
+          "name": "msai_dq",
+          "value": "[{\"payload\":{\"event_guid\":\"8afb26f4-d226-48dd-b9dd-1f9c5d687603\",\"event_target_element\":\"button.product-form__cart-submit.btn.btn--medium.btn--full.btn--primary.has-price\",\"event_target_element_inner_text\":\"ADD TO BAG\\nREGULAR PRICE\\n$30\",\"event_clicked_element\":\"button.product-form__cart-submit.btn.btn--medium.btn--full.btn--primary.has-price\",\"is_trusted\":1,\"metrics\":[\"5884iJrgxicgfVRpFkdsaA\",\"cmNjNRqYnKVwDonZtVnsQf\"],\"lifetime_event_count\":18,\"lifetime_event_counts_by_type\":{\"pageview\":1,\"click\":5,\"revenue\":0,\"variant_segment_executed\":2,\"other\":10},\"local_storage_total_chars\":1271,\"local_storage_msai_chars\":367,\"scroll_y\":2155,\"cookie_root_domain\":\".koparibeauty.com\",\"viewport_height\":768,\"viewport_width\":1366,\"screen_width\":1366,\"screen_height\":768,\"device_pixel_ratio\":1,\"page_title\":\"Sun Veil Illuminating Elixir Face Sunscreen SPF 38 \u2013 Kopari Beauty\",\"time_since_navigation_start_ms\":15323.800000011921,\"connection_type\":\"4g\",\"page_load_time_ms\":null,\"page_height\":5454,\"scroll_depth_percent\":54,\"time_msai_running_ms\":992.5999992489815,\"session_event_count\":18,\"location\":{\"cdn-cache-hit\":\"\",\"cdn-pop\":\"MCT50-P1\",\"cdn-rid\":\"x0rI61E_lpkI9P-lwulQslIzgeA0LSuGssd0_aczjRQDjZREUEDkaw==\",\"cdn-hit-layer\":\"EDGE\",\"cdn-downstream-fbl\":\"\",\"geo-country\":\"PK\",\"geo-region\":\"SD\",\"geo-city\":\"Karachi\",\"geo-postal\":\"74600\",\"geo-tz\":\"Asia/Karachi\"},\"clicked_element_bounding_rect\":{\"x\":366.31,\"y\":329.19,\"width\":297.25,\"height\":50,\"top\":329.19,\"right\":663.56,\"bottom\":379.19,\"left\":366.31},\"clicked_element_page_position\":{\"x\":366.31,\"y\":2484.19},\"element_css_classes\":[\"product-form__cart-submit\",\"btn\",\"btn--medium\",\"btn--full\",\"btn--primary\",\"has-price\"],\"element_visibility_ratio\":1,\"element_above_fold\":true,\"event_uuid\":\"6c94373a-5fbb-45cf-8400-60609b7842c5\",\"event_type\":\"click\",\"source\":\"msai_tracking_with_abclient\",\"user_id\":\"ffdafa5d-2251-4847-8eb4-fb9560f2eebd\",\"session_id\":\"6a55e737-7eee-4027-89a3-2b99ea04660c\",\"platform\":\"desktop\",\"event_timestamp\":1794255791,\"event_datetime\":\"2026-11-09T20:23:11.948Z\",\"rt\":15324.300000011921,\"url\":\"https://koparibeauty.com/products/sun-veil-illuminating-elixir-face-spf-38\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"experiments\":[\"DdTdvCNOCCDF\",\"865XF0jiYUJH\"],\"variants\":[\"SjJ3cOBQ2DrT\",\"M34rAFclGaim\"],\"active_experiments\":[\"RPqthqY5MsAtdLTQL2GPVR\",\"DdTdvCNOCCDF\",\"865XF0jiYUJH\"],\"active_variants\":[\"dAt5Tru4oTbkhWW7JiBnoP\",\"SjJ3cOBQ2DrT\",\"M34rAFclGaim\"],\"tracking_script_version\":\"v201.107.1 11-5-2026 (3)\",\"project_id\":\"EXjlj3wSTk6eU11UdCkkyw\",\"is_preview_session\":false,\"session_utm_source\":null,\"session_utm_medium\":null,\"session_utm_campaign\":null,\"session_utm_term\":null,\"session_utm_content\":null,\"session_referrer\":null,\"num_of_previous_sessions\":0,\"active_targets\":[\"DcrTgDXL65vC2cmeQZEFB7\",\"LSaWS5qcKSRXRb9ZQ6VHiE\",\"VrcKCa8dhnDQrAZ6qzqA4j\"],\"active_audiences\":[\"NBy8x7CruyUM5SRih2UT7z\",\"Z5ij9MHMrZCxo9H26hQZ7e\",\"7qAf3EBxmPiVMbQAWenGz6\"]},\"created_at_ms\":1794255791950,\"created_ms_since_load\":15324.300000011921,\"page_load_id\":\"a8323d8a-377e-4bb8-bf33-1b79d1f0b318\",\"attempts\":1,\"lease_owner\":\"744a24ee-896b-4e52-915b-49997589f3d6\",\"lease_expires_at\":1794255808581,\"hold_until_ms\":0},{\"payload\":{\"metrics\":[\"47bwNncoQqxYhDDZer6Sbc\"],\"missing_metric_ids\":[\"YJ7S5UySf8G4GRVaXMJJcf\",\"iiQHZGEr9nwXicKjKfiskY\",\"Hk3PDajecAkNWbD9rE2rN4\",\"VWZosqWtMXxZ5tyKvuNEnf\",\"FmN8QaRNyQPewvfeb6Jd6p\",\"bXDwQ38XsWBEL4GVFDeWgh\",\"JpQBjKBWMNRBn4A7JYCs4c\",\"b2lXz32NA5jL\",\"cQKZCJAd9JKk\"],\"lifetime_event_count\":19,\"lifetime_event_counts_by_type\":{\"pageview\":2,\"click\":5,\"revenue\":0,\"variant_segment_executed\":2,\"other\":10},\"local_storage_total_chars\":13169,\"local_storage_msai_chars\":5465,\"scroll_y\":2155,\"cookie_root_domain\":\".koparibeauty.com\",\"viewport_height\":768,\"viewport_width\":1366,\"screen_width\":1366,\"screen_height\":768,\"device_pixel_ratio\":1,\"page_title\":\"Sun Veil Illuminating Elixir Face Sunscreen SPF 38 \u2013 Kopari Beauty\",\"time_since_navigation_start_ms\":16112.699999988079,\"connection_type\":\"4g\",\"page_load_time_ms\":null,\"page_height\":5454,\"scroll_depth_percent\":54,\"time_msai_running_ms\":1157.499999165535,\"session_event_count\":19,\"location\":{\"cdn-cache-hit\":\"\",\"cdn-pop\":\"MCT50-P1\",\"cdn-rid\":\"x0rI61E_lpkI9P-lwulQslIzgeA0LSuGssd0_aczjRQDjZREUEDkaw==\",\"cdn-hit-layer\":\"EDGE\",\"cdn-downstream-fbl\":\"\",\"geo-country\":\"PK\",\"geo-region\":\"SD\",\"geo-city\":\"Karachi\",\"geo-postal\":\"74600\",\"geo-tz\":\"Asia/Karachi\"},\"event_uuid\":\"4b82968e-b89b-4815-9963-9dbdfe7dbe33\",\"event_type\":\"pageview\",\"source\":\"msai_tracking_with_abclient\",\"user_id\":\"ffdafa5d-2251-4847-8eb4-fb9560f2eebd\",\"session_id\":\"6a55e737-7eee-4027-89a3-2b99ea04660c\",\"platform\":\"desktop\",\"event_timestamp\":1794255792,\"event_datetime\":\"2026-11-09T20:23:12.736Z\",\"rt\":16113,\"url\":\"https://koparibeauty.com/products/sun-veil-illuminating-elixir-face-spf-38\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"experiments\":[\"DdTdvCNOCCDF\",\"865XF0jiYUJH\"],\"variants\":[\"SjJ3cOBQ2DrT\",\"M34rAFclGaim\"],\"active_experiments\":[\"RPqthqY5MsAtdLTQL2GPVR\",\"DdTdvCNOCCDF\",\"865XF0jiYUJH\"],\"active_variants\":[\"dAt5Tru4oTbkhWW7JiBnoP\",\"SjJ3cOBQ2DrT\",\"M34rAFclGaim\"],\"tracking_script_version\":\"v201.107.1 11-5-2026 (3)\",\"project_id\":\"EXjlj3wSTk6eU11UdCkkyw\",\"is_preview_session\":false,\"session_utm_source\":null,\"session_utm_medium\":null,\"session_utm_campaign\":null,\"session_utm_term\":null,\"session_utm_content\":null,\"session_referrer\":null,\"num_of_previous_sessions\":0,\"active_targets\":[\"DcrTgDXL65vC2cmeQZEFB7\",\"3RGqffNfhM6RcxainWroMg\",\"LSaWS5qcKSRXRb9ZQ6VHiE\",\"VrcKCa8dhnDQrAZ6qzqA4j\"],\"active_audiences\":[\"NBy8x7CruyUM5SRih2UT7z\",\"Z5ij9MHMrZCxo9H26hQZ7e\",\"7qAf3EBxmPiVMbQAWenGz6\"]},\"created_at_ms\":1794255792739,\"created_ms_since_load\":16113,\"page_load_id\":\"a8323d8a-377e-4bb8-bf33-1b79d1f0b318\",\"attempts\":0,\"lease_owner\":\"744a24ee-896b-4e52-915b-49997589f3d6\",\"lease_expires_at\":1794255808581,\"hold_until_ms\":0}]"
+        },
+        {
+          "name": "true_rand_gen_sequence.math_",
+          "value": "data:application/zip;base92,L+EwSTByrQg$/Kn^mW\\m(fW~+zZ}ua@NjHXVjj*w#j;cihH|9Wc4!/E\"z7\u007f}cB7>qLIx:@KqhVU}Rt,&Vwc"
+        }
+      ]
+    }
+  ]
+}

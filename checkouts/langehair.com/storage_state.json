@@ -1,0 +1,515 @@
+{
+  "cookies": [
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".langehair.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wm_cv",
+      "value": "1.0.8",
+      "domain": ".langehair.com",
+      "path": "/products",
+      "expires": 1825715791,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wm_frt",
+      "value": "2026-11-08T23:16:31.302Z",
+      "domain": ".langehair.com",
+      "path": "/products",
+      "expires": 1825715791,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Analytics",
+      "value": "{\"merchantId\":\"1345\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://webservices.global-e.com/\",\"clientId\":\"8dec073d-a16b-4719-abb1-805da21e355e\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794179791752}",
+      "domain": "langehair.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "langehair.com",
+      "path": "/",
+      "expires": 1825715793.715495,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "langehair.com",
+      "path": "/",
+      "expires": 1802042194.715847,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG9cu3VAAEA8k5koQ4rGV9LIejwZr2gIHjhxXlbInwvBpZidei9sUO9TxlgIDg8RHuQyTemVxbfw8TRBB6VuqN03j0:",
+      "domain": "langehair.com",
+      "path": "/",
+      "expires": 1825715787.181676,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaG9cvAcAAEA9pT1B0iJYWE1PPPy68MbZniHei1u8QLXr_dzBoT8NavlDCZUCbP89Ci_j1A7DZoSmykYHWuWvRbYkrk:",
+      "domain": "langehair.com",
+      "path": "/",
+      "expires": 1825715787.181776,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaG9cvAcAAEA7CCGFuxVCRTZiv2JkxWQVjCnDlU7uOW-JHC6e1Jup6badGI1XXqRCcsgyCUzdr0Frz2IPqpV0bv2_JM:",
+      "domain": "langehair.com",
+      "path": "/",
+      "expires": 1825715787.181982,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ib_gb_id",
+      "value": "a52ac99486d79fa9130e9782b8c429ac",
+      "domain": "langehair.com",
+      "path": "/",
+      "expires": 1825715787,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session_start",
+      "value": "1794179787292",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__pp_sid",
+      "value": "TisiXv3JdcaMnRcz_mw8gbmrg",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1794181590,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__pp_pid",
+      "value": "yTx9mq2bFJhAVNU3_mw8gbmrf",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1828739790.850198,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tatari-session-cookie",
+      "value": "ad25e787-8cb1-1f67-a0d2-213b3efddc0b",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1828739791.230542,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_axwrt",
+      "value": "14923a90-4801-409e-8413-35d2640fa208",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1825715791,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "14923a90-4801-409e-8413-35d2640fa208",
+      "domain": "langehair.com",
+      "path": "/",
+      "expires": 1825715791,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_Ta966-GhQj6e9Tm*nQ5cpQ%235b4e029e-233c-4878-9071-e0a5a91e310e-1794179790",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1825737393.715224,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIvWFxcUKC6dR5FbpW6Ut9%3Fkey%3Dd770ff97f8f00e9c14f00a9a23aa5287",
+      "domain": "langehair.com",
+      "path": "/",
+      "expires": 1802042194.715664,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__oaiq_consent",
+      "value": "true",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1796771791.309505,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__obref",
+      "value": "cebe11b7-6b90-4b1e-abb7-dabe6ffb0f02",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1825715791.327311,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ax_last_event",
+      "value": "1794179791187",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1825715791,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ax_visitor",
+      "value": "%7B%22firstVisitTs%22%3A1794179791362%2C%22lastVisitTs%22%3Anull%2C%22currentVisitStartTs%22%3A1794179791362%2C%22ts%22%3A1794179791391%2C%22visitCount%22%3A1%7D",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1825715791,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ps_r",
+      "value": "_",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1825715791,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_sr",
+      "value": "_",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1794181591,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_lu",
+      "value": "https://langehair.com/web-pixels@43600932w1bbca933p2f8a9c65m024fd2f2/custom/web-pixel-137035876@1/sandbox/modern/products/blush-heat-resistant-mat-travel-pouch",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1825715791,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_slu",
+      "value": "https://langehair.com/web-pixels@43600932w1bbca933p2f8a9c65m024fd2f2/custom/web-pixel-137035876@1/sandbox/modern/products/blush-heat-resistant-mat-travel-pouch",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1794181591,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_did",
+      "value": "pscrb_3c018b61-2a83-41c2-a5f1-2ce56608433c",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1825715791,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_fva",
+      "value": "1794179791517",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1825715791,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__attn_eat_id",
+      "value": "c8c10db4d5044d288544956d75bd70e4",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1827875789.969059,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://langehair.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPVlqQmlaVEl6WlRZdE56WmlOeTAwT1RnNExUZ3hNMkV0TVdNek56QTVNMlJpTWpFeg",
+      "domain": "langehair.com",
+      "path": "/",
+      "expires": 1825715791,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ib_gb_sb_id%7C%7Ca52ac99486d79fa9130e9782b8c429ac",
+      "value": "%7B%22attributeName%22%3A%22id%22%2C%22attributeValue%22%3A%22a52ac99486d79fa9130e9782b8c429ac%22%2C%22assignments%22%3A%7B%22gift-purchase-limited-run-test__0%22%3A%221%22%7D%7D",
+      "domain": "langehair.com",
+      "path": "/",
+      "expires": 1809728192,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_id",
+      "value": "678f1d4117354918b2427e3ada5fe976",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1827875792,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_session_id",
+      "value": "7ab02baf6b7b42d49b23eadd4296a61e",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1794181592,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzk0MTc5NzkyNTcxLFwidW9cIjoxNzk0MTc5NzkyNTcxLFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjY3OGYxZDQxMTczNTQ5MThiMjQyN2UzYWRhNWZlOTc2XCJ9IiwiZWF0Ijoie1wiY29cIjoxNzk0MTc5NzkyNTUwLFwidW9cIjoxNzk0MTc5NzkyNTUwLFwibWFcIjozNjUwLFwiaW5cIjp0cnVlLFwidmFsXCI6XCJodHRwczovL21tYnRwLmxhbmdlaGFpci5jb21cIn0ifQ==",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1827875792,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1794179792577",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1827875792,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_bopd_",
+      "value": "browser",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1827875792,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1794186992,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dicbo_id",
+      "value": "%7B%22dicbo_fetch%22%3A1794179792688%7D",
+      "domain": "langehair.com",
+      "path": "/",
+      "expires": 1794180092,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "1",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1794181592,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "ORGANIC",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1794181592,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ax_session_data",
+      "value": "eyJpbnZpc2libGVUaW1lIjowLCJ0b3RhbFRpbWUiOjAsImxhc3RVcGRhdGUiOjE3OTQxNzk3OTQxODV9",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1825715794,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GLBE_SESS_ID",
+      "value": "%7B%22sid%22%3A%22244741257.271600499.1345%22%2C%22expiry%22%3A%222026-11-08T23%3A46%3A34.521Z%22%7D",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1828739794.521695,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lantern",
+      "value": "4618f548-4f55-4ffa-bfed-dd9f8536af71",
+      "domain": ".langehair.com",
+      "path": "/",
+      "expires": 1796771794,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://langehair.com",
+      "localStorage": [
+        {
+          "name": "oaiq_consent",
+          "value": "true"
+        },
+        {
+          "name": "_pxSessionStart",
+          "value": "1794179790846"
+        },
+        {
+          "name": "_pxPageVisited",
+          "value": "{\"4eFeW\":[\"/products/blush-heat-resistant-mat-travel-pouch\"]}"
+        },
+        {
+          "name": "GlobalE_Analytics",
+          "value": "{\"merchantId\":\"1345\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://webservices.global-e.com/\",\"clientId\":\"8dec073d-a16b-4719-abb1-805da21e355e\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794179791752}"
+        },
+        {
+          "name": "_axwrt_backup",
+          "value": "{\"value\":\"14923a90-4801-409e-8413-35d2640fa208\",\"setTs\":null,\"expiresAt\":1825715791242}"
+        },
+        {
+          "name": "_applovin_pixel_version",
+          "value": "s/a/3.6.68"
+        },
+        {
+          "name": "signInWithShop:cartSyncTransferAttemptedAt",
+          "value": "1794179788912"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "vidExpiry",
+          "value": "2027-12-03T23:16:31.244Z"
+        },
+        {
+          "name": "vid",
+          "value": "6eb52cc0dbca11f1b26ab9a6ecadca3b"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPVlqQmlaVEl6WlRZdE56WmlOeTAwT1RnNExUZ3hNMkV0TVdNek56QTVNMlJpTWpFeg\",\"expires\":\"2027-11-08T23:16:31.174Z\"}"
+        },
+        {
+          "name": "_pxPixelSent",
+          "value": "{\"4eFeW\":{\"\":{\"pixelSent\":true,\"sentAt\":1794179790848}}}"
+        },
+        {
+          "name": "langehair.com",
+          "value": "{\"values\":{\"cohortId\":\"181ae7f1-e574-4aa0-826a-ffdd6d9900f1\",\"automaticMessages\":[{\"id\":\"welcome-message\",\"isUser\":false,\"content\":{\"body\":\"<div>Thank you for contacting us.<br><br>What&#39;s your email? We&#39;ll use your email to find your profile and any past conversations you&#39;ve had with us - not to spam you.</div>\"},\"subType\":\"HTML\",\"ordinal\":0,\"date\":\"2026-11-08T23:16:32.717Z\"}]},\"updatedAt\":1794179792720}"
+        },
+        {
+          "name": "sid",
+          "value": "6ebe0660dbca11f1b26ab9a6ecadca3b"
+        },
+        {
+          "name": "_pxTimeBeforeUnload",
+          "value": "1794179794908"
+        },
+        {
+          "name": "sidExpiry",
+          "value": "2026-11-09T23:16:31.302Z"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIvWFxcUKC6dR5FbpW6Ut9\""
+        },
+        {
+          "name": "gbFeaturesCache",
+          "value": "[[\"https://cdn.growthbook.io||sdk-91TxLdbUBUaPWJe0\",{\"data\":{\"status\":200,\"features\":{\"shipping-threshold-experiment-v2\":{\"defaultValue\":\"old\"},\"pair99-mode\":{\"defaultValue\":\"collection\"},\"hair-care-revenue\":{\"defaultValue\":\"0\",\"rules\":[{\"coverage\":1,\"hashAttribute\":\"id\",\"seed\":\"5478618e-bf43-42f0-ab08-d092cfbeacc5\",\"hashVersion\":2,\"variations\":[\"0\",\"1\",\"2\",\"3\"],\"weights\":[0.25,0.25,0.25,0.25],\"key\":\"hair-care-revenue\",\"meta\":[{\"key\":\"0\",\"name\":\"Control\"},{\"key\":\"1\",\"name\":\"Show \\\"Value Sets\\\"\"},{\"key\":\"2\",\"name\":\"Show \\\"Pairs Perfectly with\\\"\"},{\"key\":\"3\",\"name\":\"Show both\"}],\"phase\":\"0\",\"name\":\"Hair Care PDP w Upsells (V2)\"}]},\"shipping-suppression-experiment\":{\"defaultValue\":\"0\"},\"sale-page\":{\"defaultValue\":\"old\"},\"pair50-mode\":{\"defaultValue\":\"collection\"},\"sale-page-quick-add-label\":{\"defaultValue\":\"select-option\"},\"gift-with-purchase-limited\":{\"defaultValue\":\"0\",\"rules\":[{\"coverage\":1,\"hashAttribute\":\"id\",\"seed\":\"7cb54cad-900d-452b-841e-1c270c3934b3\",\"hashVersion\":2,\"variations\":[\"0\",\"1\"],\"weights\":[0,1],\"key\":\"gift-purchase-limited-run-test\",\"meta\":[{\"key\":\"0\",\"name\":\"Control\"},{\"key\":\"1\",\"name\":\"Variation 1\"}],\"phase\":\"2\",\"name\":\"Gift with Purchase - Limited Run Test\"}]},\"tools-price-treatment\":{\"defaultValue\":\"old\"},\"hair-care-pdp-treatment\":{\"defaultValue\":\"old\"},\"axia_gwp_design\":{\"defaultValue\":\"old-gwp\"},\"pdp-express-checkout\":{\"defaultValue\":\"off\"},\"cart-express-checkout\":{\"defaultValue\":\"off\"},\"before_after_video\":{\"defaultValue\":\"static\"},\"ca-cookie-banner\":{\"defaultValue\":\"OFF\"},\"new-hair-care-template\":{\"defaultValue\":\"off\"},\"pdp-reviews-redesign\":{\"defaultValue\":\"old\"},\"test-feature-keys\":{\"defaultValue\":\"old\"}},\"dateUpdated\":\"2026-11-05T17:27:18.633Z\"},\"version\":\"2026-11-05T17:27:18.633Z\",\"staleAt\":\"2026-11-08T23:17:28.971Z\",\"sse\":true}]]"
+        }
+      ]
+    }
+  ]
+}

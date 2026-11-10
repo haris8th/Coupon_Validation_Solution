@@ -1,0 +1,361 @@
+{
+  "cookies": [
+    {
+      "name": "_vb",
+      "value": "4bde007c-428b-4a86-9c49-9f95b75f5865",
+      "domain": "helloseen.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "PK",
+      "domain": "helloseen.com",
+      "path": "/",
+      "expires": 1825790312.075086,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "PKR",
+      "domain": "helloseen.com",
+      "path": "/",
+      "expires": 1802116713.075411,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHB47pRAAEAME4F2vKtubiTRhDWAUfPcUAvqSjVNJqaf6JxVg69sdIlQGuRSIXV5Xt2vRhK99SGIUutlAKkdqPh15A:",
+      "domain": "helloseen.com",
+      "path": "/",
+      "expires": 1825790289.63729,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "osano_consentmanager_uuid",
+      "value": "99636bed-55c0-4aa0-9fe1-3d039179b5ce",
+      "domain": ".helloseen.com",
+      "path": "/",
+      "expires": 1825790292.621581,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "osano_consentmanager",
+      "value": "j1b3K4oEwA-9Ov_jHEaHfNiCLIgYas0kYUwqwRWh2ISWHbfyOX0qppZYyCr-_VmFXhxZ4_ZXSIwfr5zT5lgn40sVBKgzFO27QDydQ2_uKO5egKW2a0VQmGu-7Zw37xfrKR6HhjwBPwpzPa5f56JaNMuulTckYwoRQe_fy2t2Y15LuYFxo1OuCT_B8jIescZlrtAf47REFVl3-cW6mONuBRC5J-ccI5dJAammPZELpyJsrIM9uWOWMv0Mth1F8g-8rrksfrCjG1ijao3ia9VcDPE-zF_M5m91Ffk1t6gGfy_ejEXVeFWsC1zlkxOVJNhD9Iv93D96kOvxwu7rWZE4Np3ZEH2VTe-Lj5fSOlteil9yWZxaoVfT_aiUetKl9KT94UjNLKQuVEOdjnZq6j-QRQfmX0x3BtioE1N50GNsWMW1QFt-2OvvG97ZT_8sq14n_6GEogBe8ROmZYKASKOROzD21XpuL6Mk5pWo1rlJjzUwDA-RK3yyDXmhb2na8NyDouLUJrtixsL55_lXAIr-HIWQsW7tQQNnObbApCW_Zkmek2-e1adz0ts9hNrk3tDbY9yBuFaO11nhbi6RyE6TMx6tadPEGg3Eljv6_hKj9kEbVkXzu-mcH2MgsuEeijoSrItW0QJe6KwdtXUd_dPt2BfMbhpjHbIslm-ZGjqV4pxyUjyCK-92AQ==",
+      "domain": ".helloseen.com",
+      "path": "/",
+      "expires": 1825790292.62288,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "landingPage",
+      "value": "refresh",
+      "domain": "helloseen.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "logState",
+      "value": "loggedOut",
+      "domain": "helloseen.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaHB49RCAAEAy9RavijnxtX33SnUOyzNIxqmwxnx1u_CM35FRJahr44AFiC4Z3JJ8G1Z5BFR3UPaQH-BKv4u4A5X5Bo:",
+      "domain": "helloseen.com",
+      "path": "/",
+      "expires": 1825790296.159687,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaHB49UJAAEABktV-92t_hP5yTNF5jdnQcNr6VYosQWBDKQ4X9vofet72uKdL53OCy_X5ACSrKjp0WpWvQ47IFl3G6w:",
+      "domain": "helloseen.com",
+      "path": "/",
+      "expires": 1825790296.420046,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3AMPS._PKSD_t_f_7zheGDkaQp-z5gsODSrh0A_%7B%22consent_timestamp%22%3A%222026-11-09T19%3A58%3A10.158Z%22%2C%22consent_id%22%3A%2299636bed-55c0-4aa0-9fe1-3d039179b5ce%22%7D%23e36b188d-7f15-4360-ae8c-5b7b1e570a24-1794254291",
+      "domain": ".helloseen.com",
+      "path": "/",
+      "expires": 1825811919.709883,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_lpv",
+      "value": "1",
+      "domain": ".helloseen.com",
+      "path": "/",
+      "expires": 1828814300.207663,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_spv",
+      "value": "1",
+      "domain": ".helloseen.com",
+      "path": "/",
+      "expires": 1794256100,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_i",
+      "value": "InunDVPCAjdo9W3m-Nrf_",
+      "domain": ".helloseen.com",
+      "path": "/",
+      "expires": 1828814300.223176,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_v",
+      "value": "InunDVPCAjdo9W3m-Nrf_",
+      "domain": ".helloseen.com",
+      "path": "/",
+      "expires": 1828814300.256968,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_vs",
+      "value": "COOKIE",
+      "domain": ".helloseen.com",
+      "path": "/",
+      "expires": 1828814300.259388,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_vn",
+      "value": "_bcai_i",
+      "domain": ".helloseen.com",
+      "path": "/",
+      "expires": 1828814300.261773,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxY5YDv4gIpBrkE8p3iRn%3Fkey%3D3d265d072b74e339abf349db3e08e876",
+      "domain": "helloseen.com",
+      "path": "/",
+      "expires": 1802116713.075248,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bcai_h",
+      "value": "ffdb4391-fd89-4ae7-b1e1-aa0527b4ac59_ad7fd8c0-1a3f-46a9-ae72-6aa82b984347_1794254301337",
+      "domain": ".helloseen.com",
+      "path": "/",
+      "expires": 1828814302.064189,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://helloseen.com",
+      "localStorage": [
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "_pxSessionStart",
+          "value": "1794254302083"
+        },
+        {
+          "name": "_pxPageVisited",
+          "value": "{\"AKkVx\":[\"/products/seen-healthy-scalp-advanced-hydration-bundle-fragrance-free\"]}"
+        },
+        {
+          "name": "alia-jwt",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsYXN0VXNlcklEIjo5Mzk3MDA1NDAwLCJpYXQiOjE3OTQyNTQyOTZ9.bxgKctaf6HojDBNZlbKvO4jHkRuBlWIupPkMPMNSASk"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,d+]s$9yQi6R_AN|<sCXzEdK+lDL^9IB**-bE0@Ue_BZ\\N<\u007fhUNqfM%+v(ZzjP|V5xE~YPZZ~?jTD&>xtnC<EV-CPk7XpTZY"
+        },
+        {
+          "name": "alia-user-actions",
+          "value": "[{\"merchantID\":11357,\"flowID\":377316,\"segmentID\":35300,\"type\":\"popupStep\",\"data\":{\"type\":\"popupStep\",\"stepID\":\"e01c3a93-efe4-4fce-af1d-d448a27129de\",\"stepIndex\":0,\"isFloatingButton\":false,\"reason\":{\"type\":\"trigger\",\"triggerType\":\"basic\",\"triggerID\":\"393b1d16-3576-4c13-903d-f7efe6c6f173\"}},\"createdAt\":\"2026-11-09T19:58:24.232Z\",\"id\":12987251864,\"userID\":9397005400}]"
+        },
+        {
+          "name": "_rsession",
+          "value": "tPLTEEYbCwF3QxTxGieDWMP3AEyfgsmV4401vdjpPDsC4QAVpRabA3VEaceDhMzmabwceyI1Njk5Y2Q5YmI5YjgyOTI1Ijp7ImlkIjoiNTY5OWNkOWJiOWI4MjkyNSIsImZpcnN0X2FjdGl2ZSI6MTc5NDI1NDI5ODAzOCwibGFzdF9hY3RpdmUiOjE3OTQyNTQyOTgwMzgsImdlb2xvY2F0aW9uIjp7ImNpdHlfbmFtZSI6IkthcmFjaGkiLCJjb250aW5lbnRfY29kZSI6IkFTIiwiY29udGluZW50X25hbWUiOiJBc2lhIiwiY291bnRyeV9jb2RlIjoiUEsiLCJjb3VudHJ5X25hbWUiOiJQYWtpc3RhbiIsImxhdGl0dWRlIjoyNC44NjA4LCJsb25naXR1ZGUiOjY3LjAxMDQsInBvc3RhbF9jb2RlIjoiNzQwMDAiLCJwcm92aW5jZV9jb2RlIjoiU0QiLCJwcm92aW5jZV9uYW1lIjoiU2luZGgifX19"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,VBe8Mm5E.1Hq'EY:1#BRE\u007fL?5cSJk-9YbN7zzO3f'M7J`(GLBn8gj mKR(ajWFnx$K"
+        },
+        {
+          "name": "gorgias.conversation-starters-timeout-cohort",
+          "value": "10000"
+        },
+        {
+          "name": "alia-test",
+          "value": "test"
+        },
+        {
+          "name": "_vwo_eventHistSession",
+          "value": "{\"shopify.productViewed\":[{}]}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxY5YDv4gIpBrkE8p3iRn\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIxY5YDv4gIpBrkE8p3iRn\",\"customerProfileId\":null,\"countryCode\":\"PK\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "deferred_landing",
+          "value": "{\"url\":\"https://helloseen.com/products/seen-healthy-scalp-advanced-hydration-bundle-fragrance-free\",\"referrer\":\"\",\"timestamp\":\"2026-11-09T19:58:14.551Z\",\"clickId\":\"\",\"exp\":1794256098357}"
+        },
+        {
+          "name": "_renriched",
+          "value": "[{\"admin_graphql_api_id\":\"gid://shopify/Product/6944496156755\",\"body_html\":\"<h6>Why You\u2019ll Love It</h6>\\n<p>Discover a dermatologist-designed routine that helps support healthy skin, scalp and hair\u2014without compromise. The SEEN Healthy Scalp Bundle features our Scalp Clarifying Shampoo, Deeper Conditioner, and Restore Scalp Serum.</p>\\n<p>Safe for sensitive, acne-prone skin and eczema-prone skin.</p>\\n<h6>Hero Ingredients</h6>\\n<p style=\\\"padding-top: 15px;\\\"><strong>SEEN Scalp Clarifying Shampoo, Fragrance Free</strong></p>\\n<ul>\\n<li>\\n<strong>Sarcosine</strong>: Helps to combat the effects of external stressors like pollution, and product buildup</li>\\n<li>\\n<strong>Propanediol Caprylate</strong>: A naturally-derived active ingredient that works to detoxify the scalp</li>\\n<li>\\n<strong>Bisabolol</strong>: Naturally-derived ingredient with skin-soothing properties</li>\\n<li>\\n<strong>Chelating Agent</strong>: Helps to remove hard water deposits and impurities</li>\\n</ul>\\n<p style=\\\"padding-top: 25px;\\\"><strong>SEEN Deeper Conditioner, Fragrance Free</strong></p>\\n<ul>\\n<li>\\n<strong>Bisabolol</strong>: A naturally-derived ingredient with skin-soothing properties</li>\\n<li>\\n<strong>Hemisqualane</strong>: A plant sugar-derived alternative to silicone that reduces frizz, and keeps hair looking and feeling smooth</li>\\n</ul>\\n<p style=\\\"padding-top: 25px;\\\"><strong>SEEN Restore Scalp Serum, Fragrance Free</strong></p>\\n<ul>\\n<li>\\n<strong>Ethylhexyl Olivate</strong>: Derived from olives; natural emollient that provides nourishing hydration for the scalp</li>\\n<li>\\n<strong>Squalane</strong>: A powerful plant-derived natural moisturizer that nourishes and hydrates scalp</li>\\n<li>\\n<strong>Propanediol Caprylate</strong>: A naturally-derived active ingredient that works to detoxify the scalp</li>\\n<li>\\n<strong>Sarcosine</strong>: Helps to combat the effects of external stressors like pollution, and product buildup</li>\\n</ul>\\n<h6>Full Ingredients</h6>\\n<p><strong>SEEN Scalp Clarifying Shampoo, Fragrance Free: </strong>Water/Aqua/Eau, Sodium Lauroyl Methyl Isethionate, Glycerin, Cocamidopropylamine Oxide, Acrylates Copolymer, Propanediol Caprylate, Sarcosine, C13-15 Alkane, Glycol Distearate, Aminomethyl Propanol, Guar Hydroxypropyltrimonium Chloride, Polyquaternium-7, Tocopherol, Bisabolol, Trisodium Ethylenediamine Disuccinate, Citric Acid, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate</p>\\n<p><strong>SEEN Deeper Conditioner, Fragrance Free Ingredients:</strong> WATER/AQUA/EAU, CETEARYL ALCOHOL, C13-15 ALKANE, NEOPENTYL GLYCOL DIHEPTANOATE, CETYL PALMITATE, STEARAMIDOPROPYL DIMETHYLAMINE, BEHENTRIMONIUM CHLORIDE, GLYCERIN, SHEA BUTTER CETYL ESTERS, POLYQUATERNIUM-37, POLYSORBATE 80, HYDROGENATED POLYDECENE, TRIDECETH-6, TOCOPHEROL, BISABOLOL, CITRIC ACID, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, DISODIUM EDTA</p>\\n<p><strong>SEEN Restore Scalp Serum Ingredients: </strong>WATER/AQUA/EAU, GLYCERIN, PROPANEDIOL CAPRYLATE, SARCOSINE, C13-15 ALKANE, ETHYLHEXYL OLIVATE, SQUALANE, ARGININE, TOCOPHEROL, BISABOLOL, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, SODIUM PHYTATE</p>\\n<h6><span>Skin Benefits</span></h6>\\n<ul>\\n<li>Non-comedogenic (won\u2019t clog pores)</li>\\n<li>Non-irritating</li>\\n<li>Safe for sensitive, acne-prone skin and eczema-prone skin</li>\\n</ul>\\n<h6><span>Hair Benefits</span></h6>\\n<ul>\\n<li>Reduced breakage*</li>\\n<li>Reduced frizz*</li>\\n<li>Color-safe<br>\\n</li>\\n</ul>\\n<h6>How to Use</h6>\\n<ol>\\n<li>Apply scalp clarifying shampoo to wet hair and scalp. Lather and rinse. Use once or twice per week in place of your regular shampoo.</li>\\n<li>Remove excess water from hair. Apply a quarter-sized amount or more of Deeper Conditioner, focusing on the mid-lengths and ends. Leave on for 2-3 minutes and rinse. For deeper conditioning, leave on for 5-10 minutes before rinsing.</li>\\n<li>With a damp or dry scalp, part hair into 4 or more sections.</li>\\n<li>Apply a thin, even layer of SEEN Scalp Restore Serum in each section. Massage in. Do not rinse.</li>\\n</ol>\\n<p>Treat your scalp 3 or more times per week.</p>\\n<h6>Dr. Iris Rubin Tips</h6>\\n<div style=\\\"display: flex; align-items: center; gap: 10px;\\\">\\n<img src=\\\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/Iris_Image.jpg?v=1748534025\\\" alt=\\\"Dr. Iris Rubin\\\" style=\\\"width: 100px; height: auto; border-radius: 100px;\\\">\\n<p style=\\\"margin: 0;\\\">\u201cThis scalp serum can be used when the hair is dry or damp, so you can get its restorative benefits on wash day and any other day!\u201d <span style=\\\"display: block; margin-top: 5px; font-size: 13px;\\\">\u2014 Dr. Iris Rubin, Founder &amp; Harvard-trained Dermatologist</span></p>\\n</div>\\n<h6>Our Mission</h6>\\n<p>SEEN is dermatologist-designed and recommended hair care that transforms your hair, scalp, and skin in one. After discovering the connection between hair products and skin health, Harvard-trained dermatologist Dr. Iris Rubin recognized that achieving healthy-looking skin starts includes skin-first haircare products, that help maintain your scalp and skin health. SEEN products are clinically proven to be safe for sensitive skin and scalp, non-comedogenic (won\u2019t clog pores) and designed to help you achieve stronger, smoother, healthier-looking hair.</p>\",\"category\":{\"admin_graphql_api_id\":\"gid://shopify/TaxonomyCategory/hb-3-10-13\",\"full_name\":\"Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner\",\"name\":\"Shampoo & Conditioner\"},\"created_at\":\"2023-02-14T14:51:16-05:00\",\"description\":\"Why You\u2019ll Love It\\r\\n\\r\\n Discover a dermatologist-designed routine that helps support healthy skin, scalp and hair\u2014without compromise. The SEEN Healthy Scalp Bundle features our Scalp Clarifying Shampoo, Deeper Conditioner, and Restore Scalp Serum.\\r\\n\\r\\n Safe for sensitive, acne-prone skin and eczema-prone skin.\\r\\n\\r\\n Hero Ingredients\\r\\n\\r\\n SEEN Scalp Clarifying Shampoo, Fragrance Free\\r\\n\\r\\n \\r\\n Sarcosine: Helps to combat the effects of external stressors like pollution, and product buildup \\r\\n Propanediol Caprylate: A naturally-derived active ingredient that works to detoxify the scalp \\r\\n Bisabolol: Naturally-derived ingredient with skin-soothing properties \\r\\n Chelating Agent: Helps to remove hard water deposits and impurities \\r\\n \\r\\n\\r\\nSEEN Deeper Conditioner, Fragrance Free\\r\\n\\r\\n \\r\\n Bisabolol: A naturally-derived ingredient with skin-soothing properties \\r\\n Hemisqualane: A plant sugar-derived alternative to silicone that reduces frizz, and keeps hair looking and feeling smooth \\r\\n \\r\\n\\r\\nSEEN Restore Scalp Serum, Fragrance Free\\r\\n\\r\\n \\r\\n Ethylhexyl Olivate: Derived from olives; natural emollient that provides nourishing hydration for the scalp \\r\\n Squalane: A powerful plant-derived natural moisturizer that nourishes and hydrates scalp \\r\\n Propanediol Caprylate: A naturally-derived active ingredient that works to detoxify the scalp \\r\\n Sarcosine: Helps to combat the effects of external stressors like pollution, and product buildup \\r\\n \\r\\n\\r\\nFull Ingredients\\r\\n\\r\\n SEEN Scalp Clarifying Shampoo, Fragrance Free: Water/Aqua/Eau, Sodium Lauroyl Methyl Isethionate, Glycerin, Cocamidopropylamine Oxide, Acrylates Copolymer, Propanediol Caprylate, Sarcosine, C13-15 Alkane, Glycol Distearate, Aminomethyl Propanol, Guar Hydroxypropyltrimonium Chloride, Polyquaternium-7, Tocopherol, Bisabolol, Trisodium Ethylenediamine Disuccinate, Citric Acid, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate\\r\\n\\r\\n SEEN Deeper Conditioner, Fragrance Free Ingredients: WATER/AQUA/EAU, CETEARYL ALCOHOL, C13-15 ALKANE, NEOPENTYL GLYCOL DIHEPTANOATE, CETYL PALMITATE, STEARAMIDOPROPYL DIMETHYLAMINE, BEHENTRIMONIUM CHLORIDE, GLYCERIN, SHEA BUTTER CETYL ESTERS, POLYQUATERNIUM-37, POLYSORBATE 80, HYDROGENATED POLYDECENE, TRIDECETH-6, TOCOPHEROL, BISABOLOL, CITRIC ACID, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, DISODIUM EDTA\\r\\n\\r\\n SEEN Restore Scalp Serum Ingredients: WATER/AQUA/EAU, GLYCERIN, PROPANEDIOL CAPRYLATE, SARCOSINE, C13-15 ALKANE, ETHYLHEXYL OLIVATE, SQUALANE, ARGININE, TOCOPHEROL, BISABOLOL, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, SODIUM PHYTATE\\r\\n\\r\\n Skin Benefits\\r\\n\\r\\n \\r\\nNon-comedogenic (won\u2019t clog pores) \\r\\nNon-irritating \\r\\nSafe for sensitive, acne-prone skin and eczema-prone skin \\r\\n \\r\\n\\r\\nHair Benefits\\r\\n\\r\\n \\r\\nReduced breakage* \\r\\nReduced frizz* \\r\\nColor-safe\\r\\n \\r\\n \\r\\n\\r\\nHow to Use\\r\\n\\r\\n \\r\\nApply scalp clarifying shampoo to wet hair and scalp. Lather and rinse. Use once or twice per week in place of your regular shampoo. \\r\\nRemove excess water from hair. Apply a quarter-sized amount or more of Deeper Conditioner, focusing on the mid-lengths and ends. Leave on for 2-3 minutes and rinse. For deeper conditioning, leave on for 5-10 minutes before rinsing. \\r\\nWith a damp or dry scalp, part hair into 4 or more sections. \\r\\nApply a thin, even layer of SEEN Scalp Restore Serum in each section. Massage in. Do not rinse. \\r\\n \\r\\n\\r\\nTreat your scalp 3 or more times per week.\\r\\n\\r\\n Dr. Iris Rubin Tips\\r\\n\\r\\n \u201cThis scalp serum can be used when the hair is dry or damp, so you can get its restorative benefits on wash day and any other day!\u201d \u2014 Dr. Iris Rubin, Founder & Harvard-trained Dermatologist\\r\\n\\r\\n Our Mission\\r\\n\\r\\n SEEN is dermatologist-designed and recommended hair care that transforms your hair, scalp, and skin in one. After discovering the connection between hair products and skin health, Harvard-trained dermatologist Dr. Iris Rubin recognized that achieving healthy-looking skin starts includes skin-first haircare products, that help maintain your scalp and skin health. SEEN products are clinically proven to be safe for sensitive skin and scalp, non-comedogenic (won\u2019t clog pores) and designed to help you achieve stronger, smoother, healthier-looking hair.\",\"handle\":\"seen-healthy-scalp-advanced-hydration-bundle-fragrance-free\",\"has_variants_that_requires_components\":false,\"id\":6944496156755,\"image\":{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/61641064808818\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"height\":2700,\"id\":61641064808818,\"metafields\":[],\"position\":1,\"product_id\":6944496156755,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_01.webp?v=1776062307\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[],\"width\":2160},\"images\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/61641064808818\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"height\":2700,\"id\":61641064808818,\"metafields\":[],\"position\":1,\"product_id\":6944496156755,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_01.webp?v=1776062307\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[],\"width\":2160},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/61641064776050\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"height\":2700,\"id\":61641064776050,\"metafields\":[],\"position\":2,\"product_id\":6944496156755,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_02.webp?v=1776062307\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[],\"width\":2160},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/61641064743282\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"height\":2700,\"id\":61641064743282,\"metafields\":[],\"position\":3,\"product_id\":6944496156755,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_03_f85b4035-e5e8-418b-83a6-14e9c2638c26.webp?v=1776062307\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[],\"width\":2160},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/61641064710514\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"height\":2700,\"id\":61641064710514,\"metafields\":[],\"position\":4,\"product_id\":6944496156755,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_04.webp?v=1776062307\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[],\"width\":2160},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/61641064677746\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"height\":2700,\"id\":61641064677746,\"metafields\":[],\"position\":5,\"product_id\":6944496156755,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_05.webp?v=1776062307\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[],\"width\":2160},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/61641064644978\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"height\":2700,\"id\":61641064644978,\"metafields\":[],\"position\":6,\"product_id\":6944496156755,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_06.webp?v=1776062307\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[],\"width\":2160},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/61641064612210\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"height\":2700,\"id\":61641064612210,\"metafields\":[],\"position\":7,\"product_id\":6944496156755,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_07.webp?v=1776062307\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[],\"width\":2160},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/61641069035890\",\"alt\":null,\"created_at\":\"2026-04-13T02:37:28-04:00\",\"height\":2700,\"id\":61641069035890,\"metafields\":[],\"position\":8,\"product_id\":6944496156755,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_08_7d887abb-00ab-44b6-896d-7e97ee62ed88.webp?v=1776062307\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[],\"width\":2160},{\"admin_graphql_api_id\":\"gid://shopify/ProductImage/61641064546674\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"height\":2700,\"id\":61641064546674,\"metafields\":[],\"position\":9,\"product_id\":6944496156755,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_09.webp?v=1776062307\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[],\"width\":2160}],\"media\":[{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/53059554836850\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"id\":53059554836850,\"media_content_type\":\"IMAGE\",\"position\":1,\"preview_image\":{\"height\":2700,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_01.webp?v=1776062307\",\"status\":\"READY\",\"width\":2160},\"product_id\":6944496156755,\"status\":\"READY\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/53059554804082\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"id\":53059554804082,\"media_content_type\":\"IMAGE\",\"position\":2,\"preview_image\":{\"height\":2700,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_02.webp?v=1776062307\",\"status\":\"READY\",\"width\":2160},\"product_id\":6944496156755,\"status\":\"READY\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/53059554771314\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"id\":53059554771314,\"media_content_type\":\"IMAGE\",\"position\":3,\"preview_image\":{\"height\":2700,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_03_f85b4035-e5e8-418b-83a6-14e9c2638c26.webp?v=1776062307\",\"status\":\"READY\",\"width\":2160},\"product_id\":6944496156755,\"status\":\"READY\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/53059554738546\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"id\":53059554738546,\"media_content_type\":\"IMAGE\",\"position\":4,\"preview_image\":{\"height\":2700,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_04.webp?v=1776062307\",\"status\":\"READY\",\"width\":2160},\"product_id\":6944496156755,\"status\":\"READY\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/53059554705778\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"id\":53059554705778,\"media_content_type\":\"IMAGE\",\"position\":5,\"preview_image\":{\"height\":2700,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_05.webp?v=1776062307\",\"status\":\"READY\",\"width\":2160},\"product_id\":6944496156755,\"status\":\"READY\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/53059554673010\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"id\":53059554673010,\"media_content_type\":\"IMAGE\",\"position\":6,\"preview_image\":{\"height\":2700,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_06.webp?v=1776062307\",\"status\":\"READY\",\"width\":2160},\"product_id\":6944496156755,\"status\":\"READY\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/53059554640242\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"id\":53059554640242,\"media_content_type\":\"IMAGE\",\"position\":7,\"preview_image\":{\"height\":2700,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_07.webp?v=1776062307\",\"status\":\"READY\",\"width\":2160},\"product_id\":6944496156755,\"status\":\"READY\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/53059557687666\",\"alt\":null,\"created_at\":\"2026-04-13T02:37:28-04:00\",\"id\":53059557687666,\"media_content_type\":\"IMAGE\",\"position\":8,\"preview_image\":{\"height\":2700,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_08_7d887abb-00ab-44b6-896d-7e97ee62ed88.webp?v=1776062307\",\"status\":\"READY\",\"width\":2160},\"product_id\":6944496156755,\"status\":\"READY\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[]},{\"admin_graphql_api_id\":\"gid://shopify/MediaImage/53059554574706\",\"alt\":null,\"created_at\":\"2026-04-13T02:35:32-04:00\",\"id\":53059554574706,\"media_content_type\":\"IMAGE\",\"position\":9,\"preview_image\":{\"height\":2700,\"src\":\"https://cdn.shopify.com/s/files/1/0016/5144/1717/files/HealthyScalpAdvancedHydrationBundle_FF_09.webp?v=1776062307\",\"status\":\"READY\",\"width\":2160},\"product_id\":6944496156755,\"status\":\"READY\",\"updated_at\":\"2026-08-19T17:07:06-04:00\",\"variant_ids\":[]}],\"options\":[{\"id\":8935373865043,\"name\":\"Title\",\"position\":1,\"product_id\":6944496156755,\"values\":[\"Default Title\"]}],\"product_type\":\"Hair Care Bundle - Dermatologist-Designed\",\"published_at\":\"2026-10-05T14:23:54-04:00\",\"published_scope\":\"web\",\"status\":\"ready\",\"tags\":\"criteo, Eczema, singleVariant\",\"template_suffix\":\"default-v2\",\"title\":\"SEEN Healthy Scalp Advanced Hydration Bundle, Fragrance Free\",\"updated_at\":\"2026-10-23T04:41:16-04:00\",\"variant_gids\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/40531770966099\",\"updated_at\":\"2026-10-23T08:41:17.000Z\"}],\"vendor\":\"SEEN\",\"variants\":[{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/40531770966099\",\"barcode\":null,\"compare_at_price\":null,\"created_at\":\"2023-02-14T14:51:16-05:00\",\"fulfillment_service\":\"\",\"grams\":708,\"id\":40531770966099,\"image_id\":null,\"inventory_item_id\":42627193667667,\"inventory_management\":\"shopify\",\"inventory_policy\":\"continue\",\"inventory_quantity\":-4,\"old_inventory_quantity\":-4,\"option1\":\"Default Title\",\"option2\":null,\"option3\":null,\"position\":1,\"price\":\"116.00\",\"product_id\":6944496156755,\"requires_shipping\":true,\"sku\":\"109215002\",\"tax_code\":\"\",\"taxable\":true,\"title\":\"Default Title\",\"updated_at\":\"2026-10-23T04:41:17-04:00\",\"weight\":25,\"link\":\"https://helloseen.com/products/seen-healthy-scalp-advanced-hydration-bundle-fragrance-free?variant=40531770966099\",\"selling_plan_allocations\":[{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":955777107,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003195762,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":955809875,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003228530,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":955842643,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003261298,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003294066,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003326834,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":955875411,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003359602,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003392370,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003425138,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003457906,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003490674,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003523442,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"}],\"selling_plans\":[{\"id\":955777107,\"name\":\"Every 4 weeks\",\"description\":\"\",\"position\":0,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 4 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003195762,\"name\":\"Every 5 weeks\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 5 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":955809875,\"name\":\"Every 6 weeks\",\"description\":\"\",\"position\":2,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 6 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003228530,\"name\":\"Every 7 weeks\",\"description\":\"\",\"position\":3,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 7 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":955842643,\"name\":\"Every 8 weeks\",\"description\":\"\",\"position\":4,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 8 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003261298,\"name\":\"Every 9 weeks\",\"description\":\"\",\"position\":5,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 9 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003294066,\"name\":\"Every 10 weeks\",\"description\":\"\",\"position\":6,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 10 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003326834,\"name\":\"Every 11 weeks\",\"description\":\"\",\"position\":7,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 11 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":955875411,\"name\":\"Every 12 weeks\",\"description\":\"\",\"position\":8,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 12 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003359602,\"name\":\"Every 13 weeks\",\"description\":\"\",\"position\":9,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 13 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003392370,\"name\":\"Every 14 weeks\",\"description\":\"\",\"position\":10,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 14 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003425138,\"name\":\"Every 15 weeks\",\"description\":\"\",\"position\":11,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 15 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003457906,\"name\":\"Every 16 weeks\",\"description\":\"\",\"position\":12,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 16 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003490674,\"name\":\"Every 5 months\",\"description\":\"\",\"position\":13,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 5 months\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003523442,\"name\":\"Every 6 months\",\"description\":\"\",\"position\":14,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 6 months\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]}],\"subscription_frequencies\":[\"Every 4 weeks\",\"Every 5 weeks\",\"Every 6 weeks\",\"Every 7 weeks\",\"Every 8 weeks\",\"Every 9 weeks\",\"Every 10 weeks\",\"Every 11 weeks\",\"Every 12 weeks\",\"Every 13 weeks\",\"Every 14 weeks\",\"Every 15 weeks\",\"Every 16 weeks\",\"Every 5 months\",\"Every 6 months\"]}],\"collection_ids\":[275574620243,275592675411,275592872019,277314175059,278724051027,621705331058,621708968306,621709066610,621709099378,621709263218,621709394290,621709492594,621709558130,621709951346,621709984114,621710049650,621710115186,621710213490,621710836082,621711032690,621711262066,621711327602,624586064242,690812289394],\"ratings\":{\"yotpo_average_star_rating\":4.7,\"yotpo_total_reviews\":6},\"cache_info\":{\"loaded_options\":{\"metafields\":true,\"variant_metafields\":false,\"selling_plans\":false,\"shopify_selling_plans_loaded\":true,\"country_code\":false,\"locale\":false},\"shopify_selling_plans_loaded_at\":1794254298,\"cached_at_time\":1792758909,\"cache_key\":\"pro_bt#23e522bfd75a21c18f706983412a8d69\",\"cache_key_readable\":\"pro_bt#user_id:4401#shopify_product_id:\\\"6944496156755\\\"#user_id:\\\"4401\\\"\",\"metafields_format\":\"reb-21448\"},\"link\":\"https://helloseen.com/products/seen-healthy-scalp-advanced-hydration-bundle-fragrance-free\",\"owner\":4401,\"selling_plan_groups\":[{\"id\":\"gid://shopify/SellingPlanGroup/254017619\",\"description\":\"\",\"name\":\"Subscription\",\"appId\":\"SKIO\",\"variants\":[52121348538738,52121376948594,32316232695891,39539084951635,40416506871891,40416506904659,40416510705747,40475352793171,40531769753683,41778213716051,32214790832211,39539087048787,40414773280851,40574525636691,40574534615123,40781679099987,40416512901203,40416514965587,40416514998355,40531770540115,13137224073269,31550814453843,13136056025141,32316164112467,40416501727315,40475355316307,40531761659987,40531770966099,41778719686739],\"options\":[{\"name\":\"Subscription\",\"position\":1,\"values\":[\"Every 4 weeks\",\"Every 5 weeks\",\"Every 6 weeks\",\"Every 7 weeks\",\"Every 8 weeks\",\"Every 9 weeks\",\"Every 10 weeks\",\"Every 11 weeks\",\"Every 12 weeks\",\"Every 13 weeks\",\"Every 14 weeks\",\"Every 15 weeks\",\"Every 16 weeks\",\"Every 5 months\",\"Every 6 months\"]}],\"selling_plans\":[{\"id\":955777107,\"name\":\"Every 4 weeks\",\"description\":\"\",\"position\":0,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 4 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003195762,\"name\":\"Every 5 weeks\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 5 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":955809875,\"name\":\"Every 6 weeks\",\"description\":\"\",\"position\":2,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 6 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003228530,\"name\":\"Every 7 weeks\",\"description\":\"\",\"position\":3,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 7 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":955842643,\"name\":\"Every 8 weeks\",\"description\":\"\",\"position\":4,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 8 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003261298,\"name\":\"Every 9 weeks\",\"description\":\"\",\"position\":5,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 9 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003294066,\"name\":\"Every 10 weeks\",\"description\":\"\",\"position\":6,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 10 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003326834,\"name\":\"Every 11 weeks\",\"description\":\"\",\"position\":7,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 11 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":955875411,\"name\":\"Every 12 weeks\",\"description\":\"\",\"position\":8,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 12 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003359602,\"name\":\"Every 13 weeks\",\"description\":\"\",\"position\":9,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 13 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003392370,\"name\":\"Every 14 weeks\",\"description\":\"\",\"position\":10,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 14 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003425138,\"name\":\"Every 15 weeks\",\"description\":\"\",\"position\":11,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 15 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003457906,\"name\":\"Every 16 weeks\",\"description\":\"\",\"position\":12,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 16 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003490674,\"name\":\"Every 5 months\",\"description\":\"\",\"position\":13,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 5 months\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003523442,\"name\":\"Every 6 months\",\"description\":\"\",\"position\":14,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 6 months\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]}]}],\"subscription\":false,\"selected_variant\":{\"admin_graphql_api_id\":\"gid://shopify/ProductVariant/40531770966099\",\"barcode\":null,\"compare_at_price\":null,\"created_at\":\"2023-02-14T14:51:16-05:00\",\"fulfillment_service\":\"\",\"grams\":708,\"id\":40531770966099,\"image_id\":null,\"inventory_item_id\":42627193667667,\"inventory_management\":\"shopify\",\"inventory_policy\":\"continue\",\"inventory_quantity\":-4,\"old_inventory_quantity\":-4,\"option1\":\"Default Title\",\"option2\":null,\"option3\":null,\"position\":1,\"price\":\"116.00\",\"product_id\":6944496156755,\"requires_shipping\":true,\"sku\":\"109215002\",\"tax_code\":\"\",\"taxable\":true,\"title\":\"Default Title\",\"updated_at\":\"2026-10-23T04:41:17-04:00\",\"weight\":25,\"link\":\"https://helloseen.com/products/seen-healthy-scalp-advanced-hydration-bundle-fragrance-free?variant=40531770966099\",\"selling_plan_allocations\":[{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":955777107,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003195762,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":955809875,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003228530,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":955842643,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003261298,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003294066,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003326834,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":955875411,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003359602,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003392370,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003425138,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003457906,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003490674,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"},{\"price_adjustments\":[{\"position\":1,\"price\":9860}],\"price\":9860,\"compare_at_price\":11600,\"per_delivery_price\":11600,\"selling_plan_id\":691003523442,\"selling_plan_group_id\":\"gid://shopify/SellingPlanGroup/254017619\"}],\"selling_plans\":[{\"id\":955777107,\"name\":\"Every 4 weeks\",\"description\":\"\",\"position\":0,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 4 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003195762,\"name\":\"Every 5 weeks\",\"description\":\"\",\"position\":1,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 5 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":955809875,\"name\":\"Every 6 weeks\",\"description\":\"\",\"position\":2,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 6 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003228530,\"name\":\"Every 7 weeks\",\"description\":\"\",\"position\":3,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 7 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":955842643,\"name\":\"Every 8 weeks\",\"description\":\"\",\"position\":4,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 8 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003261298,\"name\":\"Every 9 weeks\",\"description\":\"\",\"position\":5,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 9 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003294066,\"name\":\"Every 10 weeks\",\"description\":\"\",\"position\":6,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 10 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003326834,\"name\":\"Every 11 weeks\",\"description\":\"\",\"position\":7,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 11 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":955875411,\"name\":\"Every 12 weeks\",\"description\":\"\",\"position\":8,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 12 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003359602,\"name\":\"Every 13 weeks\",\"description\":\"\",\"position\":9,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 13 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003392370,\"name\":\"Every 14 weeks\",\"description\":\"\",\"position\":10,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 14 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003425138,\"name\":\"Every 15 weeks\",\"description\":\"\",\"position\":11,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 15 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003457906,\"name\":\"Every 16 weeks\",\"description\":\"\",\"position\":12,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 16 weeks\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003490674,\"name\":\"Every 5 months\",\"description\":\"\",\"position\":13,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 5 months\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]},{\"id\":691003523442,\"name\":\"Every 6 months\",\"description\":\"\",\"position\":14,\"options\":[{\"name\":\"Subscription\",\"position\":1,\"value\":\"Every 6 months\"}],\"price_adjustments\":[{\"order_count\":null,\"position\":0,\"value_type\":\"percentage\",\"value\":\"15.00\"}]}],\"subscription_frequencies\":[\"Every 4 weeks\",\"Every 5 weeks\",\"Every 6 weeks\",\"Every 7 weeks\",\"Every 8 weeks\",\"Every 9 weeks\",\"Every 10 weeks\",\"Every 11 weeks\",\"Every 12 weeks\",\"Every 13 weeks\",\"Every 14 weeks\",\"Every 15 weeks\",\"Every 16 weeks\",\"Every 5 months\",\"Every 6 months\"]},\"selected_variant_id\":40531770966099,\"selected_product_id\":6944496156755,\"option1\":\"Default Title\",\"option2\":null,\"option3\":null,\"quantity\":1,\"properties\":{},\"reviews\":{},\"has_subscription\":true,\"is_subscription_only\":false,\"subscription_discount_type\":\"percentage\",\"subscription_discount_amount\":\"15.00\",\"subscription_frequencies\":[\"Every 4 weeks\",\"Every 5 weeks\",\"Every 6 weeks\",\"Every 7 weeks\",\"Every 8 weeks\",\"Every 9 weeks\",\"Every 10 weeks\",\"Every 11 weeks\",\"Every 12 weeks\",\"Every 13 weeks\",\"Every 14 weeks\",\"Every 15 weeks\",\"Every 16 weeks\",\"Every 5 months\",\"Every 6 months\"],\"subscription_frequency\":\"onetime\",\"subscription_id\":955777107,\"timestamp\":1794254299679}]"
+        },
+        {
+          "name": "osano_consentmanager_tattles",
+          "value": "{\"99\":{\"queue\":{},\"ignore\":{\"localStorage\":[\"TriplePixel\",\"TriplePixelU\",\"signInWithShop:cartSyncTransferAttemptedAt\",\"alia-storage-since\",\"test\",\"shopify:webmcp_adapter_loaded\",\"_rsession\",\"_ruid\",\"signInWithShop:cartSyncNextRecognitionAt\",\"alia-jwt\",\"alia-tracking-allowed-helloseen.myshopify.com\",\"alia-consent-helloseen.myshopify.com\",\"alia-user-11357\",\"deferred_landing\",\"_renriched\",\"_vwo_eventHist\",\"_vwo_eventHistSession\",\"swell-test-item\",\"TW_EXT_page^viewed_1794254299966\",\"TW_EXT_product^viewed_1794254299967\",\"alia-test\",\"_bcai_aid\",\"_pxSessionStart\",\"re_feature_test\",\"alia-popup-ground\",\"_pxPageVisited\",\"alia-user-actions\",\"user-flow-v2-8591677221\",\"_pxPixelSent\"]}}}"
+        },
+        {
+          "name": "swell-test-item",
+          "value": "true"
+        },
+        {
+          "name": "user-flow-v2-8591677221",
+          "value": "{\"state\":{\"_version\":1,\"steps\":[{\"step\":\"popup\",\"popupStepID\":\"e01c3a93-efe4-4fce-af1d-d448a27129de\",\"floatingButton\":false,\"timestamp\":1794254302961}]},\"updatedAt\":\"2026-11-09T19:58:22.961Z\"}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxY5YDv4gIpBrkE8p3iRn\""
+        },
+        {
+          "name": "alia-storage-since",
+          "value": "1794254296012"
+        },
+        {
+          "name": "_bcai_aid",
+          "value": "08781f1e-86a6-4f5f-b3f5-d38df6de4bcb"
+        },
+        {
+          "name": "alia-popup-ground",
+          "value": "{\"lastTriggerTime\":1794254302961}"
+        },
+        {
+          "name": "_vwo_eventHist",
+          "value": "{\"shopify.productViewed\":[{\"ts\":1794254298300}]}"
+        },
+        {
+          "name": "alia-tracking-allowed-helloseen.myshopify.com",
+          "value": "true"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "_bcai_cs",
+          "value": "{\"token\":\"hWNIxY5YDv4gIpBrkE8p3iRn?key=3d265d072b74e339abf349db3e08e876\",\"note\":\"\",\"attributes\":{\"_bcai\":\"eyJzaXRlX25hbWUiOiJoZWxsb3NlZW4iLCJpZHMiOlt7Im5hbWUiOiJfYmNhaV9pIiwidmFsdWUiOiJJbnVuRFZQQ0FqZG85VzNtLU5yZl8ifV0sInVzZXJfZGF0YSI6eyJiY3ZpZCI6IkludW5EVlBDQWpkbzlXM20tTnJmXyJ9fQ==\",\"_attribution\":\"Smart Cart 2.0\",\"_source\":\"Rebuy\"},\"original_total_price\":0,\"total_price\":0,\"total_discount\":0,\"total_weight\":0,\"item_count\":0,\"items\":[],\"requires_shipping\":false,\"currency\":\"PKR\",\"items_subtotal_price\":0,\"cart_level_discount_applications\":[],\"discount_codes\":[]}"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,{A>js2=;qi8R@+f'h2CV';f\">tokG_}\"Uua\u007f>\"5rZJ%gUkPEGG hqo,Zf\"9oB:Fh:*_Y\u007f?z;(@,-K4+S%s"
+        },
+        {
+          "name": "alia-consent-helloseen.myshopify.com",
+          "value": "{\"required\":false,\"source\":\"shopify\",\"regions\":{\"mode\":\"shopify\",\"countries\":[]}}"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,98noSMgm-,)nmjZ-i]B~(B+)aj+,\u007f}\u007fhcu`Q\u007fR^8D\\mfcBxk#64m(I]8VE4qt+va4?~VoLX]},=7q1^\\y}"
+        },
+        {
+          "name": "cart_link_id",
+          "value": "KBXyizzk"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794513497753"
+        },
+        {
+          "name": "_pxPixelSent",
+          "value": "{\"AKkVx\":{\"\":{\"pixelSent\":true,\"sentAt\":1794254303256}}}"
+        },
+        {
+          "name": "osano_consentmanager_uuid",
+          "value": "99636bed-55c0-4aa0-9fe1-3d039179b5ce"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,1_8Ad;y\\.@:Etf^>^,s^jkQih@0dY7,_//OZFYRzf+pnCD1o# L2TEn_&$N_ 7jG(|^T jS)gLh+V$,|c80^-FgkMMII1@0?wru=#2+RQXzv"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":\"deactivated\",\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":false,\"chatTitle\":\"SEEN Support\",\"isConnected\":false,\"isChatOnline\":false,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"always-required\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":false,\"replyType\":\"reply-dynamic\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1794254302322"
+        },
+        {
+          "name": "_ruid",
+          "value": "tPLTEEYbCwF3QxTxGieDWMP3AEyfgsmV4401vdjpPDsC4QAVpRabA3VEaceDhMzmabwceyJ1dWlkIjoiZGM3Y2YxMmItMDg1Ny00NjZhLTkxZmEtNTRiZTYwNDI3YmViIiwic2Vzc2lvbiI6eyJpZCI6IjcwMzRlYzg2YzUxMjk4MjgiLCJmaXJzdF9hY3RpdmUiOjE3OTQyNTQyOTc0NjAsImxhc3RfYWN0aXZlIjoxNzk0MjU0Mjk3NDYwfSwiZmlyc3RfYWN0aXZlIjp7InVybCI6Imh0dHBzOi8vaGVsbG9zZWVuLmNvbS9wcm9kdWN0cy9zZWVuLWhlYWx0aHktc2NhbHAtYWR2YW5jZWQtaHlkcmF0aW9uLWJ1bmRsZS1mcmFncmFuY2UtZnJlZSIsInRpbWVzdGFtcCI6MTc5NDI1NDI5NzUwMCwicmVmZXJyZXIiOiIifSwibGFzdF9hY3RpdmUiOnsidXJsIjoiaHR0cHM6Ly9oZWxsb3NlZW4uY29tL3Byb2R1Y3RzL3NlZW4taGVhbHRoeS1zY2FscC1hZHZhbmNlZC1oeWRyYXRpb24tYnVuZGxlLWZyYWdyYW5jZS1mcmVlIiwidGltZXN0YW1wIjoxNzk0MjU0Mjk3NTAwLCJyZWZlcnJlciI6IiJ9fQ=="
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "alia-user-11357",
+          "value": "{\"user\":{\"id\":9397005400,\"profile\":{\"properties\":{},\"prismMap\":{},\"history\":[[\"https://helloseen.com/products/seen-healthy-scalp-advanced-hydration-bundle-fragrance-free\"]]}}}"
+        },
+        {
+          "name": "osano_consentmanager",
+          "value": "j1b3K4oEwA-9Ov_jHEaHfNiCLIgYas0kYUwqwRWh2ISWHbfyOX0qppZYyCr-_VmFXhxZ4_ZXSIwfr5zT5lgn40sVBKgzFO27QDydQ2_uKO5egKW2a0VQmGu-7Zw37xfrKR6HhjwBPwpzPa5f56JaNMuulTckYwoRQe_fy2t2Y15LuYFxo1OuCT_B8jIescZlrtAf47REFVl3-cW6mONuBRC5J-ccI5dJAammPZELpyJsrIM9uWOWMv0Mth1F8g-8rrksfrCjG1ijao3ia9VcDPE-zF_M5m91Ffk1t6gGfy_ejEXVeFWsC1zlkxOVJNhD9Iv93D96kOvxwu7rWZE4Np3ZEH2VTe-Lj5fSOlteil9yWZxaoVfT_aiUetKl9KT94UjNLKQuVEOdjnZq6j-QRQfmX0x3BtioE1N50GNsWMW1QFt-2OvvG97ZT_8sq14n_6GEogBe8ROmZYKASKOROzD21XpuL6Mk5pWo1rlJjzUwDA-RK3yyDXmhb2na8NyDouLUJrtixsL55_lXAIr-HIWQsW7tQQNnObbApCW_Zkmek2-e1adz0ts9hNrk3tDbY9yBuFaO11nhbi6RyE6TMx6tadPEGg3Eljv6_hKj9kEbVkXzu-mcH2MgsuEeijoSrItW0QJe6KwdtXUd_dPt2BfMbhpjHbIslm-ZGjqV4pxyUjyCK-92AQ=="
+        }
+      ]
+    }
+  ]
+}

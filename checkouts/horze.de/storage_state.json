@@ -1,0 +1,141 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "DE",
+      "domain": "horze.de",
+      "path": "/",
+      "expires": 1825542448.96481,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "EUR",
+      "domain": "horze.de",
+      "path": "/",
+      "expires": 1801868849.965115,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaGzHdwLAAEALOy2cM3S6qDoNQWrSDWGZwHioCjrcMjEEJdA7nddLkBdNRfMq8imwtXqoi06HOI30zdEkhKD_QXYyKM:",
+      "domain": "horze.de",
+      "path": "/",
+      "expires": 1825542438.898919,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaGzHdx4AAEA6Frcgv1clqjPlV8qAXRTv5eBWjMV0JsUq_SocsANgGtsI5l9SULLfwROBtcsMR24PY-JJyjGmEUCzig:",
+      "domain": "horze.de",
+      "path": "/",
+      "expires": 1825542438.898983,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaGzHdx5AAEAOxfHDN2Gq-K_qFwCk3zvjbYsb9Tnr0msFy8Qav9LyeDZgp9kCkFzmFjN7bu0Qc4sAJ_jYQMsYgCj-l8:",
+      "domain": "horze.de",
+      "path": "/",
+      "expires": 1825542438.899034,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "f0_uid",
+      "value": "25d155cc-0ce4-4bde-81e6-6cf98ffc9f1c.1794006444353",
+      "domain": "horze.de",
+      "path": "/",
+      "expires": 1825542444,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "f0_sid",
+      "value": "7cd8ca7a-286c-43cd-8dcf-db083676bee0.1794006444354.30.3",
+      "domain": "horze.de",
+      "path": "/",
+      "expires": 1794092844,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_hju*JCF1TZW0IJmZ4Yf2pg%23cd37ed99-df85-475c-ad98-a4520811137a-1794006444",
+      "domain": ".horze.de",
+      "path": "/",
+      "expires": 1825564048.96455,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIqnViuKy2p9MWUPQARsp9%3Fkey%3De2e4af41794e56f4d899eabc03400a4d",
+      "domain": "horze.de",
+      "path": "/",
+      "expires": 1801868849.965023,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://horze.de",
+      "localStorage": [
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794265649499"
+        },
+        {
+          "name": "algolia-client-js-5.44.0-07MEEIXG9B",
+          "value": "{}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIqnViuKy2p9MWUPQARsp9\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIqnViuKy2p9MWUPQARsp9\",\"customerProfileId\":null,\"countryCode\":\"DE\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "f0_sid",
+          "value": "7cd8ca7a-286c-43cd-8dcf-db083676bee0.1794006444354.30.3"
+        },
+        {
+          "name": "ucData",
+          "value": "{\"gcm\":{\"adsDataRedaction\":true,\"adStorage\":\"denied\",\"adPersonalization\":\"denied\",\"adUserData\":\"denied\",\"analyticsStorage\":\"denied\"},\"consent\":{\"services\":{\"5s7Ay0fbLuPWEM\":{\"name\":\"Acerill Forms\",\"consent\":true},\"BJ_ocNjds-X\":{\"name\":\"cloudfront.net\",\"consent\":true},\"HgnXDuWTjXL7-4\":{\"name\":\"Fish Wishlist\",\"consent\":true},\"klZFJ0COT_nBcw\":{\"name\":\"fraud0\",\"consent\":true},\"BJ59EidsWQ\":{\"name\":\"Google Tag Manager\",\"consent\":true},\"rJJjcVouoZ7\":{\"name\":\"gstatic.com\",\"consent\":true},\"F-REmjGq7\":{\"name\":\"JSDelivr\",\"consent\":true},\"H1Vl5NidjWX\":{\"name\":\"Usercentrics Consent Management Platform\",\"consent\":true},\"ayrw2CGpqYx_mZ\":{\"name\":\"Ablyft\",\"consent\":false},\"tnfBi7gwe\":{\"name\":\"Algolia\",\"consent\":false},\"J39GyuWQq\":{\"name\":\"Amazon Web Services\",\"consent\":false},\"Gx9iMF__f\":{\"name\":\"AppsFlyer\",\"consent\":false},\"HkIVcNiuoZX\":{\"name\":\"Cloudflare\",\"consent\":false},\"LykAT-gy\":{\"name\":\"Conversion Linker\",\"consent\":false},\"9V8bg4D63\":{\"name\":\"DoubleClick Ad\",\"consent\":false},\"ko1w5PpFl\":{\"name\":\"Facebook Pixel\",\"consent\":false},\"XYQZBUojc\":{\"name\":\"Facebook Social Plugins\",\"consent\":false},\"S1_9Vsuj-Q\":{\"name\":\"Google Ads\",\"consent\":false},\"H1PKqNodoWQ\":{\"name\":\"Google AJAX\",\"consent\":false},\"HkocEodjb7\":{\"name\":\"Google Analytics\",\"consent\":false},\"HkPBYFofN\":{\"name\":\"Google Fonts\",\"consent\":false},\"rw4DyFQcg6s3-W\":{\"name\":\"Google Play\",\"consent\":false},\"SkPc5EjOsWm\":{\"name\":\"Google Syndication\",\"consent\":false},\"sMu8B7x7HrJcFj\":{\"name\":\"Influence.io\",\"consent\":false},\"7x35Xo7A\":{\"name\":\"Klarna\",\"consent\":false},\"JuU9Uc996\":{\"name\":\"Klarna On-site messaging\",\"consent\":false},\"m5uB6gnoW\":{\"name\":\"Klaviyo\",\"consent\":false},\"t0R7w63eu\":{\"name\":\"Klear\",\"consent\":false},\"A0MGS7lChcSz-j\":{\"name\":\"LoyaltyLion\",\"consent\":false},\"J05PmJuvt36qTe\":{\"name\":\"Meta Pixel\",\"consent\":false},\"BkeKqEjuoZQ\":{\"name\":\"Microsoft Advertising\",\"consent\":false},\"dsS7z9Hv4\":{\"name\":\"Microsoft Advertising Remarketing\",\"consent\":false},\"jzMEq56vW\":{\"name\":\"Microsoft Clarity\",\"consent\":false},\"o5siH7r7\":{\"name\":\"Personio\",\"consent\":false},\"9Q2qrmB3\":{\"name\":\"Pinterest\",\"consent\":false},\"a_Dw7zFT7\":{\"name\":\"Pinterest Tags\",\"consent\":false},\"Hko_qNsui-Q\":{\"name\":\"reCAPTCHA\",\"consent\":false},\"UN5TbrOXlDB1wG\":{\"name\":\"Reviews.io\",\"consent\":false},\"d_5HNF7Yc\":{\"name\":\"Salesforce\",\"consent\":false},\"rH1vNPCFR\":{\"name\":\"Sentry\",\"consent\":false},\"rAElQGRKNXP4Ak\":{\"name\":\"Shogun\",\"consent\":false},\"RS4BPcGgdaL4Pz\":{\"name\":\"Shop.app\",\"consent\":false},\"r19SxcEs_o-X\":{\"name\":\"Shopify\",\"consent\":false},\"ZQOx-TM97Y3rLe\":{\"name\":\"Shopify Analytics\",\"consent\":false},\"1xNAouVLz\":{\"name\":\"Shopify CDN\",\"consent\":false},\"zixK7I8y1mhf1D\":{\"name\":\"Shopify Marketing\",\"consent\":false},\"T4PQQdTkrEofhd\":{\"name\":\"Shopify Preferences\",\"consent\":false},\"s2NmgIZR\":{\"name\":\"Snapchat Advertising\",\"consent\":false},\"b67YnSAu9CLgAu\":{\"name\":\"Stape\",\"consent\":false},\"nZ4QikmAZW-PrX\":{\"name\":\"Swym Wishlist\",\"consent\":false},\"Z0TcXjY0P\":{\"name\":\"TikTok\",\"consent\":false},\"6-qobRfu\":{\"name\":\"TikTok Advertising\",\"consent\":false},\"BJz7qNsdj-7\":{\"name\":\"YouTube Video\",\"consent\":false},\"54s8nFgf\":{\"name\":\"Zendesk\",\"consent\":false}}},\"gcmStatus\":{\"consentStatus\":{\"settingsId\":\"_0MzGiZSocf--C\",\"settingsVersion\":\"52.7.137\",\"type\":\"IMPLICIT\",\"updatedBy\":\"onInitialPageLoad\",\"consentHash\":\"1e83f5e4e31d143923db7bd4347c782af96ba31005abb70216d099c7e60d6857\",\"renewConsentsTimestamp\":1790596578,\"services\":{\"Acerill Forms\":true,\"cloudfront.net\":true,\"Fish Wishlist\":true,\"fraud0\":true,\"Google Tag Manager\":true,\"gstatic.com\":true,\"JSDelivr\":true,\"Usercentrics Consent Management Platform\":true,\"Ablyft\":false,\"Algolia\":false,\"Amazon Web Services\":false,\"AppsFlyer\":false,\"Cloudflare\":false,\"Conversion Linker\":false,\"DoubleClick Ad\":false,\"Facebook Pixel\":false,\"Facebook Social Plugins\":false,\"Google Ads\":false,\"Google AJAX\":false,\"Google Analytics\":false,\"Google Fonts\":false,\"Google Play\":false,\"Google Syndication\":false,\"Influence.io\":false,\"Klarna\":false,\"Klarna On-site messaging\":false,\"Klaviyo\":false,\"Klear\":false,\"LoyaltyLion\":false,\"Meta Pixel\":false,\"Microsoft Advertising\":false,\"Microsoft Advertising Remarketing\":false,\"Microsoft Clarity\":false,\"Personio\":false,\"Pinterest\":false,\"Pinterest Tags\":false,\"reCAPTCHA\":false,\"Reviews.io\":false,\"Salesforce\":false,\"Sentry\":false,\"Shogun\":false,\"Shop.app\":false,\"Shopify\":false,\"Shopify Analytics\":false,\"Shopify CDN\":false,\"Shopify Marketing\":false,\"Shopify Preferences\":false,\"Snapchat Advertising\":false,\"Stape\":false,\"Swym Wishlist\":false,\"TikTok\":false,\"TikTok Advertising\":false,\"YouTube Video\":false,\"Zendesk\":false},\"categories\":{\"marketing\":false,\"functional\":false,\"essential\":true}},\"gcmUpdate\":{\"adsDataRedaction\":true,\"adStorage\":\"denied\",\"adPersonalization\":\"denied\",\"adUserData\":\"denied\",\"analyticsStorage\":\"denied\"},\"dataLayerNames\":[\"dataLayer\"]},\"ui\":{\"language\":\"de\"}}"
+        },
+        {
+          "name": "f0_uid",
+          "value": "25d155cc-0ce4-4bde-81e6-6cf98ffc9f1c.1794006444353"
+        },
+        {
+          "name": "marketShopStape",
+          "value": "{\"id\":\"92488368477\",\"code\":\"DE\"}"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIqnViuKy2p9MWUPQARsp9\""
+        },
+        {
+          "name": "ucString",
+          "value": "N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMADBTSNgMbIAuUCANp9AJIAmpCACZ+ADioA2AKxka6MkxpiARkwDsAQwibJYiDQCc89MOkH1/QwDNj14demaVZMuhqT0TKoYVVxZNZi/GQqjCCcmkgA5jia0RCk/InYMBCsrHAxaKBwgqggAPo0ALIAXgDicABaAMoITNYAtE0AwuGQsIgoBdLCFOoU6FTq4awAngAOiQUVACIACgBKIAC+2DiT/JqsEPwAgqxo6OqGch6uklLqG1s7ewBC46TIvEhwmZqcC/EQADIITSCZhQHS7A5HDCnc6SS7XbCggCOeFB+XYOAgqVYOxwMFI+z+f0KcwAogA5XgkuZjKYzEC8EoLP68Vq8AAq4QAFpoYJzSOgIBJHBAyBAqOh+H5DMJ/Cp1CoQlQyOoNGJhJpbJIVJpxTQaE4VHKaMJ0JJ+EZDBoIJIaPw9NJRqloGA4EwIAI8agANoAXWw0UmTFqcGiSC+aGsXzS2CyuygmiYmRIBVx0DWQA="
+        },
+        {
+          "name": "_xsd",
+          "value": "0|1"
+        }
+      ]
+    }
+  ]
+}

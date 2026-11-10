@@ -1,0 +1,54 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBVsq03EkUqgIZeUn27D9IO1CY1FRm-PJHAoqqxdJdy2VxNCwFOfprHpogZWEnFgk6g-2LoW12yvcXxS247Z4h76XvT_X5Yn1ykgBPjy9jCbr7WyLyYvTapHHiVN51aALFzqg2-nRbhhXJGVF_kJWh-7ToDJhJhOEd9PtkD7WTahegMhpVxURn7pyMjGYcyPwqt5Y--B0Hzu_qCB2MdWfr9U_KnU4R3ofsMA"
+    },
+    "queueToken": "Axzu21IihBLY4l8wwlTqY8_303ykb5t_EcCh80h2PbCRS11UacIiHQTAtJckhuuwhhN56VPoDZSc8BS6uQvyi6ESn1XHDKpN0q5JU98PDennOeP95u1_E9SGzN-9Cg==",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "6d7916eb-b82c-4041-b5ea-b3eecfaed344",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/41786336149637",
+              "variantId": "gid://shopify/ProductVariant/41786336149637",
+              "properties": [
+                {
+                  "name": "_fenix_sessionid",
+                  "value": {
+                    "string": "MTc5NDI2MTU4NTc3MS13d3cuc3RldmVtYWRkZW4uY29tLTIyOTk5"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_fenix_sessionid_global",
+                  "value": {
+                    "string": "MTc5NDI2MTU4NTc3My13d3cuc3RldmVtYWRkZW4uY29tLTIzOTU5LWdsb2JhbA=="
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "119.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

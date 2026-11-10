@@ -1,0 +1,81 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "GB",
+      "domain": "furn.com",
+      "path": "/",
+      "expires": 1825789111.681599,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "GBP",
+      "domain": "furn.com",
+      "path": "/",
+      "expires": 1795462713.830892,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaHB0bM0AAEAf3FNCWpPk7GICiJWlfle8xqGCTfAJKIzcoLV0LUSsEhkMw7VwWmBzbC_K3SS_A34XrpApln2tyZzHZE:",
+      "domain": "furn.com",
+      "path": "/",
+      "expires": 1825789108.349618,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIxW5AXYjdEkxE37o4xAxf%3Fkey%3Def0b51fd5d087be51f8ca5efb5ebef47",
+      "domain": "furn.com",
+      "path": "/",
+      "expires": 1802115512.066015,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.ampS_PKSD_t_f_Gr2iNiDcQsWXvFDabr9s9Q%23b9aae021-c9a5-411a-bb6a-e7fe603520ca-1794253109",
+      "domain": ".furn.com",
+      "path": "/",
+      "expires": 1825810740.201603,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://furn.com",
+      "localStorage": [
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIxW5AXYjdEkxE37o4xAxf\"},{\"postPurchaseInquiryStatus\":\"disabled\"}]]"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIxW5AXYjdEkxE37o4xAxf\""
+        },
+        {
+          "name": "collections",
+          "value": ""
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794512312157"
+        }
+      ]
+    }
+  ]
+}

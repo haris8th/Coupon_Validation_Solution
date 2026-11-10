@@ -1,0 +1,93 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "www.sockittome.com",
+      "path": "/",
+      "expires": 1825729697.668752,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "www.sockittome.com",
+      "path": "/",
+      "expires": 1802056097.669169,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG-RxeDAAEAeAchdyii2fj0LM8gdG84DWUIHO2WyuqbCcZIglX4qcmeJB0mh_LhxmbXXss5SDSIbZcqAEQ0VFVKM24:",
+      "domain": "www.sockittome.com",
+      "path": "/",
+      "expires": 1825729690.790488,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": ".QSgOMUXPuKTvL7FavzSlvYnLUAfz5VeAh2.59Qd5DQ-1794193697.0032501-1.0.1.1-ojsDRmZ6ksLes_nd8ojfYP5FINTdkrwzXMarzGGotr3tyopx6cQuMDAL_5J5w7Eaoya7K.88AJBrjMONVimiBhT2oA20KIpSeO89V84of8RJ043q2YfE6fPQxOq.3T8i",
+      "domain": ".www.sockittome.com",
+      "path": "/",
+      "expires": 1794195495.423064,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://sockittome.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "cart",
+      "value": "hWNIvtjvKwXvo8JtQE7wxtNj%3Fkey%3Ddf1692f317ef422c6039e0c78625acc5",
+      "domain": "www.sockittome.com",
+      "path": "/",
+      "expires": 1802056097.668947,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.ampS_PKSD_t_f_eVl-g-1wSZmB6RvjvMRP-g%23be4b1e8b-0837-4d17-93df-bd4673943fc3-1794193694",
+      "domain": ".sockittome.com",
+      "path": "/",
+      "expires": 1825751297.668487,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.sockittome.com",
+      "localStorage": [
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "delivery_promise_default_address",
+          "value": "{\"zip\":\"74600\",\"timezone\":\"Asia/Karachi\"}"
+        },
+        {
+          "name": "shq-cart-id",
+          "value": "1a7886f2-3e53-4315-b071-93b821edae6e_1lf2e8s"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIvtjvKwXvo8JtQE7wxtNj\""
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794452895751"
+        }
+      ]
+    }
+  ]
+}

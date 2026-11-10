@@ -1,0 +1,54 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBS2wjCG1pVvfMzbhUt0tCNPyOnxqNlgXZSrwwIz3atN2nmQ_6xc3531JuDBJ4mg7rJE7QjTERI9E5orYOHk1T0cM19IqT3VzxKNUP8hDYlGwwYre7tzkmBCGDfp5GjWClZcVS-NLpOf_xTGZ1TtipVmpwn08jvzoENnstOxLC29EzJqKzLBuQsYCn1UOKkWAhEYe9Dyx9mREOqp2nL91fZ-7Cs8RWjCg"
+    },
+    "queueToken": "A3j4DqYkpX4F0KNeHxVTWp2CK67XpzI4Tm54RC_4s2u0QShhsib29mg6yi8WIjd14mCFseWPwriO6FXshJpoQ_14GLVbjvaVvFcPrLDkbVeUisJpQ-acsjpwDjk=",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "35589cc7-9e4f-42df-952c-9d1db964b55e",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/42836039729229",
+              "variantId": "gid://shopify/ProductVariant/42836039729229",
+              "properties": [
+                {
+                  "name": "_Phase",
+                  "value": {
+                    "string": "retail"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_fitFinderAssisted",
+                  "value": {
+                    "string": "false"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "168.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

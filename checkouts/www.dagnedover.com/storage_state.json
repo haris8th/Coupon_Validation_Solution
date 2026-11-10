@@ -1,0 +1,935 @@
+{
+  "cookies": [
+    {
+      "name": "em_cache_shard",
+      "value": "dtc",
+      "domain": "www.dagnedover.com",
+      "path": "/collections",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".dagnedover.com",
+      "path": "/collections",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Analytics",
+      "value": "{\"merchantId\":\"30000707\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://webservices.global-e.com/\",\"clientId\":\"d7e2d44c-eda3-436c-a751-e50358ea8fe7\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794170549551}",
+      "domain": "www.dagnedover.com",
+      "path": "/collections",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "em_cache_shard",
+      "value": "dtc",
+      "domain": "www.dagnedover.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".dagnedover.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Analytics",
+      "value": "{\"merchantId\":\"30000707\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://webservices.global-e.com/\",\"clientId\":\"d7e2d44c-eda3-436c-a751-e50358ea8fe7\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794170526468}",
+      "domain": "www.dagnedover.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "PK",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1825706541.938527,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cart_currency",
+      "value": "PKR",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1802032956.824616,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG85XddAAEA8zR3CIlidmpYC08KJ8WhvdGYSBKhiHMIUtcrNYVkbPpnoDFXlVUEHWQtRMLwgXbPxlHee45HPu0JE9Q:",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1825706515.835449,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaG85Xe0AAEArDPBPEobfgvZtd0TgKu2nSDIus4nE4psgIgrezdRbvm85f0BFu2CaoDxXS-DzLJv41x_IR-AKRRMRkM:",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1825706515.83553,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaG85Xe1AAEAackQPp7KFuO_pnkxhRiqAiCFrP09NxA5SeDaL3r0uxguSRzetA8STj6jcbyW2yTW0liR5bHPr--xAjI:",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1825706515.835598,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "em_cookie_ts",
+      "value": "2026-11-08T20%3A41%3A57.250Z",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1828730515.835813,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "em_device_id",
+      "value": "0xde6863b9d8c14603",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1828730556.848362,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "em_session_id",
+      "value": "0x2a2f121f4a57933a",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__eventn_id",
+      "value": "9vaqknfr1a.1794170515",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1828730515.907094,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "em_cache_shard",
+      "value": "dtc",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "XRzO8fbCJie6uljBtVfQ4CLTFS8LduOBntGLJvJ5PZc-1794170519.5741308-1.0.1.1-45CG2kCI5e14r09jSOD0P3JRlPULrd44FeqNbO1bgkYj7JLBWy87oN0EvuHns.9RIfEqinsNz2b6rlJ0ncoHQ4Qrg8E1cnkggDvV6bEOkQVG2dtIEQjqRGUyVpeE4jnh",
+      "domain": ".www.dagnedover.com",
+      "path": "/",
+      "expires": 1794172317.931687,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://dagnedover.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://www.dagnedover.com",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1796762547,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "loop_cid_5041c284-f690-4293-8aef-f6a209d9f90c",
+      "value": "530db22d-3a16-48f4-a72f-a72d28919e9c",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1825706548,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "loop_sid_530db22d-3a16-48f4-a72f-a72d28919e9c",
+      "value": "1",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1794172348,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "loop_pvhb_5041c284-f690-4293-8aef-f6a209d9f90c",
+      "value": "1",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1794172349,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "5041c284-f690-4293-8aef-f6a209d9f90c",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1825706518,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tatari-session-cookie",
+      "value": "77952ea0-c6c0-d6b8-729d-54db5e228782",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1828730518.899805,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "enviveUnlockedUserId",
+      "value": "spiffy-user-id-8ad0d383-b7e2-4404-95ae-0ca4bc8453c6",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "enviveUnlockedUserIdSource",
+      "value": "shopify-web-pixel-sdk",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hasActiveDonationCampaigns",
+      "value": "false",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1794172318.993486,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Analytics",
+      "value": "{\"merchantId\":\"30000707\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://webservices.global-e.com/\",\"clientId\":\"d7e2d44c-eda3-436c-a751-e50358ea8fe7\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794170519252}",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "em_cmp",
+      "value": "3.AMPS_PKSD_f_f_kxLn-TbETFO6dILVBk3VTg_%257B%257D",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1828730519.331061,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__pp_sid",
+      "value": "oHn4xpy4D3DgJepH_mw8aswvb",
+      "domain": ".www.dagnedover.com",
+      "path": "/",
+      "expires": 1794172348,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__pp_pid",
+      "value": "bRbnUNjYoFEnoAni_mw8aswvb",
+      "domain": ".www.dagnedover.com",
+      "path": "/",
+      "expires": 1828730548.564571,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "rrssts",
+      "value": "1794170519677",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1825706519,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU0yVTFaVFl3TURRdE16UXpZeTAwWVRZekxXSTBOakF0TjJJMFpUa3pNV0pqTW1Sag",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1825706547,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "enviveUserId",
+      "value": "spiffy-user-id-8ad0d383-b7e2-4404-95ae-0ca4bc8453c6",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "IdSk1LKKffDr7A6lhj-z-QDpYG17rT_T",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1828298520,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rrv2ses.e833",
+      "value": "*",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1794172348,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.921118191.1794170521",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1828730536.310017,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "value": "FPID2.2.2tVRja4izj2fYJysIvgm3AtfHzhgZJU8oPfqvefO2rA%3D.1794170521",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1828730540.534919,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "value": "ZPdv8oXJyGGtrrS8EZhO5qex1fqcl19pHB%2B0iCwgfK7AuPXlEDXkD3xtm6sDzBoaoRS6TP7O0rUUtZc%2B7A7Ctve7hSLW%2FeJRgYDjVHgJpf%2FBvekyGpXpJP3Lc2k4NQ%3D%3D",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1794242521.629217,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_MKTG_6cbfa9c81b",
+      "value": "JTdCJTdE",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1825706522,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_axwrt",
+      "value": "5041c284-f690-4293-8aef-f6a209d9f90c",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1825706526,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "none",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1796762526,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1794170527674.6328913742",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1801946527,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "5fd9e6bc-57d5-4929-ac74-ecd07c74ce2b",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1794260534,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1106967436.1794170521.-.-.1794170521.1127968195.1794170521.1794170535",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1801946521,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.e833",
+      "value": "*",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1794172350,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_HR8PP80RJQ",
+      "value": "GS2.1.s1794170521$o1$g1$t1794170539$j42$l0$h0",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1828730539.788052,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_LV31RDQLDF",
+      "value": "GS2.1.s1794170520$o1$g1$t1794170539$j41$l0$h677641801",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1828730539.803529,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_8X5XHJDQ15",
+      "value": "GS2.1.s1794170521$o1$g1$t1794170539$j42$l0$h0",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1828730539.81308,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rrpvc",
+      "value": "4",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1825706547,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_6cbfa9c81b",
+      "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjIwMWM1NDZlYy0yMThiLTQzMTEtYTRlMS01OTdlNTZjZTEzZDMlMjIlMkMlMjJ1c2VySWQlMjIlM0ElMjJzcGlmZnktdXNlci1pZC04YWQwZDM4My1iN2UyLTQ0MDQtOTVhZS0wY2E0YmM4NDUzYzYlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzk0MTcwNTIyMTg2JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc5NDE3MDU0ODMxOSUyQyUyMmxhc3RFdmVudElkJTIyJTNBOCUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBNCU3RA==",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1825706548,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2026-11-08T20:42:28.579Z",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1825706548,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Sun+Nov+08+2026+15%3A42%3A28+GMT-0500+(Eastern+Standard+Time)&version=202507.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0004%3A0%2CC0002%3A0%2CC0001%3A1%2CC0003%3A0&AwaitingReconsent=false",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1825706548,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rrv2id.e833",
+      "value": "d33e3eab-8720-427a-8c3f-00737307e3e8.1794170520.1.1794170549.1794170520.8e2c0fcb-812c-4728-8d27-1fd2989f5c28",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1828730548.706283,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "apt_pixel",
+      "value": "eyJkZXZpY2VJZCI6ImQzMThjYmUzLTQ0N2UtNGQ2NC1hMTg0LWJkY2ViOWMwOGUxYiIsInVzZXJJZCI6bnVsbCwiZXZlbnRJZCI6MywibGFzdEV2ZW50VGltZSI6MTc5NDE3MDU0OTI1MCwiY2hlY2tvdXQiOnsiYnJhbmQiOiJjYXNoYXBwYWZ0ZXJwYXkifX0=",
+      "domain": ".www.dagnedover.com",
+      "path": "/",
+      "expires": 1825706549,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amp_f24a38",
+      "value": "Onlz-ifGDGAQ9R1cMXdUag...1k6uebeso.1k6uebt12.0.0.0",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1825706549,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.e833",
+      "value": "fadc48ecabe6f5b1.1794170537.1.1794170550.1794170537",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1828730550.194588,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scsrid_r",
+      "value": "",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1828298549,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "PFSk1LKKffDr7A6lhj-z-QDpYG17rT_TQSfAOu12UEHChPaQkJMk7_aiCdn5DBzai6fLD7GaFho",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1828298550,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scida",
+      "value": "_vZQQcKE9pCQkyTv9qIJ2fkMHNqLpzOx",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1828298550,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=9d7dd788-115a-4606-9d93-6c9c9b06efbb&logs=1&id=d0077197-248c-482e-bbbf-8d6dbb625335&created=1794170537373&expire=1794171456456",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1825706556,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_kxLn-TbETFO6dILVBk3VTg%238add2a24-592f-4c05-bbdf-8c1048844294-1794170543",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1825728155.823764,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIvGbHsGeSNNJSDNKuQSPL%3Fkey%3Dbe83d98e8f8d4c6f25278d9a901d6874",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": 1802032956.824265,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "em_nav_id",
+      "value": "0x9e34583056a5f64a",
+      "domain": "www.dagnedover.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ax_visitor",
+      "value": "%7B%22firstVisitTs%22%3A1794170526276%2C%22lastVisitTs%22%3Anull%2C%22currentVisitStartTs%22%3A1794170526276%2C%22ts%22%3A1794170556897%2C%22visitCount%22%3A1%7D",
+      "domain": ".dagnedover.com",
+      "path": "/",
+      "expires": 1825706556,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "LEd.dsj7k5vZRcFlag3EGAC8E0taMRgOwc3g..awZe8-1794170559.6729379-1.0.1.1-h.JRQZWecjXpwMhmYP_ob2pMxow7lwH2mNfr.MccAwOwTRVslt7f4f2zJkj4xj5fLUhqAEWKTJI.lI1bI23IKFN4oBuC.AMUcV3Qhgzt0fSDw4_ut2KKzC2j6R7paAzO",
+      "domain": ".www.dagnedover.com",
+      "path": "/",
+      "expires": 1794172358.22167,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://dagnedover.com",
+      "_crHasCrossSiteAncestor": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.dagnedover.com",
+      "localStorage": [
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionCount",
+          "value": "1"
+        },
+        {
+          "name": "_pxPageVisited",
+          "value": "{\"qVjjK\":[\"/\",\"/products/micro-landon-crossbody-cherry\",\"/collections/dakota-keychain\",\"/collections/the-landon-carryall\"]}"
+        },
+        {
+          "name": "_axwrt_backup",
+          "value": "{\"value\":\"5041c284-f690-4293-8aef-f6a209d9f90c\",\"setTs\":null,\"expiresAt\":1825706526274}"
+        },
+        {
+          "name": "5718FABB002E",
+          "value": "AAycn5_ooTS7ETysDFX0SIs2m2rkyivUmCVDfs7kw93BQEDuBa0xm4RxFezA8QaYyiBly9wnz1TK0sqctHAimBVSxuw7mg"
+        },
+        {
+          "name": "forms_previous_session_id",
+          "value": "fb9e8918-90fe-4886-aff2-7854fff233ca"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":3,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1794170539808},\"expires\":1801946539808},\"gsid_dc\":{\"value\":{\"joinId\":\"xipYeSzDg8gpWxAv55xrWC5zYFA6n-9vXQ\",\"lastJoinedTimeMs\":1794170521316},\"expires\":1794170821316}}"
+        },
+        {
+          "name": "loomi-cart",
+          "value": "{\"token\":\"hWNIvGbHsGeSNNJSDNKuQSPL?key=be83d98e8f8d4c6f25278d9a901d6874\",\"note\":\"\",\"attributes\":{\"vslyCT\":\"vslyCT_hWNIvGbHsGeSNNJSDNKuQSPL?key=be83d98e8f8d4c6f25278d9a901d6874\",\"vslySUBS\":\"0\",\"vslyUID\":\"9vaqknfr1a\",\"vslySID\":\"528317027793849\",\"_em_device_id\":\"0xde6863b9d8c14603\",\"_em_nav_id\":\"0x911f9ec51257b9e6\",\"_em_session_id\":\"0x2a2f121f4a57933a\",\"gorgias.guest_id\":\"5041c284-f690-4293-8aef-f6a209d9f90c\",\"gorgias.session_id\":\"0fec2fbd-aa92-4215-b7a5-060cb6401d51\",\"Inspired Data\":\"v1|31e31fd4-779f-4f91-932f-031b09078ae6|5%\"},\"original_total_price\":6160000,\"total_price\":6160000,\"total_discount\":0,\"total_weight\":544.3108,\"item_count\":1,\"items\":[{\"id\":39460918394951,\"properties\":{},\"quantity\":1,\"variant_id\":39460918394951,\"key\":\"39460918394951:6261239fb1af83f650b46abe16f95d4a\",\"title\":\"Landon Carryall in Onyx, Small\",\"price\":6160000,\"original_price\":6160000,\"presentment_price\":61600,\"discounted_price\":6160000,\"line_price\":6160000,\"original_line_price\":6160000,\"total_discount\":0,\"discounts\":[],\"sku\":\"DD843001101\",\"grams\":544,\"vendor\":\"Dagne Dover\",\"taxable\":true,\"product_id\":6590695112775,\"product_has_only_default_variant\":true,\"gift_card\":false,\"final_price\":6160000,\"final_line_price\":6160000,\"url\":\"/products/landon-carryall-small-onyx-reset?variant=39460918394951\",\"featured_image\":{\"aspect_ratio\":0.833,\"alt\":\"small Landon Carryall in black\",\"height\":1440,\"url\":\"https://cdn.shopify.com/s/files/1/0260/1439/files/365_Neoprene_Landon_S_Onyx_Front_10f555fc-6da2-4c8e-8234-0413c03c0762.jpg?v=1768237374\",\"width\":1200},\"image\":\"https://cdn.shopify.com/s/files/1/0260/1439/files/365_Neoprene_Landon_S_Onyx_Front_10f555fc-6da2-4c8e-8234-0413c03c0762.jpg?v=1768237374\",\"handle\":\"landon-carryall-small-onyx-reset\",\"requires_shipping\":true,\"product_type\":\"Landon Carryall\",\"product_title\":\"Landon Carryall in Onyx, Small\",\"product_description\":\"The ultimate petite duffle bag for a full day ahead. The Small Landon Carryall's size won\u2019t impede on a daily commute. When unsnapped at the sides, it has enough space to hold a change of clothes for any post-work activity, or to pick up a few things at the farmer\u2019s market on weekends. The small Landon includes a stretch key leash and practical pockets for a tablet, charging cords and water bottle. A detachable cross-body strap provides more ways to carry this carryall bag with ease.\\nFrom work to workout, week to weekend, itineraries and the impromptu, flow through every moment with bags designed for real life. Effortless comfort means bags disappear into your day while keeping you ready for whatever's next. For every version of every day, premium neoprene makes it happen.\\n\u00a0\",\"variant_title\":null,\"variant_options\":[\"Default Title\"],\"options_with_values\":[{\"name\":\"Title\",\"value\":\"Default Title\"}],\"line_level_discount_allocations\":[],\"line_level_total_discount\":0,\"quantity_rule\":{\"min\":1,\"max\":null,\"increment\":1},\"has_components\":false}],\"requires_shipping\":true,\"currency\":\"PKR\",\"items_subtotal_price\":6160000,\"cart_level_discount_applications\":[],\"discount_codes\":[]}"
+        },
+        {
+          "name": "gorgias.guest-id",
+          "value": "5041c284-f690-4293-8aef-f6a209d9f90c"
+        },
+        {
+          "name": "sig_session_id",
+          "value": "{\"id\":\"4197289e-5b73-4d53-b73e-1b26517c6fd6\",\"createdAt\":1794170518810}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--lastCollectionPathname",
+          "value": "/collections/the-landon-carryall"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionId",
+          "value": "1794170527"
+        },
+        {
+          "name": "inspired-device-id",
+          "value": "31e31fd4-779f-4f91-932f-031b09078ae6"
+        },
+        {
+          "name": "lmi_utm_data",
+          "value": "[]"
+        },
+        {
+          "name": "loop-onstore-data",
+          "value": "{\"debug\":false,\"testMode\":false,\"redirect\":true,\"active\":false,\"params\":null,\"key\":\"733f5c377610817a38bac89a12c9afec6f86c497\",\"api\":null,\"token\":null,\"id\":null,\"fullPayload\":false,\"preserveCart\":false,\"draftOrderId\":null,\"inExperiment\":false,\"singleItem\":false,\"attach\":null,\"isEmbeddedPortal\":false}"
+        },
+        {
+          "name": "cartLastUpdatedAt",
+          "value": "{\"id\":\"gid://shopify/Cart/hWNIvGbHsGeSNNJSDNKuQSPL?key=be83d98e8f8d4c6f25278d9a901d6874\",\"updatedAt\":\"2026-11-08T20:42:33Z\"}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--lastDlPushTimestamp",
+          "value": "1794170557"
+        },
+        {
+          "name": "v1-spiffy-user-id-default",
+          "value": "spiffy-user-id-8ad0d383-b7e2-4404-95ae-0ca4bc8453c6"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIvGbHsGeSNNJSDNKuQSPL\""
+        },
+        {
+          "name": "AMP_remote_config_6cbfa9c81b",
+          "value": "{\"remoteConfig\":{\"configs\":{\"diagnostics\":{\"browserSDK\":{\"sampleRate\":0.02}},\"sessionReplay\":{\"sr_interaction_config\":{\"batch\":false,\"enabled\":true},\"sr_privacy_config\":{\"maskSelector\":[],\"blockSelector\":[],\"unmaskSelector\":[],\"defaultMaskLevel\":\"light\"},\"sr_sampling_config\":{\"sample_rate\":0.0009439323059341714,\"capture_enabled\":true}},\"analyticsSDK\":{}}},\"lastFetch\":\"2026-11-08T20:42:28.974Z\"}"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://www.dagnedover.com/\",\"exp\":1796762518750}"
+        },
+        {
+          "name": "vsly_visited_pages",
+          "value": "[{\"ts\":\"2026-11-08T20:42:22.000Z\",\"name\":\"https://www.dagnedover.com/collections/the-landon-carryall\"},{\"ts\":\"2026-11-08T20:42:20.000Z\",\"name\":\"https://www.dagnedover.com/products/landon-carryall-in-concrete-extra-large\"},{\"ts\":\"2026-11-08T20:42:10.000Z\",\"name\":\"https://www.dagnedover.com/collections/dakota-keychain\"},{\"ts\":\"2026-11-08T20:42:09.000Z\",\"name\":\"https://www.dagnedover.com/products/dakota-keychain-clove\"},{\"ts\":\"2026-11-08T20:42:03.000Z\",\"name\":\"https://www.dagnedover.com/products/micro-landon-crossbody-cherry\"},{\"ts\":\"2026-11-08T20:41:55.000Z\",\"name\":\"https://www.dagnedover.com/\"}]"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "loomi-flags",
+          "value": "{\"force-mobile-by-width\":true,\"fb-locale-currency\":true,\"pixel-atc\":true,\"svc-stats\":true,\"fb-recs-cache\":true,\"bunny-cdn\":true,\"allocate-checkout-extensibility\":true,\"opt-img\":true,\"block-do-not-track\":false,\"sdk-auto-clean\":true,\"experience-applied-callback\":true,\"utm-decode\":true,\"sdk-enable-cart-enrichment\":false,\"resolve-used-fonts-new-logic\":true,\"micro-batching\":true,\"keep-redirect-sid\":true,\"checkout-reporting-ignore-mp\":true,\"currency-aware-client-targeting\":true,\"coalesce-alloc\":true,\"persist-purchases\":true,\"sdk-force-apply-after-revert\":true,\"sdk-reinit-on-cache-v2\":true,\"beacon\":true,\"alloc-client-side-formula\":true,\"reload-on-device-changed\":true,\"coalesce-recs\":true,\"sdk-reconcile\":true,\"subscriptions_v1\":true,\"theme-testing\":true,\"op-focus-trap-removal\":true,\"sec-dim-image\":true,\"force-refresh-cart\":true,\"atc-alignment\":true,\"sdk-hydration-support\":true,\"checkout-live-prices\":true,\"backend-track-redirect\":true,\"cache-nav-clear\":true,\"live-prices\":true}"
+        },
+        {
+          "name": "gorgias.language-loaded",
+          "value": "en-US"
+        },
+        {
+          "name": "openSourceFpId",
+          "value": "{\"value\":\"BBC7jNHRf2I0Qbkqr1mMo4gjCms\",\"ttl\":1794192155368,\"eventId\":\"6m5m14abl0kf7qtir0i1zv\"}"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794429718699"
+        },
+        {
+          "name": "AMP_unsent_6cbfa9c81b",
+          "value": "[]"
+        },
+        {
+          "name": "_pxPixelSent",
+          "value": "{\"qVjjK\":{\"\":{\"pixelSent\":true,\"sentAt\":1794170548565}}}"
+        },
+        {
+          "name": "openSourceFpFlags",
+          "value": "{\"value\":{\"isBot\":true,\"isEmulator\":false,\"isVPN\":false},\"ttl\":1794192155370,\"eventId\":\"tbesz5uetopka4obu0egwo\"}"
+        },
+        {
+          "name": "forms_session_expires_at",
+          "value": "1794172348984"
+        },
+        {
+          "name": "gorgias.ai-agent-state",
+          "value": "{\"status\":\"active\",\"value\":{\"activated\":\"idle\"},\"historyValue\":{},\"context\":{\"statesHistory\":[],\"aiAgentEnabled\":true,\"chatTitle\":\"Dagne CX Team\",\"isConnected\":false,\"isChatOnline\":false,\"capturedEmail\":\"\",\"lastShopperMessage\":null,\"waitTime\":null,\"isInputDisabled\":false,\"emailCaptureEnabled\":true,\"emailCaptureEnforcement\":\"optional\",\"timeoutEnabled\":true,\"backendTimeoutEnabled\":false,\"autoResponderConfig\":{\"isEnabled\":false,\"replyType\":\"reply-dynamic\"},\"conversationId\":\"\",\"shouldHandoverToEmail\":false},\"children\":{}}"
+        },
+        {
+          "name": "gorgias.version",
+          "value": "1"
+        },
+        {
+          "name": "_pxTimeBeforeUnload",
+          "value": "1794170557001"
+        },
+        {
+          "name": "__eventn_id",
+          "value": "9vaqknfr1a.1794170515"
+        },
+        {
+          "name": "vsly_audiences",
+          "value": "[\"n\",\"d\"]"
+        },
+        {
+          "name": "u_sclid",
+          "value": "6apguEpEc-eUke5y0HM37QC-LEEDZzXKIdSk1LKKffDr7A6lhj-z-QDpYG17rT_T"
+        },
+        {
+          "name": "loomi_session_products",
+          "value": "[{\"productId\":7481815793735,\"variantId\":0,\"ts\":\"2026-11-08T20:42:04.000Z\",\"handle\":\"micro-landon-crossbody-cherry\"},{\"productId\":7312955506759,\"variantId\":42096504733767,\"ts\":\"2026-11-08T20:42:10.000Z\",\"handle\":\"dakota-keychain-clove\"},{\"productId\":9102835023943,\"variantId\":49823163088967,\"ts\":\"2026-11-08T20:42:21.000Z\",\"handle\":\"landon-carryall-in-concrete-extra-large\"}]"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--userId",
+          "value": "5041c284-f690-4293-8aef-f6a209d9f90c"
+        },
+        {
+          "name": "_pxSessionStart",
+          "value": "1794170519401"
+        },
+        {
+          "name": "forms_visit_count",
+          "value": "4"
+        },
+        {
+          "name": "ed73f20edbf2b73",
+          "value": "50e840ac42774a78947c6d16d4ce1468_1827866554169"
+        },
+        {
+          "name": "amplitude_unsent_identify_f24a385d8a24a6edbbbccef706d9644e_apt-placement",
+          "value": "[]"
+        },
+        {
+          "name": "_pin_unauth_ls",
+          "value": "{\"value\":\"dWlkPU0yVTFaVFl3TURRdE16UXpZeTAwWVRZekxXSTBOakF0TjJJMFpUa3pNV0pqTW1Sag\",\"expires\":\"2027-11-08T20:42:27.554Z\"}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageUrl",
+          "value": "https://www.dagnedover.com/products/micro-landon-crossbody-cherry"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--params",
+          "value": "{\"user_id\":\"5041c284-f690-4293-8aef-f6a209d9f90c\",\"session_id\":\"1794170527\",\"session_count\":\"1\",\"session_landing_page_url\":\"https://www.dagnedover.com/products/micro-landon-crossbody-cherry\",\"session_landing_page_title\":\"Page not found\",\"market_id\":\"20151468103\",\"locale_country_code\":\"PK\"}"
+        },
+        {
+          "name": "ed73f20edbf2b74",
+          "value": "0:6:1794170518956:1794170552289:b608aafa40b018668583165dc817e35d"
+        },
+        {
+          "name": "swell-test-item",
+          "value": "true"
+        },
+        {
+          "name": "em-last-purged",
+          "value": "1794170518906"
+        },
+        {
+          "name": "snowplowOutQueue_snowplow_revroll_post2.expires",
+          "value": "1857242550814"
+        },
+        {
+          "name": "pinch_bk",
+          "value": "b1dff5a2-f8a9-4c06-9744-88802c634770"
+        },
+        {
+          "name": "_bcai_aid",
+          "value": "5041c284-f690-4293-8aef-f6a209d9f90c"
+        },
+        {
+          "name": "pinch_did_v1",
+          "value": "{\"did\":\"BBC7jNHRf2I0Qbkqr1mMo4gjCms\",\"iat\":1794170555373,\"source\":\"server\",\"ver\":1,\"token\":\"pt1.QkJDN2pOSFJmMkkwUWJrcXIxbU1vNGdqQ21z.mw8atorf.54d0dc30.eG57713TC1GNEIwek795RD\"}"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--sessionLandingPageTitle",
+          "value": "Page not found"
+        },
+        {
+          "name": "GlobalE_Analytics",
+          "value": "{\"merchantId\":\"30000707\",\"shopperCountryCode\":\"UA\",\"cdn\":\"https://webservices.global-e.com/\",\"clientId\":\"d7e2d44c-eda3-436c-a751-e50358ea8fe7\",\"configurations\":{},\"featureToggles\":{\"FT_3DA\":false,\"FT_3DA_UTM_SOURCE_LIST\":[],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"dataUpdatedAt\":1794170549551}"
+        },
+        {
+          "name": "vsly_session",
+          "value": "{\"id\":\"528317027793849\",\"utm_campaign\":\"\",\"last_interaction\":\"2026-11-08T20:42:34.290Z\",\"landing_page\":\"https://www.dagnedover.com/\",\"start_at\":\"2026-11-08T20:41:55.904Z\"}"
+        },
+        {
+          "name": "shopifyCartId",
+          "value": "gid://shopify/Cart/hWNIvGbHsGeSNNJSDNKuQSPL?key=be83d98e8f8d4c6f25278d9a901d6874"
+        },
+        {
+          "name": "_applovin_pixel_version",
+          "value": "s/3.6.57"
+        },
+        {
+          "name": "loomi-cart-history",
+          "value": "[{\"price\":6160000,\"variant_id\":\"39460918394951\",\"product_id\":\"6590695112775\",\"sid\":\"528317027793849\",\"quantity\":1,\"timestamp\":\"2026-11-08T20:42:33.000Z\"}]"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "9CpguEpEc-eUke5y0HM37QC-LEEDZzXKm2tELjxUpNSyin3w6-wOpYY_s_kA6WBte60_00EnwDrtdlBBwoT2kJCTJO_2ognZ-Qwc2ounyw-xmhYa"
+        },
+        {
+          "name": "snowplowOutQueue_snowplow_revroll_post2",
+          "value": "[]"
+        },
+        {
+          "name": "forms_session_id",
+          "value": "fb9e8918-90fe-4886-aff2-7854fff233ca"
+        },
+        {
+          "name": "amplitude_unsent_f24a385d8a24a6edbbbccef706d9644e_apt-placement",
+          "value": "[]"
+        },
+        {
+          "name": "___ELEVAR_GTM_SUITE--cookies",
+          "value": "{\"_axwrt\":\"5041c284-f690-4293-8aef-f6a209d9f90c\",\"_ga\":\"GA1.1.921118191.1794170521\",\"_scid\":\"IdSk1LKKffDr7A6lhj-z-QDpYG17rT_T\",\"_ga_LV31RDQLDF\":\"GS2.1.s1794170520$o1$g1$t0$j41$l0$h677641801\",\"_ga_8X5XHJDQ15\":\"GS2.1.s1794170521$o1$g1$t0$j42$l0$h0\",\"_ga_HR8PP80RJQ\":\"GS2.1.s1794170521$o1$g1$t0$j42$l0$h0\",\"_fbp\":\"fb.1.1794170527674.6328913742\"}"
+        },
+        {
+          "name": "gorgias.storage-updated-at",
+          "value": "1794170549196"
+        },
+        {
+          "name": "__plc",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

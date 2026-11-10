@@ -1,0 +1,72 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBdce3rR_sC3dYWBik637JZ1sodKLREWS4iuTYXMvaCEdxjvum5VDE08qLrNCmTJZpIObAW188QIC_ohn3hgqesmTii0922Q3V9YuJ5HLzDYWmooQBfqY5koe4SJr_ZY_n7lMuNbidfPwft6hDGPhiZ7V1J2S7v7fgRtDR-SQfvkYG2-zHWSj1_-PZ0NGsS2K3WQAeEKAkfnYOUx7buRY8m7JnFwZBkCRs"
+    },
+    "queueToken": "A_tlDfOOCbJ4Uhh3LYc6tmLnJi-YlayHDARqUFbnJRTGHhVFD_UNtUK8WNDEQ-9jc6XoZhsLCcQSccT3G1BiYlrpfeOromwS_CeOWHiKpM_Hay2TXyO4q7dIK2W9tFxebDDO6zyWUuQ=",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "db59ffbf-0f39-4f1a-8e7b-704e52b9bd12",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/48813152272633",
+              "variantId": "gid://shopify/ProductVariant/48813152272633",
+              "properties": [
+                {
+                  "name": "_welcome_kit",
+                  "value": {
+                    "string": "1"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": null,
+              "sellingPlanDigest": null
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "24.00",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        },
+        {
+          "stableId": "a04ce477-2beb-422f-a743-1d7e228b7ef3",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/47349864300793",
+              "variantId": "gid://shopify/ProductVariant/47349864300793",
+              "properties": [],
+              "sellingPlanId": "gid://shopify/SellingPlan/5663064313",
+              "sellingPlanDigest": "47148089c2222a1222d043410ca284a0"
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "37.50",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

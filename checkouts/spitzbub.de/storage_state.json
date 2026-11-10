@@ -1,0 +1,127 @@
+{
+  "cookies": [
+    {
+      "name": "localization",
+      "value": "DE",
+      "domain": "spitzbub.de",
+      "path": "/",
+      "expires": 1825561635.414923,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "EUR",
+      "domain": "spitzbub.de",
+      "path": "/",
+      "expires": 1795235235.415181,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG0QqVoAAEARylr0PSDYpfEfJ-KPWEH_SY0XltR4lTsigkOccv3u40cdYXXbazgbH88REz9ZlX9giBnSMRvfmJLOm0:",
+      "domain": "spitzbub.de",
+      "path": "/",
+      "expires": 1825561626.763154,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaG0QqXaAAEAWSBZRE98VwNxqbav7Oed1UGvKoVg6_cAEYLB3VN1OT5-gjfuRKWmvLgPu5yyRTw4iv2013rxMRKKuT4:",
+      "domain": "spitzbub.de",
+      "path": "/",
+      "expires": 1825561626.763258,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaG0QqXbAAEAkQXJ9824Fk8dWSmBrOsMJiEUADOPSuSIntWYyAuQYwYRXMkSAOcOIUDeSgeYCPg-ZY0PFMDYvkwcNJw:",
+      "domain": "spitzbub.de",
+      "path": "/",
+      "expires": 1825561626.76335,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIrJuM1vKS8LBSehYwmOzz%3Fkey%3D156cf9dae27fe2ddb03a300d648cfbbe",
+      "domain": "spitzbub.de",
+      "path": "/",
+      "expires": 1801888035.248366,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "51e21ed3-30dc-4210-90df-8ff164bf2bfa",
+      "domain": "spitzbub.de",
+      "path": "/",
+      "expires": 1825558032,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_pupQvbEuQbqZBlxa2mU4Lg%233236b6f8-d82d-462c-a2c0-15a6d6a96a3b-1794025631",
+      "domain": ".spitzbub.de",
+      "path": "/",
+      "expires": 1825583239.926197,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://spitzbub.de",
+      "localStorage": [
+        {
+          "name": "revolor_recently_viewed",
+          "value": "{\"version\":2,\"items\":[{\"handle\":\"shirt-squishy\",\"ts\":1794025632713}]}"
+        },
+        {
+          "name": "__ui",
+          "value": "[[{\"id\":\"hWNIrJuM1vKS8LBSehYwmOzz\"},{\"postPurchaseInquiryStatus\":\"disabled\"}],[{\"id\":\"hWNIrJuM1vKS8LBSehYwmOzz\",\"customerProfileId\":null,\"countryCode\":\"DE\"},{\"metafields\":[]}]]"
+        },
+        {
+          "name": "memberr-visitor",
+          "value": "85fb4f53-feae-4f3d-ba29-4db5c66a1992"
+        },
+        {
+          "name": "__paypal_storage__",
+          "value": "{\"id\":\"uid_09f8372249_mdq6mjc6mti\",\"__session__\":{\"guid\":\"uid_e496ba788f_mdq6mjc6mti\",\"created\":1794025632440},\"experiments\":{\"treatmentsHash\":\"fefa3c5cdbd225a641078629ca4c9972cdf316dd\",\"expiration\":1794026534341}}"
+        },
+        {
+          "name": "kl-post-identification-sync-shopify",
+          "value": "[{\"name\":\"Added to Cart\",\"time\":\"2026-11-07T04:27:14.984Z\",\"properties\":{\"$use_ip\":true,\"$event_id\":\"sh-b442d2ee-C8F1-4A1C-EFD2-76CA5B022F2A\",\"service\":\"shopify\",\"anonymous_backfill_source\":\"web_pixel_product_added_to_cart\",\"my_shopify_domain\":\"ncsaib-fa.myshopify.com\",\"detail\":{\"metadata\":{},\"payload\":{\"event_id\":\"sh-b442d2ee-C8F1-4A1C-EFD2-76CA5B022F2A\",\"event_date_time\":\"2026-11-07T04:27:14.984Z\",\"event_type\":\"product_added_to_cart\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\",\"client_id\":\"51e21ed3-30dc-4210-90df-8ff164bf2bfa\",\"page_url\":\"https://spitzbub.de/products/shirt-squishy\",\"currency\":\"EUR\",\"product\":{\"product_id\":\"16287737381213\",\"product_title\":\"SHIRT SQUISHY\",\"variant_id\":\"65119762612573\",\"variant_title\":\"S\",\"quantity\":1,\"variant_price\":39.9,\"product_vendor\":\"spitzbub STUDIOS\"}}}}}]"
+        },
+        {
+          "name": "spitzbub_attribution",
+          "value": "{\"herkunft\":\"organisch\",\"landing_url\":\"https://spitzbub.de/products/shirt-squishy\",\"referrer\":\"\",\"timestamp\":\"2026-11-07T04:27:12.848Z\"}"
+        },
+        {
+          "name": "shopify:webmcp_adapter_loaded",
+          "value": "true"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIrJuM1vKS8LBSehYwmOzz\""
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794284833501"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1111 @@
+{
+  "errors": [
+    {
+      "message": "Variable `$merchandise` of type `MerchandiseTermInput` was provided invalid value for `merchandiseLines.0.lineComponents.0.merchandise.id` (Field `id` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.digest` (Field `digest` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.variantId` (Field `variantId` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.title` (Field `title` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.untranslatedTitle` (Field `untranslatedTitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.subtitle` (Field `subtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.untranslatedSubtitle` (Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.compareAtPrice` (Field `compareAtPrice` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.product` (Field `product` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.productUrl` (Field `productUrl` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.image` (Field `image` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.properties` (Field `properties` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.requiresShipping` (Field `requiresShipping` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.options` (Field `options` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.sellingPlan` (Field `sellingPlan` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.merchandise.giftCard` (Field `giftCard` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.0.expectedTotalPrice` (Expected `MoneyConstraintInput!` value to not be `null`), `merchandiseLines.0.lineComponents.0.totalAmount` (Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.0.recurringTotal` (Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.0.lineAllocations` (Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.1.merchandise.id` (Field `id` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.digest` (Field `digest` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.variantId` (Field `variantId` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.title` (Field `title` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.untranslatedTitle` (Field `untranslatedTitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.subtitle` (Field `subtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.untranslatedSubtitle` (Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.compareAtPrice` (Field `compareAtPrice` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.product` (Field `product` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.productUrl` (Field `productUrl` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.image` (Field `image` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.properties` (Field `properties` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.requiresShipping` (Field `requiresShipping` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.options` (Field `options` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.sellingPlan` (Field `sellingPlan` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.merchandise.giftCard` (Field `giftCard` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.1.expectedTotalPrice` (Expected `MoneyConstraintInput!` value to not be `null`), `merchandiseLines.0.lineComponents.1.totalAmount` (Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.1.recurringTotal` (Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.1.lineAllocations` (Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`), `merchandiseLines.0.lineComponents.2.merchandise.id` (Field `id` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.digest` (Field `digest` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.variantId` (Field `variantId` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.title` (Field `title` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.untranslatedTitle` (Field `untranslatedTitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.subtitle` (Field `subtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.untranslatedSubtitle` (Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.compareAtPrice` (Field `compareAtPrice` is not defined by type `MerchandiseInput`), `merchandiseLines.0.lineComponents.2.merchandise.product` (Field `product` is not defined by type `MerchandiseInput`), Too many execution errors, max error limit reached. Results truncated",
+      "locations": [
+        {
+          "line": 1,
+          "column": 161
+        }
+      ],
+      "extensions": {
+        "code": "INVALID_VARIABLE",
+        "value": {
+          "merchandiseLines": [
+            {
+              "stableId": "c9c51455-b810-4adb-9702-f6b420c0450c",
+              "merchandise": {
+                "productVariantReference": {
+                  "id": "gid://shopify/ProductVariantMerchandise/41184191316062",
+                  "variantId": "gid://shopify/ProductVariant/41184191316062",
+                  "properties": [],
+                  "sellingPlanId": null,
+                  "sellingPlanDigest": null
+                }
+              },
+              "quantity": {
+                "items": {
+                  "value": 1
+                }
+              },
+              "expectedTotalPrice": {
+                "value": {
+                  "amount": "579.99",
+                  "currencyCode": "AUD"
+                }
+              },
+              "lineComponentsSource": "BUNDLES_STATIC_EXPAND",
+              "lineComponents": [
+                {
+                  "stableId": "ac4e5c58-ac58-2c4f-10fe-9bdca575540f",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/41184178962526",
+                    "digest": "7dfebdaf87d158bb3e871c0acbfdc054",
+                    "variantId": "gid://shopify/ProductVariant/41184178962526",
+                    "title": "Coravin Pure Argon Capsules (21 ml) - 3 Capsules",
+                    "untranslatedTitle": "Coravin Pure Argon Capsules (21 ml) - 3 Capsules",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/7214656290910",
+                      "vendor": "Coravin APAC",
+                      "productType": "",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/coravin-pure-argon-capsules-21-ml-3-capsules",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG-Capsule-Argon-3-stacked_1.png?v=1775856067",
+                      "one": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG-Capsule-Argon-3-stacked_1_64x64.png?v=1775856067",
+                      "two": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG-Capsule-Argon-3-stacked_1_128x128.png?v=1775856067",
+                      "four": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG-Capsule-Argon-3-stacked_1_256x256.png?v=1775856067"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "40.71",
+                      "currencyCode": "AUD"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "7332b18e174c4c87d1847a0577a08970",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "40.71",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "40.71",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "40.71",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "40.71",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "40.71",
+                        "currencyCode": "AUD"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "caf88376-c6ee-2668-0924-bd6f3bf9e532",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/40597051179102",
+                    "digest": "e5e777243929c187524e118630cca82d",
+                    "variantId": "gid://shopify/ProductVariant/40597051179102",
+                    "title": "Timeless Fast Pour Needle",
+                    "untranslatedTitle": "Timeless Fast Pour Needle",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "compareAtPrice": {
+                      "amount": "65.95",
+                      "currencyCode": "AUD"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/6978537783390",
+                      "vendor": "Coravin",
+                      "productType": "Accessories",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/timeless-fast-pour-needle",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG_Needle_Fast-Pour_49eda549-50c3-47ea-8449-26955cd67a09.png?v=1712306691",
+                      "one": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG_Needle_Fast-Pour_49eda549-50c3-47ea-8449-26955cd67a09_64x64.png?v=1712306691",
+                      "two": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG_Needle_Fast-Pour_49eda549-50c3-47ea-8449-26955cd67a09_128x128.png?v=1712306691",
+                      "four": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG_Needle_Fast-Pour_49eda549-50c3-47ea-8449-26955cd67a09_256x256.png?v=1712306691"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "53.74",
+                      "currencyCode": "AUD"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "b1dc4141981c15e07258e0ad12b4712e",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "53.74",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "53.74",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "53.74",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "53.74",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "53.74",
+                        "currencyCode": "AUD"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "3e3a45c8-628d-abc2-034f-0cba5e2ff60a",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/40597051080798",
+                    "digest": "5ab758d4b304cbd0b7c8b9e393465e7d",
+                    "variantId": "gid://shopify/ProductVariant/40597051080798",
+                    "title": "Timeless Vintage Needle",
+                    "untranslatedTitle": "Timeless Vintage Needle",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "compareAtPrice": {
+                      "amount": "65.95",
+                      "currencyCode": "AUD"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/6978537685086",
+                      "vendor": "Coravin",
+                      "productType": "Accessories",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/timeless-vintage-needle",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG_Needle_Vintage_3514e229-19d7-4dce-9051-e1d918aa3733.png?v=1712306692",
+                      "one": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG_Needle_Vintage_3514e229-19d7-4dce-9051-e1d918aa3733_64x64.png?v=1712306692",
+                      "two": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG_Needle_Vintage_3514e229-19d7-4dce-9051-e1d918aa3733_128x128.png?v=1712306692",
+                      "four": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG_Needle_Vintage_3514e229-19d7-4dce-9051-e1d918aa3733_256x256.png?v=1712306692"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "53.74",
+                      "currencyCode": "AUD"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "571fed7c55974377cb26d14ab32c6f4a",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "53.74",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "53.74",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "53.74",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "53.74",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "53.74",
+                        "currencyCode": "AUD"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "ef4d7eba-c9af-5bbd-41db-3ccc3dcb83a2",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/48963079012446",
+                    "digest": "06d9d1e648216f6004ac6a4ed07aa305",
+                    "variantId": "gid://shopify/ProductVariant/48963079012446",
+                    "title": "Timeless Six+",
+                    "untranslatedTitle": "Timeless Six+",
+                    "subtitle": "Limited Edition Ocean Blue",
+                    "untranslatedSubtitle": "Limited Edition Ocean Blue",
+                    "compareAtPrice": {
+                      "amount": "699.95",
+                      "currencyCode": "AUD"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/6978537062494",
+                      "vendor": "Coravin",
+                      "productType": "Systems",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/timeless-six-plus",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG_Timeless-Six_-Ocean-Blue-Bundle-PDP_a6cfa44b-48be-41f6-a01e-cb12384952dd.jpg?v=1793877667",
+                      "one": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG_Timeless-Six_-Ocean-Blue-Bundle-PDP_a6cfa44b-48be-41f6-a01e-cb12384952dd_64x64.jpg?v=1793877667",
+                      "two": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG_Timeless-Six_-Ocean-Blue-Bundle-PDP_a6cfa44b-48be-41f6-a01e-cb12384952dd_128x128.jpg?v=1793877667",
+                      "four": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG_Timeless-Six_-Ocean-Blue-Bundle-PDP_a6cfa44b-48be-41f6-a01e-cb12384952dd_256x256.jpg?v=1793877667"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [
+                      {
+                        "name": "Color",
+                        "value": "Limited Edition Ocean Blue"
+                      }
+                    ],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "370.74",
+                      "currencyCode": "AUD"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "7e63debb0151fcf06528163e3080f663",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "370.74",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "370.74",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "370.74",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "370.74",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "370.74",
+                        "currencyCode": "AUD"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "f60078ee-ccb1-aaeb-376d-5294d1589cfe",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/67608210767966",
+                    "digest": "625af28967c5ad8fc1b5cdf7551acd2f",
+                    "variantId": "gid://shopify/ProductVariant/67608210767966",
+                    "title": "Coravin Bundle Gift Bag",
+                    "untranslatedTitle": "Coravin Bundle Gift Bag",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/15401412886622",
+                      "vendor": "Coravin APAC",
+                      "productType": "",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/coravin-bundle-gift-bag",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/coravin-gift-bag-lifestyle-white.jpg?v=1793117558",
+                      "one": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/coravin-gift-bag-lifestyle-white_64x64.jpg?v=1793117558",
+                      "two": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/coravin-gift-bag-lifestyle-white_128x128.jpg?v=1793117558",
+                      "four": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/coravin-gift-bag-lifestyle-white_256x256.jpg?v=1793117558"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "16.25",
+                      "currencyCode": "AUD"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "26a8caf8acb5ce5f2b4402a8ae748e41",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "16.25",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "16.25",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "16.25",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "16.25",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "16.25",
+                        "currencyCode": "AUD"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "20e7107c-9f89-0dda-d591-a8e3a1cf7316",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/67608214536286",
+                    "digest": "bbae6bd0b27c2c4e1441d171c5f4abfa",
+                    "variantId": "gid://shopify/ProductVariant/67608214536286",
+                    "title": "Coravin Bundle Gift Paper",
+                    "untranslatedTitle": "Coravin Bundle Gift Paper",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "compareAtPrice": null,
+                    "product": {
+                      "id": "gid://shopify/Product/15401413640286",
+                      "vendor": "Coravin APAC",
+                      "productType": "",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/coravin-bundle-gift-paper",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/coravin-gift-bag-studio-white.jpg?v=1793117538",
+                      "one": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/coravin-gift-bag-studio-white_64x64.jpg?v=1793117538",
+                      "two": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/coravin-gift-bag-studio-white_128x128.jpg?v=1793117538",
+                      "four": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/coravin-gift-bag-studio-white_256x256.jpg?v=1793117538"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "1.62",
+                      "currencyCode": "AUD"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "bd8506f65093e373a77e35997cad5cef",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "1.62",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "1.62",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "1.62",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "1.62",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "1.62",
+                        "currencyCode": "AUD"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                },
+                {
+                  "stableId": "c599ef08-e2b9-f921-a7e3-bcabacdfbeff",
+                  "merchandise": {
+                    "id": "gid://shopify/ProductVariantMerchandise/42094243610718",
+                    "digest": "9f5c6ddedfdf2c419484265f586ba923",
+                    "variantId": "gid://shopify/ProductVariant/42094243610718",
+                    "title": "Universal Black Base",
+                    "untranslatedTitle": "Universal Black Base",
+                    "subtitle": null,
+                    "untranslatedSubtitle": null,
+                    "compareAtPrice": {
+                      "amount": "53.0",
+                      "currencyCode": "AUD"
+                    },
+                    "product": {
+                      "id": "gid://shopify/Product/7472187736158",
+                      "vendor": "Coravin",
+                      "productType": "Accessories",
+                      "disclosures": []
+                    },
+                    "productUrl": "/products/universal-base-copy",
+                    "image": {
+                      "altText": null,
+                      "url": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG-Silo-Universal-Base-45-Black-2025-PDP.jpg?v=1760130888",
+                      "one": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG-Silo-Universal-Base-45-Black-2025-PDP_64x64.jpg?v=1760130888",
+                      "two": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG-Silo-Universal-Base-45-Black-2025-PDP_128x128.jpg?v=1760130888",
+                      "four": "https://cdn.shopify.com/s/files/1/0560/7754/9662/files/IMG-Silo-Universal-Base-45-Black-2025-PDP_256x256.jpg?v=1760130888"
+                    },
+                    "properties": [],
+                    "requiresShipping": true,
+                    "options": [],
+                    "sellingPlan": null,
+                    "giftCard": false
+                  },
+                  "quantity": {
+                    "items": {
+                      "value": 1
+                    }
+                  },
+                  "totalAmount": {
+                    "value": {
+                      "amount": "43.19",
+                      "currencyCode": "AUD"
+                    }
+                  },
+                  "recurringTotal": null,
+                  "lineAllocations": [
+                    {
+                      "stableId": "408fadab23842f08310a36f462c044c1",
+                      "quantity": 1,
+                      "totalAmountBeforeReductions": {
+                        "amount": "43.19",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterDiscounts": {
+                        "amount": "43.19",
+                        "currencyCode": "AUD"
+                      },
+                      "totalAmountAfterLineDiscounts": {
+                        "amount": "43.19",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceAfterDiscounts": {
+                        "amount": "43.19",
+                        "currencyCode": "AUD"
+                      },
+                      "checkoutPriceBeforeReductions": {
+                        "amount": "43.19",
+                        "currencyCode": "AUD"
+                      },
+                      "unitPrice": null,
+                      "sale": null,
+                      "allocations": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "problems": [
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "id"
+            ],
+            "explanation": "Field `id` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "digest"
+            ],
+            "explanation": "Field `digest` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "variantId"
+            ],
+            "explanation": "Field `variantId` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "title"
+            ],
+            "explanation": "Field `title` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "untranslatedTitle"
+            ],
+            "explanation": "Field `untranslatedTitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "subtitle"
+            ],
+            "explanation": "Field `subtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "untranslatedSubtitle"
+            ],
+            "explanation": "Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "compareAtPrice"
+            ],
+            "explanation": "Field `compareAtPrice` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "product"
+            ],
+            "explanation": "Field `product` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "productUrl"
+            ],
+            "explanation": "Field `productUrl` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "image"
+            ],
+            "explanation": "Field `image` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "properties"
+            ],
+            "explanation": "Field `properties` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "requiresShipping"
+            ],
+            "explanation": "Field `requiresShipping` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "options"
+            ],
+            "explanation": "Field `options` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "sellingPlan"
+            ],
+            "explanation": "Field `sellingPlan` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "merchandise",
+              "giftCard"
+            ],
+            "explanation": "Field `giftCard` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "expectedTotalPrice"
+            ],
+            "explanation": "Expected `MoneyConstraintInput!` value to not be `null`"
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "totalAmount"
+            ],
+            "explanation": "Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "recurringTotal"
+            ],
+            "explanation": "Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              0,
+              "lineAllocations"
+            ],
+            "explanation": "Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "id"
+            ],
+            "explanation": "Field `id` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "digest"
+            ],
+            "explanation": "Field `digest` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "variantId"
+            ],
+            "explanation": "Field `variantId` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "title"
+            ],
+            "explanation": "Field `title` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "untranslatedTitle"
+            ],
+            "explanation": "Field `untranslatedTitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "subtitle"
+            ],
+            "explanation": "Field `subtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "untranslatedSubtitle"
+            ],
+            "explanation": "Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "compareAtPrice"
+            ],
+            "explanation": "Field `compareAtPrice` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "product"
+            ],
+            "explanation": "Field `product` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "productUrl"
+            ],
+            "explanation": "Field `productUrl` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "image"
+            ],
+            "explanation": "Field `image` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "properties"
+            ],
+            "explanation": "Field `properties` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "requiresShipping"
+            ],
+            "explanation": "Field `requiresShipping` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "options"
+            ],
+            "explanation": "Field `options` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "sellingPlan"
+            ],
+            "explanation": "Field `sellingPlan` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "merchandise",
+              "giftCard"
+            ],
+            "explanation": "Field `giftCard` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "expectedTotalPrice"
+            ],
+            "explanation": "Expected `MoneyConstraintInput!` value to not be `null`"
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "totalAmount"
+            ],
+            "explanation": "Field `totalAmount` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "recurringTotal"
+            ],
+            "explanation": "Field `recurringTotal` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              1,
+              "lineAllocations"
+            ],
+            "explanation": "Field `lineAllocations` is not defined by type `MerchandiseLineComponentInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "id"
+            ],
+            "explanation": "Field `id` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "digest"
+            ],
+            "explanation": "Field `digest` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "variantId"
+            ],
+            "explanation": "Field `variantId` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "title"
+            ],
+            "explanation": "Field `title` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "untranslatedTitle"
+            ],
+            "explanation": "Field `untranslatedTitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "subtitle"
+            ],
+            "explanation": "Field `subtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "untranslatedSubtitle"
+            ],
+            "explanation": "Field `untranslatedSubtitle` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "compareAtPrice"
+            ],
+            "explanation": "Field `compareAtPrice` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [
+              "merchandiseLines",
+              0,
+              "lineComponents",
+              2,
+              "merchandise",
+              "product"
+            ],
+            "explanation": "Field `product` is not defined by type `MerchandiseInput`."
+          },
+          {
+            "path": [],
+            "explanation": "Too many execution errors, max error limit reached. Results truncated"
+          }
+        ]
+      }
+    }
+  ]
+}

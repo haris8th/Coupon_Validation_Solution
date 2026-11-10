@@ -1,0 +1,61 @@
+{
+  "variables": {
+    "sessionInput": {
+      "sessionToken": "AAEBv5WFoS9mo-LUiq5DyZxILW4PuRsReeejFh5gAf7n-5R6CTDWinW4M5UXq4EZu27I6Jrb2GlFmpbDlbzCtDUwg99xEoOF0cwSe62mWcUGrSwo9Fu2oquTflqDaOChr6KuilWQWZvRSfgAUOKrVTZT0lczF7fEUpRX1TetYOgK6rQ_joc-Of6WIuetp0BnPo8sWOIb_uMfiUvcojWTo1qM384uLHLXdTbW7d4"
+    },
+    "queueToken": "A0zcDMCCdaShlAFotYtfN3kEkecmgPPwj2fMVvLG3Y7NuMpOAanJ_Kb4HKi_kO9uGukgBSgqJd45v4PRBBdoOchhKRJ9ZAGn9pegfLSaDOveL3VP8QtWNP_L73M85iAB",
+    "merchandise": {
+      "merchandiseLines": [
+        {
+          "stableId": "29c4b522-91f1-4b23-8773-53697068ffea",
+          "merchandise": {
+            "productVariantReference": {
+              "id": "gid://shopify/ProductVariantMerchandise/17250303508570",
+              "variantId": "gid://shopify/ProductVariant/17250303508570",
+              "properties": [
+                {
+                  "name": "_atc_source_type",
+                  "value": {
+                    "string": "Product"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_atc_source_value",
+                  "value": {
+                    "string": "Adriatic Muscatel Sage Candle"
+                  },
+                  "visible": false
+                },
+                {
+                  "name": "_atc_source_placement",
+                  "value": {
+                    "string": "Product Form CTA"
+                  },
+                  "visible": false
+                }
+              ],
+              "sellingPlanId": "gid://shopify/SellingPlan/2216493224",
+              "sellingPlanDigest": "ea54bea90e2134693321980de1f2c89d"
+            }
+          },
+          "quantity": {
+            "items": {
+              "value": 1
+            }
+          },
+          "expectedTotalPrice": {
+            "value": {
+              "amount": "61.20",
+              "currencyCode": "USD"
+            }
+          },
+          "lineComponentsSource": null,
+          "lineComponents": []
+        }
+      ]
+    }
+  },
+  "operationName": "Proposal",
+  "id": "bc8a42c54dc744e251af71d9e095a9bcf5c87218256e2bbf07059b0a586bdef0"
+}

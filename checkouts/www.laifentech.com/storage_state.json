@@ -1,0 +1,585 @@
+{
+  "cookies": [
+    {
+      "name": "AMP_SHOPIFY_TEST",
+      "value": "true",
+      "domain": "www.laifentech.com",
+      "path": "/products",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG65GDIAAEAM7roBl2fJipgV_Y0P2P8Kj4U1ZQBDCBlnk-kMiC0069OOe_T0KaOXIre_fE04WlxPjEwQiKB7C-DvnU:",
+      "domain": "laifentech.com",
+      "path": "/",
+      "expires": 1825672891.536374,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "US",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1825672919.609617,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_essential",
+      "value": ":AaG65GIBAAEAIbN4TEWRN0rqKjXVQ1yJpz7yt9XOaCfc8EgH0VE4Cbw9P-ZqOy_DKxjZfgLnGF1YAQCoqKL8eBo6dw4:",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1825672892.020781,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_analytics",
+      "value": ":AaG65GLbAAEApT4Wd5TvQuLgIvtyPbOQ1ArYhAhED9TZESVZ611PShpBC_HY7ZVep0LT4QouCEzFxfhD6I4eHelhb34:",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1825672892.020847,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_marketing",
+      "value": ":AaG65GLbAAEAlkEyWjJ15veGrYOZTNGvskXeD0YeYMYpNv0jQj0OBTPSejuSLYyEKj_GYYBK6RHi62w6opfz_jA9S0I:",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1825672892.020893,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "geoip-inline-laifen.myshopify.com",
+      "value": "%7B%22id%22%3A%229f5e676d-b849-44d1-932f-0eb4c22b9f28%22%2C%22day%22%3A%222026-11-08%22%2C%22start%22%3A1794114000%2C%22end%22%3A1794200400%2C%22time%22%3A1794136892%2C%22sent%22%3Atrue%7D",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1794200400,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_up_clid",
+      "value": "up-75bd135a-3b1c-4676-bb81-3e4b831fbb14",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1825672895,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_MKTG_37aac06297",
+      "value": "JTdCJTdE",
+      "domain": ".www.laifentech.com",
+      "path": "/",
+      "expires": 1825672895,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shopify_client_id",
+      "value": "f84dbb66-d370-4c84-be93-022ae46c2e90",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1825672895,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_37aac06297",
+      "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI3MTM0NTNjYS0xNGNmLTQ0Y2YtYjVhNC03NTcxZTA0Y2FiOGYlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzk0MTM2ODk1NjQwJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc5NDEzNjg5NTY0OSUyQyUyMmxhc3RFdmVudElkJTIyJTNBMiUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMCU3RA==",
+      "domain": ".www.laifentech.com",
+      "path": "/",
+      "expires": 1825672895,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "storefront_url",
+      "value": "https://www.laifentech.com",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1796728895,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "first_pla_call",
+      "value": "first",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1796728895,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uid",
+      "value": "mk309aa192-3dc6-4abb-aee7-b970b26be4ea",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1825654897,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_uetsid",
+      "value": "90727ee0db6611f18ebd77a8cb015ab2",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1794223298,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "9072b710db6611f1bfcc1b4db8f3d54e",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1827832898,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lm_ct",
+      "value": "true",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1794138104.314673,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session_pages",
+      "value": "1",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1794138118.074547,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "viewer_token",
+      "value": "1a1bae49281",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1828696904.326439,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lm_ssid",
+      "value": "v5cddccgbhjegcafdhdbhkebdgkaedbk",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1794138118.075824,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-id",
+      "value": "ig_ea625a5436a1d776a0f59f78dc6422ed7592",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1825672904,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-location",
+      "value": "{\"country\":\"PK\",\"city\":\"Karachi\",\"continent\":\"AS\",\"latitude\":\"24.86\",\"longitude\":\"67.01\",\"region\":\"Sindh\",\"regionCode\":\"SD\"}",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1794140504.422604,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ig-fv",
+      "value": "1794136904426",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1825672904,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-pv",
+      "value": "1",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1825672904,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ig-vars",
+      "value": "{%22713a3eb7716b%22:%22544cd1860ffc%22%2C%22redirectedFrom%22:%22%22}",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1825672904,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":0,\"i_ll\":1794136908242,\"i_b\":\"iHNygzUD3uruU37Y8yW9ScYgD4wLUo06M5mYYTQPmms\",\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1794136908242}",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1809688908,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_cmp",
+      "value": "3.AMPS_PKSD_f_f_zETN7blYQlG5ImeBeb5RdQ%237b50a759-15db-4398-834d-5ab3f3d21a45-1794136893",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1825694519.60933,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart",
+      "value": "hWNIuLpbJbzMSlgipMOAuWm3%3Fkey%3D64ec62a07cd65567545f687f783d7803",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1801999319.609748,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "EXP_37aac06297_identity",
+      "value": "JTIyJTdCJTVDJTIyd2ViX2V4cF9pZF92MiU1QyUyMiUzQSU1QyUyMjRhZjZiMDk3LWJhNDgtNDFlZS04YTVmLTAwOGFlNWYwMmM0YiU1QyUyMiUyQyU1QyUyMmZpcnN0X3NlZW4lNUMlMjIlM0ElNUMlMjIxNzk0MTM2OTA4LjcwMiU1QyUyMiU3RCUyMg==",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1825672908,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lantern",
+      "value": "0ae98539-bf71-4da4-9ad1-59c7020707ad",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1796728908,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_heatVid_440",
+      "value": "611080621509930060",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1794223310,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_heatIdvUpdated_440",
+      "value": "1794136910993",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1794223310,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hm_source",
+      "value": "unknown",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1794223310,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vUUID_440",
+      "value": "3d9e6701-11b9-42f8-9311-b4d8a1ae59ff",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1794223311,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_id.440.d3d3Lmxh",
+      "value": "ymiyeq6m2iy6m2iy.1794136912.",
+      "domain": ".www.laifentech.com",
+      "path": "/",
+      "expires": 1794266511,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "0TfezoWr_mfugLJ7D8Rwu9csjUHfaxvG_iywfGha_dE-1794136911.7551234-1.0.1.1-ciwd6C2MWLxaus6oPoZXH96sddh10fdYJdyEWzZ0GCPrWUJDcxGU_XaUJELEfz5092rayZJkho_ZZzk_vHmy5GNIys4JURaIXtu4QCSnIet6amRAteAPL7jB5H7narMX",
+      "domain": ".www.laifentech.com",
+      "path": "/",
+      "expires": 1794138712.011249,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://laifentech.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "AMP_37aac06297",
+      "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI3MTM0NTNjYS0xNGNmLTQ0Y2YtYjVhNC03NTcxZTA0Y2FiOGYlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzk0MTM2ODk1NjQwJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc5NDEzNjkxODc3NCUyQyUyMmxhc3RFdmVudElkJTIyJTNBNCUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMSUyQyUyMmNvb2tpZURvbWFpbiUyMiUzQSUyMi5sYWlmZW50ZWNoLmNvbSUyMiU3RA==",
+      "domain": ".laifentech.com",
+      "path": "/",
+      "expires": 1825672918,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "USD",
+      "domain": "www.laifentech.com",
+      "path": "/",
+      "expires": 1801999319.610021,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.laifentech.com",
+      "localStorage": [
+        {
+          "name": "_mk_luid",
+          "value": "mkc444c3fd-072b-4500-b3c4-3b390bd12556"
+        },
+        {
+          "name": "_heatCartSyncedVid",
+          "value": "611080621509930060"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Fri, 03 Dec 2027 11:21:38 GMT"
+        },
+        {
+          "name": "TriplePixel",
+          "value": "2"
+        },
+        {
+          "name": "hutk_data",
+          "value": "{}"
+        },
+        {
+          "name": "_heatmapConfigs",
+          "value": "{\"_heatIdVisit\":{\"idVisit\":\"611080621509930060\",\"_heatIdvUpdated\":1794136910993},\"_userJourney\":null,\"leadConvCount\":0,\"_heatEventsCount\":0,\"window.isReturningUser\":0,\"heatmapTracking\":{\"elTagging\":false,\"singlePaged\":true,\"intervalTime\":3000,\"survey\":{},\"checkoutLinkRules\":[],\"events\":{\"track\":true,\"rate\":100},\"record\":{\"track\":true,\"rate\":100},\"trackvariant\":true,\"configuration\":{\"summary\":[],\"raw\":[]}},\"_heatMapEnvRecord\":{\"HEATMAPURL\":\"https://dashboard.heatmap.com\",\"S3URL\":\"https://heatmap-project-2022.s3.us-west-2.amazonaws.com/\",\"CONFIGURL\":\"https://dashboard.heatmap.com\",\"KINESISGATEWAY\":\"https://kinesis.heatmap.com/data\",\"KINESISSTREAM\":\"kinesisForProduction\",\"WEBSOCKET\":\"wss://vst.heatmap.com\",\"CIP\":\"0.0.0.0.0\",\"HEATMAPS\":[],\"IDSITE\":440},\"_heatmapConfigUrl\":\"https://dashboard.heatmap.com\"}"
+        },
+        {
+          "name": "EVENTS_MAP",
+          "value": "data:application/zip;base92,!10=g_D\u007fk:o~GEXQb%c=&5c(u:xx!wfL#m>\\yr=nQJ~-05Cmz$+yKZxOiqA=Mx3Hk>,1 !T<PB|Uo\u007fN8@&A&*[Nq3qlFFYm"
+        },
+        {
+          "name": "heatmap_page_count_611080621509930060",
+          "value": "1"
+        },
+        {
+          "name": "_heatHsr",
+          "value": "64499373"
+        },
+        {
+          "name": "tp_cart",
+          "value": "data:application/zip;base92,t@);j:Je7OZt@JBL4NpOc[Li!F2(?=y^pj[x,K)^e(hxh5F/`whq!^3dSCN!LR8\\Y!"
+        },
+        {
+          "name": "vUUID",
+          "value": "3d9e6701-11b9-42f8-9311-b4d8a1ae59ff"
+        },
+        {
+          "name": "_heatidL",
+          "value": "611080621509800018"
+        },
+        {
+          "name": "AMP_SR_START_37aac06297_1794136895640",
+          "value": "1794136910716"
+        },
+        {
+          "name": "__hmVisitHistory_440",
+          "value": "{\"v\":1,\"first\":1794136910,\"seq\":1,\"prevIdv\":\"\",\"prevT\":0,\"lastCart\":0,\"lastCheckout\":0,\"lastPurchase\":0,\"purchases\":0,\"recent\":[],\"cur\":{\"idv\":\"611080621509930060\",\"t\":1794136910,\"te\":1794136919,\"pg\":{\"p611080621509800018\":{\"h\":64499373,\"c\":0,\"s\":0,\"d\":8802,\"p\":1}},\"hs\":[64499373],\"pp\":[64499373],\"ev\":0,\"rv\":0,\"orders\":[],\"cartAt\":0,\"checkoutAt\":0,\"purchaseAt\":0},\"snap\":{\"idv\":\"611080621509930060\",\"tags\":{\"hmh_v\":\"1\",\"hmh_seq\":\"1\",\"hmh_t\":\"1794136910\",\"hmh_first\":\"1794136910\",\"hmh_lc\":\"0\",\"hmh_lk\":\"0\",\"hmh_lp\":\"0\",\"hmh_np\":\"0\"},\"delivered\":false}}"
+        },
+        {
+          "name": "di_pmt_wt",
+          "value": "mw7qs7al_0.m7bkz7rfxe"
+        },
+        {
+          "name": "heatmapDebugger",
+          "value": "{\"heatmapDCPageLoadTime\":0,\"heatmapDCVisit\":0,\"heatmapDCLogHSR\":0,\"preprocessorLT\":\"538ms\"}"
+        },
+        {
+          "name": "ECOMSEND:FLOW_CLIENT_CONFIG",
+          "value": "{\"version\":1,\"updatedAt\":1794136898212,\"shopId\":64128319725,\"byEventId\":{\"d9r6pc99nofpbrwser00\":{\"enabled\":false,\"eventId\":\"d9r6pc99nofpbrwser00\",\"defineType\":0,\"config\":{},\"configRaw\":\"{}\"}}}"
+        },
+        {
+          "name": "_mr_vid",
+          "value": "ymiyeq6m2iy6m2iy"
+        },
+        {
+          "name": "seel_user_id",
+          "value": "fbced0d4-a95d-43f4-bf11-98208e02deac"
+        },
+        {
+          "name": "_user_agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "_uetvid",
+          "value": "9072b710db6611f1bfcc1b4db8f3d54e"
+        },
+        {
+          "name": "heatmap_id_site",
+          "value": "440"
+        },
+        {
+          "name": "cartToken",
+          "value": "\"hWNIuLpbJbzMSlgipMOAuWm3\""
+        },
+        {
+          "name": "_entryExPage",
+          "value": "https://laifentech.com/products/swift-4-hair-dryer"
+        },
+        {
+          "name": "EXP_37aac06297",
+          "value": "{\"web_exp_id\":\"4af6b097-ba48-41ee-8a5f-008ae5f02c4b\",\"web_exp_id_v2\":\"4af6b097-ba48-41ee-8a5f-008ae5f02c4b\"}"
+        },
+        {
+          "name": "__up_exposeActionContext",
+          "value": "[]"
+        },
+        {
+          "name": "_heatDeviceType",
+          "value": "2"
+        },
+        {
+          "name": "AMP_unsent_37aac06297",
+          "value": "[{\"device_id\":\"713453ca-14cf-44cf-b5a4-7571e04cab8f\",\"session_id\":1794136895640,\"time\":1794136918774,\"platform\":\"Web\",\"language\":\"en-US\",\"ip\":\"$remote\",\"insert_id\":\"1de40736-e80b-4bcb-93e8-5c528773ca7a\",\"event_type\":\"[Amplitude] Viewport Content Updated\",\"event_properties\":{\"[Amplitude] Page URL\":\"https://www.laifentech.com/products/swift-4-hair-dryer\",\"[Amplitude] Max Page X\":1366,\"[Amplitude] Max Page Y\":768,\"[Amplitude] Viewport Height\":768,\"[Amplitude] Viewport Width\":1366,\"[Amplitude] Element Exposed\":[\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > div.logo-container > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(1) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-anchors > div > button:nth-child(1)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-anchors > div > button.header-nav-mode-tab.is-active\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(1) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(2) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(3) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(4) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(5) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(6) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(7) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(8) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(9) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(10) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-content > div:nth-child(1) > div.dropdown-product-group-title > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-content > div:nth-child(1) > div.dropdown-product-grid > a:nth-child(1)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-content > div:nth-child(1) > div.dropdown-product-grid > a:nth-child(2)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-content > div:nth-child(1) > div.dropdown-product-grid > a:nth-child(3)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-content > div:nth-child(1) > div.dropdown-product-grid > a:nth-child(4)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-content > div:nth-child(1) > div.dropdown-product-grid > a:nth-child(5)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-group-title > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-grid > a:nth-child(1)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-grid > a:nth-child(2)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(2) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-grid > a:nth-child(3)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-anchors > div > button:nth-child(1)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-anchors > div > button.header-nav-mode-tab.is-active\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(1) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(2) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(3) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(4) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(5) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-content > div:nth-child(1) > div.dropdown-product-group-title > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-content > div:nth-child(1) > div.dropdown-product-grid > a:nth-child(1)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-content > div:nth-child(1) > div.dropdown-product-grid > a:nth-child(2)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-group-title > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-grid > a:nth-child(1)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-grid > a:nth-child(2)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-grid > a:nth-child(3)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(3) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-grid > a:nth-child(4)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-anchors > div > button:nth-child(1)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-anchors > div > button.header-nav-mode-tab.is-active\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(1) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(2) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(3) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(4) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(5) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-content > div:nth-child(1) > div.dropdown-product-group-title > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-content > div:nth-child(1) > div.dropdown-product-grid > a:nth-child(1)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-content > div:nth-child(1) > div.dropdown-product-grid > a:nth-child(2)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-content > div:nth-child(1) > div.dropdown-product-grid > a:nth-child(3)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-group-title > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-grid > a:nth-child(1)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-grid > a:nth-child(2)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-grid > a:nth-child(3)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(4) > div > div > div > div.dropdown-simple-content > div:nth-child(2) > div.dropdown-product-grid > a:nth-child(4)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(5) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(5) > div > div > div > div.dropdown-simple-anchors > div > button:nth-child(1)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(5) > div > div > div > div.dropdown-simple-anchors > div > button.header-nav-mode-tab.is-active\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(5) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(1) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(5) > div > div > div > div.dropdown-simple-anchors > ul > li:nth-child(2) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(5) > div > div > div > div.dropdown-simple-content > div > div.dropdown-product-group-title > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(5) > div > div > div > div.dropdown-simple-content > div > div.dropdown-product-grid > a:nth-child(1)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(5) > div > div > div > div.dropdown-simple-content > div > div.dropdown-product-grid > a:nth-child(2)\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(6) > div.dropdown-panel.dropdown-panel-explore > div > div > div:nth-child(1) > ul > li:nth-child(1) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(6) > div.dropdown-panel.dropdown-panel-explore > div > div > div:nth-child(1) > ul > li:nth-child(2) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(6) > div.dropdown-panel.dropdown-panel-explore > div > div > div:nth-child(1) > ul > li:nth-child(3) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(6) > div.dropdown-panel.dropdown-panel-explore > div > div > div:nth-child(2) > ul > li:nth-child(1) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(6) > div.dropdown-panel.dropdown-panel-explore > div > div > div:nth-child(2) > ul > li:nth-child(2) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(6) > div.dropdown-panel.dropdown-panel-explore > div > div > div:nth-child(2) > ul > li:nth-child(3) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(6) > div.dropdown-panel.dropdown-panel-explore > div > div > div:nth-child(3) > ul > li:nth-child(1) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(6) > div.dropdown-panel.dropdown-panel-explore > div > div > div:nth-child(3) > ul > li:nth-child(2) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(6) > div.dropdown-panel.dropdown-panel-explore > div > div > div:nth-child(3) > ul > li:nth-child(3) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li:nth-child(6) > div.dropdown-panel.dropdown-panel-explore > div > div > div:nth-child(3) > ul > li:nth-child(4) > a\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li.menu-sec > div > a.thb-secondary-area-item.thb-secondary-myaccount\",\"div#shopify-section-sections--28064077938925__header_nav_QMmNje > nav > div > ul > li.menu-sec > div > a.thb-secondary-area-item.thb-quick-search\",\"a#cart-drawer-toggle\",\"div#purchase > div > div.lf-pdp__media-column > lf-product-gallery > div.lf-pdp__media-stage > button.lf-pdp__gallery-arrow.lf-pdp__gallery-arrow--previous\",\"div#purchase > div > div.lf-pdp__media-column > lf-product-gallery > div.lf-pdp__media-stage > button.lf-pdp__gallery-arrow.lf-pdp__gallery-arrow--next\",\"div#purchase > div > div.lf-pdp__media-column > lf-product-gallery > div.lf-pdp__thumbnails > button.lf-pdp__thumbnail.is-active\",\"div#purchase > div > div.lf-pdp__media-column > lf-product-gallery > div.lf-pdp__thumbnails > button:nth-child(2)\",\"div#purchase > div > div.lf-pdp__media-column > lf-product-gallery > div.lf-pdp__thumbnails > button:nth-child(3)\",\"div#purchase > div > div.lf-pdp__media-column > lf-product-gallery > div.lf-pdp__thumbnails > button:nth-child(4)\",\"div#purchase > div > div.lf-pdp__media-column > lf-product-gallery > div.lf-pdp__thumbnails > button:nth-child(5)\",\"div#purchase > div > div.lf-pdp__media-column > lf-product-gallery > div.lf-pdp__thumbnails > button:nth-child(6)\",\"div#purchase > div > div.lf-pdp__info-column > div.lf-pdp__rating-row > a\",\"input#lf-option-template--28064070598893__lf_product_purchase-1-0\",\"div#purchase > div > div.lf-pdp__info-column > lf-variant-picker > fieldset > div > label:nth-child(2)\",\"input#lf-option-template--28064070598893__lf_product_purchase-1-1\",\"div#purchase > div > div.lf-pdp__info-column > lf-variant-picker > fieldset > div > label:nth-child(4)\",\"input#lf-option-template--28064070598893__lf_product_purchase-1-2\",\"div#purchase > div > div.lf-pdp__info-column > lf-variant-picker > fieldset > div > label:nth-child(6)\",\"div#purchase > div > div.lf-pdp__info-column > div.lf-pdp__buy-box > div.lf-pdp__actions > button.lf-pdp__button.lf-pdp__button--secondary\",\"div#purchase > div > div.lf-pdp__info-column > div.lf-pdp__buy-box > div.lf-pdp__actions > button.lf-pdp__button.lf-pdp__button--primary\",\"div#shopify-section-sections--28064077906157__country_g4EDE4 > div > div.country-pop-wrapper > div > div:nth-child(1) > div > div:nth-child(1) > a\",\"div#shopify-section-sections--28064077906157__country_g4EDE4 > div > div.country-pop-wrapper > div > div:nth-child(1) > div > div:nth-child(2) > a\",\"div#shopify-section-sections--28064077906157__country_g4EDE4 > div > div.country-pop-wrapper > div > div:nth-child(2) > div > div:nth-child(1) > a\",\"div#shopify-section-sections--28064077906157__country_g4EDE4 > div > div.country-pop-wrapper > div > div:nth-child(2) > div > div:nth-child(2) > a\",\"div#shopify-section-sections--28064077906157__country_g4EDE4 > div > div.country-pop-wrapper > div > div:nth-child(2) > div > div:nth-child(3) > a\",\"div#shopify-section-sections--28064077906157__country_g4EDE4 > div > div.country-pop-wrapper > div > div:nth-child(3) > div > div:nth-child(1) > a\",\"div#shopify-section-sections--28064077906157__country_g4EDE4 > div > div.country-pop-wrapper > div > div:nth-child(3) > div > div:nth-child(2) > a\",\"div#shopify-section-sections--28064077906157__country_g4EDE4 > div > div.country-pop-wrapper > div > div:nth-child(3) > div > div:nth-child(3) > a\",\"div#shopify-section-sections--28064077906157__country_g4EDE4 > div > div.country-pop-wrapper > div > div:nth-child(3) > div > div:nth-child(4) > a\"],\"[Amplitude] Page View ID\":\"e9fcb44f-530b-4928-b91a-d4e33f52330e\",\"[Amplitude] Page Domain\":\"www.laifentech.com\",\"[Amplitude] Page Location\":\"https://www.laifentech.com/products/swift-4-hair-dryer\",\"[Amplitude] Page Path\":\"/products/swift-4-hair-dryer\",\"[Amplitude] Page Title\":\"Laifen Swift 4 Hair Dryer with Nourishing Airflow & Temp Control \u2013 Laifen-US\",\"[Amplitude] Previous Page Location\":\"\",\"[Amplitude] Previous Page Type\":\"direct\"},\"event_id\":4,\"library\":\"amplitude-ts-shopify/2.42.4\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"}]"
+        },
+        {
+          "name": "ecomsend_product_viewed",
+          "value": "{\"event_name\":\"product_viewed\",\"event_data\":{\"productPrice\":169.99,\"productTitle\":\"Polished Platinum\",\"productId\":\"50260581449965\",\"productImage\":\"//www.laifentech.com/cdn/shop/files/laifen-swift4-Platinum_bar.png?v=1788164898\",\"productPriceCurrencyCode\":\"USD\",\"currencyProductId\":\"9427565871341\",\"currencyProductTitle\":\"Laifen Swift 4 High-Speed Hair Dryer\",\"currencyProductType\":\"Swift 4\",\"currencyProductUntranslatedTitle\":\"Laifen Swift 4 High-Speed Hair Dryer\",\"currencyProductUrl\":\"/products/swift-4-hair-dryer\",\"currencyProductVendor\":\"Laifen-US\",\"productSku\":\"1HD51-S-US-SL-002\",\"productVariantTitle\":\"Polished Platinum\",\"productVariantUntranslatedTitle\":\"Polished Platinum\"},\"timeStamp\":\"2026-11-08T11:21:34.837Z\"}"
+        },
+        {
+          "name": "landing_page",
+          "value": "{\"url\":\"https://www.laifentech.com/products/swift-4-hair-dryer\",\"exp\":1796728895732}"
+        },
+        {
+          "name": "ig-vars",
+          "value": "{\"713a3eb7716b\":\"544cd1860ffc\",\"redirectedFrom\":\"\"}"
+        },
+        {
+          "name": "_heatVid",
+          "value": "611080621509930060"
+        },
+        {
+          "name": "ECOMSEND:ES_SHOP_ID",
+          "value": "64128319725"
+        },
+        {
+          "name": "auth-security_rand_salt_",
+          "value": "data:application/zip;base92,08O1YT-),zx<Z5=YO/>lhs_'8(}KS>5+BnF6B#hj,52P1no9`06N|/\"(n %$\\3HpHwQ\\8U,@(up$E1-db1"
+        },
+        {
+          "name": "_uetsid",
+          "value": "90727ee0db6611f18ebd77a8cb015ab2"
+        },
+        {
+          "name": "true_rand_gen_sequence.dat_tmp",
+          "value": "data:application/zip;base92,qL=@|tH1)C/HUR\\8|'1jIpe%o=ix\\]D$>[*;'8!=<bg$G7wKO#\"0{k$GX$.P5F}Jp{YqVV7xPbej5emmZQ"
+        },
+        {
+          "name": "signInWithShop:cartSyncNextRecognitionAt",
+          "value": "1794396108218"
+        },
+        {
+          "name": "heatmap_recording_auth",
+          "value": "{\"shouldRecord\":true,\"groupRecordingId\":\"a7fe3f4f-adb1-48e1-9fbe-675c834ac08f\",\"idVisit\":\"611080621509930060\",\"timestamp\":1794136912575,\"expiryHours\":24}"
+        },
+        {
+          "name": "enHsr",
+          "value": "64499373"
+        },
+        {
+          "name": "product_viewed",
+          "value": "true"
+        },
+        {
+          "name": "_entryEnPage",
+          "value": "https://laifentech.com/products/swift-4-hair-dryer"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Mon, 09 Nov 2026 11:21:38 GMT"
+        },
+        {
+          "name": "_up_clid",
+          "value": "up-75bd135a-3b1c-4676-bb81-3e4b831fbb14"
+        },
+        {
+          "name": "beacon",
+          "value": "data:application/zip;base92,_~.\"a#LNoO'eaI:NOt{EV$/coLaW-<8c^[5wO8zn:[/VXH<+@f(eC!p\\^([C-\"C7~N+:mi4).]8\u007fHeYYCt[;#B~0B_I= $&O8u\\J+^6>J-LJiGT3$\"'%IE_5JAF3oP6,O:,K"
+        },
+        {
+          "name": "AMP_remote_config_37aac06297",
+          "value": "{\"remoteConfig\":{\"configs\":{\"diagnostics\":{\"browserSDK\":{\"sampleRate\":0.02}},\"sessionReplay\":{\"sr_sampling_config\":{\"capture_enabled\":true}},\"analyticsSDK\":{}}},\"lastFetch\":\"2026-11-08T11:21:51.115Z\"}"
+        },
+        {
+          "name": "heatmapHsrVid",
+          "value": "611080621509930060"
+        },
+        {
+          "name": "ig-id",
+          "value": "ig_ea625a5436a1d776a0f59f78dc6422ed7592"
+        },
+        {
+          "name": "EXP_37aac06297_DEFAULT_USER_PROVIDER",
+          "value": "{\"first_seen\":\"1794136908.702\"}"
+        }
+      ]
+    }
+  ]
+}
